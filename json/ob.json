@@ -1,0 +1,484 @@
+[
+    {
+        "0": "Precursor's Emblem Two-Stone Ring",
+        "1": "Precursor's Emblem Topaz Ring",
+        "2": "Precursor's Emblem Sapphire Ring",
+        "3": "Precursor's Emblem Ruby Ring",
+        "4": "Precursor's Emblem Prismatic Ring",
+        "name": "Precursor's Emblem",
+        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+    },
+    {
+        "0": "Precursor's Emblem Two-Stone Ring",
+        "1": "Precursor's Emblem Topaz Ring",
+        "2": "Precursor's Emblem Sapphire Ring",
+        "3": "Precursor's Emblem Ruby Ring",
+        "4": "Precursor's Emblem Prismatic Ring",
+        "name": "Precursor's Emblem",
+        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+    },
+    {
+        "0": "Precursor's Emblem Two-Stone Ring",
+        "1": "Precursor's Emblem Topaz Ring",
+        "2": "Precursor's Emblem Sapphire Ring",
+        "3": "Precursor's Emblem Ruby Ring",
+        "4": "Precursor's Emblem Prismatic Ring",
+        "name": "Precursor's Emblem",
+        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+    },
+    {
+        "0": "Precursor's Emblem Two-Stone Ring",
+        "1": "Precursor's Emblem Topaz Ring",
+        "2": "Precursor's Emblem Sapphire Ring",
+        "3": "Precursor's Emblem Ruby Ring",
+        "4": "Precursor's Emblem Prismatic Ring",
+        "name": "Precursor's Emblem",
+        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+    },
+    {
+        "0": "Precursor's Emblem Two-Stone Ring",
+        "1": "Precursor's Emblem Topaz Ring",
+        "2": "Precursor's Emblem Sapphire Ring",
+        "3": "Precursor's Emblem Ruby Ring",
+        "4": "Precursor's Emblem Prismatic Ring",
+        "name": "Precursor's Emblem",
+        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+    },
+    {
+        "0": "Cloth Belt",
+        "1": "Cloth Belt Piece",
+        "name": "Cloth Belt",
+        "name_zh_tw": "飾布腰帶 (Cloth Belt)"
+    },
+    {
+        "0": "Ring",
+        "1": "Ringmail Boots",
+        "2": "Ringmail Coat",
+        "3": "Ringmail Gloves",
+        "name": "Ring",
+        "name_zh_tw": "戒指 (Ring)"
+    },
+    {
+        "0": "Doryani's Delusion Slink Boots",
+        "1": "Doryani's Delusion Sorcerer Boots",
+        "2": "Doryani's Delusion Titan Greaves",
+        "name": "Doryani's Delusion",
+        "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
+    },
+    {
+        "0": "Doryani's Delusion Slink Boots",
+        "1": "Doryani's Delusion Sorcerer Boots",
+        "2": "Doryani's Delusion Titan Greaves",
+        "name": "Doryani's Delusion",
+        "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
+    },
+    {
+        "0": "Doryani's Delusion Slink Boots",
+        "1": "Doryani's Delusion Sorcerer Boots",
+        "2": "Doryani's Delusion Titan Greaves",
+        "name": "Doryani's Delusion",
+        "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
+    },
+    {
+        "0": "Callous Mask",
+        "1": "Callous Mask Piece",
+        "name": "Callous Mask",
+        "name_zh_tw": "無情之面 (Callous Mask)"
+    },
+    {
+        "0": "Archon Kite Shield",
+        "1": "Archon Kite Shield Piece",
+        "name": "Archon Kite Shield",
+        "name_zh_tw": "威能鳶盾 (Archon Kite Shield)"
+    },
+    {
+        "0": "Blunt Arrow Quiver",
+        "1": "Blunt Arrow Quiver Piece",
+        "name": "Blunt Arrow Quiver",
+        "name_zh_tw": "鈍矢箭袋 (Blunt Arrow Quiver)"
+    },
+    {
+        "0": "Death",
+        "1": "Deathly Designs",
+        "2": "Death Bow",
+        "3": "Death and Taxes Necropolis Map",
+        "4": "Death Rush Amethyst Ring",
+        "5": "Death's Door Crusader Boots",
+        "6": "Death's Hand Karui Sceptre",
+        "7": "Death's Harp Death Bow",
+        "8": "Death's Oath Astral Plate",
+        "name": "Death",
+        "name_zh_tw": "死亡 (Death)"
+    },
+    {
+        "0": "Hope",
+        "1": "Hopeshredder Ranger Bow",
+        "name": "Hope",
+        "name_zh_tw": "希望 (Hope)"
+    },
+    {
+        "0": "Hubris",
+        "1": "Hubris Circlet",
+        "name": "Hubris",
+        "name_zh_tw": "狂妄 (Hubris)"
+    },
+    {
+        "0": "Rebirth",
+        "1": "Rebirth and Renewal",
+        "name": "Rebirth",
+        "name_zh_tw": "重生 (Rebirth)"
+    },
+    {
+        "0": "The Beast",
+        "1": "The Beast Fur Shawl Vaal Regalia",
+        "name": "The Beast",
+        "name_zh_tw": "巨獸 (The Beast)"
+    },
+    {
+        "0": "The Demon",
+        "1": "The Demoness",
+        "name": "The Demon",
+        "name_zh_tw": "惡魔 (The Demon)"
+    },
+    {
+        "0": "The Dragon",
+        "1": "The Dragon's Heart",
+        "name": "The Dragon",
+        "name_zh_tw": "巨龍 (The Dragon)"
+    },
+    {
+        "0": "The Fox",
+        "1": "The Fox in the Brambles",
+        "name": "The Fox",
+        "name_zh_tw": "狡狐 (The Fox)"
+    },
+    {
+        "0": "The Immortal",
+        "1": "The Immortal Will Archon Kite Shield",
+        "name": "The Immortal",
+        "name_zh_tw": "永恆不朽 (The Immortal)"
+    },
+    {
+        "0": "The Master",
+        "1": "The Master Artisan",
+        "name": "The Master",
+        "name_zh_tw": "大師級 (The Master)"
+    },
+    {
+        "0": "The Poet",
+        "1": "The Poet's Pen Carved Wand",
+        "name": "The Poet",
+        "name_zh_tw": "詩人 (The Poet)"
+    },
+    {
+        "0": "The Primordial",
+        "1": "The Primordial Chain Coral Amulet",
+        "name": "The Primordial",
+        "name_zh_tw": "先祖之物 (The Primordial)"
+    },
+    {
+        "0": "The Queen",
+        "1": "The Queen's Hunger Vaal Regalia",
+        "name": "The Queen",
+        "name_zh_tw": "女王 (The Queen)"
+    },
+    {
+        "0": "The Tower",
+        "1": "The Tower of Ordeals Engraved Ultimatum",
+        "name": "The Tower",
+        "name_zh_tw": "塔峰 (The Tower)"
+    },
+    {
+        "0": "The Warden",
+        "1": "The Warden's Brand Iron Ring",
+        "name": "The Warden",
+        "name_zh_tw": "典獄長 (The Warden)"
+    },
+    {
+        "0": "The Wind",
+        "1": "The Winds of Fate Foul Staff",
+        "name": "The Wind",
+        "name_zh_tw": "風 (The Wind)"
+    },
+    {
+        "0": "The Wolf",
+        "1": "The Wolf's Legacy",
+        "2": "The Wolf's Shadow",
+        "name": "The Wolf",
+        "name_zh_tw": "彪狼 (The Wolf)"
+    },
+    {
+        "0": "Gold Amulet",
+        "1": "Gold Flask",
+        "2": "Gold Ring",
+        "3": "Golden Blade",
+        "4": "Golden Bracers",
+        "5": "Golden Brooch",
+        "6": "Golden Buckler",
+        "7": "Golden Caligae",
+        "8": "Golden Flame",
+        "9": "Golden Hoop",
+        "10": "Golden Kris",
+        "11": "Golden Mantle",
+        "12": "Golden Mask",
+        "13": "Golden Obi",
+        "14": "Golden Oil",
+        "15": "Golden Plate",
+        "16": "Golden Visage",
+        "17": "Golden Wreath",
+        "18": "Goldrim Leather Cap",
+        "19": "Goldwyrm Nubuck Boots",
+        "name": "Gold",
+        "name_zh_tw": "帝金護身符 (Gold Amulet)"
+    },
+    {
+        "0": "Ambush",
+        "1": "Ambush Boots",
+        "2": "Ambush Mitts",
+        "3": "Ambusher",
+        "name": "Ambush",
+        "name_zh_tw": "伏擊 (Ambush)"
+    },
+    {
+        "0": "Arctic Wolf",
+        "1": "Arc",
+        "2": "Arcane Cloak",
+        "3": "Arcane Surge Support",
+        "4": "Arcanist Brand",
+        "5": "Archmage Support",
+        "6": "Arctic Armour",
+        "7": "Arcade Map",
+        "8": "Arcanist Gloves",
+        "9": "Arcanist Slippers",
+        "10": "Archdemon Crown",
+        "11": "Archive Reliquary Key",
+        "12": "Archon Kite Shield",
+        "13": "Archon Kite Shield Piece",
+        "14": "Architect's Hand Ambush Mitts",
+        "name": "Arc",
+        "name_zh_tw": "極地狼 (Arctic Wolf)"
+    },
+    {
+        "0": "Barrage",
+        "1": "Barrage Support",
+        "name": "Barrage",
+        "name_zh_tw": "彈幕 (Barrage)"
+    },
+    {
+        "0": "Blight",
+        "1": "Blight-ravaged Map",
+        "2": "Blighted Delirium Orb",
+        "3": "Blighted Incubator",
+        "4": "Blighted Map",
+        "5": "Blighted Scouting Report",
+        "6": "Blightwell Clutching Talisman",
+        "name": "Blight",
+        "name_zh_tw": "萎滅 (Blight)"
+    },
+    {
+        "0": "Reap",
+        "1": "Reaper's Pursuit Shadow Axe",
+        "name": "Reap",
+        "name_zh_tw": "收割 (Reap)"
+    },
+    {
+        "0": "Snipe",
+        "1": "Sniper's Mark",
+        "2": "Sniper Bow",
+        "name": "Snipe",
+        "name_zh_tw": "Snipe (Snipe)"
+    },
+    {
+        "0": "Cleave",
+        "1": "Cleaver",
+        "name": "Cleave",
+        "name_zh_tw": "劈砍 (Cleave)"
+    },
+    {
+        "0": "Desecrated Virtue",
+        "1": "Desecrate",
+        "name": "Desecrate",
+        "name_zh_tw": "褻瀆的美德 (Desecrated Virtue)"
+    },
+    {
+        "0": "Grace",
+        "1": "Graceful Sword",
+        "name": "Grace",
+        "name_zh_tw": "優雅 (Grace)"
+    },
+    {
+        "0": "Portal",
+        "1": "Portal Scroll",
+        "name": "Portal",
+        "name_zh_tw": "時空之門 (Portal)"
+    },
+    {
+        "0": "Pride Before the Fall",
+        "1": "Pride of the First Ones",
+        "2": "Pride",
+        "name": "Pride",
+        "name_zh_tw": "驕者必敗 (Pride Before the Fall)"
+    },
+    {
+        "0": "Reave",
+        "1": "Reaver Axe",
+        "2": "Reaver Helmet",
+        "3": "Reaver Sword",
+        "name": "Reave",
+        "name_zh_tw": "衝擊波 (Reave)"
+    },
+    {
+        "0": "Spark",
+        "1": "Sparkling Claw",
+        "name": "Spark",
+        "name_zh_tw": "電球 (Spark)"
+    },
+    {
+        "0": "Sunder",
+        "1": "Sundering Axe",
+        "name": "Sunder",
+        "name_zh_tw": "大地震擊 (Sunder)"
+    },
+    {
+        "0": "Tornado",
+        "1": "Tornado Shot",
+        "2": "Tornado Wand",
+        "name": "Tornado",
+        "name_zh_tw": "龍捲風 (Tornado)"
+    },
+    {
+        "0": "Vaal Arc",
+        "1": "Vaal Arctic Armour",
+        "name": "Vaal Arc",
+        "name_zh_tw": "瓦爾．電弧 (Vaal Arc)"
+    },
+    {
+        "0": "Wither",
+        "1": "Withering Step",
+        "2": "Withering Touch Support",
+        "name": "Wither",
+        "name_zh_tw": "死亡凋零 (Wither)"
+    },
+    {
+        "0": "Combat Focus Viridian Jewel",
+        "1": "Combat Focus Cobalt Jewel",
+        "2": "Combat Focus Crimson Jewel",
+        "name": "Combat Focus",
+        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+    },
+    {
+        "0": "Combat Focus Viridian Jewel",
+        "1": "Combat Focus Cobalt Jewel",
+        "2": "Combat Focus Crimson Jewel",
+        "name": "Combat Focus",
+        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+    },
+    {
+        "0": "Combat Focus Viridian Jewel",
+        "1": "Combat Focus Cobalt Jewel",
+        "2": "Combat Focus Crimson Jewel",
+        "name": "Combat Focus",
+        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+    },
+    {
+        "0": "Grand Spectrum Viridian Jewel",
+        "1": "Grand Spectrum Cobalt Jewel",
+        "2": "Grand Spectrum Crimson Jewel",
+        "name": "Grand Spectrum",
+        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+    },
+    {
+        "0": "Grand Spectrum Viridian Jewel",
+        "1": "Grand Spectrum Cobalt Jewel",
+        "2": "Grand Spectrum Crimson Jewel",
+        "name": "Grand Spectrum",
+        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+    },
+    {
+        "0": "Grand Spectrum Viridian Jewel",
+        "1": "Grand Spectrum Cobalt Jewel",
+        "2": "Grand Spectrum Crimson Jewel",
+        "name": "Grand Spectrum",
+        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+    },
+    {
+        "0": "Simulacrum",
+        "1": "Simulacrum Splinter",
+        "name": "Simulacrum",
+        "name_zh_tw": "幻像異界 (Simulacrum)"
+    },
+    {
+        "0": "Agnerod East Imperial Staff",
+        "1": "Agnerod North Imperial Staff",
+        "2": "Agnerod South Imperial Staff",
+        "3": "Agnerod West Imperial Staff",
+        "name": "Agnerod",
+        "name_zh_tw": "東方雷霆聖杖 帝國長杖 (Agnerod East Imperial Staff)"
+    },
+    {
+        "0": "Riveted Boots",
+        "1": "Riveted Gloves",
+        "2": "Rive Terror Claw",
+        "name": "Rive",
+        "name_zh_tw": "儀式短靴 (Riveted Boots)"
+    },
+    {
+        "0": "The Harvester",
+        "1": "The Harvest Jasper Chopper",
+        "name": "The Harvest",
+        "name_zh_tw": "收割者 (The Harvester)"
+    },
+    {
+        "0": "The Tempest's Binding Callous Mask",
+        "1": "The Tempest's Liberation Callous Mask",
+        "2": "The Tempestuous Steel War Sword",
+        "name": "The Tempest",
+        "name_zh_tw": "風暴的拘束 無情之面 (The Tempest's Binding Callous Mask)"
+    },
+    {
+        "0": "Sai",
+        "1": "Saint's Hauberk",
+        "2": "Saintly Chainmail",
+        "name": "Sai",
+        "name_zh_tw": "戰叉 (Sai)"
+    },
+    {
+        "0": "Legion Sword",
+        "1": "Legion Sword Piece",
+        "name": "Legion Sword",
+        "name_zh_tw": "軍團長劍 (Legion Sword)"
+    },
+    {
+        "0": "Vaal Blade Flurry",
+        "1": "Vaal Blade Vortex",
+        "2": "Vaal Blade",
+        "name": "Vaal Blade",
+        "name_zh_tw": "瓦爾．刀鋒亂舞 (Vaal Blade Flurry)"
+    },
+    {
+        "0": "Imperial Staff",
+        "1": "Imperial Staff Piece",
+        "name": "Imperial Staff",
+        "name_zh_tw": "帝國長杖 (Imperial Staff)"
+    },
+    {
+        "0": "Goatman",
+        "1": "Goatman Fire-raiser",
+        "2": "Goatman Shaman",
+        "3": "Goatman Stomper",
+        "name": "Goatman",
+        "name_zh_tw": "堅蹄羊人 (Goatman)"
+    },
+    {
+        "0": "Mountain Hellion",
+        "1": "Mountain Hellion Alpha",
+        "name": "Mountain Hellion",
+        "name_zh_tw": "深山地獄犬 (Mountain Hellion)"
+    },
+    {
+        "0": "The Goddess Bound Whalebone Rapier",
+        "1": "The Goddess Scorned Elegant Sword",
+        "name": "The Goddess",
+        "name_zh_tw": "女神的靈縛 鯨骨細刃 (The Goddess Bound Whalebone Rapier)"
+    }
+]
