@@ -5,5 +5,5 @@
 
 ## 參考資料來源
 * [流亡編年史](https://poedb.tw/tw/)
-* poe.show
+* [poe.show](https://poe.show)
 * [POE Trade zh](https://chrome.google.com/webstore/detail/poe-trade-zh/gohimadohmhdicbffkbpoegodammgghi)
