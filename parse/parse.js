@@ -66,93 +66,85 @@ const urls = [
 enOutput = {};
 zhtwOutput = {};
 
-(async function () {
-    for (const index in urls) {
-        if (index == 0) {
-            request = new Request(urls[index].us);
+(async () => {
+    for (let index in urls) {
+        index = parseInt(index)
+        if (index === 0) {
+            let request = new Request(urls[index].us);
             await fetch(request).then(handleEnHelemnt)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwHelemnt)
         } else if (index >= 1 && index <= 3) {
-            request = new Request(urls[index].us);
+            let request = new Request(urls[index].us);
             await fetch(request).then(handleEnCluster)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwCluster)
-        } else if (index == 4) {
-            request = new Request(urls[index].us);
+        } else if (index === 4) {
+            let request = new Request(urls[index].us);
             await fetch(request).then(handleEnNotable)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwNotable)
-        } else if (index == 5) {
-            request = new Request(urls[index].us);
+        } else if (index === 5) {
+            let request = new Request(urls[index].us);
             await fetch(request).then(handleEnKeystone)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwKeystone)
         } else if (index >= 6) {
-            request = new Request(urls[index].us);
+            let request = new Request(urls[index].us);
             await fetch(request).then(handleEnMastery)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwMastery)
         }
     }
 
-    await setTimeout(() => {
-        // 手動修正
-        // 星團珠寶
-        enOutput['Small_Cluster_Jewel_affliction_chance_to_block_attack'] = '+1% Chance to Block Attack Damage'
-        enOutput['Small_Cluster_Jewel_affliction_chance_to_block_spell'] = '1% Chance to Block Spell Damage'
-        delete enOutput['Small_Cluster_Jewel_affliction_chance_to_block']
-        zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block_attack'] = '+1% 攻擊傷害格擋率'
-        zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block_spell'] = '1% 法術傷害格擋率'
-        delete zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block']
+    enOutput['Small_Cluster_Jewel_affliction_chance_to_block_attack'] = '+1% Chance to Block Attack Damage'
+    enOutput['Small_Cluster_Jewel_affliction_chance_to_block_spell'] = '1% Chance to Block Spell Damage'
+    delete enOutput['Small_Cluster_Jewel_affliction_chance_to_block']
+    zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block_attack'] = '+1% 攻擊傷害格擋率'
+    zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block_spell'] = '1% 法術傷害格擋率'
+    delete zhtwOutput['Small_Cluster_Jewel_affliction_chance_to_block']
+    // Notable
+    enOutput['Untiring']['desc'][1] += ' ' + enOutput['Untiring']['desc'][2]
+    enOutput['Untiring']['desc'].pop()
+    enOutput['Ngamahu%2C_Flames_Advance']['desc'][1] += ' ' + enOutput['Ngamahu%2C_Flames_Advance']['desc'][2]
+    enOutput['Ngamahu%2C_Flames_Advance']['desc'].pop()
+    enOutput['Essence_Glutton']['desc'][1] += ' ' + enOutput['Essence_Glutton']['desc'][2]
+    enOutput['Essence_Glutton']['desc'].splice(2, 1)
+    enOutput['Commander_of_Darkness']['desc'][0] += ' ' + enOutput['Commander_of_Darkness']['desc'][1]
+    enOutput['Commander_of_Darkness']['desc'].splice(1, 1)
+    enOutput['Gratuitous_Violence']['desc'][0] += ' ' + enOutput['Gratuitous_Violence']['desc'][1]
+    enOutput['Gratuitous_Violence']['desc'].splice(1, 1)
 
-        // Notable
-        enOutput['Untiring']['desc'][1] += ' ' + enOutput['Untiring']['desc'][2]
-        enOutput['Untiring']['desc'].pop()
+    enOutput['Conqueror']['desc'][2] += ' ' + enOutput['Conqueror']['desc'][3]
+    enOutput['Conqueror']['desc'].splice(3, 1)
 
-        enOutput['Ngamahu%2C_Flames_Advance']['desc'][1] += ' ' + enOutput['Ngamahu%2C_Flames_Advance']['desc'][2]
-        enOutput['Ngamahu%2C_Flames_Advance']['desc'].pop()
+    enOutput['Master_of_Metal']['desc'][1] += ' ' + enOutput['Master_of_Metal']['desc'][2]
+    enOutput['Master_of_Metal']['desc'].splice(2, 1)
+    enOutput['Master_of_Metal']['desc'][2] += ' ' + enOutput['Master_of_Metal']['desc'][3]
+    enOutput['Master_of_Metal']['desc'].splice(3, 1)
 
-        enOutput['Essence_Glutton']['desc'][1] += ' ' + enOutput['Essence_Glutton']['desc'][2]
-        enOutput['Essence_Glutton']['desc'].splice(2, 1)
+    enOutput['Pious_Path']['desc'][0] += ' ' + enOutput['Pious_Path']['desc'][1]
+    enOutput['Pious_Path']['desc'].splice(1, 1)
 
-        enOutput['Commander_of_Darkness']['desc'][0] += ' ' + enOutput['Commander_of_Darkness']['desc'][1]
-        enOutput['Commander_of_Darkness']['desc'].splice(1, 1)
+    enOutput['Radiant_Faith']['desc'][1] += ' ' + enOutput['Radiant_Faith']['desc'][2]
+    enOutput['Radiant_Faith']['desc'].splice(2, 1)
 
-        enOutput['Gratuitous_Violence']['desc'][0] += ' ' + enOutput['Gratuitous_Violence']['desc'][1]
-        enOutput['Gratuitous_Violence']['desc'].splice(1, 1)
+    // 專精
+    enOutput['Armour_and_Energy_Shield_Mastery']['desc'][3] += ' ' + enOutput['Armour_and_Energy_Shield_Mastery']['desc'][4]
+    enOutput['Armour_and_Energy_Shield_Mastery']['desc'].splice(4, 1)
 
-        enOutput['Conqueror']['desc'][2] += ' ' + enOutput['Conqueror']['desc'][3]
-        enOutput['Conqueror']['desc'].splice(3, 1)
+    enOutput['Flask_Mastery']['desc'][4] = enOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
+    zhtwOutput['Flask_Mastery']['desc'][4] = zhtwOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
 
-        enOutput['Master_of_Metal']['desc'][1] += ' ' + enOutput['Master_of_Metal']['desc'][2]
-        enOutput['Master_of_Metal']['desc'].splice(2, 1)
-        enOutput['Master_of_Metal']['desc'][2] += ' ' + enOutput['Master_of_Metal']['desc'][3]
-        enOutput['Master_of_Metal']['desc'].splice(3, 1)
-
-        enOutput['Pious_Path']['desc'][0] += ' ' + enOutput['Pious_Path']['desc'][1]
-        enOutput['Pious_Path']['desc'].splice(1, 1)
-
-        enOutput['Radiant_Faith']['desc'][1] += ' ' + enOutput['Radiant_Faith']['desc'][2]
-        enOutput['Radiant_Faith']['desc'].splice(2, 1)
-
-        // 專精
-        enOutput['Armour_and_Energy_Shield_Mastery']['desc'][3] += ' ' + enOutput['Armour_and_Energy_Shield_Mastery']['desc'][4]
-        enOutput['Armour_and_Energy_Shield_Mastery']['desc'].splice(4, 1)
-
-        enOutput['Flask_Mastery']['desc'][4] = enOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
-        zhtwOutput['Flask_Mastery']['desc'][4] = zhtwOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
-
-        console.log(JSON.stringify(enOutput))
-        console.log(JSON.stringify(zhtwOutput))
-    }, 1000)
+    console.log(JSON.stringify(enOutput))
+    console.log(JSON.stringify(zhtwOutput))
 })()
 
 function handleEnHelemnt(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll("#HelmetLabEnchant table tbody tr").forEach((ele) => {
             let proportion = ele.querySelector("td:nth-child(4)").innerText;
@@ -171,9 +163,9 @@ function handleEnHelemnt(response) {
 
 function handleZhtwHelemnt(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll("#HelmetLabEnchant table tbody tr").forEach((ele) => {
             let proportion = ele.querySelector("td:nth-child(4)").innerText;
@@ -192,9 +184,9 @@ function handleZhtwHelemnt(response) {
 
 function handleEnCluster(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll('#EnchantmentModifiers table tbody tr td a span.explicitMod').forEach((ele) => {
             ele.innerHTML = ele.innerHTML.replace('<br>', '\n')
@@ -208,9 +200,9 @@ function handleEnCluster(response) {
 
 function handleZhtwCluster(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll('#EnchantmentModifiers table tbody tr td a span.explicitMod').forEach((ele) => {
             ele.innerHTML = ele.innerHTML.replace('<br>', '\n')
@@ -224,9 +216,9 @@ function handleZhtwCluster(response) {
 
 function handleEnNotable(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelector('#CommunityWiki').remove()
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
@@ -254,9 +246,9 @@ function handleEnNotable(response) {
 
 function handleZhtwNotable(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelector('#CommunityWiki').remove()
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
@@ -284,9 +276,9 @@ function handleZhtwNotable(response) {
 
 function handleEnKeystone(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelector('#CommunityWiki').remove()
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
@@ -313,9 +305,9 @@ function handleEnKeystone(response) {
 
 function handleZhtwKeystone(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelector('#CommunityWiki').remove()
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
@@ -342,9 +334,9 @@ function handleZhtwKeystone(response) {
 
 function handleEnMastery(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
             let key = ele.querySelector('a').href.split('/').pop()
@@ -361,7 +353,7 @@ function handleEnMastery(response) {
             for (let mod of mods) {
                 let span = document.createElement('span')
                 span.innerHTML = mod.innerHTML.replaceAll('<br>', ", ")
-                descs = span.innerText.trim().split("\n")
+                const descs = span.innerText.trim().split("\n")
                 for (let index in descs) {
                     enOutput[key]['desc'][enOutput[key]['desc'].length] = descs[index];
                 }
@@ -373,9 +365,9 @@ function handleEnMastery(response) {
 
 function handleZhtwMastery(response) {
     if (!response.ok) {
-        return;
+        return Promise.resolve()
     }
-    response.text().then((str) => {
+    return response.text().then((str) => {
         let responseDoc = new DOMParser().parseFromString(str, 'text/html');
         responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
             let key = ele.querySelector('a').href.split('/').pop()
@@ -392,7 +384,7 @@ function handleZhtwMastery(response) {
             for (let mod of mods) {
                 let span = document.createElement('span')
                 span.innerHTML = mod.innerHTML.replaceAll('<br>', ", ")
-                descs = span.innerText.trim().split("\n")
+                const descs = span.innerText.trim().split("\n")
                 for (let index in descs) {
                     zhtwOutput[key]['desc'][zhtwOutput[key]['desc'].length] = descs[index];
                 }
