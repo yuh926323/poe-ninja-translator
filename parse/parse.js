@@ -67,8 +67,7 @@ enOutput = {};
 zhtwOutput = {};
 
 (async () => {
-    for (let index in urls) {
-        index = parseInt(index)
+    for (const index of urls.keys()) {
         if (index === 0) {
             let request = new Request(urls[index].us);
             await fetch(request).then(handleEnHelemnt)
