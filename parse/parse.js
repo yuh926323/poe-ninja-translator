@@ -1,3 +1,8 @@
+//---------------------------------------
+// Step. A+B 都只是用來測試抓部分的資料而已
+// 實際使用請直接使用 Step.C 整合的來抓資料
+//---------------------------------------
+// Step.A
 // https://poedb.tw/tw/Helmets#HelmetLabEnchant
 // https://poedb.tw/us/Helmets#HelmetLabEnchant
 // let output = {};
@@ -16,7 +21,7 @@
 
 // console.log(JSON.stringify(output));
 
-
+// Step.B
 // ---------------------------------------------
 // https://poedb.tw/tw/Small_Cluster_Jewel#EnchantmentModifiers
 // https://poedb.tw/us/Small_Cluster_Jewel#EnchantmentModifiers
@@ -28,8 +33,8 @@
 // })
 // console.log(JSON.stringify(output));
 
+// Step.C
 // ---------------------------------------------
-
 let enOutput, zhtwOutput;
 
 const urls = [
@@ -61,6 +66,10 @@ const urls = [
         'us': 'https://poedb.tw/us/Passive_mastery',
         'tw': 'https://poedb.tw/tw/Passive_mastery',
     },
+    {
+        'us': 'https://poedb.tw/us/Ancestor_league',
+        'tw': 'https://poedb.tw/tw/Ancestor_league',
+    },
 ];
 
 enOutput = {};
@@ -88,11 +97,16 @@ zhtwOutput = {};
             await fetch(request).then(handleEnKeystone)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwKeystone)
-        } else if (index >= 6) {
+        } else if (index === 6) {
             let request = new Request(urls[index].us);
             await fetch(request).then(handleEnMastery)
             request = new Request(urls[index].tw);
             await fetch(request).then(handleZhtwMastery)
+        } else if (index === 7) {
+            let request = new Request(urls[index].us);
+            await fetch(request).then(handleEnAncestor)
+            request = new Request(urls[index].tw);
+            await fetch(request).then(handleZhtwAncestor)
         }
     }
 
@@ -128,12 +142,20 @@ zhtwOutput = {};
     enOutput['Radiant_Faith']['desc'][1] += ' ' + enOutput['Radiant_Faith']['desc'][2]
     enOutput['Radiant_Faith']['desc'].splice(2, 1)
 
+    enOutput['Tawhoa%2C_Forests_Strength']['desc'][0] += ' ' + enOutput['Tawhoa%2C_Forests_Strength']['desc'][1]
+    enOutput['Tawhoa%2C_Forests_Strength']['desc'].splice(1, 1)
+
+    enOutput['Ramako%2C_Suns_Light']['desc'][1] += ' ' + enOutput['Ramako%2C_Suns_Light']['desc'][2]
+    enOutput['Ramako%2C_Suns_Light']['desc'].splice(1, 1)
+    enOutput['Ramako%2C_Suns_Light']['desc'][2] += ' ' + enOutput['Ramako%2C_Suns_Light']['desc'][3]
+    enOutput['Ramako%2C_Suns_Light']['desc'].splice(2, 1)
+
+    enOutput['Magmatic_Strikes']['desc'][0] += ' ' + enOutput['Magmatic_Strikes']['desc'][1]
+    enOutput['Magmatic_Strikes']['desc'].splice(1, 1)
+
     // 專精
     enOutput['Armour_and_Energy_Shield_Mastery']['desc'][3] += ' ' + enOutput['Armour_and_Energy_Shield_Mastery']['desc'][4]
     enOutput['Armour_and_Energy_Shield_Mastery']['desc'].splice(4, 1)
-
-    enOutput['Flask_Mastery']['desc'][4] = enOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
-    zhtwOutput['Flask_Mastery']['desc'][4] = zhtwOutput['Flask_Mastery']['desc'][4].replace(', ', '\n')
 
     console.log(JSON.stringify(enOutput))
     console.log(JSON.stringify(zhtwOutput))
@@ -226,9 +248,10 @@ function handleEnNotable(response) {
             enOutput[key] = {
                 'name': value,
                 'desc': [],
+                'isNotable': 1,
             }
 
-            let mod = ele.querySelector('span.explicitMod')
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('span.explicitMod')
             if (!mod) {
                 return
             }
@@ -256,9 +279,10 @@ function handleZhtwNotable(response) {
             zhtwOutput[key] = {
                 'name': value,
                 'desc': [],
+                'isNotable': 1,
             }
 
-            let mod = ele.querySelector('span.explicitMod')
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('span.explicitMod')
             if (!mod) {
                 return
             }
@@ -288,7 +312,7 @@ function handleEnKeystone(response) {
                 'desc': [],
             }
 
-            let mod = ele.querySelector('span.explicitMod')
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('span.explicitMod')
             if (!mod) {
                 return
             }
@@ -317,7 +341,7 @@ function handleZhtwKeystone(response) {
                 'desc': [],
             }
 
-            let mod = ele.querySelector('span.explicitMod')
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('span.explicitMod')
             if (!mod) {
                 return
             }
@@ -345,7 +369,7 @@ function handleEnMastery(response) {
                 'desc': [],
             }
 
-            let mods = ele.querySelectorAll('span.explicitMod')
+            let mods = ele.querySelectorAll('li.PassiveMastery')
             if (mods.length == 0) {
                 return
             }
@@ -376,7 +400,7 @@ function handleZhtwMastery(response) {
                 'desc': [],
             }
 
-            let mods = ele.querySelectorAll('span.explicitMod')
+            let mods = ele.querySelectorAll('li.PassiveMastery')
             if (mods.length == 0) {
                 return
             }
@@ -389,6 +413,78 @@ function handleZhtwMastery(response) {
                 }
                 zhtwOutput[key]['desc'] = zhtwOutput[key]['desc'].filter(n => n)
             }
+        })
+    })
+}
+
+function handleEnAncestor(response) {
+    if (!response.ok) {
+        return Promise.resolve()
+    }
+    return response.text().then((str) => {
+        let responseDoc = new DOMParser().parseFromString(str, 'text/html');
+        responseDoc.querySelector('#CommunityWiki').remove()
+        responseDoc.querySelector('#Equipment').remove()
+        responseDoc.querySelector('#FieldItem').remove()
+        responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
+            let a = ele.querySelector('a')
+            if (!a) {
+                return
+            }
+            let key = a.href.split('/').pop()
+            let value = ele.querySelector('a').innerText
+            enOutput[key] = {
+                'name': value,
+                'desc': [],
+            }
+
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('div.explicitMod')
+            if (!mod) {
+                return
+            }
+            let span = document.createElement('span')
+            span.innerHTML = mod.innerHTML.replaceAll('<br>', "\n")
+            let mods = span.innerText.trim().split("\n")
+            for (let index in mods) {
+                enOutput[key]['desc'][index] = mods[index];
+            }
+            enOutput[key]['desc'] = enOutput[key]['desc'].filter(n => n)
+        })
+    })
+}
+
+function handleZhtwAncestor(response) {
+    if (!response.ok) {
+        return Promise.resolve()
+    }
+    return response.text().then((str) => {
+        let responseDoc = new DOMParser().parseFromString(str, 'text/html');
+        responseDoc.querySelector('#CommunityWiki').remove()
+        responseDoc.querySelector('#裝備').remove()
+        responseDoc.querySelector('#戰場物品').remove()
+        responseDoc.querySelectorAll('div.tab-content table tbody tr td:nth-child(2)').forEach((ele) => {
+            let a = ele.querySelector('a')
+            if (!a) {
+                return
+            }
+            let key = a.href.split('/').pop()
+            let value = ele.querySelector('a').innerText
+            zhtwOutput[key] = {
+                'name': value,
+                'desc': [],
+            }
+
+            let mod = ele.querySelector('div.implicitMod') || ele.querySelector('div.explicitMod')
+            if (!mod) {
+                return
+            }
+            let span = document.createElement('span')
+            span.innerHTML = mod.innerHTML.replaceAll('<br>', "\n")
+            let mods = span.innerText.trim().split("\n")
+            for (let index in mods) {
+                zhtwOutput[key]['desc'][index] = mods[index];
+            }
+            zhtwOutput[key]['desc'] = zhtwOutput[key]['desc'].filter(n => n)
         })
     })
 }

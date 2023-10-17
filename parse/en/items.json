@@ -53,6 +53,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Ikiaho's Promise",
+          "type": "Coral Amulet",
+          "text": "Ikiaho's Promise Coral Amulet",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Ascent From Flesh",
           "type": "Chain Belt",
           "text": "Ascent From Flesh Chain Belt",
@@ -203,6 +209,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Bound Fate",
+          "type": "Cloth Belt",
+          "text": "Bound Fate Cloth Belt",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Brinerot Mark",
           "type": "Unset Ring",
           "text": "Brinerot Mark Unset Ring",
@@ -320,6 +332,12 @@
           "name": "Death Rush",
           "type": "Amethyst Ring",
           "text": "Death Rush Amethyst Ring",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Defiance of Destiny",
+          "type": "Paua Amulet",
+          "text": "Defiance of Destiny Paua Amulet",
           "flags": { "unique": true }
         },
         {
@@ -485,6 +503,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Honoured Alliance",
+          "type": "Coral Ring",
+          "text": "Honoured Alliance Coral Ring",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Hyperboreus",
           "type": "Leather Belt",
           "text": "Hyperboreus Leather Belt",
@@ -518,6 +542,12 @@
           "name": "Kalandra's Touch",
           "type": "Ring",
           "text": "Kalandra's Touch Ring",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Kaom's Binding",
+          "type": "Heavy Belt",
+          "text": "Kaom's Binding Heavy Belt",
           "flags": { "unique": true }
         },
         {
@@ -839,6 +869,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Replica Dragonfang's Flight",
+          "type": "Onyx Amulet",
+          "text": "Replica Dragonfang's Flight Onyx Amulet",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Replica Emberwake",
           "type": "Ruby Ring",
           "text": "Replica Emberwake Ruby Ring",
@@ -1076,6 +1112,12 @@
           "name": "Tavukai",
           "type": "Coral Amulet",
           "text": "Tavukai Coral Amulet",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Tawhanuku's Timing",
+          "type": "Moonstone Ring",
+          "text": "Tawhanuku's Timing Moonstone Ring",
           "flags": { "unique": true }
         },
         {
@@ -1542,6 +1584,18 @@
           "name": "Ahn's Heritage",
           "type": "Colossal Tower Shield",
           "text": "Ahn's Heritage Colossal Tower Shield",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Ahuana's Bite",
+          "type": "Sharktooth Arrow Quiver",
+          "text": "Ahuana's Bite Sharktooth Arrow Quiver",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Akoya's Gaze",
+          "type": "Regicide Mask",
+          "text": "Akoya's Gaze Regicide Mask",
           "flags": { "unique": true }
         },
         {
@@ -2751,6 +2805,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Kahuturoa's Certainty",
+          "type": "Ancient Greaves",
+          "text": "Kahuturoa's Certainty Ancient Greaves",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Kalisa's Grace",
           "type": "Samite Gloves",
           "text": "Kalisa's Grace Samite Gloves",
@@ -2787,6 +2847,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Kiloava's Bluster",
+          "type": "Ironwood Buckler",
+          "text": "Kiloava's Bluster Ironwood Buckler",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Kingsguard",
           "type": "Conquest Chainmail",
           "text": "Kingsguard Conquest Chainmail",
@@ -2796,6 +2862,12 @@
           "name": "Kintsugi",
           "type": "Exquisite Leather",
           "text": "Kintsugi Exquisite Leather",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Utula's Hunger",
+          "type": "Majestic Plate",
+          "text": "Utula's Hunger Majestic Plate",
           "flags": { "unique": true }
         },
         {
@@ -5048,6 +5120,7 @@
         { "type": "Eternal Bonds", "text": "Eternal Bonds" },
         { "type": "Ever-Changing", "text": "Ever-Changing" },
         { "type": "Fateful Meeting", "text": "Fateful Meeting" },
+        { "type": "Fire Of Unknown Origin", "text": "Fire Of Unknown Origin" },
         { "type": "Forbidden Power", "text": "Forbidden Power" },
         { "type": "Friendship", "text": "Friendship" },
         { "type": "From Bone to Ashes", "text": "From Bone to Ashes" },
@@ -5235,6 +5308,7 @@
         { "type": "The Forgotten Treasure", "text": "The Forgotten Treasure" },
         { "type": "The Formless Sea", "text": "The Formless Sea" },
         { "type": "The Forsaken", "text": "The Forsaken" },
+        { "type": "The Fortunate", "text": "The Fortunate" },
         { "type": "The Forward Gaze", "text": "The Forward Gaze" },
         { "type": "The Fox", "text": "The Fox" },
         {
@@ -5582,6 +5656,394 @@
         { "type": "Redeemer's Exalted Orb", "text": "Redeemer's Exalted Orb" },
         { "type": "Warlord's Exalted Orb", "text": "Warlord's Exalted Orb" },
         { "type": "Awakener's Orb", "text": "Awakener's Orb" },
+        { "type": "Omen of Fortune", "text": "Omen of Fortune" },
+        { "type": "Omen of Blanching", "text": "Omen of Blanching" },
+        { "type": "Omen of Death-dancing", "text": "Omen of Death-dancing" },
+        { "type": "Omen of Adrenaline", "text": "Omen of Adrenaline" },
+        { "type": "Omen of Death's Door", "text": "Omen of Death's Door" },
+        { "type": "Omen of Resurgence", "text": "Omen of Resurgence" },
+        { "type": "Omen of Refreshment", "text": "Omen of Refreshment" },
+        { "type": "Omen of Return", "text": "Omen of Return" },
+        { "type": "Omen of Bequeathal", "text": "Omen of Bequeathal" },
+        { "type": "Omen of Revenge", "text": "Omen of Revenge" },
+        { "type": "Omen of Amelioration", "text": "Omen of Amelioration" },
+        { "type": "Omen of Connections", "text": "Omen of Connections" },
+        { "type": "Omen of the Jeweller", "text": "Omen of the Jeweller" },
+        { "type": "Omen of Brilliance", "text": "Omen of Brilliance" },
+        {
+          "type": "Omen of the Soul Devourer",
+          "text": "Omen of the Soul Devourer"
+        },
+        { "type": "Omen of Acceleration", "text": "Omen of Acceleration" },
+        {
+          "type": "Tattoo of the Arohongui Moonwarden",
+          "text": "Tattoo of the Arohongui Moonwarden"
+        },
+        {
+          "type": "Tattoo of the Arohongui Scout",
+          "text": "Tattoo of the Arohongui Scout"
+        },
+        {
+          "type": "Tattoo of the Arohongui Warrior",
+          "text": "Tattoo of the Arohongui Warrior"
+        },
+        {
+          "type": "Tattoo of the Arohongui Warmonger",
+          "text": "Tattoo of the Arohongui Warmonger"
+        },
+        {
+          "type": "Tattoo of the Arohongui Shaman",
+          "text": "Tattoo of the Arohongui Shaman"
+        },
+        {
+          "type": "Loyalty Tattoo of Ikiaho",
+          "text": "Loyalty Tattoo of Ikiaho"
+        },
+        {
+          "type": "Tattoo of the Arohongui Makanga",
+          "text": "Tattoo of the Arohongui Makanga"
+        },
+        {
+          "type": "Tattoo of the Hinekora Warrior",
+          "text": "Tattoo of the Hinekora Warrior"
+        },
+        {
+          "type": "Tattoo of the Hinekora Deathwarden",
+          "text": "Tattoo of the Hinekora Deathwarden"
+        },
+        {
+          "type": "Tattoo of the Hinekora Shaman",
+          "text": "Tattoo of the Hinekora Shaman"
+        },
+        {
+          "type": "Tattoo of the Hinekora Storyteller",
+          "text": "Tattoo of the Hinekora Storyteller"
+        },
+        {
+          "type": "Tattoo of the Hinekora Warmonger",
+          "text": "Tattoo of the Hinekora Warmonger"
+        },
+        {
+          "type": "Loyalty Tattoo of Tawhanuku",
+          "text": "Loyalty Tattoo of Tawhanuku"
+        },
+        {
+          "type": "Tattoo of the Hinekora Makanga",
+          "text": "Tattoo of the Hinekora Makanga"
+        },
+        {
+          "type": "Tattoo of the Kitava Blood Drinker",
+          "text": "Tattoo of the Kitava Blood Drinker"
+        },
+        {
+          "type": "Tattoo of the Kitava Rebel",
+          "text": "Tattoo of the Kitava Rebel"
+        },
+        {
+          "type": "Tattoo of the Kitava Warrior",
+          "text": "Tattoo of the Kitava Warrior"
+        },
+        {
+          "type": "Tattoo of the Kitava Heart Eater",
+          "text": "Tattoo of the Kitava Heart Eater"
+        },
+        {
+          "type": "Tattoo of the Kitava Shaman",
+          "text": "Tattoo of the Kitava Shaman"
+        },
+        {
+          "type": "Loyalty Tattoo of Utula",
+          "text": "Loyalty Tattoo of Utula"
+        },
+        {
+          "type": "Tattoo of the Kitava Makanga",
+          "text": "Tattoo of the Kitava Makanga"
+        },
+        {
+          "type": "Tattoo of the Ngamahu Firewalker",
+          "text": "Tattoo of the Ngamahu Firewalker"
+        },
+        {
+          "type": "Tattoo of the Ngamahu Shaman",
+          "text": "Tattoo of the Ngamahu Shaman"
+        },
+        {
+          "type": "Tattoo of the Ngamahu Warrior",
+          "text": "Tattoo of the Ngamahu Warrior"
+        },
+        {
+          "type": "Tattoo of the Ngamahu Warmonger",
+          "text": "Tattoo of the Ngamahu Warmonger"
+        },
+        {
+          "type": "Tattoo of the Ngamahu Woodcarver",
+          "text": "Tattoo of the Ngamahu Woodcarver"
+        },
+        { "type": "Loyalty Tattoo of Kaom", "text": "Loyalty Tattoo of Kaom" },
+        {
+          "type": "Tattoo of the Ngamahu Makanga",
+          "text": "Tattoo of the Ngamahu Makanga"
+        },
+        {
+          "type": "Tattoo of the Ramako Scout",
+          "text": "Tattoo of the Ramako Scout"
+        },
+        {
+          "type": "Tattoo of the Ramako Archer",
+          "text": "Tattoo of the Ramako Archer"
+        },
+        {
+          "type": "Tattoo of the Ramako Sniper",
+          "text": "Tattoo of the Ramako Sniper"
+        },
+        {
+          "type": "Tattoo of the Ramako Fleetfoot",
+          "text": "Tattoo of the Ramako Fleetfoot"
+        },
+        {
+          "type": "Tattoo of the Ramako Shaman",
+          "text": "Tattoo of the Ramako Shaman"
+        },
+        {
+          "type": "Loyalty Tattoo of Ahuana",
+          "text": "Loyalty Tattoo of Ahuana"
+        },
+        {
+          "type": "Tattoo of the Ramako Makanga",
+          "text": "Tattoo of the Ramako Makanga"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Warrior",
+          "text": "Tattoo of the Rongokurai Warrior"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Brute",
+          "text": "Tattoo of the Rongokurai Brute"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Goliath",
+          "text": "Tattoo of the Rongokurai Goliath"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Turtle",
+          "text": "Tattoo of the Rongokurai Turtle"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Guard",
+          "text": "Tattoo of the Rongokurai Guard"
+        },
+        {
+          "type": "Loyalty Tattoo of Kahuturoa",
+          "text": "Loyalty Tattoo of Kahuturoa"
+        },
+        {
+          "type": "Tattoo of the Rongokurai Makanga",
+          "text": "Tattoo of the Rongokurai Makanga"
+        },
+        {
+          "type": "Honoured Tattoo of the Hunter",
+          "text": "Honoured Tattoo of the Hunter"
+        },
+        {
+          "type": "Honoured Tattoo of the Barbarian",
+          "text": "Honoured Tattoo of the Barbarian"
+        },
+        {
+          "type": "Honoured Tattoo of the Berserker",
+          "text": "Honoured Tattoo of the Berserker"
+        },
+        {
+          "type": "Honoured Tattoo of the Wise",
+          "text": "Honoured Tattoo of the Wise"
+        },
+        {
+          "type": "Honoured Tattoo of the Storm",
+          "text": "Honoured Tattoo of the Storm"
+        },
+        {
+          "type": "Honoured Tattoo of the Flood",
+          "text": "Honoured Tattoo of the Flood"
+        },
+        {
+          "type": "Honoured Tattoo of the Warlord",
+          "text": "Honoured Tattoo of the Warlord"
+        },
+        {
+          "type": "Honoured Tattoo of the Mountain",
+          "text": "Honoured Tattoo of the Mountain"
+        },
+        {
+          "type": "Honoured Tattoo of the Pa",
+          "text": "Honoured Tattoo of the Pa"
+        },
+        {
+          "type": "Honoured Tattoo of the Dove",
+          "text": "Honoured Tattoo of the Dove"
+        },
+        {
+          "type": "Honoured Tattoo of the Sky",
+          "text": "Honoured Tattoo of the Sky"
+        },
+        {
+          "type": "Honoured Tattoo of the Tuatara",
+          "text": "Honoured Tattoo of the Tuatara"
+        },
+        {
+          "type": "Honoured Tattoo of the Pillager",
+          "text": "Honoured Tattoo of the Pillager"
+        },
+        {
+          "type": "Honoured Tattoo of the Turtle",
+          "text": "Honoured Tattoo of the Turtle"
+        },
+        {
+          "type": "Honoured Tattoo of the Oak",
+          "text": "Honoured Tattoo of the Oak"
+        },
+        {
+          "type": "Honoured Tattoo of the Hatungo",
+          "text": "Honoured Tattoo of the Hatungo"
+        },
+        {
+          "type": "Honoured Tattoo of the Flock",
+          "text": "Honoured Tattoo of the Flock"
+        },
+        {
+          "type": "Ancestral Tattoo of Bloodlines",
+          "text": "Ancestral Tattoo of Bloodlines"
+        },
+        {
+          "type": "Honoured Tattoo of the Makanga",
+          "text": "Honoured Tattoo of the Makanga"
+        },
+        {
+          "type": "Journey Tattoo of the Body",
+          "text": "Journey Tattoo of the Body"
+        },
+        {
+          "type": "Journey Tattoo of the Mind",
+          "text": "Journey Tattoo of the Mind"
+        },
+        {
+          "type": "Journey Tattoo of the Soul",
+          "text": "Journey Tattoo of the Soul"
+        },
+        {
+          "type": "Journey Tattoo of Makanui",
+          "text": "Journey Tattoo of Makanui"
+        },
+        {
+          "type": "Tattoo of the Tasalio Bladedancer",
+          "text": "Tattoo of the Tasalio Bladedancer"
+        },
+        {
+          "type": "Tattoo of the Tasalio Tideshifter",
+          "text": "Tattoo of the Tasalio Tideshifter"
+        },
+        {
+          "type": "Tattoo of the Tasalio Shaman",
+          "text": "Tattoo of the Tasalio Shaman"
+        },
+        {
+          "type": "Tattoo of the Tasalio Warrior",
+          "text": "Tattoo of the Tasalio Warrior"
+        },
+        {
+          "type": "Tattoo of the Tasalio Scout",
+          "text": "Tattoo of the Tasalio Scout"
+        },
+        {
+          "type": "Loyalty Tattoo of Rakiata",
+          "text": "Loyalty Tattoo of Rakiata"
+        },
+        {
+          "type": "Tattoo of the Tasalio Makanga",
+          "text": "Tattoo of the Tasalio Makanga"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Naturalist",
+          "text": "Tattoo of the Tawhoa Naturalist"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Scout",
+          "text": "Tattoo of the Tawhoa Scout"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Warrior",
+          "text": "Tattoo of the Tawhoa Warrior"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Herbalist",
+          "text": "Tattoo of the Tawhoa Herbalist"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Shaman",
+          "text": "Tattoo of the Tawhoa Shaman"
+        },
+        {
+          "type": "Loyalty Tattoo of Maata",
+          "text": "Loyalty Tattoo of Maata"
+        },
+        {
+          "type": "Tattoo of the Tawhoa Makanga",
+          "text": "Tattoo of the Tawhoa Makanga"
+        },
+        {
+          "type": "Tattoo of the Tukohama Shaman",
+          "text": "Tattoo of the Tukohama Shaman"
+        },
+        {
+          "type": "Tattoo of the Tukohama Warrior",
+          "text": "Tattoo of the Tukohama Warrior"
+        },
+        {
+          "type": "Tattoo of the Tukohama Brawler",
+          "text": "Tattoo of the Tukohama Brawler"
+        },
+        {
+          "type": "Tattoo of the Tukohama Warmonger",
+          "text": "Tattoo of the Tukohama Warmonger"
+        },
+        {
+          "type": "Tattoo of the Tukohama Warcaller",
+          "text": "Tattoo of the Tukohama Warcaller"
+        },
+        {
+          "type": "Loyalty Tattoo of Akoya",
+          "text": "Loyalty Tattoo of Akoya"
+        },
+        {
+          "type": "Tattoo of the Tukohama Makanga",
+          "text": "Tattoo of the Tukohama Makanga"
+        },
+        {
+          "type": "Tattoo of the Valako Stormrider",
+          "text": "Tattoo of the Valako Stormrider"
+        },
+        {
+          "type": "Tattoo of the Valako Scout",
+          "text": "Tattoo of the Valako Scout"
+        },
+        {
+          "type": "Tattoo of the Valako Warrior",
+          "text": "Tattoo of the Valako Warrior"
+        },
+        {
+          "type": "Tattoo of the Valako Shieldbearer",
+          "text": "Tattoo of the Valako Shieldbearer"
+        },
+        {
+          "type": "Tattoo of the Valako Shaman",
+          "text": "Tattoo of the Valako Shaman"
+        },
+        {
+          "type": "Loyalty Tattoo of Kiloava",
+          "text": "Loyalty Tattoo of Kiloava"
+        },
+        {
+          "type": "Tattoo of the Valako Makanga",
+          "text": "Tattoo of the Valako Makanga"
+        },
         { "type": "Simple Rope Net", "text": "Simple Rope Net" },
         { "type": "Thaumaturgical Net", "text": "Thaumaturgical Net" },
         { "type": "Necromancy Net", "text": "Necromancy Net" },
@@ -5657,6 +6119,7 @@
           "text": "Blacksmith's Delirium Orb"
         },
         { "type": "Simulacrum Splinter", "text": "Simulacrum Splinter" },
+        { "type": "Silver Coin", "text": "Silver Coin" },
         { "type": "Armourer's Scrap", "text": "Armourer's Scrap" },
         { "type": "Orb of Unmaking", "text": "Orb of Unmaking" },
         { "type": "Splinter of Chayula", "text": "Splinter of Chayula" },
@@ -6150,6 +6613,7 @@
           "type": "Tainted Blacksmith's Whetstone",
           "text": "Tainted Blacksmith's Whetstone"
         },
+        { "type": "Hinekora's Lock", "text": "Hinekora's Lock" },
         { "type": "Scroll of Wisdom", "text": "Scroll of Wisdom" },
         { "type": "Scroll Fragment", "text": "Scroll Fragment" },
         { "type": "Imprint", "text": "Imprint" },
@@ -6286,7 +6750,6 @@
           "type": "Journeyman Cartographer's Seal",
           "text": "Journeyman Cartographer's Seal"
         },
-        { "type": "Silver Coin", "text": "Silver Coin" },
         { "type": "Uncarved Gemstone", "text": "Uncarved Gemstone" },
         { "type": "Engineer's Orb", "text": "Engineer's Orb" },
         { "type": "Infused Engineer's Orb", "text": "Infused Engineer's Orb" },
@@ -7442,6 +7905,10 @@
           "text": "Concentrated Effect Support"
         },
         {
+          "type": "Controlled Blaze Support",
+          "text": "Controlled Blaze Support"
+        },
+        {
           "type": "Controlled Destruction Support",
           "text": "Controlled Destruction Support"
         },
@@ -7449,6 +7916,7 @@
           "type": "Awakened Controlled Destruction Support",
           "text": "Awakened Controlled Destruction Support"
         },
+        { "type": "Corrupting Cry Support", "text": "Corrupting Cry Support" },
         { "type": "Cruelty Support", "text": "Cruelty Support" },
         { "type": "Culling Strike Support", "text": "Culling Strike Support" },
         { "type": "Cursed Ground Support", "text": "Cursed Ground Support" },
@@ -7468,6 +7936,7 @@
         },
         { "type": "Predator Support", "text": "Predator Support" },
         { "type": "Decay Support", "text": "Decay Support" },
+        { "type": "Devour Support", "text": "Devour Support" },
         {
           "type": "Divine Blessing Support",
           "text": "Divine Blessing Support"
@@ -7527,6 +7996,7 @@
           "text": "Awakened Fire Penetration Support"
         },
         { "type": "Fist of War Support", "text": "Fist of War Support" },
+        { "type": "Flamewood Support", "text": "Flamewood Support" },
         {
           "type": "Focused Ballista Support",
           "text": "Focused Ballista Support"
@@ -7536,6 +8006,8 @@
         { "type": "Fortify Support", "text": "Fortify Support" },
         { "type": "Ice Bite Support", "text": "Ice Bite Support" },
         { "type": "Charged Traps Support", "text": "Charged Traps Support" },
+        { "type": "Fresh Meat Support", "text": "Fresh Meat Support" },
+        { "type": "Frigid Bond Support", "text": "Frigid Bond Support" },
         { "type": "Generosity Support", "text": "Generosity Support" },
         {
           "type": "Awakened Generosity Support",
@@ -7550,6 +8022,10 @@
           "text": "Awakened Greater Multiple Projectiles Support"
         },
         { "type": "Greater Volley Support", "text": "Greater Volley Support" },
+        {
+          "type": "Guardian's Blessing Support",
+          "text": "Guardian's Blessing Support"
+        },
         { "type": "Unleash Support", "text": "Unleash Support" },
         { "type": "Intensify Support", "text": "Intensify Support" },
         { "type": "Hex Bloom Support", "text": "Hex Bloom Support" },
@@ -7616,6 +8092,7 @@
           "type": "Awakened Lightning Penetration Support",
           "text": "Awakened Lightning Penetration Support"
         },
+        { "type": "Locus Mine Support", "text": "Locus Mine Support" },
         { "type": "Maim Support", "text": "Maim Support" },
         {
           "type": "Manaforged Arrows Support",
@@ -7702,13 +8179,20 @@
           "type": "Blastchain Mine Support",
           "text": "Blastchain Mine Support"
         },
+        {
+          "type": "Returning Projectiles Support",
+          "text": "Returning Projectiles Support"
+        },
         { "type": "Ruthless Support", "text": "Ruthless Support" },
+        { "type": "Sacrifice Support", "text": "Sacrifice Support" },
+        { "type": "Sadism Support", "text": "Sadism Support" },
         { "type": "Second Wind Support", "text": "Second Wind Support" },
         { "type": "Shockwave Support", "text": "Shockwave Support" },
         {
           "type": "Slower Projectiles Support",
           "text": "Slower Projectiles Support"
         },
+        { "type": "Spellblade Support", "text": "Spellblade Support" },
         { "type": "Spell Cascade Support", "text": "Spell Cascade Support" },
         {
           "type": "Awakened Spell Cascade Support",
@@ -7742,6 +8226,7 @@
           "text": "Trap and Mine Damage Support"
         },
         { "type": "Advanced Traps Support", "text": "Advanced Traps Support" },
+        { "type": "Trauma Support", "text": "Trauma Support" },
         { "type": "Trinity Support", "text": "Trinity Support" },
         {
           "type": "Unbound Ailments Support",
@@ -7769,6 +8254,7 @@
           "type": "Awakened Void Manipulation Support",
           "text": "Awakened Void Manipulation Support"
         },
+        { "type": "Volatility Support", "text": "Volatility Support" },
         {
           "type": "Elemental Damage with Attacks Support",
           "text": "Elemental Damage with Attacks Support"
@@ -9988,9 +10474,19 @@
           "text": "Divergent Concentrated Effect Support"
         },
         {
+          "type": "Controlled Blaze Support",
+          "disc": "divergent",
+          "text": "Divergent Controlled Blaze Support"
+        },
+        {
           "type": "Controlled Destruction Support",
           "disc": "divergent",
           "text": "Divergent Controlled Destruction Support"
+        },
+        {
+          "type": "Corrupting Cry Support",
+          "disc": "divergent",
+          "text": "Divergent Corrupting Cry Support"
         },
         {
           "type": "Cruelty Support",
@@ -10031,6 +10527,11 @@
           "type": "Decay Support",
           "disc": "divergent",
           "text": "Divergent Decay Support"
+        },
+        {
+          "type": "Devour Support",
+          "disc": "divergent",
+          "text": "Divergent Devour Support"
         },
         {
           "type": "Divine Blessing Support",
@@ -10103,6 +10604,11 @@
           "text": "Divergent Fist of War Support"
         },
         {
+          "type": "Flamewood Support",
+          "disc": "divergent",
+          "text": "Divergent Flamewood Support"
+        },
+        {
           "type": "Focused Ballista Support",
           "disc": "divergent",
           "text": "Divergent Focused Ballista Support"
@@ -10128,6 +10634,16 @@
           "text": "Divergent Charged Traps Support"
         },
         {
+          "type": "Fresh Meat Support",
+          "disc": "divergent",
+          "text": "Divergent Fresh Meat Support"
+        },
+        {
+          "type": "Frigid Bond Support",
+          "disc": "divergent",
+          "text": "Divergent Frigid Bond Support"
+        },
+        {
           "type": "Generosity Support",
           "disc": "divergent",
           "text": "Divergent Generosity Support"
@@ -10141,6 +10657,11 @@
           "type": "Greater Volley Support",
           "disc": "divergent",
           "text": "Divergent Greater Volley Support"
+        },
+        {
+          "type": "Guardian's Blessing Support",
+          "disc": "divergent",
+          "text": "Divergent Guardian's Blessing Support"
         },
         {
           "type": "Unleash Support",
@@ -10256,6 +10777,11 @@
           "type": "Lightning Penetration Support",
           "disc": "divergent",
           "text": "Divergent Lightning Penetration Support"
+        },
+        {
+          "type": "Locus Mine Support",
+          "disc": "divergent",
+          "text": "Divergent Locus Mine Support"
         },
         {
           "type": "Maim Support",
@@ -10443,9 +10969,24 @@
           "text": "Divergent Blastchain Mine Support"
         },
         {
+          "type": "Returning Projectiles Support",
+          "disc": "divergent",
+          "text": "Divergent Returning Projectiles Support"
+        },
+        {
           "type": "Ruthless Support",
           "disc": "divergent",
           "text": "Divergent Ruthless Support"
+        },
+        {
+          "type": "Sacrifice Support",
+          "disc": "divergent",
+          "text": "Divergent Sacrifice Support"
+        },
+        {
+          "type": "Sadism Support",
+          "disc": "divergent",
+          "text": "Divergent Sadism Support"
         },
         {
           "type": "Second Wind Support",
@@ -10461,6 +11002,11 @@
           "type": "Slower Projectiles Support",
           "disc": "divergent",
           "text": "Divergent Slower Projectiles Support"
+        },
+        {
+          "type": "Spellblade Support",
+          "disc": "divergent",
+          "text": "Divergent Spellblade Support"
         },
         {
           "type": "Spell Cascade Support",
@@ -10523,6 +11069,11 @@
           "text": "Divergent Advanced Traps Support"
         },
         {
+          "type": "Trauma Support",
+          "disc": "divergent",
+          "text": "Divergent Trauma Support"
+        },
+        {
           "type": "Trinity Support",
           "disc": "divergent",
           "text": "Divergent Trinity Support"
@@ -10546,6 +11097,11 @@
           "type": "Void Manipulation Support",
           "disc": "divergent",
           "text": "Divergent Void Manipulation Support"
+        },
+        {
+          "type": "Volatility Support",
+          "disc": "divergent",
+          "text": "Divergent Volatility Support"
         },
         {
           "type": "Elemental Damage with Attacks Support",
@@ -11896,6 +12452,11 @@
           "text": "Anomalous Vaal Molten Strike"
         },
         {
+          "type": "Vaal Breach",
+          "disc": "anomalous",
+          "text": "Anomalous Vaal Breach"
+        },
+        {
           "type": "Vaal Power Siphon",
           "disc": "anomalous",
           "text": "Anomalous Vaal Power Siphon"
@@ -12239,9 +12800,19 @@
           "text": "Anomalous Concentrated Effect Support"
         },
         {
+          "type": "Controlled Blaze Support",
+          "disc": "anomalous",
+          "text": "Anomalous Controlled Blaze Support"
+        },
+        {
           "type": "Controlled Destruction Support",
           "disc": "anomalous",
           "text": "Anomalous Controlled Destruction Support"
+        },
+        {
+          "type": "Corrupting Cry Support",
+          "disc": "anomalous",
+          "text": "Anomalous Corrupting Cry Support"
         },
         {
           "type": "Cruelty Support",
@@ -12282,6 +12853,11 @@
           "type": "Decay Support",
           "disc": "anomalous",
           "text": "Anomalous Decay Support"
+        },
+        {
+          "type": "Devour Support",
+          "disc": "anomalous",
+          "text": "Anomalous Devour Support"
         },
         {
           "type": "Divine Blessing Support",
@@ -12359,6 +12935,11 @@
           "text": "Anomalous Fist of War Support"
         },
         {
+          "type": "Flamewood Support",
+          "disc": "anomalous",
+          "text": "Anomalous Flamewood Support"
+        },
+        {
           "type": "Focused Ballista Support",
           "disc": "anomalous",
           "text": "Anomalous Focused Ballista Support"
@@ -12384,6 +12965,16 @@
           "text": "Anomalous Charged Traps Support"
         },
         {
+          "type": "Fresh Meat Support",
+          "disc": "anomalous",
+          "text": "Anomalous Fresh Meat Support"
+        },
+        {
+          "type": "Frigid Bond Support",
+          "disc": "anomalous",
+          "text": "Anomalous Frigid Bond Support"
+        },
+        {
           "type": "Generosity Support",
           "disc": "anomalous",
           "text": "Anomalous Generosity Support"
@@ -12397,6 +12988,11 @@
           "type": "Greater Volley Support",
           "disc": "anomalous",
           "text": "Anomalous Greater Volley Support"
+        },
+        {
+          "type": "Guardian's Blessing Support",
+          "disc": "anomalous",
+          "text": "Anomalous Guardian's Blessing Support"
         },
         {
           "type": "Unleash Support",
@@ -12517,6 +13113,11 @@
           "type": "Lightning Penetration Support",
           "disc": "anomalous",
           "text": "Anomalous Lightning Penetration Support"
+        },
+        {
+          "type": "Locus Mine Support",
+          "disc": "anomalous",
+          "text": "Anomalous Locus Mine Support"
         },
         {
           "type": "Maim Support",
@@ -12704,9 +13305,24 @@
           "text": "Anomalous Blastchain Mine Support"
         },
         {
+          "type": "Returning Projectiles Support",
+          "disc": "anomalous",
+          "text": "Anomalous Returning Projectiles Support"
+        },
+        {
           "type": "Ruthless Support",
           "disc": "anomalous",
           "text": "Anomalous Ruthless Support"
+        },
+        {
+          "type": "Sacrifice Support",
+          "disc": "anomalous",
+          "text": "Anomalous Sacrifice Support"
+        },
+        {
+          "type": "Sadism Support",
+          "disc": "anomalous",
+          "text": "Anomalous Sadism Support"
         },
         {
           "type": "Second Wind Support",
@@ -12722,6 +13338,11 @@
           "type": "Slower Projectiles Support",
           "disc": "anomalous",
           "text": "Anomalous Slower Projectiles Support"
+        },
+        {
+          "type": "Spellblade Support",
+          "disc": "anomalous",
+          "text": "Anomalous Spellblade Support"
         },
         {
           "type": "Spell Cascade Support",
@@ -12784,6 +13405,11 @@
           "text": "Anomalous Advanced Traps Support"
         },
         {
+          "type": "Trauma Support",
+          "disc": "anomalous",
+          "text": "Anomalous Trauma Support"
+        },
+        {
           "type": "Trinity Support",
           "disc": "anomalous",
           "text": "Anomalous Trinity Support"
@@ -12807,6 +13433,11 @@
           "type": "Void Manipulation Support",
           "disc": "anomalous",
           "text": "Anomalous Void Manipulation Support"
+        },
+        {
+          "type": "Volatility Support",
+          "disc": "anomalous",
+          "text": "Anomalous Volatility Support"
         },
         {
           "type": "Elemental Damage with Attacks Support",
@@ -13843,6 +14474,12 @@
           "name": "Warlord's Reach",
           "type": "Crimson Jewel",
           "text": "Warlord's Reach Crimson Jewel",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Warrior's Tale",
+          "type": "Crimson Jewel",
+          "text": "Warrior's Tale Crimson Jewel",
           "flags": { "unique": true }
         },
         {
@@ -17140,6 +17777,1340 @@
           "type": "Residence Map",
           "disc": "original",
           "text": "Residence Map (Legacy)"
+        },
+        {
+          "type": "Academy Map",
+          "disc": "blighted",
+          "text": "Blighted Academy Map"
+        },
+        {
+          "type": "Acid Caverns Map",
+          "disc": "blighted",
+          "text": "Blighted Acid Caverns Map"
+        },
+        {
+          "type": "Acid Caverns Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Acid Caverns Map"
+        },
+        {
+          "type": "Alleyways Map",
+          "disc": "blighted",
+          "text": "Blighted Alleyways Map"
+        },
+        {
+          "type": "Alleyways Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Alleyways Map"
+        },
+        {
+          "type": "Ancient City Map",
+          "disc": "blighted",
+          "text": "Blighted Ancient City Map"
+        },
+        {
+          "type": "Ancient City Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Ancient City Map"
+        },
+        {
+          "type": "Arachnid Nest Map",
+          "disc": "blighted",
+          "text": "Blighted Arachnid Nest Map"
+        },
+        {
+          "type": "Arachnid Nest Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Arachnid Nest Map"
+        },
+        {
+          "type": "Arachnid Tomb Map",
+          "disc": "blighted",
+          "text": "Blighted Arachnid Tomb Map"
+        },
+        {
+          "type": "Arcade Map",
+          "disc": "blighted",
+          "text": "Blighted Arcade Map"
+        },
+        {
+          "type": "Arcade Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Arcade Map"
+        },
+        {
+          "type": "Arena Map",
+          "disc": "blighted",
+          "text": "Blighted Arena Map"
+        },
+        {
+          "type": "Arid Lake Map",
+          "disc": "blighted",
+          "text": "Blighted Arid Lake Map"
+        },
+        {
+          "type": "Arid Lake Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Arid Lake Map"
+        },
+        {
+          "type": "Armoury Map",
+          "disc": "blighted",
+          "text": "Blighted Armoury Map"
+        },
+        {
+          "type": "Armoury Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Armoury Map"
+        },
+        {
+          "type": "Arsenal Map",
+          "disc": "blighted",
+          "text": "Blighted Arsenal Map"
+        },
+        {
+          "type": "Arsenal Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Arsenal Map"
+        },
+        {
+          "type": "Ashen Wood Map",
+          "disc": "blighted",
+          "text": "Blighted Ashen Wood Map"
+        },
+        {
+          "type": "Ashen Wood Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Ashen Wood Map"
+        },
+        {
+          "type": "Atoll Map",
+          "disc": "blighted",
+          "text": "Blighted Atoll Map"
+        },
+        {
+          "type": "Atoll Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Atoll Map"
+        },
+        {
+          "type": "Barrows Map",
+          "disc": "blighted",
+          "text": "Blighted Barrows Map"
+        },
+        {
+          "type": "Barrows Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Barrows Map"
+        },
+        {
+          "type": "Basilica Map",
+          "disc": "blighted",
+          "text": "Blighted Basilica Map"
+        },
+        {
+          "type": "Basilica Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Basilica Map"
+        },
+        {
+          "type": "Bazaar Map",
+          "disc": "blighted",
+          "text": "Blighted Bazaar Map"
+        },
+        {
+          "type": "Bazaar Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Bazaar Map"
+        },
+        {
+          "type": "Beach Map",
+          "disc": "blighted",
+          "text": "Blighted Beach Map"
+        },
+        {
+          "type": "Beach Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Beach Map"
+        },
+        {
+          "type": "Belfry Map",
+          "disc": "blighted",
+          "text": "Blighted Belfry Map"
+        },
+        {
+          "type": "Belfry Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Belfry Map"
+        },
+        { "type": "Bog Map", "disc": "blighted", "text": "Blighted Bog Map" },
+        {
+          "type": "Bog Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Bog Map"
+        },
+        {
+          "type": "Bone Crypt Map",
+          "disc": "blighted",
+          "text": "Blighted Bone Crypt Map"
+        },
+        {
+          "type": "Bone Crypt Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Bone Crypt Map"
+        },
+        {
+          "type": "Bramble Valley Map",
+          "disc": "blighted",
+          "text": "Blighted Bramble Valley Map"
+        },
+        {
+          "type": "Bramble Valley Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Bramble Valley Map"
+        },
+        {
+          "type": "Burial Chambers Map",
+          "disc": "blighted",
+          "text": "Blighted Burial Chambers Map"
+        },
+        {
+          "type": "Burial Chambers Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Burial Chambers Map"
+        },
+        { "type": "Cage Map", "disc": "blighted", "text": "Blighted Cage Map" },
+        {
+          "type": "Cage Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Cage Map"
+        },
+        {
+          "type": "Caldera Map",
+          "disc": "blighted",
+          "text": "Blighted Caldera Map"
+        },
+        {
+          "type": "Caldera Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Caldera Map"
+        },
+        {
+          "type": "Canyon Map",
+          "disc": "blighted",
+          "text": "Blighted Canyon Map"
+        },
+        {
+          "type": "Canyon Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Canyon Map"
+        },
+        {
+          "type": "Carcass Map",
+          "disc": "blighted",
+          "text": "Blighted Carcass Map"
+        },
+        {
+          "type": "Carcass Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Carcass Map"
+        },
+        {
+          "type": "Castle Ruins Map",
+          "disc": "blighted",
+          "text": "Blighted Castle Ruins Map"
+        },
+        {
+          "type": "Castle Ruins Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Castle Ruins Map"
+        },
+        {
+          "type": "Cells Map",
+          "disc": "blighted",
+          "text": "Blighted Cells Map"
+        },
+        {
+          "type": "Cells Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Cells Map"
+        },
+        {
+          "type": "Cemetery Map",
+          "disc": "blighted",
+          "text": "Blighted Cemetery Map"
+        },
+        {
+          "type": "Cemetery Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Cemetery Map"
+        },
+        {
+          "type": "Channel Map",
+          "disc": "blighted",
+          "text": "Blighted Channel Map"
+        },
+        {
+          "type": "Channel Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Channel Map"
+        },
+        {
+          "type": "Chateau Map",
+          "disc": "blighted",
+          "text": "Blighted Chateau Map"
+        },
+        {
+          "type": "Chateau Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Chateau Map"
+        },
+        {
+          "type": "City Square Map",
+          "disc": "blighted",
+          "text": "Blighted City Square Map"
+        },
+        {
+          "type": "City Square Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged City Square Map"
+        },
+        {
+          "type": "Cold River Map",
+          "disc": "blighted",
+          "text": "Blighted Cold River Map"
+        },
+        {
+          "type": "Cold River Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Cold River Map"
+        },
+        {
+          "type": "Colonnade Map",
+          "disc": "blighted",
+          "text": "Blighted Colonnade Map"
+        },
+        {
+          "type": "Colonnade Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Colonnade Map"
+        },
+        {
+          "type": "Colosseum Map",
+          "disc": "blighted",
+          "text": "Blighted Colosseum Map"
+        },
+        {
+          "type": "Colosseum Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Colosseum Map"
+        },
+        {
+          "type": "Conservatory Map",
+          "disc": "blighted",
+          "text": "Blighted Conservatory Map"
+        },
+        {
+          "type": "Conservatory Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Conservatory Map"
+        },
+        {
+          "type": "Coral Ruins Map",
+          "disc": "blighted",
+          "text": "Blighted Coral Ruins Map"
+        },
+        {
+          "type": "Coral Ruins Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Coral Ruins Map"
+        },
+        { "type": "Core Map", "disc": "blighted", "text": "Blighted Core Map" },
+        {
+          "type": "Core Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Core Map"
+        },
+        {
+          "type": "Courthouse Map",
+          "disc": "blighted",
+          "text": "Blighted Courthouse Map"
+        },
+        {
+          "type": "Courthouse Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Courthouse Map"
+        },
+        {
+          "type": "Courtyard Map",
+          "disc": "blighted",
+          "text": "Blighted Courtyard Map"
+        },
+        {
+          "type": "Courtyard Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Courtyard Map"
+        },
+        {
+          "type": "Coves Map",
+          "disc": "blighted",
+          "text": "Blighted Coves Map"
+        },
+        {
+          "type": "Coves Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Coves Map"
+        },
+        {
+          "type": "Crimson Temple Map",
+          "disc": "blighted",
+          "text": "Blighted Crimson Temple Map"
+        },
+        {
+          "type": "Crimson Temple Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Crimson Temple Map"
+        },
+        {
+          "type": "Crimson Township Map",
+          "disc": "blighted",
+          "text": "Blighted Crimson Township Map"
+        },
+        {
+          "type": "Crimson Township Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Crimson Township Map"
+        },
+        {
+          "type": "Crystal Ore Map",
+          "disc": "blighted",
+          "text": "Blighted Crystal Ore Map"
+        },
+        {
+          "type": "Cursed Crypt Map",
+          "disc": "blighted",
+          "text": "Blighted Cursed Crypt Map"
+        },
+        {
+          "type": "Cursed Crypt Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Cursed Crypt Map"
+        },
+        {
+          "type": "Dark Forest Map",
+          "disc": "blighted",
+          "text": "Blighted Dark Forest Map"
+        },
+        {
+          "type": "Dark Forest Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Dark Forest Map"
+        },
+        {
+          "type": "Defiled Cathedral Map",
+          "disc": "blighted",
+          "text": "Blighted Defiled Cathedral Map"
+        },
+        {
+          "type": "Defiled Cathedral Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Defiled Cathedral Map"
+        },
+        {
+          "type": "Desert Map",
+          "disc": "blighted",
+          "text": "Blighted Desert Map"
+        },
+        {
+          "type": "Desert Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Desert Map"
+        },
+        {
+          "type": "Desert Spring Map",
+          "disc": "blighted",
+          "text": "Blighted Desert Spring Map"
+        },
+        {
+          "type": "Desert Spring Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Desert Spring Map"
+        },
+        { "type": "Dig Map", "disc": "blighted", "text": "Blighted Dig Map" },
+        {
+          "type": "Dig Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Dig Map"
+        },
+        {
+          "type": "Dry Sea Map",
+          "disc": "blighted",
+          "text": "Blighted Dry Sea Map"
+        },
+        {
+          "type": "Dry Sea Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Dry Sea Map"
+        },
+        {
+          "type": "Dunes Map",
+          "disc": "blighted",
+          "text": "Blighted Dunes Map"
+        },
+        {
+          "type": "Dunes Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Dunes Map"
+        },
+        {
+          "type": "Dungeon Map",
+          "disc": "blighted",
+          "text": "Blighted Dungeon Map"
+        },
+        {
+          "type": "Dungeon Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Dungeon Map"
+        },
+        {
+          "type": "Estuary Map",
+          "disc": "blighted",
+          "text": "Blighted Estuary Map"
+        },
+        {
+          "type": "Estuary Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Estuary Map"
+        },
+        {
+          "type": "Excavation Map",
+          "disc": "blighted",
+          "text": "Blighted Excavation Map"
+        },
+        {
+          "type": "Factory Map",
+          "disc": "blighted",
+          "text": "Blighted Factory Map"
+        },
+        {
+          "type": "Fields Map",
+          "disc": "blighted",
+          "text": "Blighted Fields Map"
+        },
+        {
+          "type": "Fields Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Fields Map"
+        },
+        {
+          "type": "Flooded Mine Map",
+          "disc": "blighted",
+          "text": "Blighted Flooded Mine Map"
+        },
+        {
+          "type": "Flooded Mine Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Flooded Mine Map"
+        },
+        {
+          "type": "Forbidden Woods Map",
+          "disc": "blighted",
+          "text": "Blighted Forbidden Woods Map"
+        },
+        {
+          "type": "Forbidden Woods Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Forbidden Woods Map"
+        },
+        {
+          "type": "Forking River Map",
+          "disc": "blighted",
+          "text": "Blighted Forking River Map"
+        },
+        {
+          "type": "Forking River Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Forking River Map"
+        },
+        {
+          "type": "Foundry Map",
+          "disc": "blighted",
+          "text": "Blighted Foundry Map"
+        },
+        {
+          "type": "Foundry Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Foundry Map"
+        },
+        {
+          "type": "Frozen Cabins Map",
+          "disc": "blighted",
+          "text": "Blighted Frozen Cabins Map"
+        },
+        {
+          "type": "Gardens Map",
+          "disc": "blighted",
+          "text": "Blighted Gardens Map"
+        },
+        {
+          "type": "Gardens Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Gardens Map"
+        },
+        {
+          "type": "Geode Map",
+          "disc": "blighted",
+          "text": "Blighted Geode Map"
+        },
+        {
+          "type": "Geode Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Geode Map"
+        },
+        {
+          "type": "Ghetto Map",
+          "disc": "blighted",
+          "text": "Blighted Ghetto Map"
+        },
+        {
+          "type": "Ghetto Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Ghetto Map"
+        },
+        {
+          "type": "Glacier Map",
+          "disc": "blighted",
+          "text": "Blighted Glacier Map"
+        },
+        {
+          "type": "Glacier Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Glacier Map"
+        },
+        {
+          "type": "Grave Trough Map",
+          "disc": "blighted",
+          "text": "Blighted Grave Trough Map"
+        },
+        {
+          "type": "Grave Trough Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Grave Trough Map"
+        },
+        {
+          "type": "Graveyard Map",
+          "disc": "blighted",
+          "text": "Blighted Graveyard Map"
+        },
+        {
+          "type": "Graveyard Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Graveyard Map"
+        },
+        {
+          "type": "Grotto Map",
+          "disc": "blighted",
+          "text": "Blighted Grotto Map"
+        },
+        {
+          "type": "Grotto Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Grotto Map"
+        },
+        {
+          "type": "Haunted Mansion Map",
+          "disc": "blighted",
+          "text": "Blighted Haunted Mansion Map"
+        },
+        {
+          "type": "Haunted Mansion Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Haunted Mansion Map"
+        },
+        {
+          "type": "Iceberg Map",
+          "disc": "blighted",
+          "text": "Blighted Iceberg Map"
+        },
+        {
+          "type": "Iceberg Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Iceberg Map"
+        },
+        {
+          "type": "Infested Valley Map",
+          "disc": "blighted",
+          "text": "Blighted Infested Valley Map"
+        },
+        {
+          "type": "Infested Valley Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Infested Valley Map"
+        },
+        {
+          "type": "Ivory Temple Map",
+          "disc": "blighted",
+          "text": "Blighted Ivory Temple Map"
+        },
+        {
+          "type": "Ivory Temple Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Ivory Temple Map"
+        },
+        {
+          "type": "Jungle Valley Map",
+          "disc": "blighted",
+          "text": "Blighted Jungle Valley Map"
+        },
+        {
+          "type": "Jungle Valley Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Jungle Valley Map"
+        },
+        {
+          "type": "Laboratory Map",
+          "disc": "blighted",
+          "text": "Blighted Laboratory Map"
+        },
+        {
+          "type": "Laboratory Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Laboratory Map"
+        },
+        { "type": "Lair Map", "disc": "blighted", "text": "Blighted Lair Map" },
+        {
+          "type": "Lair Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Lair Map"
+        },
+        {
+          "type": "Lava Chamber Map",
+          "disc": "blighted",
+          "text": "Blighted Lava Chamber Map"
+        },
+        {
+          "type": "Lava Chamber Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Lava Chamber Map"
+        },
+        {
+          "type": "Lava Lake Map",
+          "disc": "blighted",
+          "text": "Blighted Lava Lake Map"
+        },
+        {
+          "type": "Lava Lake Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Lava Lake Map"
+        },
+        {
+          "type": "Leyline Map",
+          "disc": "blighted",
+          "text": "Blighted Leyline Map"
+        },
+        {
+          "type": "Leyline Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Leyline Map"
+        },
+        {
+          "type": "Lighthouse Map",
+          "disc": "blighted",
+          "text": "Blighted Lighthouse Map"
+        },
+        {
+          "type": "Lighthouse Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Lighthouse Map"
+        },
+        {
+          "type": "Lookout Map",
+          "disc": "blighted",
+          "text": "Blighted Lookout Map"
+        },
+        {
+          "type": "Lookout Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Lookout Map"
+        },
+        {
+          "type": "Malformation Map",
+          "disc": "blighted",
+          "text": "Blighted Malformation Map"
+        },
+        {
+          "type": "Malformation Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Malformation Map"
+        },
+        {
+          "type": "Marshes Map",
+          "disc": "blighted",
+          "text": "Blighted Marshes Map"
+        },
+        {
+          "type": "Marshes Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Marshes Map"
+        },
+        {
+          "type": "Mausoleum Map",
+          "disc": "blighted",
+          "text": "Blighted Mausoleum Map"
+        },
+        {
+          "type": "Mausoleum Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Mausoleum Map"
+        },
+        { "type": "Maze Map", "disc": "blighted", "text": "Blighted Maze Map" },
+        {
+          "type": "Maze Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Maze Map"
+        },
+        { "type": "Mesa Map", "disc": "blighted", "text": "Blighted Mesa Map" },
+        {
+          "type": "Mesa Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Mesa Map"
+        },
+        {
+          "type": "Mineral Pools Map",
+          "disc": "blighted",
+          "text": "Blighted Mineral Pools Map"
+        },
+        {
+          "type": "Mineral Pools Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Mineral Pools Map"
+        },
+        {
+          "type": "Moon Temple Map",
+          "disc": "blighted",
+          "text": "Blighted Moon Temple Map"
+        },
+        {
+          "type": "Moon Temple Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Moon Temple Map"
+        },
+        {
+          "type": "Mud Geyser Map",
+          "disc": "blighted",
+          "text": "Blighted Mud Geyser Map"
+        },
+        {
+          "type": "Mud Geyser Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Mud Geyser Map"
+        },
+        {
+          "type": "Museum Map",
+          "disc": "blighted",
+          "text": "Blighted Museum Map"
+        },
+        {
+          "type": "Museum Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Museum Map"
+        },
+        {
+          "type": "Necropolis Map",
+          "disc": "blighted",
+          "text": "Blighted Necropolis Map"
+        },
+        {
+          "type": "Necropolis Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Necropolis Map"
+        },
+        {
+          "type": "Orchard Map",
+          "disc": "blighted",
+          "text": "Blighted Orchard Map"
+        },
+        {
+          "type": "Orchard Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Orchard Map"
+        },
+        {
+          "type": "Overgrown Ruin Map",
+          "disc": "blighted",
+          "text": "Blighted Overgrown Ruin Map"
+        },
+        {
+          "type": "Overgrown Ruin Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Overgrown Ruin Map"
+        },
+        {
+          "type": "Overgrown Shrine Map",
+          "disc": "blighted",
+          "text": "Blighted Overgrown Shrine Map"
+        },
+        {
+          "type": "Overgrown Shrine Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Overgrown Shrine Map"
+        },
+        {
+          "type": "Palace Map",
+          "disc": "blighted",
+          "text": "Blighted Palace Map"
+        },
+        {
+          "type": "Palace Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Palace Map"
+        },
+        { "type": "Park Map", "disc": "blighted", "text": "Blighted Park Map" },
+        {
+          "type": "Park Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Park Map"
+        },
+        { "type": "Pen Map", "disc": "blighted", "text": "Blighted Pen Map" },
+        {
+          "type": "Pen Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Pen Map"
+        },
+        {
+          "type": "Peninsula Map",
+          "disc": "blighted",
+          "text": "Blighted Peninsula Map"
+        },
+        {
+          "type": "Peninsula Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Peninsula Map"
+        },
+        {
+          "type": "Phantasmagoria Map",
+          "disc": "blighted",
+          "text": "Blighted Phantasmagoria Map"
+        },
+        {
+          "type": "Phantasmagoria Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Phantasmagoria Map"
+        },
+        { "type": "Pier Map", "disc": "blighted", "text": "Blighted Pier Map" },
+        { "type": "Pit Map", "disc": "blighted", "text": "Blighted Pit Map" },
+        {
+          "type": "Pit Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Pit Map"
+        },
+        {
+          "type": "Plateau Map",
+          "disc": "blighted",
+          "text": "Blighted Plateau Map"
+        },
+        {
+          "type": "Plateau Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Plateau Map"
+        },
+        {
+          "type": "Plaza Map",
+          "disc": "blighted",
+          "text": "Blighted Plaza Map"
+        },
+        {
+          "type": "Plaza Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Plaza Map"
+        },
+        { "type": "Port Map", "disc": "blighted", "text": "Blighted Port Map" },
+        {
+          "type": "Port Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Port Map"
+        },
+        {
+          "type": "Precinct Map",
+          "disc": "blighted",
+          "text": "Blighted Precinct Map"
+        },
+        {
+          "type": "Precinct Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Precinct Map"
+        },
+        {
+          "type": "Primordial Pool Map",
+          "disc": "blighted",
+          "text": "Blighted Primordial Pool Map"
+        },
+        {
+          "type": "Primordial Pool Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Primordial Pool Map"
+        },
+        {
+          "type": "Promenade Map",
+          "disc": "blighted",
+          "text": "Blighted Promenade Map"
+        },
+        {
+          "type": "Promenade Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Promenade Map"
+        },
+        {
+          "type": "Racecourse Map",
+          "disc": "blighted",
+          "text": "Blighted Racecourse Map"
+        },
+        {
+          "type": "Racecourse Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Racecourse Map"
+        },
+        {
+          "type": "Ramparts Map",
+          "disc": "blighted",
+          "text": "Blighted Ramparts Map"
+        },
+        {
+          "type": "Ramparts Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Ramparts Map"
+        },
+        { "type": "Reef Map", "disc": "blighted", "text": "Blighted Reef Map" },
+        {
+          "type": "Reef Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Reef Map"
+        },
+        {
+          "type": "Relic Chambers Map",
+          "disc": "blighted",
+          "text": "Blighted Relic Chambers Map"
+        },
+        {
+          "type": "Relic Chambers Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Relic Chambers Map"
+        },
+        {
+          "type": "Residence Map",
+          "disc": "blighted",
+          "text": "Blighted Residence Map"
+        },
+        {
+          "type": "Residence Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Residence Map"
+        },
+        {
+          "type": "Scriptorium Map",
+          "disc": "blighted",
+          "text": "Blighted Scriptorium Map"
+        },
+        {
+          "type": "Sepulchre Map",
+          "disc": "blighted",
+          "text": "Blighted Sepulchre Map"
+        },
+        {
+          "type": "Sepulchre Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Sepulchre Map"
+        },
+        {
+          "type": "Shipyard Map",
+          "disc": "blighted",
+          "text": "Blighted Shipyard Map"
+        },
+        {
+          "type": "Shipyard Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Shipyard Map"
+        },
+        {
+          "type": "Shore Map",
+          "disc": "blighted",
+          "text": "Blighted Shore Map"
+        },
+        {
+          "type": "Shore Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Shore Map"
+        },
+        {
+          "type": "Shrine Map",
+          "disc": "blighted",
+          "text": "Blighted Shrine Map"
+        },
+        {
+          "type": "Shrine Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Shrine Map"
+        },
+        {
+          "type": "Siege Map",
+          "disc": "blighted",
+          "text": "Blighted Siege Map"
+        },
+        {
+          "type": "Siege Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Siege Map"
+        },
+        { "type": "Silo Map", "disc": "blighted", "text": "Blighted Silo Map" },
+        {
+          "type": "Silo Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Silo Map"
+        },
+        {
+          "type": "Spider Forest Map",
+          "disc": "blighted",
+          "text": "Blighted Spider Forest Map"
+        },
+        {
+          "type": "Spider Forest Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Spider Forest Map"
+        },
+        {
+          "type": "Spider Lair Map",
+          "disc": "blighted",
+          "text": "Blighted Spider Lair Map"
+        },
+        {
+          "type": "Spider Lair Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Spider Lair Map"
+        },
+        {
+          "type": "Fungal Hollow Map",
+          "disc": "blighted",
+          "text": "Blighted Fungal Hollow Map"
+        },
+        {
+          "type": "Fungal Hollow Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Fungal Hollow Map"
+        },
+        {
+          "type": "Stagnation Map",
+          "disc": "blighted",
+          "text": "Blighted Stagnation Map"
+        },
+        {
+          "type": "Stagnation Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Stagnation Map"
+        },
+        {
+          "type": "Strand Map",
+          "disc": "blighted",
+          "text": "Blighted Strand Map"
+        },
+        {
+          "type": "Strand Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Strand Map"
+        },
+        {
+          "type": "Sulphur Vents Map",
+          "disc": "blighted",
+          "text": "Blighted Sulphur Vents Map"
+        },
+        {
+          "type": "Sulphur Vents Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Sulphur Vents Map"
+        },
+        {
+          "type": "Summit Map",
+          "disc": "blighted",
+          "text": "Blighted Summit Map"
+        },
+        {
+          "type": "Summit Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Summit Map"
+        },
+        {
+          "type": "Sunken City Map",
+          "disc": "blighted",
+          "text": "Blighted Sunken City Map"
+        },
+        {
+          "type": "Sunken City Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Sunken City Map"
+        },
+        {
+          "type": "Temple Map",
+          "disc": "blighted",
+          "text": "Blighted Temple Map"
+        },
+        {
+          "type": "Temple Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Temple Map"
+        },
+        {
+          "type": "Terrace Map",
+          "disc": "blighted",
+          "text": "Blighted Terrace Map"
+        },
+        {
+          "type": "Terrace Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Terrace Map"
+        },
+        {
+          "type": "Thicket Map",
+          "disc": "blighted",
+          "text": "Blighted Thicket Map"
+        },
+        {
+          "type": "Thicket Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Thicket Map"
+        },
+        {
+          "type": "Primordial Blocks Map",
+          "disc": "blighted",
+          "text": "Blighted Primordial Blocks Map"
+        },
+        {
+          "type": "Primordial Blocks Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Primordial Blocks Map"
+        },
+        {
+          "type": "Tower Map",
+          "disc": "blighted",
+          "text": "Blighted Tower Map"
+        },
+        {
+          "type": "Tower Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Tower Map"
+        },
+        {
+          "type": "Toxic Sewer Map",
+          "disc": "blighted",
+          "text": "Blighted Toxic Sewer Map"
+        },
+        {
+          "type": "Toxic Sewer Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Toxic Sewer Map"
+        },
+        {
+          "type": "Crater Map",
+          "disc": "blighted",
+          "text": "Blighted Crater Map"
+        },
+        {
+          "type": "Tropical Island Map",
+          "disc": "blighted",
+          "text": "Blighted Tropical Island Map"
+        },
+        {
+          "type": "Tropical Island Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Tropical Island Map"
+        },
+        {
+          "type": "Underground River Map",
+          "disc": "blighted",
+          "text": "Blighted Underground River Map"
+        },
+        {
+          "type": "Underground River Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Underground River Map"
+        },
+        {
+          "type": "Underground Sea Map",
+          "disc": "blighted",
+          "text": "Blighted Underground Sea Map"
+        },
+        {
+          "type": "Underground Sea Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Underground Sea Map"
+        },
+        {
+          "type": "Vaal Pyramid Map",
+          "disc": "blighted",
+          "text": "Blighted Vaal Pyramid Map"
+        },
+        {
+          "type": "Vault Map",
+          "disc": "blighted",
+          "text": "Blighted Vault Map"
+        },
+        {
+          "type": "Vault Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Vault Map"
+        },
+        {
+          "type": "Villa Map",
+          "disc": "blighted",
+          "text": "Blighted Villa Map"
+        },
+        {
+          "type": "Villa Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Villa Map"
+        },
+        {
+          "type": "Volcano Map",
+          "disc": "blighted",
+          "text": "Blighted Volcano Map"
+        },
+        {
+          "type": "Volcano Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Volcano Map"
+        },
+        {
+          "type": "Wasteland Map",
+          "disc": "blighted",
+          "text": "Blighted Wasteland Map"
+        },
+        {
+          "type": "Wasteland Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Wasteland Map"
+        },
+        {
+          "type": "Waste Pool Map",
+          "disc": "blighted",
+          "text": "Blighted Waste Pool Map"
+        },
+        {
+          "type": "Waste Pool Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Waste Pool Map"
+        },
+        {
+          "type": "Waterways Map",
+          "disc": "blighted",
+          "text": "Blighted Waterways Map"
+        },
+        {
+          "type": "Wharf Map",
+          "disc": "blighted",
+          "text": "Blighted Wharf Map"
+        },
+        {
+          "type": "Wharf Map",
+          "disc": "uberblighted",
+          "text": "Blight-ravaged Wharf Map"
         }
       ]
     },
@@ -17892,6 +19863,12 @@
           "flags": { "unique": true }
         },
         {
+          "name": "Maata's Teaching",
+          "type": "Karui Sceptre",
+          "text": "Maata's Teaching Karui Sceptre",
+          "flags": { "unique": true }
+        },
+        {
           "name": "Mark of the Doubting Knight",
           "type": "Platinum Kris",
           "text": "Mark of the Doubting Knight Platinum Kris",
@@ -18093,6 +20070,12 @@
           "name": "Quill Rain",
           "type": "Short Bow",
           "text": "Quill Rain Short Bow",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "Rakiata's Dance",
+          "type": "Engraved Greatsword",
+          "text": "Rakiata's Dance Engraved Greatsword",
           "flags": { "unique": true }
         },
         {
@@ -20159,7 +22142,7 @@
     },
     {
       "id": "heistequipment",
-      "label": "",
+      "label": "Heist Equipment",
       "entries": [
         { "type": "Eelskin Sole", "text": "Eelskin Sole" },
         { "type": "Foxhide Sole", "text": "Foxhide Sole" },
@@ -20230,7 +22213,7 @@
     },
     {
       "id": "heistmission",
-      "label": "",
+      "label": "Heist Mission",
       "entries": [
         {
           "name": "Contract: Breaking the Unbreakable",
@@ -20307,14 +22290,100 @@
     },
     {
       "id": "logbook",
-      "label": "",
+      "label": "Expedition Logbooks",
       "entries": [
         { "type": "Expedition Logbook", "text": "Expedition Logbook" }
       ]
     },
     {
+      "id": "sanctum",
+      "label": "Sanctum Research",
+      "entries": [
+        {
+          "name": "The Blood of Innocence",
+          "type": "Censer Relic",
+          "text": "The Blood of Innocence Censer Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Broken Censer",
+          "type": "Tome Relic",
+          "text": "The Broken Censer Tome Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Chains of Castigation",
+          "type": "Processional Relic",
+          "text": "The Chains of Castigation Processional Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The First Crest",
+          "type": "Coffer Relic",
+          "text": "The First Crest Coffer Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Gilded Chalice",
+          "type": "Processional Relic",
+          "text": "The Gilded Chalice Processional Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Hour of Divinity",
+          "type": "Censer Relic",
+          "text": "The Hour of Divinity Censer Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Night Lamp",
+          "type": "Urn Relic",
+          "text": "The Night Lamp Urn Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Original Scripture",
+          "type": "Papyrus Relic",
+          "text": "The Original Scripture Papyrus Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Power and the Promise",
+          "type": "Tome Relic",
+          "text": "The Power and the Promise Tome Relic",
+          "flags": { "unique": true }
+        },
+        {
+          "name": "The Second Sacrament",
+          "type": "Candlestick Relic",
+          "text": "The Second Sacrament Candlestick Relic",
+          "flags": { "unique": true }
+        },
+        { "type": "Censer Relic", "text": "Censer Relic" },
+        { "type": "Processional Relic", "text": "Processional Relic" },
+        { "type": "Candlestick Relic", "text": "Candlestick Relic" },
+        { "type": "Urn Relic", "text": "Urn Relic" },
+        { "type": "Coffer Relic", "text": "Coffer Relic" },
+        { "type": "Tome Relic", "text": "Tome Relic" },
+        { "type": "Papyrus Relic", "text": "Papyrus Relic" },
+        {
+          "type": "Sanctum Vaults Research",
+          "text": "Sanctum Vaults Research"
+        },
+        {
+          "type": "Sanctum Cathedral Research",
+          "text": "Sanctum Cathedral Research"
+        },
+        {
+          "type": "Sanctum Necropolis Research",
+          "text": "Sanctum Necropolis Research"
+        },
+        { "type": "Forbidden Tome", "text": "Forbidden Tome" }
+      ]
+    },
+    {
       "id": "sentinel",
-      "label": "",
+      "label": "Sentinels",
       "entries": [
         {
           "name": "Escalation",

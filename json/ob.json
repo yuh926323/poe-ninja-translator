@@ -1,48 +1,48 @@
 [
     {
-        "0": "Precursor's Emblem Two-Stone Ring",
+        "0": "Precursor's Emblem Ruby Ring",
         "1": "Precursor's Emblem Topaz Ring",
         "2": "Precursor's Emblem Sapphire Ring",
-        "3": "Precursor's Emblem Ruby Ring",
-        "4": "Precursor's Emblem Prismatic Ring",
+        "3": "Precursor's Emblem Prismatic Ring",
+        "4": "Precursor's Emblem Two-Stone Ring",
         "name": "Precursor's Emblem",
-        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+        "name_zh_tw": "先引之征 紅玉戒指 (Precursor's Emblem Ruby Ring)"
     },
     {
-        "0": "Precursor's Emblem Two-Stone Ring",
+        "0": "Precursor's Emblem Ruby Ring",
         "1": "Precursor's Emblem Topaz Ring",
         "2": "Precursor's Emblem Sapphire Ring",
-        "3": "Precursor's Emblem Ruby Ring",
-        "4": "Precursor's Emblem Prismatic Ring",
+        "3": "Precursor's Emblem Prismatic Ring",
+        "4": "Precursor's Emblem Two-Stone Ring",
         "name": "Precursor's Emblem",
-        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+        "name_zh_tw": "先引之征 紅玉戒指 (Precursor's Emblem Ruby Ring)"
     },
     {
-        "0": "Precursor's Emblem Two-Stone Ring",
+        "0": "Precursor's Emblem Ruby Ring",
         "1": "Precursor's Emblem Topaz Ring",
         "2": "Precursor's Emblem Sapphire Ring",
-        "3": "Precursor's Emblem Ruby Ring",
-        "4": "Precursor's Emblem Prismatic Ring",
+        "3": "Precursor's Emblem Prismatic Ring",
+        "4": "Precursor's Emblem Two-Stone Ring",
         "name": "Precursor's Emblem",
-        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+        "name_zh_tw": "先引之征 紅玉戒指 (Precursor's Emblem Ruby Ring)"
     },
     {
-        "0": "Precursor's Emblem Two-Stone Ring",
+        "0": "Precursor's Emblem Ruby Ring",
         "1": "Precursor's Emblem Topaz Ring",
         "2": "Precursor's Emblem Sapphire Ring",
-        "3": "Precursor's Emblem Ruby Ring",
-        "4": "Precursor's Emblem Prismatic Ring",
+        "3": "Precursor's Emblem Prismatic Ring",
+        "4": "Precursor's Emblem Two-Stone Ring",
         "name": "Precursor's Emblem",
-        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+        "name_zh_tw": "先引之征 紅玉戒指 (Precursor's Emblem Ruby Ring)"
     },
     {
-        "0": "Precursor's Emblem Two-Stone Ring",
+        "0": "Precursor's Emblem Ruby Ring",
         "1": "Precursor's Emblem Topaz Ring",
         "2": "Precursor's Emblem Sapphire Ring",
-        "3": "Precursor's Emblem Ruby Ring",
-        "4": "Precursor's Emblem Prismatic Ring",
+        "3": "Precursor's Emblem Prismatic Ring",
+        "4": "Precursor's Emblem Two-Stone Ring",
         "name": "Precursor's Emblem",
-        "name_zh_tw": "先引之征 雙玉戒指 (Precursor's Emblem Two-Stone Ring)"
+        "name_zh_tw": "先引之征 紅玉戒指 (Precursor's Emblem Ruby Ring)"
     },
     {
         "0": "Cloth Belt",
@@ -52,30 +52,30 @@
     },
     {
         "0": "Ring",
-        "1": "Ringmail Boots",
-        "2": "Ringmail Coat",
+        "1": "Ringmail Coat",
+        "2": "Ringmail Boots",
         "3": "Ringmail Gloves",
         "name": "Ring",
         "name_zh_tw": "戒指 (Ring)"
     },
     {
         "0": "Doryani's Delusion Slink Boots",
-        "1": "Doryani's Delusion Sorcerer Boots",
-        "2": "Doryani's Delusion Titan Greaves",
+        "1": "Doryani's Delusion Titan Greaves",
+        "2": "Doryani's Delusion Sorcerer Boots",
         "name": "Doryani's Delusion",
         "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
     },
     {
         "0": "Doryani's Delusion Slink Boots",
-        "1": "Doryani's Delusion Sorcerer Boots",
-        "2": "Doryani's Delusion Titan Greaves",
+        "1": "Doryani's Delusion Titan Greaves",
+        "2": "Doryani's Delusion Sorcerer Boots",
         "name": "Doryani's Delusion",
         "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
     },
     {
         "0": "Doryani's Delusion Slink Boots",
-        "1": "Doryani's Delusion Sorcerer Boots",
-        "2": "Doryani's Delusion Titan Greaves",
+        "1": "Doryani's Delusion Titan Greaves",
+        "2": "Doryani's Delusion Sorcerer Boots",
         "name": "Doryani's Delusion",
         "name_zh_tw": "多里亞尼的幻想 迷蹤短靴 (Doryani's Delusion Slink Boots)"
     },
@@ -99,14 +99,14 @@
     },
     {
         "0": "Death",
-        "1": "Deathly Designs",
-        "2": "Death Bow",
-        "3": "Death and Taxes Necropolis Map",
+        "1": "Death Bow",
+        "2": "Deathly Designs",
+        "3": "Death's Harp Death Bow",
         "4": "Death Rush Amethyst Ring",
-        "5": "Death's Door Crusader Boots",
+        "5": "Death's Oath Astral Plate",
         "6": "Death's Hand Karui Sceptre",
-        "7": "Death's Harp Death Bow",
-        "8": "Death's Oath Astral Plate",
+        "7": "Death's Door Crusader Boots",
+        "8": "Death and Taxes Necropolis Map",
         "name": "Death",
         "name_zh_tw": "死亡 (Death)"
     },
@@ -208,55 +208,55 @@
         "name_zh_tw": "彪狼 (The Wolf)"
     },
     {
-        "0": "Gold Amulet",
-        "1": "Gold Flask",
-        "2": "Gold Ring",
-        "3": "Golden Blade",
-        "4": "Golden Bracers",
-        "5": "Golden Brooch",
-        "6": "Golden Buckler",
-        "7": "Golden Caligae",
-        "8": "Golden Flame",
-        "9": "Golden Hoop",
-        "10": "Golden Kris",
-        "11": "Golden Mantle",
-        "12": "Golden Mask",
-        "13": "Golden Obi",
-        "14": "Golden Oil",
-        "15": "Golden Plate",
-        "16": "Golden Visage",
-        "17": "Golden Wreath",
+        "0": "Gold Ring",
+        "1": "Golden Obi",
+        "2": "Golden Oil",
+        "3": "Gold Flask",
+        "4": "Gold Amulet",
+        "5": "Golden Hoop",
+        "6": "Golden Kris",
+        "7": "Golden Mask",
+        "8": "Golden Plate",
+        "9": "Golden Blade",
+        "10": "Golden Flame",
+        "11": "Golden Wreath",
+        "12": "Golden Mantle",
+        "13": "Golden Brooch",
+        "14": "Golden Visage",
+        "15": "Golden Buckler",
+        "16": "Golden Caligae",
+        "17": "Golden Bracers",
         "18": "Goldrim Leather Cap",
         "19": "Goldwyrm Nubuck Boots",
         "name": "Gold",
-        "name_zh_tw": "帝金護身符 (Gold Amulet)"
+        "name_zh_tw": "金光戒指 (Gold Ring)"
     },
     {
         "0": "Ambush",
-        "1": "Ambush Boots",
-        "2": "Ambush Mitts",
-        "3": "Ambusher",
+        "1": "Ambusher",
+        "2": "Ambush Boots",
+        "3": "Ambush Mitts",
         "name": "Ambush",
         "name_zh_tw": "伏擊 (Ambush)"
     },
     {
-        "0": "Arctic Wolf",
-        "1": "Arc",
-        "2": "Arcane Cloak",
-        "3": "Arcane Surge Support",
-        "4": "Arcanist Brand",
-        "5": "Archmage Support",
-        "6": "Arctic Armour",
-        "7": "Arcade Map",
-        "8": "Arcanist Gloves",
+        "0": "Arc",
+        "1": "Arcade Map",
+        "2": "Arctic Wolf",
+        "3": "Arcane Cloak",
+        "4": "Arctic Armour",
+        "5": "Arcanist Brand",
+        "6": "Arcanist Gloves",
+        "7": "Archdemon Crown",
+        "8": "Archmage Support",
         "9": "Arcanist Slippers",
-        "10": "Archdemon Crown",
-        "11": "Archive Reliquary Key",
-        "12": "Archon Kite Shield",
+        "10": "Archon Kite Shield",
+        "11": "Arcane Surge Support",
+        "12": "Archive Reliquary Key",
         "13": "Archon Kite Shield Piece",
         "14": "Architect's Hand Ambush Mitts",
         "name": "Arc",
-        "name_zh_tw": "極地狼 (Arctic Wolf)"
+        "name_zh_tw": "電弧 (Arc)"
     },
     {
         "0": "Barrage",
@@ -266,10 +266,10 @@
     },
     {
         "0": "Blight",
-        "1": "Blight-ravaged Map",
-        "2": "Blighted Delirium Orb",
+        "1": "Blighted Map",
+        "2": "Blight-ravaged Map",
         "3": "Blighted Incubator",
-        "4": "Blighted Map",
+        "4": "Blighted Delirium Orb",
         "5": "Blighted Scouting Report",
         "6": "Blightwell Clutching Talisman",
         "name": "Blight",
@@ -283,8 +283,8 @@
     },
     {
         "0": "Snipe",
-        "1": "Sniper's Mark",
-        "2": "Sniper Bow",
+        "1": "Sniper Bow",
+        "2": "Sniper's Mark",
         "name": "Snipe",
         "name_zh_tw": "Snipe (Snipe)"
     },
@@ -295,10 +295,10 @@
         "name_zh_tw": "劈砍 (Cleave)"
     },
     {
-        "0": "Desecrated Virtue",
-        "1": "Desecrate",
+        "0": "Desecrate",
+        "1": "Desecrated Virtue",
         "name": "Desecrate",
-        "name_zh_tw": "褻瀆的美德 (Desecrated Virtue)"
+        "name_zh_tw": "褻瀆 (Desecrate)"
     },
     {
         "0": "Grace",
@@ -313,17 +313,17 @@
         "name_zh_tw": "時空之門 (Portal)"
     },
     {
-        "0": "Pride Before the Fall",
-        "1": "Pride of the First Ones",
-        "2": "Pride",
+        "0": "Pride",
+        "1": "Pride Before the Fall",
+        "2": "Pride of the First Ones",
         "name": "Pride",
-        "name_zh_tw": "驕者必敗 (Pride Before the Fall)"
+        "name_zh_tw": "驕傲 (Pride)"
     },
     {
         "0": "Reave",
         "1": "Reaver Axe",
-        "2": "Reaver Helmet",
-        "3": "Reaver Sword",
+        "2": "Reaver Sword",
+        "3": "Reaver Helmet",
         "name": "Reave",
         "name_zh_tw": "衝擊波 (Reave)"
     },
@@ -341,8 +341,8 @@
     },
     {
         "0": "Tornado",
-        "1": "Tornado Shot",
-        "2": "Tornado Wand",
+        "1": "Tornado Wand",
+        "2": "Tornado Shot",
         "name": "Tornado",
         "name_zh_tw": "龍捲風 (Tornado)"
     },
@@ -360,46 +360,46 @@
         "name_zh_tw": "死亡凋零 (Wither)"
     },
     {
-        "0": "Combat Focus Viridian Jewel",
-        "1": "Combat Focus Cobalt Jewel",
-        "2": "Combat Focus Crimson Jewel",
+        "0": "Combat Focus Cobalt Jewel",
+        "1": "Combat Focus Crimson Jewel",
+        "2": "Combat Focus Viridian Jewel",
         "name": "Combat Focus",
-        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+        "name_zh_tw": "專精作戰 鈷藍珠寶 (Combat Focus Cobalt Jewel)"
     },
     {
-        "0": "Combat Focus Viridian Jewel",
-        "1": "Combat Focus Cobalt Jewel",
-        "2": "Combat Focus Crimson Jewel",
+        "0": "Combat Focus Cobalt Jewel",
+        "1": "Combat Focus Crimson Jewel",
+        "2": "Combat Focus Viridian Jewel",
         "name": "Combat Focus",
-        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+        "name_zh_tw": "專精作戰 鈷藍珠寶 (Combat Focus Cobalt Jewel)"
     },
     {
-        "0": "Combat Focus Viridian Jewel",
-        "1": "Combat Focus Cobalt Jewel",
-        "2": "Combat Focus Crimson Jewel",
+        "0": "Combat Focus Cobalt Jewel",
+        "1": "Combat Focus Crimson Jewel",
+        "2": "Combat Focus Viridian Jewel",
         "name": "Combat Focus",
-        "name_zh_tw": "專精作戰 翠綠珠寶 (Combat Focus Viridian Jewel)"
+        "name_zh_tw": "專精作戰 鈷藍珠寶 (Combat Focus Cobalt Jewel)"
     },
     {
-        "0": "Grand Spectrum Viridian Jewel",
-        "1": "Grand Spectrum Cobalt Jewel",
-        "2": "Grand Spectrum Crimson Jewel",
+        "0": "Grand Spectrum Cobalt Jewel",
+        "1": "Grand Spectrum Crimson Jewel",
+        "2": "Grand Spectrum Viridian Jewel",
         "name": "Grand Spectrum",
-        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+        "name_zh_tw": "巨光譜 鈷藍珠寶 (Grand Spectrum Cobalt Jewel)"
     },
     {
-        "0": "Grand Spectrum Viridian Jewel",
-        "1": "Grand Spectrum Cobalt Jewel",
-        "2": "Grand Spectrum Crimson Jewel",
+        "0": "Grand Spectrum Cobalt Jewel",
+        "1": "Grand Spectrum Crimson Jewel",
+        "2": "Grand Spectrum Viridian Jewel",
         "name": "Grand Spectrum",
-        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+        "name_zh_tw": "巨光譜 鈷藍珠寶 (Grand Spectrum Cobalt Jewel)"
     },
     {
-        "0": "Grand Spectrum Viridian Jewel",
-        "1": "Grand Spectrum Cobalt Jewel",
-        "2": "Grand Spectrum Crimson Jewel",
+        "0": "Grand Spectrum Cobalt Jewel",
+        "1": "Grand Spectrum Crimson Jewel",
+        "2": "Grand Spectrum Viridian Jewel",
         "name": "Grand Spectrum",
-        "name_zh_tw": "巨光譜 翠綠珠寶 (Grand Spectrum Viridian Jewel)"
+        "name_zh_tw": "巨光譜 鈷藍珠寶 (Grand Spectrum Cobalt Jewel)"
     },
     {
         "0": "Simulacrum",
@@ -409,9 +409,9 @@
     },
     {
         "0": "Agnerod East Imperial Staff",
-        "1": "Agnerod North Imperial Staff",
-        "2": "Agnerod South Imperial Staff",
-        "3": "Agnerod West Imperial Staff",
+        "1": "Agnerod West Imperial Staff",
+        "2": "Agnerod North Imperial Staff",
+        "3": "Agnerod South Imperial Staff",
         "name": "Agnerod",
         "name_zh_tw": "東方雷霆聖杖 帝國長杖 (Agnerod East Imperial Staff)"
     },
@@ -429,11 +429,11 @@
         "name_zh_tw": "收割者 (The Harvester)"
     },
     {
-        "0": "The Tempest's Binding Callous Mask",
-        "1": "The Tempest's Liberation Callous Mask",
-        "2": "The Tempestuous Steel War Sword",
+        "0": "The Tempestuous Steel War Sword",
+        "1": "The Tempest's Binding Callous Mask",
+        "2": "The Tempest's Liberation Callous Mask",
         "name": "The Tempest",
-        "name_zh_tw": "風暴的拘束 無情之面 (The Tempest's Binding Callous Mask)"
+        "name_zh_tw": "暴風之鋼 征戰之劍 (The Tempestuous Steel War Sword)"
     },
     {
         "0": "Sai",
@@ -449,11 +449,11 @@
         "name_zh_tw": "軍團長劍 (Legion Sword)"
     },
     {
-        "0": "Vaal Blade Flurry",
-        "1": "Vaal Blade Vortex",
-        "2": "Vaal Blade",
+        "0": "Vaal Blade",
+        "1": "Vaal Blade Flurry",
+        "2": "Vaal Blade Vortex",
         "name": "Vaal Blade",
-        "name_zh_tw": "瓦爾．刀鋒亂舞 (Vaal Blade Flurry)"
+        "name_zh_tw": "瓦爾軍刃 (Vaal Blade)"
     },
     {
         "0": "Imperial Staff",
@@ -463,9 +463,9 @@
     },
     {
         "0": "Goatman",
-        "1": "Goatman Fire-raiser",
-        "2": "Goatman Shaman",
-        "3": "Goatman Stomper",
+        "1": "Goatman Shaman",
+        "2": "Goatman Stomper",
+        "3": "Goatman Fire-raiser",
         "name": "Goatman",
         "name_zh_tw": "堅蹄羊人 (Goatman)"
     },
@@ -476,9 +476,9 @@
         "name_zh_tw": "深山地獄犬 (Mountain Hellion)"
     },
     {
-        "0": "The Goddess Bound Whalebone Rapier",
-        "1": "The Goddess Scorned Elegant Sword",
+        "0": "The Goddess Scorned Elegant Sword",
+        "1": "The Goddess Bound Whalebone Rapier",
         "name": "The Goddess",
-        "name_zh_tw": "女神的靈縛 鯨骨細刃 (The Goddess Bound Whalebone Rapier)"
+        "name_zh_tw": "女神的怒炎 貴族之劍 (The Goddess Scorned Elegant Sword)"
     }
 ]

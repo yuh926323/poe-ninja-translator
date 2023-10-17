@@ -458,34 +458,581 @@
       ]
     },
     {
-      "id": "Crucible",
-      "label": "熔火通貨和遺跡",
+      "id": "Ancestor",
+      "label": "祖靈通貨",
       "entries": [
         {
-          "id": "magmatic-ore",
-          "text": "岩礦",
-          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3J1Y2libGUvTWFnbWF0aWMgT3JlIiwic2NhbGUiOjF9XQ/69b255633d/Magmatic%20Ore.png"
+          "id": "silver-coin",
+          "text": "銀幣",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL05hdmFsaUNvaW4iLCJzY2FsZSI6MX1d/a3c7bc5c8f/NavaliCoin.png"
         },
         {
-          "id": "igneous-geode",
-          "text": "火炎精晶",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZUdlb2RlIiwic2NhbGUiOjF9XQ/80ef6e9903/CrucibleGeode.png"
+          "id": "hinekoras-lock",
+          "text": "悉妮蔻拉的髮絲",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxfV0/b188026e7f/HinekorasLock.png"
         },
         {
-          "id": "crystalline-geode",
-          "text": "水晶精晶",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZVViZXJHZW9kZSIsInNjYWxlIjoxfV0/0b331384ec/CrucibleUberGeode.png"
+          "id": "tattoo-of-the-ngamahu-firewalker",
+          "text": "努葛瑪呼火行者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
         },
         {
-          "id": "primeval-remnant",
-          "text": "史前遺跡",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZUdlb2RlT3BlbiIsInNjYWxlIjoxfV0/81f49736bd/CrucibleGeodeOpen.png"
+          "id": "tattoo-of-the-ngamahu-shaman",
+          "text": "努葛瑪呼薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
         },
         {
-          "id": "primordial-remnant",
-          "text": "史前遺跡",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZVViZXJHZW9kZU9wZW4iLCJzY2FsZSI6MX1d/3c29e56d61/CrucibleUberGeodeOpen.png"
+          "id": "tattoo-of-the-ngamahu-warrior",
+          "text": "努葛瑪呼戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-warmonger",
+          "text": "努葛瑪呼戰鬥王的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-woodcarver",
+          "text": "努葛瑪呼木工的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-makanga",
+          "text": "努葛瑪呼馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-blood-drinker",
+          "text": "奇塔弗飲血者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-rebel",
+          "text": "奇塔弗叛亂的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-warrior",
+          "text": "奇塔弗戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-heart-eater",
+          "text": "奇塔弗嗜心者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-shaman",
+          "text": "奇塔弗薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-makanga",
+          "text": "奇塔弗馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-shaman",
+          "text": "圖克哈瑪薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warrior",
+          "text": "圖克哈瑪戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-brawler",
+          "text": "圖克哈瑪鬥士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warmonger",
+          "text": "圖克哈瑪戰鬥王的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warcaller",
+          "text": "圖克哈瑪戰爭喚者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-makanga",
+          "text": "圖克哈瑪馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-warrior",
+          "text": "隆格庫萊戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-brute",
+          "text": "隆格庫萊暴徒的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-goliath",
+          "text": "隆格庫萊巨獸的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-turtle",
+          "text": "隆格庫萊巨龜的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-guard",
+          "text": "隆格庫萊守衛的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-makanga",
+          "text": "隆格庫萊馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-bladedancer",
+          "text": "塔薩里奧舞劍者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-tideshifter",
+          "text": "塔薩里奧潮汐變幻者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-shaman",
+          "text": "塔薩里奧薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-warrior",
+          "text": "塔薩里奧戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-scout",
+          "text": "塔薩里奧哨兵的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-makanga",
+          "text": "塔薩里奧馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-moonwarden",
+          "text": "艾蘿紅薇月護衛的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-scout",
+          "text": "艾蘿紅薇哨兵的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-warrior",
+          "text": "艾蘿紅薇戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-warmonger",
+          "text": "艾蘿紅薇戰鬥王的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-shaman",
+          "text": "艾蘿紅薇薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-makanga",
+          "text": "艾蘿紅薇馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-scout",
+          "text": "雷默科哨兵的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-archer",
+          "text": "雷默科射手的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-sniper",
+          "text": "雷默科狙擊手的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-fleetfoot",
+          "text": "雷默科偵瞬步的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-shaman",
+          "text": "雷默科薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-makanga",
+          "text": "雷默科馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-warrior",
+          "text": "悉妮蔻拉戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-deathwarden",
+          "text": "悉妮蔻拉死護衛的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-shaman",
+          "text": "悉妮蔻拉薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-storyteller",
+          "text": "悉妮蔻拉說書人的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-warmonger",
+          "text": "悉妮蔻拉戰鬥王的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-makanga",
+          "text": "悉妮蔻拉馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-naturalist",
+          "text": "塔赫亞自然的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-scout",
+          "text": "塔赫亞哨兵的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-warrior",
+          "text": "塔赫亞戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-herbalist",
+          "text": "塔赫亞藥草師的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-shaman",
+          "text": "塔赫亞薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-makanga",
+          "text": "塔赫亞馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-stormrider",
+          "text": "瓦拉庫風暴馭者的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-scout",
+          "text": "瓦拉庫哨兵的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-warrior",
+          "text": "瓦拉庫戰士的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-shieldbearer",
+          "text": "瓦拉庫護盾大師的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-shaman",
+          "text": "瓦拉庫薩滿的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-makanga",
+          "text": "瓦拉庫馬坎加的紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kaom",
+          "text": "岡姆的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-utula",
+          "text": "烏圖拉的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-akoya",
+          "text": "艾古亞的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kahuturoa",
+          "text": "卡胡圖羅亞的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-rakiata",
+          "text": "萊基亞塔的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-ikiaho",
+          "text": "伊基亞呼的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-ahuana",
+          "text": "阿呼阿娜的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-tawhanuku",
+          "text": "塔瓦努庫的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-maata",
+          "text": "瑪塔的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kiloava",
+          "text": "基洛阿瓦的忠誠紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-dove",
+          "text": "鴿子的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-sky",
+          "text": "天際的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-tuatara",
+          "text": "蜥蜴人的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-pillager",
+          "text": "劫掠者的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-turtle",
+          "text": "巨龜的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-oak",
+          "text": "歐克的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-hatungo",
+          "text": "靈語者的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-flock",
+          "text": "群的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-warlord",
+          "text": "戰爭君王的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-mountain",
+          "text": "山巒的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-pa",
+          "text": "帕的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-hunter",
+          "text": "獵人的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-barbarian",
+          "text": "野蠻人的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-berserker",
+          "text": "暴徒的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-wise",
+          "text": "智者的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-storm",
+          "text": "風暴的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-flood",
+          "text": "水難的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "ancestral-tattoo-of-bloodlines",
+          "text": "血族的祖靈紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTFUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b5b3a8e355/Unique1TatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-makanga",
+          "text": "馬坎加的尊榮紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/49e02d09ba/Unique2TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-body",
+          "text": "軀體的歷練紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-mind",
+          "text": "心智的歷練紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-soul",
+          "text": "靈魂的歷練紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-makanui",
+          "text": "馬卡努伊的歷練紋身",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/100bb83615/Unique4TatttooEquipment.png"
+        },
+        {
+          "id": "omen-of-amelioration",
+          "text": "改善之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFSZWQiLCJzY2FsZSI6MX1d/f96eaa1634/AncestorOmen1Red.png"
+        },
+        {
+          "id": "omen-of-return",
+          "text": "返回之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFQdXJwbGUiLCJzY2FsZSI6MX1d/2b74032e6d/AncestorOmen1Purple.png"
+        },
+        {
+          "id": "omen-of-death-dancing",
+          "text": "死舞之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJSZWQiLCJzY2FsZSI6MX1d/e2368054db/AncestorOmen2Red.png"
+        },
+        {
+          "id": "omen-of-refreshment",
+          "text": "提神之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJCbHVlIiwic2NhbGUiOjF9XQ/93e1b160fe/AncestorOmen2Blue.png"
+        },
+        {
+          "id": "omen-of-the-soul-devourer",
+          "text": "嗜魂者之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNHcmVlbiIsInNjYWxlIjoxfV0/d7f98707ea/AncestorOmen3Green.png"
+        },
+        {
+          "id": "omen-of-acceleration",
+          "text": "加速之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNZZWxsb3ciLCJzY2FsZSI6MX1d/c43c202f7b/AncestorOmen3Yellow.png"
+        },
+        {
+          "id": "omen-of-fortune",
+          "text": "財富之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRCbHVlIiwic2NhbGUiOjF9XQ/b5fb7696cf/AncestorOmen4Blue.png"
+        },
+        {
+          "id": "omen-of-the-jeweller",
+          "text": "工匠之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRSZWQiLCJzY2FsZSI6MX1d/503326987b/AncestorOmen4Red.png"
+        },
+        {
+          "id": "omen-of-connections",
+          "text": "連結之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRZZWxsb3ciLCJzY2FsZSI6MX1d/cec10ab83c/AncestorOmen4Yellow.png"
+        },
+        {
+          "id": "omen-of-blanching",
+          "text": "白化之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRHcmVlbiIsInNjYWxlIjoxfV0/eba4348849/AncestorOmen4Green.png"
+        },
+        {
+          "id": "omen-of-revenge",
+          "text": "復仇之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFZZWxsb3ciLCJzY2FsZSI6MX1d/deccf1a68c/AncestorOmen1Yellow.png"
+        },
+        {
+          "id": "omen-of-bequeathal",
+          "text": "傳承之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFCbHVlIiwic2NhbGUiOjF9XQ/007be00cd4/AncestorOmen1Blue.png"
+        },
+        {
+          "id": "omen-of-resurgence",
+          "text": "復甦之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJHcmVlbiIsInNjYWxlIjoxfV0/d211de4b70/AncestorOmen2Green.png"
+        },
+        {
+          "id": "omen-of-adrenaline",
+          "text": "腎上腺素之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJQdXJwbGUiLCJzY2FsZSI6MX1d/e58efc902d/AncestorOmen2Purple.png"
+        },
+        {
+          "id": "omen-of-deaths-door",
+          "text": "死者大門之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJZZWxsb3ciLCJzY2FsZSI6MX1d/416c575da4/AncestorOmen2Yellow.png"
+        },
+        {
+          "id": "omen-of-brilliance",
+          "text": "光輝之預兆",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNCbHVlIiwic2NhbGUiOjF9XQ/ee02ec798e/AncestorOmen3Blue.png"
         }
+      ]
+    },
+    {
+      "id": "Sanctum",
+      "label": "聖域和傳奇聖物",
+      "entries": [
+        { "id": "forbidden-tome", "text": "禁忌之書" },
+        { "id": "the-hour-of-divinity", "text": "神聖時刻" },
+        { "id": "the-gilded-chalice", "text": "鍍金聖杯" },
+        { "id": "the-second-sacrament", "text": "第二聖事" },
+        { "id": "the-night-lamp", "text": "夜燈" },
+        { "id": "the-first-crest", "text": "第一頂峰" },
+        { "id": "the-broken-censer", "text": "破香爐" },
+        { "id": "the-original-scripture", "text": "初始經文" },
+        { "id": "the-blood-of-innocence", "text": "善之血" },
+        { "id": "the-chains-of-castigation", "text": "懲戒鎖鏈" },
+        { "id": "the-power-and-the-promise", "text": "權力和誓約" }
       ]
     },
     {
@@ -2669,6 +3216,7 @@
         { "id": "eternal-bonds", "text": "永恆之繫" },
         { "id": "ever-changing", "text": "千變萬化" },
         { "id": "fateful-meeting", "text": "命運大會" },
+        { "id": "fire-of-unknown-origin", "text": "神秘之火的起源" },
         { "id": "forbidden-power", "text": "禁忌之力" },
         { "id": "friendship", "text": "友誼小船" },
         { "id": "from-bone-to-ashes", "text": "骨頭燒到灰燼" },
@@ -2843,6 +3391,7 @@
         { "id": "the-forgotten-treasure", "text": "被遺忘的寶藏" },
         { "id": "the-formless-sea", "text": "莫測之海" },
         { "id": "the-forsaken", "text": "遺棄" },
+        { "id": "the-fortunate", "text": "幸運的人" },
         { "id": "the-forward-gaze", "text": "凝視前方" },
         { "id": "the-fox", "text": "狡狐" },
         { "id": "the-fox-in-the-brambles", "text": "荊棘中的狐狸" },
@@ -3026,37 +3575,37 @@
       "id": "MapsTier1",
       "label": "地圖（階級1）",
       "entries": [
-        { "id": "alleyways-map-tier-1", "text": "危城巷弄 (階級  1)" },
+        { "id": "arena-map-tier-1", "text": "競技場 (階級  1)" },
+        { "id": "barrows-map-tier-1", "text": "熱林塚墓 (階級  1)" },
         { "id": "bone-crypt-map-tier-1", "text": "骨跡陵墓 (階級  1)" },
-        { "id": "colonnade-map-tier-1", "text": "激戰柱廊 (階級  1)" },
-        { "id": "scriptorium-map-tier-1", "text": "墓影書坊 (階級  1)" }
+        { "id": "plateau-map-tier-1", "text": "海風高原 (階級  1)" }
       ]
     },
     {
       "id": "MapsTier2",
       "label": "地圖（階級2）",
       "entries": [
-        { "id": "belfry-map-tier-2", "text": "雲頂鐘樓 (階級  2)" },
-        { "id": "dry-sea-map-tier-2", "text": "乾海 (階級  2)" },
+        { "id": "beach-map-tier-2", "text": "白沙灘頭 (階級  2)" },
         { "id": "dunes-map-tier-2", "text": "暮色沙丘 (階級  2)" },
-        { "id": "excavation-map-tier-2", "text": "挖掘場 (階級  2)" },
-        { "id": "grotto-map-tier-2", "text": "幽暗地穴 (階級  2)" },
-        { "id": "precinct-map-tier-2", "text": "苦行之域 (階級  2)" },
-        { "id": "silo-map-tier-2", "text": "儲物倉 (階級  2)" },
-        { "id": "stagnation-map-tier-2", "text": "淤塞水道 (階級  2)" }
+        { "id": "estuary-map-tier-2", "text": "熔火岩灘 (階級  2)" },
+        { "id": "grave-trough-map-tier-2", "text": "墓地谷 (階級  2)" },
+        { "id": "mineral-pools-map-tier-2", "text": "濕地礦山 (階級  2)" },
+        { "id": "primordial-blocks-map-tier-2", "text": "血腥陣地 (階級  2)" },
+        { "id": "stagnation-map-tier-2", "text": "淤塞水道 (階級  2)" },
+        { "id": "wasteland-map-tier-2", "text": "荒地 (階級  2)" }
       ]
     },
     {
       "id": "MapsTier3",
       "label": "地圖（階級3）",
       "entries": [
-        { "id": "fields-map-tier-3", "text": "無疆田野 (階級  3)" },
-        { "id": "infested-valley-map-tier-3", "text": "病疫林谷 (階級  3)" },
-        { "id": "lair-map-tier-3", "text": "餓獸巢穴 (階級  3)" },
+        { "id": "bog-map-tier-3", "text": "瘴氣泥沼 (階級  3)" },
+        { "id": "cold-river-map-tier-3", "text": "寒河 (階級  3)" },
+        { "id": "forking-river-map-tier-3", "text": "岔河 (階級  3)" },
+        { "id": "lookout-map-tier-3", "text": "如履危牆 (階級  3)" },
+        { "id": "mesa-map-tier-3", "text": "平頂荒漠 (階級  3)" },
         { "id": "overgrown-shrine-map-tier-3", "text": "密草神殿 (階級  3)" },
-        { "id": "primordial-blocks-map-tier-3", "text": "血腥陣地 (階級  3)" },
-        { "id": "primordial-pool-map-tier-3", "text": "血腥沼澤 (階級  3)" },
-        { "id": "shrine-map-tier-3", "text": "奇術秘殿 (階級  3)" },
+        { "id": "residence-map-tier-3", "text": "神主居所 (階級  3)" },
         { "id": "strand-map-tier-3", "text": "致命岩灘 (階級  3)" }
       ]
     },
@@ -3064,17 +3613,17 @@
       "id": "MapsTier4",
       "label": "地圖（階級4）",
       "entries": [
-        { "id": "alleyways-map-tier-4", "text": "危城巷弄 (階級  4)" },
+        { "id": "arena-map-tier-4", "text": "競技場 (階級  4)" },
+        { "id": "barrows-map-tier-4", "text": "熱林塚墓 (階級  4)" },
         { "id": "bone-crypt-map-tier-4", "text": "骨跡陵墓 (階級  4)" },
+        { "id": "cage-map-tier-4", "text": "羈破牢籠 (階級  4)" },
         { "id": "cemetery-map-tier-4", "text": "晨曦墓地 (階級  4)" },
-        { "id": "colonnade-map-tier-4", "text": "激戰柱廊 (階級  4)" },
-        { "id": "laboratory-map-tier-4", "text": "實驗居所 (階級  4)" },
-        { "id": "lighthouse-map-tier-4", "text": "絕望燈塔 (階級  4)" },
+        { "id": "graveyard-map-tier-4", "text": "墮影墓場 (階級  4)" },
+        { "id": "iceberg-map-tier-4", "text": "極原冰帽 (階級  4)" },
+        { "id": "malformation-map-tier-4", "text": "畸形亡域 (階級  4)" },
         { "id": "moon-temple-map-tier-4", "text": "嬋娟神殿 (階級  4)" },
-        { "id": "orchard-map-tier-4", "text": "密林果園 (階級  4)" },
-        { "id": "port-map-tier-4", "text": "失落城塢 (階級  4)" },
-        { "id": "scriptorium-map-tier-4", "text": "墓影書坊 (階級  4)" },
-        { "id": "tower-map-tier-4", "text": "闇獄尖塔 (階級  4)" },
+        { "id": "plateau-map-tier-4", "text": "海風高原 (階級  4)" },
+        { "id": "primordial-pool-map-tier-4", "text": "血腥沼澤 (階級  4)" },
         { "id": "vaal-pyramid-map-tier-4", "text": "瓦爾金字塔 (階級  4)" }
       ]
     },
@@ -3082,63 +3631,63 @@
       "id": "MapsTier5",
       "label": "地圖（階級5）",
       "entries": [
-        { "id": "arcade-map-tier-5", "text": "崩壞長廊 (階級  5)" },
+        { "id": "alleyways-map-tier-5", "text": "危城巷弄 (階級  5)" },
         { "id": "atoll-map-tier-5", "text": "濱海山丘 (階級  5)" },
-        { "id": "belfry-map-tier-5", "text": "雲頂鐘樓 (階級  5)" },
-        { "id": "city-square-map-tier-5", "text": "危城廣場 (階級  5)" },
+        { "id": "bazaar-map-tier-5", "text": "遠古市集 (階級  5)" },
+        { "id": "beach-map-tier-5", "text": "白沙灘頭 (階級  5)" },
+        { "id": "cells-map-tier-5", "text": "幽魂監牢 (階級  5)" },
         { "id": "courtyard-map-tier-5", "text": "奇術之庭 (階級  5)" },
-        { "id": "dry-sea-map-tier-5", "text": "乾海 (階級  5)" },
         { "id": "dunes-map-tier-5", "text": "暮色沙丘 (階級  5)" },
-        { "id": "excavation-map-tier-5", "text": "挖掘場 (階級  5)" },
-        { "id": "grotto-map-tier-5", "text": "幽暗地穴 (階級  5)" },
-        { "id": "marshes-map-tier-5", "text": "惡臭沼地 (階級  5)" },
+        { "id": "estuary-map-tier-5", "text": "熔火岩灘 (階級  5)" },
+        { "id": "grave-trough-map-tier-5", "text": "墓地谷 (階級  5)" },
+        { "id": "leyline-map-tier-5", "text": "荒涼牧野 (階級  5)" },
         { "id": "mineral-pools-map-tier-5", "text": "濕地礦山 (階級  5)" },
-        { "id": "plateau-map-tier-5", "text": "海風高原 (階級  5)" },
-        { "id": "precinct-map-tier-5", "text": "苦行之域 (階級  5)" },
-        { "id": "residence-map-tier-5", "text": "神主居所 (階級  5)" },
-        { "id": "silo-map-tier-5", "text": "儲物倉 (階級  5)" },
-        { "id": "stagnation-map-tier-5", "text": "淤塞水道 (階級  5)" }
+        { "id": "primordial-blocks-map-tier-5", "text": "血腥陣地 (階級  5)" },
+        { "id": "stagnation-map-tier-5", "text": "淤塞水道 (階級  5)" },
+        { "id": "tropical-island-map-tier-5", "text": "晴空幽島 (階級  5)" },
+        { "id": "volcano-map-tier-5", "text": "火山炎域 (階級  5)" },
+        { "id": "wasteland-map-tier-5", "text": "荒地 (階級  5)" }
       ]
     },
     {
       "id": "MapsTier6",
       "label": "地圖（階級6）",
       "entries": [
-        { "id": "castle-ruins-map-tier-6", "text": "遺跡廢墟 (階級  6)" },
-        { "id": "fields-map-tier-6", "text": "無疆田野 (階級  6)" },
-        { "id": "infested-valley-map-tier-6", "text": "病疫林谷 (階級  6)" },
-        { "id": "lair-map-tier-6", "text": "餓獸巢穴 (階級  6)" },
+        { "id": "academy-map-tier-6", "text": "惡靈學院 (階級  6)" },
+        { "id": "acid-caverns-map-tier-6", "text": "酸岩酸嶼 (階級  6)" },
+        { "id": "arachnid-tomb-map-tier-6", "text": "異蛛墓塚 (階級  6)" },
+        { "id": "bog-map-tier-6", "text": "瘴氣泥沼 (階級  6)" },
+        { "id": "cold-river-map-tier-6", "text": "寒河 (階級  6)" },
+        { "id": "dark-forest-map-tier-6", "text": "夜語幽林 (階級  6)" },
+        { "id": "forking-river-map-tier-6", "text": "岔河 (階級  6)" },
+        { "id": "lookout-map-tier-6", "text": "如履危牆 (階級  6)" },
+        { "id": "mesa-map-tier-6", "text": "平頂荒漠 (階級  6)" },
         { "id": "overgrown-shrine-map-tier-6", "text": "密草神殿 (階級  6)" },
-        { "id": "phantasmagoria-map-tier-6", "text": "魔靈幻獄 (階級  6)" },
-        { "id": "pit-map-tier-6", "text": "巨坑 (階級  6)" },
-        { "id": "primordial-blocks-map-tier-6", "text": "血腥陣地 (階級  6)" },
-        { "id": "primordial-pool-map-tier-6", "text": "血腥沼澤 (階級  6)" },
         { "id": "promenade-map-tier-6", "text": "月色迴廊 (階級  6)" },
+        { "id": "residence-map-tier-6", "text": "神主居所 (階級  6)" },
         { "id": "shore-map-tier-6", "text": "暮光海灘 (階級  6)" },
-        { "id": "shrine-map-tier-6", "text": "奇術秘殿 (階級  6)" },
         { "id": "strand-map-tier-6", "text": "致命岩灘 (階級  6)" },
-        { "id": "toxic-sewer-map-tier-6", "text": "腐敗下水道 (階級  6)" },
-        { "id": "waste-pool-map-tier-6", "text": "死寂泥溝 (階級  6)" }
+        { "id": "thicket-map-tier-6", "text": "驚懼樹叢 (階級  6)" }
       ]
     },
     {
       "id": "MapsTier7",
       "label": "地圖（階級7）",
       "entries": [
-        { "id": "canyon-map-tier-7", "text": "炙陽峽谷 (階級  7)" },
+        { "id": "cage-map-tier-7", "text": "羈破牢籠 (階級  7)" },
         { "id": "cemetery-map-tier-7", "text": "晨曦墓地 (階級  7)" },
-        { "id": "chateau-map-tier-7", "text": "古堡 (階級  7)" },
-        { "id": "coral-ruins-map-tier-7", "text": "破碎堡礁 (階級  7)" },
         { "id": "cursed-crypt-map-tier-7", "text": "惡咒陵墓 (階級  7)" },
-        { "id": "forbidden-woods-map-tier-7", "text": "禁忌之森 (階級  7)" },
-        { "id": "laboratory-map-tier-7", "text": "實驗居所 (階級  7)" },
-        { "id": "lighthouse-map-tier-7", "text": "絕望燈塔 (階級  7)" },
+        { "id": "frozen-cabins-map-tier-7", "text": "凍原小屋 (階級  7)" },
+        { "id": "graveyard-map-tier-7", "text": "墮影墓場 (階級  7)" },
+        { "id": "iceberg-map-tier-7", "text": "極原冰帽 (階級  7)" },
+        { "id": "lava-chamber-map-tier-7", "text": "熔岩之室 (階級  7)" },
+        { "id": "malformation-map-tier-7", "text": "畸形亡域 (階級  7)" },
         { "id": "moon-temple-map-tier-7", "text": "嬋娟神殿 (階級  7)" },
-        { "id": "orchard-map-tier-7", "text": "密林果園 (階級  7)" },
-        { "id": "port-map-tier-7", "text": "失落城塢 (階級  7)" },
-        { "id": "relic-chambers-map-tier-7", "text": "古典密室 (階級  7)" },
-        { "id": "sulphur-vents-map-tier-7", "text": "硫磺蝕岸 (階級  7)" },
-        { "id": "tower-map-tier-7", "text": "闇獄尖塔 (階級  7)" },
+        { "id": "pen-map-tier-7", "text": "穢陰獄牢 (階級  7)" },
+        { "id": "pier-map-tier-7", "text": "怒浪之港 (階級  7)" },
+        { "id": "pit-map-tier-7", "text": "巨坑 (階級  7)" },
+        { "id": "precinct-map-tier-7", "text": "苦行之域 (階級  7)" },
+        { "id": "primordial-pool-map-tier-7", "text": "血腥沼澤 (階級  7)" },
         { "id": "vaal-pyramid-map-tier-7", "text": "瓦爾金字塔 (階級  7)" }
       ]
     },
@@ -3147,50 +3696,50 @@
       "label": "地圖（階級8）",
       "entries": [
         { "id": "alleyways-map-tier-8", "text": "危城巷弄 (階級  8)" },
-        { "id": "arachnid-tomb-map-tier-8", "text": "異蛛墓塚 (階級  8)" },
         { "id": "arcade-map-tier-8", "text": "崩壞長廊 (階級  8)" },
-        { "id": "armoury-map-tier-8", "text": "軍械庫 (階級  8)" },
+        { "id": "arena-map-tier-8", "text": "競技場 (階級  8)" },
         { "id": "atoll-map-tier-8", "text": "濱海山丘 (階級  8)" },
+        { "id": "barrows-map-tier-8", "text": "熱林塚墓 (階級  8)" },
+        { "id": "bazaar-map-tier-8", "text": "遠古市集 (階級  8)" },
         { "id": "bone-crypt-map-tier-8", "text": "骨跡陵墓 (階級  8)" },
-        { "id": "caldera-map-tier-8", "text": "火山炎口 (階級  8)" },
-        { "id": "city-square-map-tier-8", "text": "危城廣場 (階級  8)" },
-        { "id": "colonnade-map-tier-8", "text": "激戰柱廊 (階級  8)" },
+        { "id": "castle-ruins-map-tier-8", "text": "遺跡廢墟 (階級  8)" },
+        { "id": "cells-map-tier-8", "text": "幽魂監牢 (階級  8)" },
+        { "id": "chateau-map-tier-8", "text": "古堡 (階級  8)" },
         { "id": "courtyard-map-tier-8", "text": "奇術之庭 (階級  8)" },
-        { "id": "crimson-temple-map-tier-8", "text": "緋紅神殿 (階級  8)" },
-        { "id": "crystal-ore-map-tier-8", "text": "紫晶礦山 (階級  8)" },
-        { "id": "flooded-mine-map-tier-8", "text": "洪災礦坑 (階級  8)" },
-        { "id": "marshes-map-tier-8", "text": "惡臭沼地 (階級  8)" },
-        { "id": "mineral-pools-map-tier-8", "text": "濕地礦山 (階級  8)" },
+        { "id": "factory-map-tier-8", "text": "鐵鏽工廠 (階級  8)" },
+        { "id": "leyline-map-tier-8", "text": "荒涼牧野 (階級  8)" },
         { "id": "plateau-map-tier-8", "text": "海風高原 (階級  8)" },
-        { "id": "residence-map-tier-8", "text": "神主居所 (階級  8)" },
-        { "id": "scriptorium-map-tier-8", "text": "墓影書坊 (階級  8)" },
-        { "id": "shipyard-map-tier-8", "text": "熾炎船塢 (階級  8)" }
+        { "id": "port-map-tier-8", "text": "失落城塢 (階級  8)" },
+        { "id": "terrace-map-tier-8", "text": "露台花園 (階級  8)" },
+        { "id": "tropical-island-map-tier-8", "text": "晴空幽島 (階級  8)" },
+        { "id": "volcano-map-tier-8", "text": "火山炎域 (階級  8)" },
+        { "id": "waterways-map-tier-8", "text": "危機水道 (階級  8)" }
       ]
     },
     {
       "id": "MapsTier9",
       "label": "地圖（階級9）",
       "entries": [
-        { "id": "belfry-map-tier-9", "text": "雲頂鐘樓 (階級  9)" },
-        { "id": "castle-ruins-map-tier-9", "text": "遺跡廢墟 (階級  9)" },
-        { "id": "cold-river-map-tier-9", "text": "寒河 (階級  9)" },
-        { "id": "dry-sea-map-tier-9", "text": "乾海 (階級  9)" },
+        { "id": "academy-map-tier-9", "text": "惡靈學院 (階級  9)" },
+        { "id": "acid-caverns-map-tier-9", "text": "酸岩酸嶼 (階級  9)" },
+        { "id": "arachnid-nest-map-tier-9", "text": "異蛛巢穴 (階級  9)" },
+        { "id": "arachnid-tomb-map-tier-9", "text": "異蛛墓塚 (階級  9)" },
+        { "id": "beach-map-tier-9", "text": "白沙灘頭 (階級  9)" },
+        { "id": "carcass-map-tier-9", "text": "惡臭屍域 (階級  9)" },
+        { "id": "dark-forest-map-tier-9", "text": "夜語幽林 (階級  9)" },
         { "id": "dunes-map-tier-9", "text": "暮色沙丘 (階級  9)" },
-        { "id": "excavation-map-tier-9", "text": "挖掘場 (階級  9)" },
-        { "id": "grotto-map-tier-9", "text": "幽暗地穴 (階級  9)" },
-        { "id": "overgrown-ruin-map-tier-9", "text": "長草遺跡 (階級  9)" },
-        { "id": "phantasmagoria-map-tier-9", "text": "魔靈幻獄 (階級  9)" },
-        { "id": "pier-map-tier-9", "text": "怒浪之港 (階級  9)" },
-        { "id": "pit-map-tier-9", "text": "巨坑 (階級  9)" },
-        { "id": "precinct-map-tier-9", "text": "苦行之域 (階級  9)" },
+        { "id": "estuary-map-tier-9", "text": "熔火岩灘 (階級  9)" },
+        { "id": "flooded-mine-map-tier-9", "text": "洪災礦坑 (階級  9)" },
+        { "id": "grave-trough-map-tier-9", "text": "墓地谷 (階級  9)" },
+        { "id": "haunted-mansion-map-tier-9", "text": "幽魂宅邸 (階級  9)" },
+        { "id": "mineral-pools-map-tier-9", "text": "濕地礦山 (階級  9)" },
+        { "id": "primordial-blocks-map-tier-9", "text": "血腥陣地 (階級  9)" },
         { "id": "promenade-map-tier-9", "text": "月色迴廊 (階級  9)" },
-        { "id": "ramparts-map-tier-9", "text": "濱海堡壘 (階級  9)" },
+        { "id": "racecourse-map-tier-9", "text": "古競速場 (階級  9)" },
         { "id": "shore-map-tier-9", "text": "暮光海灘 (階級  9)" },
-        { "id": "siege-map-tier-9", "text": "禁斷圍城 (階級  9)" },
-        { "id": "silo-map-tier-9", "text": "儲物倉 (階級  9)" },
         { "id": "stagnation-map-tier-9", "text": "淤塞水道 (階級  9)" },
-        { "id": "toxic-sewer-map-tier-9", "text": "腐敗下水道 (階級  9)" },
-        { "id": "waste-pool-map-tier-9", "text": "死寂泥溝 (階級  9)" },
+        { "id": "summit-map-tier-9", "text": "寒頂之巔 (階級  9)" },
+        { "id": "thicket-map-tier-9", "text": "驚懼樹叢 (階級  9)" },
         { "id": "wasteland-map-tier-9", "text": "荒地 (階級  9)" }
       ]
     },
@@ -3198,57 +3747,54 @@
       "id": "MapsTier10",
       "label": "地圖（階級10）",
       "entries": [
-        { "id": "arachnid-nest-map-tier-10", "text": "異蛛巢穴 (階級  10)" },
-        { "id": "canyon-map-tier-10", "text": "炙陽峽谷 (階級  10)" },
-        { "id": "cells-map-tier-10", "text": "幽魂監牢 (階級  10)" },
-        { "id": "chateau-map-tier-10", "text": "古堡 (階級  10)" },
-        { "id": "coral-ruins-map-tier-10", "text": "破碎堡礁 (階級  10)" },
+        { "id": "basilica-map-tier-10", "text": "聖殿 (階級  10)" },
+        { "id": "bog-map-tier-10", "text": "瘴氣泥沼 (階級  10)" },
+        { "id": "cold-river-map-tier-10", "text": "寒河 (階級  10)" },
+        { "id": "crimson-temple-map-tier-10", "text": "緋紅神殿 (階級  10)" },
         { "id": "cursed-crypt-map-tier-10", "text": "惡咒陵墓 (階級  10)" },
-        { "id": "factory-map-tier-10", "text": "鐵鏽工廠 (階級  10)" },
-        { "id": "fields-map-tier-10", "text": "無疆田野 (階級  10)" },
-        { "id": "forbidden-woods-map-tier-10", "text": "禁忌之森 (階級  10)" },
-        { "id": "foundry-map-tier-10", "text": "鍊金房 (階級  10)" },
-        { "id": "infested-valley-map-tier-10", "text": "病疫林谷 (階級  10)" },
-        { "id": "lair-map-tier-10", "text": "餓獸巢穴 (階級  10)" },
+        { "id": "forking-river-map-tier-10", "text": "岔河 (階級  10)" },
+        { "id": "frozen-cabins-map-tier-10", "text": "凍原小屋 (階級  10)" },
+        { "id": "lava-chamber-map-tier-10", "text": "熔岩之室 (階級  10)" },
+        { "id": "lookout-map-tier-10", "text": "如履危牆 (階級  10)" },
+        { "id": "mesa-map-tier-10", "text": "平頂荒漠 (階級  10)" },
+        { "id": "orchard-map-tier-10", "text": "密林果園 (階級  10)" },
         { "id": "overgrown-shrine-map-tier-10", "text": "密草神殿 (階級  10)" },
-        { "id": "plaza-map-tier-10", "text": "廣場 (階級  10)" },
-        {
-          "id": "primordial-blocks-map-tier-10",
-          "text": "血腥陣地 (階級  10)"
-        },
-        { "id": "primordial-pool-map-tier-10", "text": "血腥沼澤 (階級  10)" },
-        { "id": "relic-chambers-map-tier-10", "text": "古典密室 (階級  10)" },
-        { "id": "shrine-map-tier-10", "text": "奇術秘殿 (階級  10)" },
+        { "id": "pen-map-tier-10", "text": "穢陰獄牢 (階級  10)" },
+        { "id": "pier-map-tier-10", "text": "怒浪之港 (階級  10)" },
+        { "id": "pit-map-tier-10", "text": "巨坑 (階級  10)" },
+        { "id": "precinct-map-tier-10", "text": "苦行之域 (階級  10)" },
+        { "id": "residence-map-tier-10", "text": "神主居所 (階級  10)" },
         { "id": "strand-map-tier-10", "text": "致命岩灘 (階級  10)" },
-        { "id": "sulphur-vents-map-tier-10", "text": "硫磺蝕岸 (階級  10)" },
-        { "id": "underground-sea-map-tier-10", "text": "濱海幽穴 (階級  10)" }
+        { "id": "tower-map-tier-10", "text": "闇獄尖塔 (階級  10)" },
+        { "id": "underground-sea-map-tier-10", "text": "濱海幽穴 (階級  10)" },
+        { "id": "vault-map-tier-10", "text": "魔金寶庫 (階級  10)" }
       ]
     },
     {
       "id": "MapsTier11",
       "label": "地圖（階級11）",
       "entries": [
-        { "id": "arachnid-tomb-map-tier-11", "text": "異蛛墓塚 (階級  11)" },
-        { "id": "armoury-map-tier-11", "text": "軍械庫 (階級  11)" },
-        { "id": "beach-map-tier-11", "text": "白沙灘頭 (階級  11)" },
-        { "id": "caldera-map-tier-11", "text": "火山炎口 (階級  11)" },
+        { "id": "arcade-map-tier-11", "text": "崩壞長廊 (階級  11)" },
+        { "id": "cage-map-tier-11", "text": "羈破牢籠 (階級  11)" },
+        { "id": "castle-ruins-map-tier-11", "text": "遺跡廢墟 (階級  11)" },
         { "id": "cemetery-map-tier-11", "text": "晨曦墓地 (階級  11)" },
-        { "id": "crimson-temple-map-tier-11", "text": "緋紅神殿 (階級  11)" },
-        { "id": "crimson-township-map-tier-11", "text": "緋紅之鎮 (階級  11)" },
-        { "id": "crystal-ore-map-tier-11", "text": "紫晶礦山 (階級  11)" },
-        { "id": "flooded-mine-map-tier-11", "text": "洪災礦坑 (階級  11)" },
-        { "id": "frozen-cabins-map-tier-11", "text": "凍原小屋 (階級  11)" },
-        { "id": "fungal-hollow-map-tier-11", "text": "毒菌魔域 (階級  11)" },
+        { "id": "chateau-map-tier-11", "text": "古堡 (階級  11)" },
+        { "id": "city-square-map-tier-11", "text": "危城廣場 (階級  11)" },
+        { "id": "colonnade-map-tier-11", "text": "激戰柱廊 (階級  11)" },
+        { "id": "coves-map-tier-11", "text": "疾風峽灣 (階級  11)" },
+        { "id": "dungeon-map-tier-11", "text": "禁魂炎獄 (階級  11)" },
+        { "id": "excavation-map-tier-11", "text": "挖掘場 (階級  11)" },
+        { "id": "factory-map-tier-11", "text": "鐵鏽工廠 (階級  11)" },
         { "id": "geode-map-tier-11", "text": "詭譎晶洞 (階級  11)" },
-        { "id": "laboratory-map-tier-11", "text": "實驗居所 (階級  11)" },
-        { "id": "lighthouse-map-tier-11", "text": "絕望燈塔 (階級  11)" },
+        { "id": "graveyard-map-tier-11", "text": "墮影墓場 (階級  11)" },
+        { "id": "iceberg-map-tier-11", "text": "極原冰帽 (階級  11)" },
         { "id": "malformation-map-tier-11", "text": "畸形亡域 (階級  11)" },
         { "id": "moon-temple-map-tier-11", "text": "嬋娟神殿 (階級  11)" },
-        { "id": "orchard-map-tier-11", "text": "密林果園 (階級  11)" },
         { "id": "port-map-tier-11", "text": "失落城塢 (階級  11)" },
-        { "id": "shipyard-map-tier-11", "text": "熾炎船塢 (階級  11)" },
-        { "id": "tower-map-tier-11", "text": "闇獄尖塔 (階級  11)" },
-        { "id": "vaal-pyramid-map-tier-11", "text": "瓦爾金字塔 (階級  11)" }
+        { "id": "primordial-pool-map-tier-11", "text": "血腥沼澤 (階級  11)" },
+        { "id": "terrace-map-tier-11", "text": "露台花園 (階級  11)" },
+        { "id": "vaal-pyramid-map-tier-11", "text": "瓦爾金字塔 (階級  11)" },
+        { "id": "waterways-map-tier-11", "text": "危機水道 (階級  11)" }
       ]
     },
     {
@@ -3256,219 +3802,215 @@
       "label": "地圖（階級12）",
       "entries": [
         { "id": "alleyways-map-tier-12", "text": "危城巷弄 (階級  12)" },
-        { "id": "arcade-map-tier-12", "text": "崩壞長廊 (階級  12)" },
+        { "id": "arachnid-nest-map-tier-12", "text": "異蛛巢穴 (階級  12)" },
+        { "id": "arena-map-tier-12", "text": "競技場 (階級  12)" },
         { "id": "atoll-map-tier-12", "text": "濱海山丘 (階級  12)" },
+        { "id": "barrows-map-tier-12", "text": "熱林塚墓 (階級  12)" },
+        { "id": "bazaar-map-tier-12", "text": "遠古市集 (階級  12)" },
         { "id": "bone-crypt-map-tier-12", "text": "骨跡陵墓 (階級  12)" },
-        { "id": "city-square-map-tier-12", "text": "危城廣場 (階級  12)" },
-        { "id": "cold-river-map-tier-12", "text": "寒河 (階級  12)" },
-        { "id": "colonnade-map-tier-12", "text": "激戰柱廊 (階級  12)" },
-        { "id": "conservatory-map-tier-12", "text": "寧逸溫房 (階級  12)" },
+        { "id": "carcass-map-tier-12", "text": "惡臭屍域 (階級  12)" },
+        { "id": "cells-map-tier-12", "text": "幽魂監牢 (階級  12)" },
+        { "id": "courthouse-map-tier-12", "text": "失序教院 (階級  12)" },
         { "id": "courtyard-map-tier-12", "text": "奇術之庭 (階級  12)" },
-        { "id": "desert-spring-map-tier-12", "text": "硫磺荒漠 (階級  12)" },
-        { "id": "jungle-valley-map-tier-12", "text": "劇毒林谷 (階級  12)" },
-        { "id": "marshes-map-tier-12", "text": "惡臭沼地 (階級  12)" },
-        { "id": "mineral-pools-map-tier-12", "text": "濕地礦山 (階級  12)" },
+        { "id": "flooded-mine-map-tier-12", "text": "洪災礦坑 (階級  12)" },
+        { "id": "haunted-mansion-map-tier-12", "text": "幽魂宅邸 (階級  12)" },
+        { "id": "leyline-map-tier-12", "text": "荒涼牧野 (階級  12)" },
+        { "id": "mausoleum-map-tier-12", "text": "靜縊陵墓 (階級  12)" },
         { "id": "museum-map-tier-12", "text": "古博物館 (階級  12)" },
         { "id": "necropolis-map-tier-12", "text": "魔影墓場 (階級  12)" },
-        { "id": "overgrown-ruin-map-tier-12", "text": "長草遺跡 (階級  12)" },
-        { "id": "pier-map-tier-12", "text": "怒浪之港 (階級  12)" },
+        { "id": "palace-map-tier-12", "text": "神域之殿 (階級  12)" },
         { "id": "plateau-map-tier-12", "text": "海風高原 (階級  12)" },
-        { "id": "ramparts-map-tier-12", "text": "濱海堡壘 (階級  12)" },
-        { "id": "residence-map-tier-12", "text": "神主居所 (階級  12)" },
-        { "id": "scriptorium-map-tier-12", "text": "墓影書坊 (階級  12)" },
-        { "id": "siege-map-tier-12", "text": "禁斷圍城 (階級  12)" },
-        { "id": "wasteland-map-tier-12", "text": "荒地 (階級  12)" },
-        { "id": "wharf-map-tier-12", "text": "毒牙海港 (階級  12)" }
+        { "id": "racecourse-map-tier-12", "text": "古競速場 (階級  12)" },
+        { "id": "sulphur-vents-map-tier-12", "text": "硫磺蝕岸 (階級  12)" },
+        { "id": "summit-map-tier-12", "text": "寒頂之巔 (階級  12)" },
+        { "id": "tropical-island-map-tier-12", "text": "晴空幽島 (階級  12)" },
+        { "id": "volcano-map-tier-12", "text": "火山炎域 (階級  12)" }
       ]
     },
     {
       "id": "MapsTier13",
       "label": "地圖（階級13）",
       "entries": [
-        { "id": "arachnid-nest-map-tier-13", "text": "異蛛巢穴 (階級  13)" },
-        { "id": "arid-lake-map-tier-13", "text": "乾枯湖岸 (階級  13)" },
-        { "id": "belfry-map-tier-13", "text": "雲頂鐘樓 (階級  13)" },
-        { "id": "castle-ruins-map-tier-13", "text": "遺跡廢墟 (階級  13)" },
-        { "id": "cells-map-tier-13", "text": "幽魂監牢 (階級  13)" },
-        { "id": "crater-map-tier-13", "text": "殘破殞坑 (階級  13)" },
-        {
-          "id": "defiled-cathedral-map-tier-13",
-          "text": "不潔教堂 (階級  13)"
-        },
-        { "id": "dry-sea-map-tier-13", "text": "乾海 (階級  13)" },
+        { "id": "academy-map-tier-13", "text": "惡靈學院 (階級  13)" },
+        { "id": "acid-caverns-map-tier-13", "text": "酸岩酸嶼 (階級  13)" },
+        { "id": "arachnid-tomb-map-tier-13", "text": "異蛛墓塚 (階級  13)" },
+        { "id": "basilica-map-tier-13", "text": "聖殿 (階級  13)" },
+        { "id": "beach-map-tier-13", "text": "白沙灘頭 (階級  13)" },
+        { "id": "caldera-map-tier-13", "text": "火山炎口 (階級  13)" },
+        { "id": "colosseum-map-tier-13", "text": "大決鬥場 (階級  13)" },
+        { "id": "crimson-temple-map-tier-13", "text": "緋紅神殿 (階級  13)" },
+        { "id": "dark-forest-map-tier-13", "text": "夜語幽林 (階級  13)" },
         { "id": "dunes-map-tier-13", "text": "暮色沙丘 (階級  13)" },
-        { "id": "excavation-map-tier-13", "text": "挖掘場 (階級  13)" },
-        { "id": "factory-map-tier-13", "text": "鐵鏽工廠 (階級  13)" },
-        { "id": "foundry-map-tier-13", "text": "鍊金房 (階級  13)" },
-        { "id": "grotto-map-tier-13", "text": "幽暗地穴 (階級  13)" },
-        { "id": "leyline-map-tier-13", "text": "荒涼牧野 (階級  13)" },
-        { "id": "phantasmagoria-map-tier-13", "text": "魔靈幻獄 (階級  13)" },
-        { "id": "pit-map-tier-13", "text": "巨坑 (階級  13)" },
-        { "id": "plaza-map-tier-13", "text": "廣場 (階級  13)" },
-        { "id": "precinct-map-tier-13", "text": "苦行之域 (階級  13)" },
+        { "id": "estuary-map-tier-13", "text": "熔火岩灘 (階級  13)" },
+        { "id": "glacier-map-tier-13", "text": "冰川山丘 (階級  13)" },
+        { "id": "grave-trough-map-tier-13", "text": "墓地谷 (階級  13)" },
+        { "id": "lava-lake-map-tier-13", "text": "岩漿熔湖 (階級  13)" },
+        { "id": "mineral-pools-map-tier-13", "text": "濕地礦山 (階級  13)" },
+        { "id": "orchard-map-tier-13", "text": "密林果園 (階級  13)" },
+        {
+          "id": "primordial-blocks-map-tier-13",
+          "text": "血腥陣地 (階級  13)"
+        },
         { "id": "promenade-map-tier-13", "text": "月色迴廊 (階級  13)" },
         { "id": "shore-map-tier-13", "text": "暮光海灘 (階級  13)" },
-        { "id": "silo-map-tier-13", "text": "儲物倉 (階級  13)" },
         { "id": "stagnation-map-tier-13", "text": "淤塞水道 (階級  13)" },
+        { "id": "sunken-city-map-tier-13", "text": "亞特蘭提斯 (階級  13)" },
         { "id": "thicket-map-tier-13", "text": "驚懼樹叢 (階級  13)" },
-        { "id": "toxic-sewer-map-tier-13", "text": "腐敗下水道 (階級  13)" },
+        { "id": "tower-map-tier-13", "text": "闇獄尖塔 (階級  13)" },
         { "id": "underground-sea-map-tier-13", "text": "濱海幽穴 (階級  13)" },
-        { "id": "waste-pool-map-tier-13", "text": "死寂泥溝 (階級  13)" }
+        { "id": "vault-map-tier-13", "text": "魔金寶庫 (階級  13)" },
+        { "id": "wasteland-map-tier-13", "text": "荒地 (階級  13)" }
       ]
     },
     {
       "id": "MapsTier14",
       "label": "地圖（階級14）",
       "entries": [
-        { "id": "barrows-map-tier-14", "text": "熱林塚墓 (階級  14)" },
-        { "id": "beach-map-tier-14", "text": "白沙灘頭 (階級  14)" },
-        { "id": "canyon-map-tier-14", "text": "炙陽峽谷 (階級  14)" },
-        { "id": "chateau-map-tier-14", "text": "古堡 (階級  14)" },
-        { "id": "coral-ruins-map-tier-14", "text": "破碎堡礁 (階級  14)" },
-        { "id": "crimson-township-map-tier-14", "text": "緋紅之鎮 (階級  14)" },
+        { "id": "bog-map-tier-14", "text": "瘴氣泥沼 (階級  14)" },
+        { "id": "city-square-map-tier-14", "text": "危城廣場 (階級  14)" },
+        { "id": "cold-river-map-tier-14", "text": "寒河 (階級  14)" },
+        { "id": "colonnade-map-tier-14", "text": "激戰柱廊 (階級  14)" },
+        { "id": "coves-map-tier-14", "text": "疾風峽灣 (階級  14)" },
         { "id": "cursed-crypt-map-tier-14", "text": "惡咒陵墓 (階級  14)" },
         { "id": "dungeon-map-tier-14", "text": "禁魂炎獄 (階級  14)" },
-        { "id": "fields-map-tier-14", "text": "無疆田野 (階級  14)" },
-        { "id": "forbidden-woods-map-tier-14", "text": "禁忌之森 (階級  14)" },
+        { "id": "excavation-map-tier-14", "text": "挖掘場 (階級  14)" },
+        { "id": "forking-river-map-tier-14", "text": "岔河 (階級  14)" },
         { "id": "frozen-cabins-map-tier-14", "text": "凍原小屋 (階級  14)" },
         { "id": "fungal-hollow-map-tier-14", "text": "毒菌魔域 (階級  14)" },
         { "id": "geode-map-tier-14", "text": "詭譎晶洞 (階級  14)" },
-        { "id": "infested-valley-map-tier-14", "text": "病疫林谷 (階級  14)" },
-        { "id": "lair-map-tier-14", "text": "餓獸巢穴 (階級  14)" },
-        { "id": "malformation-map-tier-14", "text": "畸形亡域 (階級  14)" },
+        { "id": "lava-chamber-map-tier-14", "text": "熔岩之室 (階級  14)" },
+        { "id": "lookout-map-tier-14", "text": "如履危牆 (階級  14)" },
         { "id": "maze-map-tier-14", "text": "冥神之域 (階級  14)" },
+        { "id": "mesa-map-tier-14", "text": "平頂荒漠 (階級  14)" },
         { "id": "overgrown-shrine-map-tier-14", "text": "密草神殿 (階級  14)" },
-        {
-          "id": "primordial-blocks-map-tier-14",
-          "text": "血腥陣地 (階級  14)"
-        },
-        { "id": "primordial-pool-map-tier-14", "text": "血腥沼澤 (階級  14)" },
-        { "id": "relic-chambers-map-tier-14", "text": "古典密室 (階級  14)" },
-        { "id": "shrine-map-tier-14", "text": "奇術秘殿 (階級  14)" },
+        { "id": "pen-map-tier-14", "text": "穢陰獄牢 (階級  14)" },
+        { "id": "pier-map-tier-14", "text": "怒浪之港 (階級  14)" },
+        { "id": "pit-map-tier-14", "text": "巨坑 (階級  14)" },
+        { "id": "precinct-map-tier-14", "text": "苦行之域 (階級  14)" },
+        { "id": "reef-map-tier-14", "text": "危機海礁 (階級  14)" },
+        { "id": "residence-map-tier-14", "text": "神主居所 (階級  14)" },
         { "id": "strand-map-tier-14", "text": "致命岩灘 (階級  14)" },
-        { "id": "sulphur-vents-map-tier-14", "text": "硫磺蝕岸 (階級  14)" },
         { "id": "temple-map-tier-14", "text": "奪魂之殿 (階級  14)" },
-        { "id": "terrace-map-tier-14", "text": "露台花園 (階級  14)" }
+        { "id": "wharf-map-tier-14", "text": "毒牙海港 (階級  14)" }
       ]
     },
     {
       "id": "MapsTier15",
       "label": "地圖（階級15）",
       "entries": [
-        { "id": "arachnid-tomb-map-tier-15", "text": "異蛛墓塚 (階級  15)" },
-        { "id": "armoury-map-tier-15", "text": "軍械庫 (階級  15)" },
-        { "id": "caldera-map-tier-15", "text": "火山炎口 (階級  15)" },
+        { "id": "arcade-map-tier-15", "text": "崩壞長廊 (階級  15)" },
+        { "id": "cage-map-tier-15", "text": "羈破牢籠 (階級  15)" },
+        { "id": "castle-ruins-map-tier-15", "text": "遺跡廢墟 (階級  15)" },
         { "id": "cemetery-map-tier-15", "text": "晨曦墓地 (階級  15)" },
-        { "id": "colosseum-map-tier-15", "text": "大決鬥場 (階級  15)" },
-        { "id": "conservatory-map-tier-15", "text": "寧逸溫房 (階級  15)" },
-        { "id": "core-map-tier-15", "text": "核心 (階級  15)" },
-        { "id": "crimson-temple-map-tier-15", "text": "緋紅神殿 (階級  15)" },
-        { "id": "crystal-ore-map-tier-15", "text": "紫晶礦山 (階級  15)" },
-        { "id": "desert-spring-map-tier-15", "text": "硫磺荒漠 (階級  15)" },
-        { "id": "flooded-mine-map-tier-15", "text": "洪災礦坑 (階級  15)" },
-        { "id": "jungle-valley-map-tier-15", "text": "劇毒林谷 (階級  15)" },
-        { "id": "laboratory-map-tier-15", "text": "實驗居所 (階級  15)" },
-        { "id": "lighthouse-map-tier-15", "text": "絕望燈塔 (階級  15)" },
+        { "id": "chateau-map-tier-15", "text": "古堡 (階級  15)" },
+        { "id": "courthouse-map-tier-15", "text": "失序教院 (階級  15)" },
+        { "id": "factory-map-tier-15", "text": "鐵鏽工廠 (階級  15)" },
+        { "id": "graveyard-map-tier-15", "text": "墮影墓場 (階級  15)" },
+        { "id": "iceberg-map-tier-15", "text": "極原冰帽 (階級  15)" },
+        { "id": "malformation-map-tier-15", "text": "畸形亡域 (階級  15)" },
+        { "id": "mausoleum-map-tier-15", "text": "靜縊陵墓 (階級  15)" },
         { "id": "moon-temple-map-tier-15", "text": "嬋娟神殿 (階級  15)" },
+        { "id": "mud-geyser-map-tier-15", "text": "陰晦泥灘 (階級  15)" },
         { "id": "museum-map-tier-15", "text": "古博物館 (階級  15)" },
         { "id": "necropolis-map-tier-15", "text": "魔影墓場 (階級  15)" },
-        { "id": "orchard-map-tier-15", "text": "密林果園 (階級  15)" },
+        { "id": "palace-map-tier-15", "text": "神域之殿 (階級  15)" },
+        { "id": "phantasmagoria-map-tier-15", "text": "魔靈幻獄 (階級  15)" },
         { "id": "port-map-tier-15", "text": "失落城塢 (階級  15)" },
-        { "id": "racecourse-map-tier-15", "text": "古競速場 (階級  15)" },
-        { "id": "shipyard-map-tier-15", "text": "熾炎船塢 (階級  15)" },
-        { "id": "tower-map-tier-15", "text": "闇獄尖塔 (階級  15)" },
-        { "id": "tropical-island-map-tier-15", "text": "晴空幽島 (階級  15)" },
+        { "id": "primordial-pool-map-tier-15", "text": "血腥沼澤 (階級  15)" },
+        { "id": "siege-map-tier-15", "text": "禁斷圍城 (階級  15)" },
+        { "id": "spider-forest-map-tier-15", "text": "巨蛛之林 (階級  15)" },
+        { "id": "sulphur-vents-map-tier-15", "text": "硫磺蝕岸 (階級  15)" },
+        { "id": "terrace-map-tier-15", "text": "露台花園 (階級  15)" },
         {
           "id": "underground-river-map-tier-15",
           "text": "地底之河 (階級  15)"
         },
         { "id": "vaal-pyramid-map-tier-15", "text": "瓦爾金字塔 (階級  15)" },
-        { "id": "wharf-map-tier-15", "text": "毒牙海港 (階級  15)" }
+        { "id": "waterways-map-tier-15", "text": "危機水道 (階級  15)" }
       ]
     },
     {
       "id": "MapsTier16",
       "label": "地圖（階級16）",
       "entries": [
+        { "id": "academy-map-tier-16", "text": "惡靈學院 (階級  16)" },
+        { "id": "acid-caverns-map-tier-16", "text": "酸岩酸嶼 (階級  16)" },
         { "id": "alleyways-map-tier-16", "text": "危城巷弄 (階級  16)" },
         { "id": "arachnid-nest-map-tier-16", "text": "異蛛巢穴 (階級  16)" },
         { "id": "arachnid-tomb-map-tier-16", "text": "異蛛墓塚 (階級  16)" },
         { "id": "arcade-map-tier-16", "text": "崩壞長廊 (階級  16)" },
-        { "id": "arid-lake-map-tier-16", "text": "乾枯湖岸 (階級  16)" },
-        { "id": "armoury-map-tier-16", "text": "軍械庫 (階級  16)" },
-        { "id": "arsenal-map-tier-16", "text": "古兵工廠 (階級  16)" },
+        { "id": "arena-map-tier-16", "text": "競技場 (階級  16)" },
         { "id": "atoll-map-tier-16", "text": "濱海山丘 (階級  16)" },
         { "id": "barrows-map-tier-16", "text": "熱林塚墓 (階級  16)" },
+        { "id": "basilica-map-tier-16", "text": "聖殿 (階級  16)" },
+        { "id": "bazaar-map-tier-16", "text": "遠古市集 (階級  16)" },
         { "id": "beach-map-tier-16", "text": "白沙灘頭 (階級  16)" },
-        { "id": "belfry-map-tier-16", "text": "雲頂鐘樓 (階級  16)" },
+        { "id": "bog-map-tier-16", "text": "瘴氣泥沼 (階級  16)" },
         { "id": "bone-crypt-map-tier-16", "text": "骨跡陵墓 (階級  16)" },
+        { "id": "cage-map-tier-16", "text": "羈破牢籠 (階級  16)" },
         { "id": "caldera-map-tier-16", "text": "火山炎口 (階級  16)" },
-        { "id": "canyon-map-tier-16", "text": "炙陽峽谷 (階級  16)" },
+        { "id": "carcass-map-tier-16", "text": "惡臭屍域 (階級  16)" },
         { "id": "castle-ruins-map-tier-16", "text": "遺跡廢墟 (階級  16)" },
         { "id": "cells-map-tier-16", "text": "幽魂監牢 (階級  16)" },
         { "id": "cemetery-map-tier-16", "text": "晨曦墓地 (階級  16)" },
+        { "id": "channel-map-tier-16", "text": "秘密通道 (階級  16)" },
         { "id": "chateau-map-tier-16", "text": "古堡 (階級  16)" },
         { "id": "city-square-map-tier-16", "text": "危城廣場 (階級  16)" },
         { "id": "cold-river-map-tier-16", "text": "寒河 (階級  16)" },
         { "id": "colonnade-map-tier-16", "text": "激戰柱廊 (階級  16)" },
         { "id": "colosseum-map-tier-16", "text": "大決鬥場 (階級  16)" },
-        { "id": "conservatory-map-tier-16", "text": "寧逸溫房 (階級  16)" },
-        { "id": "coral-ruins-map-tier-16", "text": "破碎堡礁 (階級  16)" },
-        { "id": "core-map-tier-16", "text": "核心 (階級  16)" },
+        { "id": "courthouse-map-tier-16", "text": "失序教院 (階級  16)" },
         { "id": "courtyard-map-tier-16", "text": "奇術之庭 (階級  16)" },
         { "id": "coves-map-tier-16", "text": "疾風峽灣 (階級  16)" },
-        { "id": "crater-map-tier-16", "text": "殘破殞坑 (階級  16)" },
         { "id": "crimson-temple-map-tier-16", "text": "緋紅神殿 (階級  16)" },
-        { "id": "crimson-township-map-tier-16", "text": "緋紅之鎮 (階級  16)" },
-        { "id": "crystal-ore-map-tier-16", "text": "紫晶礦山 (階級  16)" },
         { "id": "cursed-crypt-map-tier-16", "text": "惡咒陵墓 (階級  16)" },
-        {
-          "id": "defiled-cathedral-map-tier-16",
-          "text": "不潔教堂 (階級  16)"
-        },
-        { "id": "desert-spring-map-tier-16", "text": "硫磺荒漠 (階級  16)" },
-        { "id": "dig-map-tier-16", "text": "違禁掘坑 (階級  16)" },
-        { "id": "dry-sea-map-tier-16", "text": "乾海 (階級  16)" },
+        { "id": "dark-forest-map-tier-16", "text": "夜語幽林 (階級  16)" },
         { "id": "dunes-map-tier-16", "text": "暮色沙丘 (階級  16)" },
         { "id": "dungeon-map-tier-16", "text": "禁魂炎獄 (階級  16)" },
+        { "id": "estuary-map-tier-16", "text": "熔火岩灘 (階級  16)" },
         { "id": "excavation-map-tier-16", "text": "挖掘場 (階級  16)" },
         { "id": "factory-map-tier-16", "text": "鐵鏽工廠 (階級  16)" },
-        { "id": "fields-map-tier-16", "text": "無疆田野 (階級  16)" },
         { "id": "flooded-mine-map-tier-16", "text": "洪災礦坑 (階級  16)" },
-        { "id": "forbidden-woods-map-tier-16", "text": "禁忌之森 (階級  16)" },
         {
           "id": "forge-of-the-phoenix-map-tier-16",
           "text": "火鳳凰熔核 (階級  16)"
         },
-        { "id": "foundry-map-tier-16", "text": "鍊金房 (階級  16)" },
+        { "id": "forking-river-map-tier-16", "text": "岔河 (階級  16)" },
         { "id": "frozen-cabins-map-tier-16", "text": "凍原小屋 (階級  16)" },
         { "id": "fungal-hollow-map-tier-16", "text": "毒菌魔域 (階級  16)" },
         { "id": "geode-map-tier-16", "text": "詭譎晶洞 (階級  16)" },
-        { "id": "grotto-map-tier-16", "text": "幽暗地穴 (階級  16)" },
+        { "id": "glacier-map-tier-16", "text": "冰川山丘 (階級  16)" },
+        { "id": "grave-trough-map-tier-16", "text": "墓地谷 (階級  16)" },
+        { "id": "graveyard-map-tier-16", "text": "墮影墓場 (階級  16)" },
+        { "id": "haunted-mansion-map-tier-16", "text": "幽魂宅邸 (階級  16)" },
+        { "id": "iceberg-map-tier-16", "text": "極原冰帽 (階級  16)" },
         { "id": "infested-valley-map-tier-16", "text": "病疫林谷 (階級  16)" },
-        { "id": "jungle-valley-map-tier-16", "text": "劇毒林谷 (階級  16)" },
-        { "id": "laboratory-map-tier-16", "text": "實驗居所 (階級  16)" },
-        { "id": "lair-map-tier-16", "text": "餓獸巢穴 (階級  16)" },
+        { "id": "ivory-temple-map-tier-16", "text": "象牙神殿 (階級  16)" },
         {
           "id": "lair-of-the-hydra-map-tier-16",
           "text": "九頭蛇冰窟 (階級  16)"
         },
+        { "id": "lava-chamber-map-tier-16", "text": "熔岩之室 (階級  16)" },
+        { "id": "lava-lake-map-tier-16", "text": "岩漿熔湖 (階級  16)" },
         { "id": "leyline-map-tier-16", "text": "荒涼牧野 (階級  16)" },
-        { "id": "lighthouse-map-tier-16", "text": "絕望燈塔 (階級  16)" },
+        { "id": "lookout-map-tier-16", "text": "如履危牆 (階級  16)" },
         { "id": "malformation-map-tier-16", "text": "畸形亡域 (階級  16)" },
-        { "id": "marshes-map-tier-16", "text": "惡臭沼地 (階級  16)" },
+        { "id": "mausoleum-map-tier-16", "text": "靜縊陵墓 (階級  16)" },
         { "id": "maze-map-tier-16", "text": "冥神之域 (階級  16)" },
         {
           "id": "maze-of-the-minotaur-map-tier-16",
           "text": "牛頭人謎域 (階級  16)"
         },
+        { "id": "mesa-map-tier-16", "text": "平頂荒漠 (階級  16)" },
         { "id": "mineral-pools-map-tier-16", "text": "濕地礦山 (階級  16)" },
         { "id": "moon-temple-map-tier-16", "text": "嬋娟神殿 (階級  16)" },
+        { "id": "mud-geyser-map-tier-16", "text": "陰晦泥灘 (階級  16)" },
         { "id": "museum-map-tier-16", "text": "古博物館 (階級  16)" },
         { "id": "necropolis-map-tier-16", "text": "魔影墓場 (階級  16)" },
         { "id": "orchard-map-tier-16", "text": "密林果園 (階級  16)" },
-        { "id": "overgrown-ruin-map-tier-16", "text": "長草遺跡 (階級  16)" },
         { "id": "overgrown-shrine-map-tier-16", "text": "密草神殿 (階級  16)" },
+        { "id": "palace-map-tier-16", "text": "神域之殿 (階級  16)" },
+        { "id": "pen-map-tier-16", "text": "穢陰獄牢 (階級  16)" },
         { "id": "phantasmagoria-map-tier-16", "text": "魔靈幻獄 (階級  16)" },
         { "id": "pier-map-tier-16", "text": "怒浪之港 (階級  16)" },
         { "id": "pit-map-tier-16", "text": "巨坑 (階級  16)" },
@@ -3477,7 +4019,6 @@
           "text": "奇美拉魔坑 (階級  16)"
         },
         { "id": "plateau-map-tier-16", "text": "海風高原 (階級  16)" },
-        { "id": "plaza-map-tier-16", "text": "廣場 (階級  16)" },
         { "id": "port-map-tier-16", "text": "失落城塢 (階級  16)" },
         { "id": "precinct-map-tier-16", "text": "苦行之域 (階級  16)" },
         {
@@ -3487,23 +4028,21 @@
         { "id": "primordial-pool-map-tier-16", "text": "血腥沼澤 (階級  16)" },
         { "id": "promenade-map-tier-16", "text": "月色迴廊 (階級  16)" },
         { "id": "racecourse-map-tier-16", "text": "古競速場 (階級  16)" },
-        { "id": "ramparts-map-tier-16", "text": "濱海堡壘 (階級  16)" },
-        { "id": "relic-chambers-map-tier-16", "text": "古典密室 (階級  16)" },
+        { "id": "reef-map-tier-16", "text": "危機海礁 (階級  16)" },
         { "id": "residence-map-tier-16", "text": "神主居所 (階級  16)" },
-        { "id": "scriptorium-map-tier-16", "text": "墓影書坊 (階級  16)" },
-        { "id": "shipyard-map-tier-16", "text": "熾炎船塢 (階級  16)" },
         { "id": "shore-map-tier-16", "text": "暮光海灘 (階級  16)" },
-        { "id": "shrine-map-tier-16", "text": "奇術秘殿 (階級  16)" },
         { "id": "siege-map-tier-16", "text": "禁斷圍城 (階級  16)" },
         { "id": "silo-map-tier-16", "text": "儲物倉 (階級  16)" },
+        { "id": "spider-forest-map-tier-16", "text": "巨蛛之林 (階級  16)" },
         { "id": "stagnation-map-tier-16", "text": "淤塞水道 (階級  16)" },
         { "id": "strand-map-tier-16", "text": "致命岩灘 (階級  16)" },
         { "id": "sulphur-vents-map-tier-16", "text": "硫磺蝕岸 (階級  16)" },
+        { "id": "summit-map-tier-16", "text": "寒頂之巔 (階級  16)" },
+        { "id": "sunken-city-map-tier-16", "text": "亞特蘭提斯 (階級  16)" },
         { "id": "temple-map-tier-16", "text": "奪魂之殿 (階級  16)" },
         { "id": "terrace-map-tier-16", "text": "露台花園 (階級  16)" },
         { "id": "thicket-map-tier-16", "text": "驚懼樹叢 (階級  16)" },
         { "id": "tower-map-tier-16", "text": "闇獄尖塔 (階級  16)" },
-        { "id": "toxic-sewer-map-tier-16", "text": "腐敗下水道 (階級  16)" },
         { "id": "tropical-island-map-tier-16", "text": "晴空幽島 (階級  16)" },
         {
           "id": "underground-river-map-tier-16",
@@ -3512,9 +4051,10 @@
         { "id": "underground-sea-map-tier-16", "text": "濱海幽穴 (階級  16)" },
         { "id": "vaal-pyramid-map-tier-16", "text": "瓦爾金字塔 (階級  16)" },
         { "id": "vaal-temple-map-tier-16", "text": "瓦爾密殿 (階級  16)" },
+        { "id": "vault-map-tier-16", "text": "魔金寶庫 (階級  16)" },
         { "id": "volcano-map-tier-16", "text": "火山炎域 (階級  16)" },
-        { "id": "waste-pool-map-tier-16", "text": "死寂泥溝 (階級  16)" },
         { "id": "wasteland-map-tier-16", "text": "荒地 (階級  16)" },
+        { "id": "waterways-map-tier-16", "text": "危機水道 (階級  16)" },
         { "id": "wharf-map-tier-16", "text": "毒牙海港 (階級  16)" }
       ]
     },
@@ -3522,190 +4062,1206 @@
       "id": "MapsBlighted",
       "label": "地圖（凋落）",
       "entries": [
-        { "id": "blighted-alleyways-map", "text": "凋落的 危城巷弄 (階級  1)" },
         {
-          "id": "blighted-arachnid-nest-map",
-          "text": "凋落的 異蛛巢穴 (階級  10)"
+          "id": "blighted-barrows-map-tier-1",
+          "text": "凋落的 熱林塚墓 (階級  1)"
         },
-        { "id": "blighted-arcade-map", "text": "凋落的 崩壞長廊 (階級  5)" },
         {
-          "id": "blighted-arid-lake-map",
-          "text": "凋落的 乾枯湖岸 (階級  13)"
-        },
-        { "id": "blighted-armoury-map", "text": "凋落的 軍械庫 (階級  8)" },
-        { "id": "blighted-arsenal-map", "text": "凋落的 古兵工廠 (階級  16)" },
-        { "id": "blighted-atoll-map", "text": "凋落的 濱海山丘 (階級  5)" },
-        { "id": "blighted-barrows-map", "text": "凋落的 熱林塚墓 (階級  14)" },
-        { "id": "blighted-beach-map", "text": "凋落的 白沙灘頭 (階級  11)" },
-        { "id": "blighted-belfry-map", "text": "凋落的 雲頂鐘樓 (階級  2)" },
-        {
-          "id": "blighted-bone-crypt-map",
+          "id": "blighted-bone-crypt-map-tier-1",
           "text": "凋落的 骨跡陵墓 (階級  1)"
         },
-        { "id": "blighted-caldera-map", "text": "凋落的 火山炎口 (階級  8)" },
-        { "id": "blighted-canyon-map", "text": "凋落的 炙陽峽谷 (階級  7)" },
         {
-          "id": "blighted-castle-ruins-map",
-          "text": "凋落的 遺跡廢墟 (階級  6)"
-        },
-        { "id": "blighted-cells-map", "text": "凋落的 幽魂監牢 (階級  10)" },
-        { "id": "blighted-cemetery-map", "text": "凋落的 晨曦墓地 (階級  4)" },
-        { "id": "blighted-chateau-map", "text": "凋落的 古堡 (階級  7)" },
-        {
-          "id": "blighted-city-square-map",
-          "text": "凋落的 危城廣場 (階級  5)"
-        },
-        { "id": "blighted-cold-river-map", "text": "凋落的 寒河 (階級  9)" },
-        { "id": "blighted-colonnade-map", "text": "凋落的 激戰柱廊 (階級  1)" },
-        {
-          "id": "blighted-conservatory-map",
-          "text": "凋落的 寧逸溫房 (階級  12)"
+          "id": "blighted-plateau-map-tier-1",
+          "text": "凋落的 海風高原 (階級  1)"
         },
         {
-          "id": "blighted-coral-ruins-map",
-          "text": "凋落的 破碎堡礁 (階級  7)"
-        },
-        { "id": "blighted-courtyard-map", "text": "凋落的 奇術之庭 (階級  5)" },
-        { "id": "blighted-coves-map", "text": "凋落的 疾風峽灣 (階級  16)" },
-        {
-          "id": "blighted-crimson-temple-map",
-          "text": "凋落的 緋紅神殿 (階級  8)"
+          "id": "blighted-beach-map-tier-2",
+          "text": "凋落的 白沙灘頭 (階級  2)"
         },
         {
-          "id": "blighted-crimson-township-map",
-          "text": "凋落的 緋紅之鎮 (階級  11)"
+          "id": "blighted-dunes-map-tier-2",
+          "text": "凋落的 暮色沙丘 (階級  2)"
         },
         {
-          "id": "blighted-cursed-crypt-map",
-          "text": "凋落的 惡咒陵墓 (階級  7)"
+          "id": "blighted-estuary-map-tier-2",
+          "text": "凋落的 熔火岩灘 (階級  2)"
         },
         {
-          "id": "blighted-defiled-cathedral-map",
-          "text": "凋落的 不潔教堂 (階級  13)"
+          "id": "blighted-grave-trough-map-tier-2",
+          "text": "凋落的 墓地谷 (階級  2)"
         },
         {
-          "id": "blighted-desert-spring-map",
-          "text": "凋落的 硫磺荒漠 (階級  12)"
-        },
-        { "id": "blighted-dig-map", "text": "凋落的 違禁掘坑 (階級  16)" },
-        { "id": "blighted-dry-sea-map", "text": "凋落的 乾海 (階級  2)" },
-        { "id": "blighted-dunes-map", "text": "凋落的 暮色沙丘 (階級  2)" },
-        { "id": "blighted-dungeon-map", "text": "凋落的 禁魂炎獄 (階級  14)" },
-        { "id": "blighted-fields-map", "text": "凋落的 無疆田野 (階級  3)" },
-        {
-          "id": "blighted-flooded-mine-map",
-          "text": "凋落的 洪災礦坑 (階級  8)"
+          "id": "blighted-mineral-pools-map-tier-2",
+          "text": "凋落的 濕地礦山 (階級  2)"
         },
         {
-          "id": "blighted-forbidden-woods-map",
-          "text": "凋落的 禁忌之森 (階級  7)"
-        },
-        { "id": "blighted-foundry-map", "text": "凋落的 鍊金房 (階級  10)" },
-        { "id": "blighted-geode-map", "text": "凋落的 詭譎晶洞 (階級  11)" },
-        {
-          "id": "blighted-infested-valley-map",
-          "text": "凋落的 病疫林谷 (階級  3)"
+          "id": "blighted-primordial-blocks-map-tier-2",
+          "text": "凋落的 血腥陣地 (階級  2)"
         },
         {
-          "id": "blighted-jungle-valley-map",
-          "text": "凋落的 劇毒林谷 (階級  12)"
+          "id": "blighted-stagnation-map-tier-2",
+          "text": "凋落的 淤塞水道 (階級  2)"
         },
         {
-          "id": "blighted-laboratory-map",
-          "text": "凋落的 實驗居所 (階級  4)"
-        },
-        { "id": "blighted-lair-map", "text": "凋落的 餓獸巢穴 (階級  3)" },
-        { "id": "blighted-leyline-map", "text": "凋落的 荒涼牧野 (階級  13)" },
-        {
-          "id": "blighted-lighthouse-map",
-          "text": "凋落的 絕望燈塔 (階級  4)"
+          "id": "blighted-wasteland-map-tier-2",
+          "text": "凋落的 荒地 (階級  2)"
         },
         {
-          "id": "blighted-malformation-map",
-          "text": "凋落的 畸形亡域 (階級  11)"
+          "id": "blighted-bog-map-tier-3",
+          "text": "凋落的 瘴氣泥沼 (階級  3)"
         },
-        { "id": "blighted-marshes-map", "text": "凋落的 惡臭沼地 (階級  5)" },
         {
-          "id": "blighted-mineral-pools-map",
+          "id": "blighted-cold-river-map-tier-3",
+          "text": "凋落的 寒河 (階級  3)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-3",
+          "text": "凋落的 岔河 (階級  3)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-3",
+          "text": "凋落的 如履危牆 (階級  3)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-3",
+          "text": "凋落的 平頂荒漠 (階級  3)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-3",
+          "text": "凋落的 密草神殿 (階級  3)"
+        },
+        {
+          "id": "blighted-strand-map-tier-3",
+          "text": "凋落的 致命岩灘 (階級  3)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-4",
+          "text": "凋落的 熱林塚墓 (階級  4)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-4",
+          "text": "凋落的 骨跡陵墓 (階級  4)"
+        },
+        {
+          "id": "blighted-cage-map-tier-4",
+          "text": "凋落的 羈破牢籠 (階級  4)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-4",
+          "text": "凋落的 晨曦墓地 (階級  4)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-4",
+          "text": "凋落的 墮影墓場 (階級  4)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-4",
+          "text": "凋落的 極原冰帽 (階級  4)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-4",
+          "text": "凋落的 畸形亡域 (階級  4)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-4",
+          "text": "凋落的 嬋娟神殿 (階級  4)"
+        },
+        {
+          "id": "blighted-plateau-map-tier-4",
+          "text": "凋落的 海風高原 (階級  4)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-4",
+          "text": "凋落的 血腥沼澤 (階級  4)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-5",
+          "text": "凋落的 危城巷弄 (階級  5)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-5",
+          "text": "凋落的 濱海山丘 (階級  5)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-5",
+          "text": "凋落的 遠古市集 (階級  5)"
+        },
+        {
+          "id": "blighted-beach-map-tier-5",
+          "text": "凋落的 白沙灘頭 (階級  5)"
+        },
+        {
+          "id": "blighted-cells-map-tier-5",
+          "text": "凋落的 幽魂監牢 (階級  5)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-5",
+          "text": "凋落的 奇術之庭 (階級  5)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-5",
+          "text": "凋落的 暮色沙丘 (階級  5)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-5",
+          "text": "凋落的 熔火岩灘 (階級  5)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-5",
+          "text": "凋落的 墓地谷 (階級  5)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-5",
+          "text": "凋落的 荒涼牧野 (階級  5)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-5",
           "text": "凋落的 濕地礦山 (階級  5)"
         },
         {
-          "id": "blighted-moon-temple-map",
-          "text": "凋落的 嬋娟神殿 (階級  4)"
+          "id": "blighted-primordial-blocks-map-tier-5",
+          "text": "凋落的 血腥陣地 (階級  5)"
         },
-        { "id": "blighted-museum-map", "text": "凋落的 古博物館 (階級  12)" },
         {
-          "id": "blighted-necropolis-map",
+          "id": "blighted-stagnation-map-tier-5",
+          "text": "凋落的 淤塞水道 (階級  5)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-5",
+          "text": "凋落的 晴空幽島 (階級  5)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-5",
+          "text": "凋落的 火山炎域 (階級  5)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-5",
+          "text": "凋落的 荒地 (階級  5)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-6",
+          "text": "凋落的 酸岩酸嶼 (階級  6)"
+        },
+        {
+          "id": "blighted-bog-map-tier-6",
+          "text": "凋落的 瘴氣泥沼 (階級  6)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-6",
+          "text": "凋落的 寒河 (階級  6)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-6",
+          "text": "凋落的 夜語幽林 (階級  6)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-6",
+          "text": "凋落的 岔河 (階級  6)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-6",
+          "text": "凋落的 如履危牆 (階級  6)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-6",
+          "text": "凋落的 平頂荒漠 (階級  6)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-6",
+          "text": "凋落的 密草神殿 (階級  6)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-6",
+          "text": "凋落的 月色迴廊 (階級  6)"
+        },
+        {
+          "id": "blighted-shore-map-tier-6",
+          "text": "凋落的 暮光海灘 (階級  6)"
+        },
+        {
+          "id": "blighted-strand-map-tier-6",
+          "text": "凋落的 致命岩灘 (階級  6)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-6",
+          "text": "凋落的 驚懼樹叢 (階級  6)"
+        },
+        {
+          "id": "blighted-cage-map-tier-7",
+          "text": "凋落的 羈破牢籠 (階級  7)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-7",
+          "text": "凋落的 晨曦墓地 (階級  7)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-7",
+          "text": "凋落的 惡咒陵墓 (階級  7)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-7",
+          "text": "凋落的 墮影墓場 (階級  7)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-7",
+          "text": "凋落的 極原冰帽 (階級  7)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-7",
+          "text": "凋落的 熔岩之室 (階級  7)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-7",
+          "text": "凋落的 畸形亡域 (階級  7)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-7",
+          "text": "凋落的 嬋娟神殿 (階級  7)"
+        },
+        {
+          "id": "blighted-pen-map-tier-7",
+          "text": "凋落的 穢陰獄牢 (階級  7)"
+        },
+        { "id": "blighted-pit-map-tier-7", "text": "凋落的 巨坑 (階級  7)" },
+        {
+          "id": "blighted-precinct-map-tier-7",
+          "text": "凋落的 苦行之域 (階級  7)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-7",
+          "text": "凋落的 血腥沼澤 (階級  7)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-8",
+          "text": "凋落的 危城巷弄 (階級  8)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-8",
+          "text": "凋落的 崩壞長廊 (階級  8)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-8",
+          "text": "凋落的 濱海山丘 (階級  8)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-8",
+          "text": "凋落的 熱林塚墓 (階級  8)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-8",
+          "text": "凋落的 遠古市集 (階級  8)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-8",
+          "text": "凋落的 骨跡陵墓 (階級  8)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-8",
+          "text": "凋落的 遺跡廢墟 (階級  8)"
+        },
+        {
+          "id": "blighted-cells-map-tier-8",
+          "text": "凋落的 幽魂監牢 (階級  8)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-8",
+          "text": "凋落的 古堡 (階級  8)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-8",
+          "text": "凋落的 奇術之庭 (階級  8)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-8",
+          "text": "凋落的 荒涼牧野 (階級  8)"
+        },
+        {
+          "id": "blighted-plateau-map-tier-8",
+          "text": "凋落的 海風高原 (階級  8)"
+        },
+        {
+          "id": "blighted-port-map-tier-8",
+          "text": "凋落的 失落城塢 (階級  8)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-8",
+          "text": "凋落的 晴空幽島 (階級  8)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-8",
+          "text": "凋落的 火山炎域 (階級  8)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-9",
+          "text": "凋落的 酸岩酸嶼 (階級  9)"
+        },
+        {
+          "id": "blighted-arachnid-nest-map-tier-9",
+          "text": "凋落的 異蛛巢穴 (階級  9)"
+        },
+        {
+          "id": "blighted-beach-map-tier-9",
+          "text": "凋落的 白沙灘頭 (階級  9)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-9",
+          "text": "凋落的 夜語幽林 (階級  9)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-9",
+          "text": "凋落的 暮色沙丘 (階級  9)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-9",
+          "text": "凋落的 熔火岩灘 (階級  9)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-9",
+          "text": "凋落的 洪災礦坑 (階級  9)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-9",
+          "text": "凋落的 墓地谷 (階級  9)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-9",
+          "text": "凋落的 幽魂宅邸 (階級  9)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-9",
+          "text": "凋落的 濕地礦山 (階級  9)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-9",
+          "text": "凋落的 血腥陣地 (階級  9)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-9",
+          "text": "凋落的 月色迴廊 (階級  9)"
+        },
+        {
+          "id": "blighted-racecourse-map-tier-9",
+          "text": "凋落的 古競速場 (階級  9)"
+        },
+        {
+          "id": "blighted-shore-map-tier-9",
+          "text": "凋落的 暮光海灘 (階級  9)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-9",
+          "text": "凋落的 淤塞水道 (階級  9)"
+        },
+        {
+          "id": "blighted-summit-map-tier-9",
+          "text": "凋落的 寒頂之巔 (階級  9)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-9",
+          "text": "凋落的 驚懼樹叢 (階級  9)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-9",
+          "text": "凋落的 荒地 (階級  9)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-10",
+          "text": "凋落的 聖殿 (階級  10)"
+        },
+        {
+          "id": "blighted-bog-map-tier-10",
+          "text": "凋落的 瘴氣泥沼 (階級  10)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-10",
+          "text": "凋落的 寒河 (階級  10)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-10",
+          "text": "凋落的 緋紅神殿 (階級  10)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-10",
+          "text": "凋落的 惡咒陵墓 (階級  10)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-10",
+          "text": "凋落的 岔河 (階級  10)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-10",
+          "text": "凋落的 熔岩之室 (階級  10)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-10",
+          "text": "凋落的 如履危牆 (階級  10)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-10",
+          "text": "凋落的 平頂荒漠 (階級  10)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-10",
+          "text": "凋落的 密林果園 (階級  10)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-10",
+          "text": "凋落的 密草神殿 (階級  10)"
+        },
+        {
+          "id": "blighted-pen-map-tier-10",
+          "text": "凋落的 穢陰獄牢 (階級  10)"
+        },
+        { "id": "blighted-pit-map-tier-10", "text": "凋落的 巨坑 (階級  10)" },
+        {
+          "id": "blighted-precinct-map-tier-10",
+          "text": "凋落的 苦行之域 (階級  10)"
+        },
+        {
+          "id": "blighted-strand-map-tier-10",
+          "text": "凋落的 致命岩灘 (階級  10)"
+        },
+        {
+          "id": "blighted-tower-map-tier-10",
+          "text": "凋落的 闇獄尖塔 (階級  10)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-10",
+          "text": "凋落的 濱海幽穴 (階級  10)"
+        },
+        {
+          "id": "blighted-vault-map-tier-10",
+          "text": "凋落的 魔金寶庫 (階級  10)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-11",
+          "text": "凋落的 崩壞長廊 (階級  11)"
+        },
+        {
+          "id": "blighted-cage-map-tier-11",
+          "text": "凋落的 羈破牢籠 (階級  11)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-11",
+          "text": "凋落的 遺跡廢墟 (階級  11)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-11",
+          "text": "凋落的 晨曦墓地 (階級  11)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-11",
+          "text": "凋落的 古堡 (階級  11)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-11",
+          "text": "凋落的 危城廣場 (階級  11)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-11",
+          "text": "凋落的 激戰柱廊 (階級  11)"
+        },
+        {
+          "id": "blighted-coves-map-tier-11",
+          "text": "凋落的 疾風峽灣 (階級  11)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-11",
+          "text": "凋落的 禁魂炎獄 (階級  11)"
+        },
+        {
+          "id": "blighted-geode-map-tier-11",
+          "text": "凋落的 詭譎晶洞 (階級  11)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-11",
+          "text": "凋落的 墮影墓場 (階級  11)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-11",
+          "text": "凋落的 極原冰帽 (階級  11)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-11",
+          "text": "凋落的 畸形亡域 (階級  11)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-11",
+          "text": "凋落的 嬋娟神殿 (階級  11)"
+        },
+        {
+          "id": "blighted-port-map-tier-11",
+          "text": "凋落的 失落城塢 (階級  11)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-11",
+          "text": "凋落的 血腥沼澤 (階級  11)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-12",
+          "text": "凋落的 危城巷弄 (階級  12)"
+        },
+        {
+          "id": "blighted-arachnid-nest-map-tier-12",
+          "text": "凋落的 異蛛巢穴 (階級  12)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-12",
+          "text": "凋落的 濱海山丘 (階級  12)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-12",
+          "text": "凋落的 熱林塚墓 (階級  12)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-12",
+          "text": "凋落的 遠古市集 (階級  12)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-12",
+          "text": "凋落的 骨跡陵墓 (階級  12)"
+        },
+        {
+          "id": "blighted-cells-map-tier-12",
+          "text": "凋落的 幽魂監牢 (階級  12)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-12",
+          "text": "凋落的 失序教院 (階級  12)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-12",
+          "text": "凋落的 奇術之庭 (階級  12)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-12",
+          "text": "凋落的 洪災礦坑 (階級  12)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-12",
+          "text": "凋落的 幽魂宅邸 (階級  12)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-12",
+          "text": "凋落的 荒涼牧野 (階級  12)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-12",
+          "text": "凋落的 靜縊陵墓 (階級  12)"
+        },
+        {
+          "id": "blighted-museum-map-tier-12",
+          "text": "凋落的 古博物館 (階級  12)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-12",
           "text": "凋落的 魔影墓場 (階級  12)"
         },
-        { "id": "blighted-orchard-map", "text": "凋落的 密林果園 (階級  4)" },
         {
-          "id": "blighted-overgrown-shrine-map",
-          "text": "凋落的 密草神殿 (階級  3)"
-        },
-        { "id": "blighted-pit-map", "text": "凋落的 巨坑 (階級  6)" },
-        { "id": "blighted-plateau-map", "text": "凋落的 海風高原 (階級  5)" },
-        { "id": "blighted-plaza-map", "text": "凋落的 廣場 (階級  10)" },
-        { "id": "blighted-port-map", "text": "凋落的 失落城塢 (階級  4)" },
-        { "id": "blighted-precinct-map", "text": "凋落的 苦行之域 (階級  2)" },
-        {
-          "id": "blighted-primordial-blocks-map",
-          "text": "凋落的 血腥陣地 (階級  3)"
+          "id": "blighted-palace-map-tier-12",
+          "text": "凋落的 神域之殿 (階級  12)"
         },
         {
-          "id": "blighted-primordial-pool-map",
-          "text": "凋落的 血腥沼澤 (階級  3)"
-        },
-        { "id": "blighted-promenade-map", "text": "凋落的 月色迴廊 (階級  6)" },
-        {
-          "id": "blighted-racecourse-map",
-          "text": "凋落的 古競速場 (階級  15)"
-        },
-        { "id": "blighted-ramparts-map", "text": "凋落的 濱海堡壘 (階級  9)" },
-        {
-          "id": "blighted-relic-chambers-map",
-          "text": "凋落的 古典密室 (階級  7)"
-        },
-        { "id": "blighted-shipyard-map", "text": "凋落的 熾炎船塢 (階級  8)" },
-        { "id": "blighted-shore-map", "text": "凋落的 暮光海灘 (階級  6)" },
-        { "id": "blighted-shrine-map", "text": "凋落的 奇術秘殿 (階級  3)" },
-        { "id": "blighted-siege-map", "text": "凋落的 禁斷圍城 (階級  9)" },
-        { "id": "blighted-silo-map", "text": "凋落的 儲物倉 (階級  2)" },
-        {
-          "id": "blighted-stagnation-map",
-          "text": "凋落的 淤塞水道 (階級  2)"
-        },
-        { "id": "blighted-strand-map", "text": "凋落的 致命岩灘 (階級  3)" },
-        {
-          "id": "blighted-sulphur-vents-map",
-          "text": "凋落的 硫磺蝕岸 (階級  7)"
-        },
-        { "id": "blighted-temple-map", "text": "凋落的 奪魂之殿 (階級  14)" },
-        { "id": "blighted-thicket-map", "text": "凋落的 驚懼樹叢 (階級  13)" },
-        { "id": "blighted-tower-map", "text": "凋落的 闇獄尖塔 (階級  4)" },
-        {
-          "id": "blighted-toxic-sewer-map",
-          "text": "凋落的 腐敗下水道 (階級  6)"
+          "id": "blighted-plateau-map-tier-12",
+          "text": "凋落的 海風高原 (階級  12)"
         },
         {
-          "id": "blighted-tropical-island-map",
-          "text": "凋落的 晴空幽島 (階級  15)"
+          "id": "blighted-racecourse-map-tier-12",
+          "text": "凋落的 古競速場 (階級  12)"
         },
         {
-          "id": "blighted-underground-river-map",
+          "id": "blighted-sulphur-vents-map-tier-12",
+          "text": "凋落的 硫磺蝕岸 (階級  12)"
+        },
+        {
+          "id": "blighted-summit-map-tier-12",
+          "text": "凋落的 寒頂之巔 (階級  12)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-12",
+          "text": "凋落的 晴空幽島 (階級  12)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-12",
+          "text": "凋落的 火山炎域 (階級  12)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-13",
+          "text": "凋落的 酸岩酸嶼 (階級  13)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-13",
+          "text": "凋落的 聖殿 (階級  13)"
+        },
+        {
+          "id": "blighted-beach-map-tier-13",
+          "text": "凋落的 白沙灘頭 (階級  13)"
+        },
+        {
+          "id": "blighted-caldera-map-tier-13",
+          "text": "凋落的 火山炎口 (階級  13)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-13",
+          "text": "凋落的 緋紅神殿 (階級  13)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-13",
+          "text": "凋落的 夜語幽林 (階級  13)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-13",
+          "text": "凋落的 暮色沙丘 (階級  13)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-13",
+          "text": "凋落的 熔火岩灘 (階級  13)"
+        },
+        {
+          "id": "blighted-glacier-map-tier-13",
+          "text": "凋落的 冰川山丘 (階級  13)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-13",
+          "text": "凋落的 墓地谷 (階級  13)"
+        },
+        {
+          "id": "blighted-lava-lake-map-tier-13",
+          "text": "凋落的 岩漿熔湖 (階級  13)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-13",
+          "text": "凋落的 濕地礦山 (階級  13)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-13",
+          "text": "凋落的 密林果園 (階級  13)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-13",
+          "text": "凋落的 血腥陣地 (階級  13)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-13",
+          "text": "凋落的 月色迴廊 (階級  13)"
+        },
+        {
+          "id": "blighted-shore-map-tier-13",
+          "text": "凋落的 暮光海灘 (階級  13)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-13",
+          "text": "凋落的 淤塞水道 (階級  13)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-13",
+          "text": "凋落的 驚懼樹叢 (階級  13)"
+        },
+        {
+          "id": "blighted-tower-map-tier-13",
+          "text": "凋落的 闇獄尖塔 (階級  13)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-13",
+          "text": "凋落的 濱海幽穴 (階級  13)"
+        },
+        {
+          "id": "blighted-vault-map-tier-13",
+          "text": "凋落的 魔金寶庫 (階級  13)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-13",
+          "text": "凋落的 荒地 (階級  13)"
+        },
+        {
+          "id": "blighted-bog-map-tier-14",
+          "text": "凋落的 瘴氣泥沼 (階級  14)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-14",
+          "text": "凋落的 危城廣場 (階級  14)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-14",
+          "text": "凋落的 寒河 (階級  14)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-14",
+          "text": "凋落的 激戰柱廊 (階級  14)"
+        },
+        {
+          "id": "blighted-coves-map-tier-14",
+          "text": "凋落的 疾風峽灣 (階級  14)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-14",
+          "text": "凋落的 惡咒陵墓 (階級  14)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-14",
+          "text": "凋落的 禁魂炎獄 (階級  14)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-14",
+          "text": "凋落的 岔河 (階級  14)"
+        },
+        {
+          "id": "blighted-geode-map-tier-14",
+          "text": "凋落的 詭譎晶洞 (階級  14)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-14",
+          "text": "凋落的 熔岩之室 (階級  14)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-14",
+          "text": "凋落的 如履危牆 (階級  14)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-14",
+          "text": "凋落的 平頂荒漠 (階級  14)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-14",
+          "text": "凋落的 密草神殿 (階級  14)"
+        },
+        {
+          "id": "blighted-pen-map-tier-14",
+          "text": "凋落的 穢陰獄牢 (階級  14)"
+        },
+        { "id": "blighted-pit-map-tier-14", "text": "凋落的 巨坑 (階級  14)" },
+        {
+          "id": "blighted-precinct-map-tier-14",
+          "text": "凋落的 苦行之域 (階級  14)"
+        },
+        {
+          "id": "blighted-reef-map-tier-14",
+          "text": "凋落的 危機海礁 (階級  14)"
+        },
+        {
+          "id": "blighted-strand-map-tier-14",
+          "text": "凋落的 致命岩灘 (階級  14)"
+        },
+        {
+          "id": "blighted-temple-map-tier-14",
+          "text": "凋落的 奪魂之殿 (階級  14)"
+        },
+        {
+          "id": "blighted-wharf-map-tier-14",
+          "text": "凋落的 毒牙海港 (階級  14)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-15",
+          "text": "凋落的 崩壞長廊 (階級  15)"
+        },
+        {
+          "id": "blighted-cage-map-tier-15",
+          "text": "凋落的 羈破牢籠 (階級  15)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-15",
+          "text": "凋落的 遺跡廢墟 (階級  15)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-15",
+          "text": "凋落的 晨曦墓地 (階級  15)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-15",
+          "text": "凋落的 古堡 (階級  15)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-15",
+          "text": "凋落的 失序教院 (階級  15)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-15",
+          "text": "凋落的 墮影墓場 (階級  15)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-15",
+          "text": "凋落的 極原冰帽 (階級  15)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-15",
+          "text": "凋落的 畸形亡域 (階級  15)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-15",
+          "text": "凋落的 靜縊陵墓 (階級  15)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-15",
+          "text": "凋落的 嬋娟神殿 (階級  15)"
+        },
+        {
+          "id": "blighted-mud-geyser-map-tier-15",
+          "text": "凋落的 陰晦泥灘 (階級  15)"
+        },
+        {
+          "id": "blighted-museum-map-tier-15",
+          "text": "凋落的 古博物館 (階級  15)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-15",
+          "text": "凋落的 魔影墓場 (階級  15)"
+        },
+        {
+          "id": "blighted-palace-map-tier-15",
+          "text": "凋落的 神域之殿 (階級  15)"
+        },
+        {
+          "id": "blighted-port-map-tier-15",
+          "text": "凋落的 失落城塢 (階級  15)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-15",
+          "text": "凋落的 血腥沼澤 (階級  15)"
+        },
+        {
+          "id": "blighted-siege-map-tier-15",
+          "text": "凋落的 禁斷圍城 (階級  15)"
+        },
+        {
+          "id": "blighted-spider-forest-map-tier-15",
+          "text": "凋落的 巨蛛之林 (階級  15)"
+        },
+        {
+          "id": "blighted-sulphur-vents-map-tier-15",
+          "text": "凋落的 硫磺蝕岸 (階級  15)"
+        },
+        {
+          "id": "blighted-underground-river-map-tier-15",
           "text": "凋落的 地底之河 (階級  15)"
         },
         {
-          "id": "blighted-underground-sea-map",
-          "text": "凋落的 濱海幽穴 (階級  10)"
+          "id": "blighted-acid-caverns-map-tier-16",
+          "text": "凋落的 酸岩酸嶼 (階級  16)"
         },
-        { "id": "blighted-volcano-map", "text": "凋落的 火山炎域 (階級  16)" },
         {
-          "id": "blighted-waste-pool-map",
-          "text": "凋落的 死寂泥溝 (階級  6)"
+          "id": "blighted-alleyways-map-tier-16",
+          "text": "凋落的 危城巷弄 (階級  16)"
         },
-        { "id": "blighted-wasteland-map", "text": "凋落的 荒地 (階級  9)" },
-        { "id": "blighted-wharf-map", "text": "凋落的 毒牙海港 (階級  12)" }
+        {
+          "id": "blighted-arachnid-nest-map-tier-16",
+          "text": "凋落的 異蛛巢穴 (階級  16)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-16",
+          "text": "凋落的 崩壞長廊 (階級  16)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-16",
+          "text": "凋落的 濱海山丘 (階級  16)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-16",
+          "text": "凋落的 熱林塚墓 (階級  16)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-16",
+          "text": "凋落的 聖殿 (階級  16)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-16",
+          "text": "凋落的 遠古市集 (階級  16)"
+        },
+        {
+          "id": "blighted-beach-map-tier-16",
+          "text": "凋落的 白沙灘頭 (階級  16)"
+        },
+        {
+          "id": "blighted-bog-map-tier-16",
+          "text": "凋落的 瘴氣泥沼 (階級  16)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-16",
+          "text": "凋落的 骨跡陵墓 (階級  16)"
+        },
+        {
+          "id": "blighted-cage-map-tier-16",
+          "text": "凋落的 羈破牢籠 (階級  16)"
+        },
+        {
+          "id": "blighted-caldera-map-tier-16",
+          "text": "凋落的 火山炎口 (階級  16)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-16",
+          "text": "凋落的 遺跡廢墟 (階級  16)"
+        },
+        {
+          "id": "blighted-cells-map-tier-16",
+          "text": "凋落的 幽魂監牢 (階級  16)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-16",
+          "text": "凋落的 晨曦墓地 (階級  16)"
+        },
+        {
+          "id": "blighted-channel-map-tier-16",
+          "text": "凋落的 秘密通道 (階級  16)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-16",
+          "text": "凋落的 古堡 (階級  16)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-16",
+          "text": "凋落的 危城廣場 (階級  16)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-16",
+          "text": "凋落的 寒河 (階級  16)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-16",
+          "text": "凋落的 激戰柱廊 (階級  16)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-16",
+          "text": "凋落的 失序教院 (階級  16)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-16",
+          "text": "凋落的 奇術之庭 (階級  16)"
+        },
+        {
+          "id": "blighted-coves-map-tier-16",
+          "text": "凋落的 疾風峽灣 (階級  16)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-16",
+          "text": "凋落的 緋紅神殿 (階級  16)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-16",
+          "text": "凋落的 惡咒陵墓 (階級  16)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-16",
+          "text": "凋落的 夜語幽林 (階級  16)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-16",
+          "text": "凋落的 暮色沙丘 (階級  16)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-16",
+          "text": "凋落的 禁魂炎獄 (階級  16)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-16",
+          "text": "凋落的 熔火岩灘 (階級  16)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-16",
+          "text": "凋落的 洪災礦坑 (階級  16)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-16",
+          "text": "凋落的 岔河 (階級  16)"
+        },
+        {
+          "id": "blighted-geode-map-tier-16",
+          "text": "凋落的 詭譎晶洞 (階級  16)"
+        },
+        {
+          "id": "blighted-glacier-map-tier-16",
+          "text": "凋落的 冰川山丘 (階級  16)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-16",
+          "text": "凋落的 墓地谷 (階級  16)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-16",
+          "text": "凋落的 墮影墓場 (階級  16)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-16",
+          "text": "凋落的 幽魂宅邸 (階級  16)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-16",
+          "text": "凋落的 極原冰帽 (階級  16)"
+        },
+        {
+          "id": "blighted-infested-valley-map-tier-16",
+          "text": "凋落的 病疫林谷 (階級  16)"
+        },
+        {
+          "id": "blighted-ivory-temple-map-tier-16",
+          "text": "凋落的 象牙神殿 (階級  16)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-16",
+          "text": "凋落的 熔岩之室 (階級  16)"
+        },
+        {
+          "id": "blighted-lava-lake-map-tier-16",
+          "text": "凋落的 岩漿熔湖 (階級  16)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-16",
+          "text": "凋落的 荒涼牧野 (階級  16)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-16",
+          "text": "凋落的 如履危牆 (階級  16)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-16",
+          "text": "凋落的 畸形亡域 (階級  16)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-16",
+          "text": "凋落的 靜縊陵墓 (階級  16)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-16",
+          "text": "凋落的 平頂荒漠 (階級  16)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-16",
+          "text": "凋落的 濕地礦山 (階級  16)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-16",
+          "text": "凋落的 嬋娟神殿 (階級  16)"
+        },
+        {
+          "id": "blighted-mud-geyser-map-tier-16",
+          "text": "凋落的 陰晦泥灘 (階級  16)"
+        },
+        {
+          "id": "blighted-museum-map-tier-16",
+          "text": "凋落的 古博物館 (階級  16)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-16",
+          "text": "凋落的 魔影墓場 (階級  16)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-16",
+          "text": "凋落的 密林果園 (階級  16)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-16",
+          "text": "凋落的 密草神殿 (階級  16)"
+        },
+        {
+          "id": "blighted-palace-map-tier-16",
+          "text": "凋落的 神域之殿 (階級  16)"
+        },
+        {
+          "id": "blighted-pen-map-tier-16",
+          "text": "凋落的 穢陰獄牢 (階級  16)"
+        },
+        { "id": "blighted-pit-map-tier-16", "text": "凋落的 巨坑 (階級  16)" },
+        {
+          "id": "blighted-plateau-map-tier-16",
+          "text": "凋落的 海風高原 (階級  16)"
+        },
+        {
+          "id": "blighted-port-map-tier-16",
+          "text": "凋落的 失落城塢 (階級  16)"
+        },
+        {
+          "id": "blighted-precinct-map-tier-16",
+          "text": "凋落的 苦行之域 (階級  16)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-16",
+          "text": "凋落的 血腥陣地 (階級  16)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-16",
+          "text": "凋落的 血腥沼澤 (階級  16)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-16",
+          "text": "凋落的 月色迴廊 (階級  16)"
+        },
+        {
+          "id": "blighted-racecourse-map-tier-16",
+          "text": "凋落的 古競速場 (階級  16)"
+        },
+        {
+          "id": "blighted-reef-map-tier-16",
+          "text": "凋落的 危機海礁 (階級  16)"
+        },
+        {
+          "id": "blighted-shore-map-tier-16",
+          "text": "凋落的 暮光海灘 (階級  16)"
+        },
+        {
+          "id": "blighted-siege-map-tier-16",
+          "text": "凋落的 禁斷圍城 (階級  16)"
+        },
+        {
+          "id": "blighted-silo-map-tier-16",
+          "text": "凋落的 儲物倉 (階級  16)"
+        },
+        {
+          "id": "blighted-spider-forest-map-tier-16",
+          "text": "凋落的 巨蛛之林 (階級  16)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-16",
+          "text": "凋落的 淤塞水道 (階級  16)"
+        },
+        {
+          "id": "blighted-strand-map-tier-16",
+          "text": "凋落的 致命岩灘 (階級  16)"
+        },
+        {
+          "id": "blighted-sulphur-vents-map-tier-16",
+          "text": "凋落的 硫磺蝕岸 (階級  16)"
+        },
+        {
+          "id": "blighted-summit-map-tier-16",
+          "text": "凋落的 寒頂之巔 (階級  16)"
+        },
+        {
+          "id": "blighted-temple-map-tier-16",
+          "text": "凋落的 奪魂之殿 (階級  16)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-16",
+          "text": "凋落的 驚懼樹叢 (階級  16)"
+        },
+        {
+          "id": "blighted-tower-map-tier-16",
+          "text": "凋落的 闇獄尖塔 (階級  16)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-16",
+          "text": "凋落的 晴空幽島 (階級  16)"
+        },
+        {
+          "id": "blighted-underground-river-map-tier-16",
+          "text": "凋落的 地底之河 (階級  16)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-16",
+          "text": "凋落的 濱海幽穴 (階級  16)"
+        },
+        {
+          "id": "blighted-vault-map-tier-16",
+          "text": "凋落的 魔金寶庫 (階級  16)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-16",
+          "text": "凋落的 火山炎域 (階級  16)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-16",
+          "text": "凋落的 荒地 (階級  16)"
+        },
+        {
+          "id": "blighted-wharf-map-tier-16",
+          "text": "凋落的 毒牙海港 (階級  16)"
+        }
       ]
     },
     {
@@ -3713,44 +5269,500 @@
       "label": "地圖 (凋落蔓延)",
       "entries": [
         {
-          "id": "blight-ravaged-arsenal-map",
-          "text": "凋落蔓延的 古兵工廠 (階級  16)"
+          "id": "blight-ravaged-bog-map-tier-14",
+          "text": "凋落蔓延的 瘴氣泥沼 (階級  14)"
         },
         {
-          "id": "blight-ravaged-barrows-map",
-          "text": "凋落蔓延的 熱林塚墓 (階級  14)"
+          "id": "blight-ravaged-city-square-map-tier-14",
+          "text": "凋落蔓延的 危城廣場 (階級  14)"
         },
         {
-          "id": "blight-ravaged-coves-map",
-          "text": "凋落蔓延的 疾風峽灣 (階級  16)"
+          "id": "blight-ravaged-cold-river-map-tier-14",
+          "text": "凋落蔓延的 寒河 (階級  14)"
         },
         {
-          "id": "blight-ravaged-dig-map",
-          "text": "凋落蔓延的 違禁掘坑 (階級  16)"
+          "id": "blight-ravaged-colonnade-map-tier-14",
+          "text": "凋落蔓延的 激戰柱廊 (階級  14)"
         },
         {
-          "id": "blight-ravaged-dungeon-map",
+          "id": "blight-ravaged-coves-map-tier-14",
+          "text": "凋落蔓延的 疾風峽灣 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-cursed-crypt-map-tier-14",
+          "text": "凋落蔓延的 惡咒陵墓 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-dungeon-map-tier-14",
           "text": "凋落蔓延的 禁魂炎獄 (階級  14)"
         },
         {
-          "id": "blight-ravaged-racecourse-map",
-          "text": "凋落蔓延的 古競速場 (階級  15)"
+          "id": "blight-ravaged-forking-river-map-tier-14",
+          "text": "凋落蔓延的 岔河 (階級  14)"
         },
         {
-          "id": "blight-ravaged-temple-map",
+          "id": "blight-ravaged-geode-map-tier-14",
+          "text": "凋落蔓延的 詭譎晶洞 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-lava-chamber-map-tier-14",
+          "text": "凋落蔓延的 熔岩之室 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-lookout-map-tier-14",
+          "text": "凋落蔓延的 如履危牆 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-mesa-map-tier-14",
+          "text": "凋落蔓延的 平頂荒漠 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-overgrown-shrine-map-tier-14",
+          "text": "凋落蔓延的 密草神殿 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-pen-map-tier-14",
+          "text": "凋落蔓延的 穢陰獄牢 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-pit-map-tier-14",
+          "text": "凋落蔓延的 巨坑 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-precinct-map-tier-14",
+          "text": "凋落蔓延的 苦行之域 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-reef-map-tier-14",
+          "text": "凋落蔓延的 危機海礁 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-strand-map-tier-14",
+          "text": "凋落蔓延的 致命岩灘 (階級  14)"
+        },
+        {
+          "id": "blight-ravaged-temple-map-tier-14",
           "text": "凋落蔓延的 奪魂之殿 (階級  14)"
         },
         {
-          "id": "blight-ravaged-tropical-island-map",
-          "text": "凋落蔓延的 晴空幽島 (階級  15)"
+          "id": "blight-ravaged-wharf-map-tier-14",
+          "text": "凋落蔓延的 毒牙海港 (階級  14)"
         },
         {
-          "id": "blight-ravaged-underground-river-map",
+          "id": "blight-ravaged-arcade-map-tier-15",
+          "text": "凋落蔓延的 崩壞長廊 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-cage-map-tier-15",
+          "text": "凋落蔓延的 羈破牢籠 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-castle-ruins-map-tier-15",
+          "text": "凋落蔓延的 遺跡廢墟 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-cemetery-map-tier-15",
+          "text": "凋落蔓延的 晨曦墓地 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-chateau-map-tier-15",
+          "text": "凋落蔓延的 古堡 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-courthouse-map-tier-15",
+          "text": "凋落蔓延的 失序教院 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-graveyard-map-tier-15",
+          "text": "凋落蔓延的 墮影墓場 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-iceberg-map-tier-15",
+          "text": "凋落蔓延的 極原冰帽 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-malformation-map-tier-15",
+          "text": "凋落蔓延的 畸形亡域 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-mausoleum-map-tier-15",
+          "text": "凋落蔓延的 靜縊陵墓 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-moon-temple-map-tier-15",
+          "text": "凋落蔓延的 嬋娟神殿 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-mud-geyser-map-tier-15",
+          "text": "凋落蔓延的 陰晦泥灘 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-museum-map-tier-15",
+          "text": "凋落蔓延的 古博物館 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-necropolis-map-tier-15",
+          "text": "凋落蔓延的 魔影墓場 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-palace-map-tier-15",
+          "text": "凋落蔓延的 神域之殿 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-port-map-tier-15",
+          "text": "凋落蔓延的 失落城塢 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-primordial-pool-map-tier-15",
+          "text": "凋落蔓延的 血腥沼澤 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-siege-map-tier-15",
+          "text": "凋落蔓延的 禁斷圍城 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-spider-forest-map-tier-15",
+          "text": "凋落蔓延的 巨蛛之林 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-sulphur-vents-map-tier-15",
+          "text": "凋落蔓延的 硫磺蝕岸 (階級  15)"
+        },
+        {
+          "id": "blight-ravaged-underground-river-map-tier-15",
           "text": "凋落蔓延的 地底之河 (階級  15)"
         },
         {
-          "id": "blight-ravaged-volcano-map",
+          "id": "blight-ravaged-acid-caverns-map-tier-16",
+          "text": "凋落蔓延的 酸岩酸嶼 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-alleyways-map-tier-16",
+          "text": "凋落蔓延的 危城巷弄 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-arachnid-nest-map-tier-16",
+          "text": "凋落蔓延的 異蛛巢穴 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-arcade-map-tier-16",
+          "text": "凋落蔓延的 崩壞長廊 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-atoll-map-tier-16",
+          "text": "凋落蔓延的 濱海山丘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-barrows-map-tier-16",
+          "text": "凋落蔓延的 熱林塚墓 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-basilica-map-tier-16",
+          "text": "凋落蔓延的 聖殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-bazaar-map-tier-16",
+          "text": "凋落蔓延的 遠古市集 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-beach-map-tier-16",
+          "text": "凋落蔓延的 白沙灘頭 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-bog-map-tier-16",
+          "text": "凋落蔓延的 瘴氣泥沼 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-bone-crypt-map-tier-16",
+          "text": "凋落蔓延的 骨跡陵墓 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-cage-map-tier-16",
+          "text": "凋落蔓延的 羈破牢籠 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-caldera-map-tier-16",
+          "text": "凋落蔓延的 火山炎口 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-castle-ruins-map-tier-16",
+          "text": "凋落蔓延的 遺跡廢墟 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-cells-map-tier-16",
+          "text": "凋落蔓延的 幽魂監牢 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-cemetery-map-tier-16",
+          "text": "凋落蔓延的 晨曦墓地 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-channel-map-tier-16",
+          "text": "凋落蔓延的 秘密通道 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-chateau-map-tier-16",
+          "text": "凋落蔓延的 古堡 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-city-square-map-tier-16",
+          "text": "凋落蔓延的 危城廣場 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-cold-river-map-tier-16",
+          "text": "凋落蔓延的 寒河 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-colonnade-map-tier-16",
+          "text": "凋落蔓延的 激戰柱廊 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-courthouse-map-tier-16",
+          "text": "凋落蔓延的 失序教院 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-courtyard-map-tier-16",
+          "text": "凋落蔓延的 奇術之庭 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-coves-map-tier-16",
+          "text": "凋落蔓延的 疾風峽灣 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-crimson-temple-map-tier-16",
+          "text": "凋落蔓延的 緋紅神殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-cursed-crypt-map-tier-16",
+          "text": "凋落蔓延的 惡咒陵墓 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-dark-forest-map-tier-16",
+          "text": "凋落蔓延的 夜語幽林 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-dunes-map-tier-16",
+          "text": "凋落蔓延的 暮色沙丘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-dungeon-map-tier-16",
+          "text": "凋落蔓延的 禁魂炎獄 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-estuary-map-tier-16",
+          "text": "凋落蔓延的 熔火岩灘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-flooded-mine-map-tier-16",
+          "text": "凋落蔓延的 洪災礦坑 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-forking-river-map-tier-16",
+          "text": "凋落蔓延的 岔河 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-geode-map-tier-16",
+          "text": "凋落蔓延的 詭譎晶洞 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-glacier-map-tier-16",
+          "text": "凋落蔓延的 冰川山丘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-grave-trough-map-tier-16",
+          "text": "凋落蔓延的 墓地谷 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-graveyard-map-tier-16",
+          "text": "凋落蔓延的 墮影墓場 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-haunted-mansion-map-tier-16",
+          "text": "凋落蔓延的 幽魂宅邸 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-iceberg-map-tier-16",
+          "text": "凋落蔓延的 極原冰帽 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-infested-valley-map-tier-16",
+          "text": "凋落蔓延的 病疫林谷 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-ivory-temple-map-tier-16",
+          "text": "凋落蔓延的 象牙神殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-lava-chamber-map-tier-16",
+          "text": "凋落蔓延的 熔岩之室 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-lava-lake-map-tier-16",
+          "text": "凋落蔓延的 岩漿熔湖 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-leyline-map-tier-16",
+          "text": "凋落蔓延的 荒涼牧野 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-lookout-map-tier-16",
+          "text": "凋落蔓延的 如履危牆 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-malformation-map-tier-16",
+          "text": "凋落蔓延的 畸形亡域 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-mausoleum-map-tier-16",
+          "text": "凋落蔓延的 靜縊陵墓 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-mesa-map-tier-16",
+          "text": "凋落蔓延的 平頂荒漠 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-mineral-pools-map-tier-16",
+          "text": "凋落蔓延的 濕地礦山 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-moon-temple-map-tier-16",
+          "text": "凋落蔓延的 嬋娟神殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-mud-geyser-map-tier-16",
+          "text": "凋落蔓延的 陰晦泥灘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-museum-map-tier-16",
+          "text": "凋落蔓延的 古博物館 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-necropolis-map-tier-16",
+          "text": "凋落蔓延的 魔影墓場 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-orchard-map-tier-16",
+          "text": "凋落蔓延的 密林果園 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-overgrown-shrine-map-tier-16",
+          "text": "凋落蔓延的 密草神殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-palace-map-tier-16",
+          "text": "凋落蔓延的 神域之殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-pen-map-tier-16",
+          "text": "凋落蔓延的 穢陰獄牢 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-pit-map-tier-16",
+          "text": "凋落蔓延的 巨坑 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-plateau-map-tier-16",
+          "text": "凋落蔓延的 海風高原 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-port-map-tier-16",
+          "text": "凋落蔓延的 失落城塢 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-precinct-map-tier-16",
+          "text": "凋落蔓延的 苦行之域 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-primordial-blocks-map-tier-16",
+          "text": "凋落蔓延的 血腥陣地 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-primordial-pool-map-tier-16",
+          "text": "凋落蔓延的 血腥沼澤 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-promenade-map-tier-16",
+          "text": "凋落蔓延的 月色迴廊 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-racecourse-map-tier-16",
+          "text": "凋落蔓延的 古競速場 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-reef-map-tier-16",
+          "text": "凋落蔓延的 危機海礁 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-shore-map-tier-16",
+          "text": "凋落蔓延的 暮光海灘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-siege-map-tier-16",
+          "text": "凋落蔓延的 禁斷圍城 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-silo-map-tier-16",
+          "text": "凋落蔓延的 儲物倉 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-spider-forest-map-tier-16",
+          "text": "凋落蔓延的 巨蛛之林 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-stagnation-map-tier-16",
+          "text": "凋落蔓延的 淤塞水道 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-strand-map-tier-16",
+          "text": "凋落蔓延的 致命岩灘 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-sulphur-vents-map-tier-16",
+          "text": "凋落蔓延的 硫磺蝕岸 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-summit-map-tier-16",
+          "text": "凋落蔓延的 寒頂之巔 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-temple-map-tier-16",
+          "text": "凋落蔓延的 奪魂之殿 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-thicket-map-tier-16",
+          "text": "凋落蔓延的 驚懼樹叢 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-tower-map-tier-16",
+          "text": "凋落蔓延的 闇獄尖塔 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-tropical-island-map-tier-16",
+          "text": "凋落蔓延的 晴空幽島 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-underground-river-map-tier-16",
+          "text": "凋落蔓延的 地底之河 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-underground-sea-map-tier-16",
+          "text": "凋落蔓延的 濱海幽穴 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-vault-map-tier-16",
+          "text": "凋落蔓延的 魔金寶庫 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-volcano-map-tier-16",
           "text": "凋落蔓延的 火山炎域 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-wasteland-map-tier-16",
+          "text": "凋落蔓延的 荒地 (階級  16)"
+        },
+        {
+          "id": "blight-ravaged-wharf-map-tier-16",
+          "text": "凋落蔓延的 毒牙海港 (階級  16)"
         }
       ]
     },

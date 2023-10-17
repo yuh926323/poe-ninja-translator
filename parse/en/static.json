@@ -458,33 +458,586 @@
       ]
     },
     {
-      "id": "Crucible",
-      "label": "Crucible Currency & Remnants",
+      "id": "Ancestor",
+      "label": "Ancestor Currency",
       "entries": [
         {
-          "id": "magmatic-ore",
-          "text": "Magmatic Ore",
-          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3J1Y2libGUvTWFnbWF0aWMgT3JlIiwic2NhbGUiOjF9XQ/69b255633d/Magmatic%20Ore.png"
+          "id": "silver-coin",
+          "text": "Silver Coin",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL05hdmFsaUNvaW4iLCJzY2FsZSI6MX1d/a3c7bc5c8f/NavaliCoin.png"
         },
         {
-          "id": "igneous-geode",
-          "text": "Igneous Geode",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZUdlb2RlIiwic2NhbGUiOjF9XQ/80ef6e9903/CrucibleGeode.png"
+          "id": "hinekoras-lock",
+          "text": "Hinekora's Lock",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGluZWtvcmFzTG9jayIsInNjYWxlIjoxfV0/b188026e7f/HinekorasLock.png"
         },
         {
-          "id": "crystalline-geode",
-          "text": "Crystalline Geode",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZVViZXJHZW9kZSIsInNjYWxlIjoxfV0/0b331384ec/CrucibleUberGeode.png"
+          "id": "tattoo-of-the-ngamahu-firewalker",
+          "text": "Tattoo of the Ngamahu Firewalker",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
         },
         {
-          "id": "primeval-remnant",
-          "text": "Primeval Remnant",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZUdlb2RlT3BlbiIsInNjYWxlIjoxfV0/81f49736bd/CrucibleGeodeOpen.png"
+          "id": "tattoo-of-the-ngamahu-shaman",
+          "text": "Tattoo of the Ngamahu Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
         },
         {
-          "id": "primordial-remnant",
-          "text": "Primordial Remnant",
-          "image": "/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVjaWJsZVViZXJHZW9kZU9wZW4iLCJzY2FsZSI6MX1d/3c29e56d61/CrucibleUberGeodeOpen.png"
+          "id": "tattoo-of-the-ngamahu-warrior",
+          "text": "Tattoo of the Ngamahu Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-warmonger",
+          "text": "Tattoo of the Ngamahu Warmonger",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-woodcarver",
+          "text": "Tattoo of the Ngamahu Woodcarver",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ngamahu-makanga",
+          "text": "Tattoo of the Ngamahu Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-blood-drinker",
+          "text": "Tattoo of the Kitava Blood Drinker",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-rebel",
+          "text": "Tattoo of the Kitava Rebel",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-warrior",
+          "text": "Tattoo of the Kitava Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-heart-eater",
+          "text": "Tattoo of the Kitava Heart Eater",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-shaman",
+          "text": "Tattoo of the Kitava Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-kitava-makanga",
+          "text": "Tattoo of the Kitava Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-shaman",
+          "text": "Tattoo of the Tukohama Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warrior",
+          "text": "Tattoo of the Tukohama Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-brawler",
+          "text": "Tattoo of the Tukohama Brawler",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warmonger",
+          "text": "Tattoo of the Tukohama Warmonger",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-warcaller",
+          "text": "Tattoo of the Tukohama Warcaller",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tukohama-makanga",
+          "text": "Tattoo of the Tukohama Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-warrior",
+          "text": "Tattoo of the Rongokurai Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-brute",
+          "text": "Tattoo of the Rongokurai Brute",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-goliath",
+          "text": "Tattoo of the Rongokurai Goliath",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-turtle",
+          "text": "Tattoo of the Rongokurai Turtle",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-guard",
+          "text": "Tattoo of the Rongokurai Guard",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-rongokurai-makanga",
+          "text": "Tattoo of the Rongokurai Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-bladedancer",
+          "text": "Tattoo of the Tasalio Bladedancer",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-tideshifter",
+          "text": "Tattoo of the Tasalio Tideshifter",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-shaman",
+          "text": "Tattoo of the Tasalio Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-warrior",
+          "text": "Tattoo of the Tasalio Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-scout",
+          "text": "Tattoo of the Tasalio Scout",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tasalio-makanga",
+          "text": "Tattoo of the Tasalio Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-moonwarden",
+          "text": "Tattoo of the Arohongui Moonwarden",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-scout",
+          "text": "Tattoo of the Arohongui Scout",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-warrior",
+          "text": "Tattoo of the Arohongui Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-warmonger",
+          "text": "Tattoo of the Arohongui Warmonger",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-shaman",
+          "text": "Tattoo of the Arohongui Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-arohongui-makanga",
+          "text": "Tattoo of the Arohongui Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-scout",
+          "text": "Tattoo of the Ramako Scout",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-archer",
+          "text": "Tattoo of the Ramako Archer",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-sniper",
+          "text": "Tattoo of the Ramako Sniper",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-fleetfoot",
+          "text": "Tattoo of the Ramako Fleetfoot",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-shaman",
+          "text": "Tattoo of the Ramako Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-ramako-makanga",
+          "text": "Tattoo of the Ramako Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-warrior",
+          "text": "Tattoo of the Hinekora Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-deathwarden",
+          "text": "Tattoo of the Hinekora Deathwarden",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-shaman",
+          "text": "Tattoo of the Hinekora Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-storyteller",
+          "text": "Tattoo of the Hinekora Storyteller",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-warmonger",
+          "text": "Tattoo of the Hinekora Warmonger",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-hinekora-makanga",
+          "text": "Tattoo of the Hinekora Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-naturalist",
+          "text": "Tattoo of the Tawhoa Naturalist",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-scout",
+          "text": "Tattoo of the Tawhoa Scout",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-warrior",
+          "text": "Tattoo of the Tawhoa Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-herbalist",
+          "text": "Tattoo of the Tawhoa Herbalist",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-shaman",
+          "text": "Tattoo of the Tawhoa Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-tawhoa-makanga",
+          "text": "Tattoo of the Tawhoa Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-stormrider",
+          "text": "Tattoo of the Valako Stormrider",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-scout",
+          "text": "Tattoo of the Valako Scout",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-warrior",
+          "text": "Tattoo of the Valako Warrior",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-shieldbearer",
+          "text": "Tattoo of the Valako Shieldbearer",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-shaman",
+          "text": "Tattoo of the Valako Shaman",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png"
+        },
+        {
+          "id": "tattoo-of-the-valako-makanga",
+          "text": "Tattoo of the Valako Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kaom",
+          "text": "Loyalty Tattoo of Kaom",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-utula",
+          "text": "Loyalty Tattoo of Utula",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-akoya",
+          "text": "Loyalty Tattoo of Akoya",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kahuturoa",
+          "text": "Loyalty Tattoo of Kahuturoa",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f3c50304b2/RareStrTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-rakiata",
+          "text": "Loyalty Tattoo of Rakiata",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-ikiaho",
+          "text": "Loyalty Tattoo of Ikiaho",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-ahuana",
+          "text": "Loyalty Tattoo of Ahuana",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/cf2f1e6bec/RareDexTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-tawhanuku",
+          "text": "Loyalty Tattoo of Tawhanuku",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-maata",
+          "text": "Loyalty Tattoo of Maata",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "loyalty-tattoo-of-kiloava",
+          "text": "Loyalty Tattoo of Kiloava",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVJbnRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b52aab5148/RareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-dove",
+          "text": "Honoured Tattoo of the Dove",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-sky",
+          "text": "Honoured Tattoo of the Sky",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-tuatara",
+          "text": "Honoured Tattoo of the Tuatara",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-pillager",
+          "text": "Honoured Tattoo of the Pillager",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-turtle",
+          "text": "Honoured Tattoo of the Turtle",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-oak",
+          "text": "Honoured Tattoo of the Oak",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-hatungo",
+          "text": "Honoured Tattoo of the Hatungo",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-flock",
+          "text": "Honoured Tattoo of the Flock",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInNjYWxlIjoxfV0/50b889262a/HinekoraCommonTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-warlord",
+          "text": "Honoured Tattoo of the Warlord",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-mountain",
+          "text": "Honoured Tattoo of the Mountain",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-pa",
+          "text": "Honoured Tattoo of the Pa",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZVN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/673c65c837/HinekoraRareStrTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-hunter",
+          "text": "Honoured Tattoo of the Hunter",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-barbarian",
+          "text": "Honoured Tattoo of the Barbarian",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-berserker",
+          "text": "Honoured Tattoo of the Berserker",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZURleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ea1e7cbc6e/HinekoraRareDexTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-wise",
+          "text": "Honoured Tattoo of the Wise",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-storm",
+          "text": "Honoured Tattoo of the Storm",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-flood",
+          "text": "Honoured Tattoo of the Flood",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/361e241c29/HinekoraRareIntTatttooEquipment.png"
+        },
+        {
+          "id": "ancestral-tattoo-of-bloodlines",
+          "text": "Ancestral Tattoo of Bloodlines",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTFUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/b5b3a8e355/Unique1TatttooEquipment.png"
+        },
+        {
+          "id": "honoured-tattoo-of-the-makanga",
+          "text": "Honoured Tattoo of the Makanga",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTJUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/49e02d09ba/Unique2TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-body",
+          "text": "Journey Tattoo of the Body",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-mind",
+          "text": "Journey Tattoo of the Mind",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-soul",
+          "text": "Journey Tattoo of the Soul",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png"
+        },
+        {
+          "id": "journey-tattoo-of-the-makanui",
+          "text": "Journey Tattoo of Makanui",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTRUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/100bb83615/Unique4TatttooEquipment.png"
+        },
+        {
+          "id": "omen-of-amelioration",
+          "text": "Omen of Amelioration",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFSZWQiLCJzY2FsZSI6MX1d/f96eaa1634/AncestorOmen1Red.png"
+        },
+        {
+          "id": "omen-of-return",
+          "text": "Omen of Return",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFQdXJwbGUiLCJzY2FsZSI6MX1d/2b74032e6d/AncestorOmen1Purple.png"
+        },
+        {
+          "id": "omen-of-death-dancing",
+          "text": "Omen of Death-dancing",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJSZWQiLCJzY2FsZSI6MX1d/e2368054db/AncestorOmen2Red.png"
+        },
+        {
+          "id": "omen-of-refreshment",
+          "text": "Omen of Refreshment",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJCbHVlIiwic2NhbGUiOjF9XQ/93e1b160fe/AncestorOmen2Blue.png"
+        },
+        {
+          "id": "omen-of-the-soul-devourer",
+          "text": "Omen of the Soul Devourer",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNHcmVlbiIsInNjYWxlIjoxfV0/d7f98707ea/AncestorOmen3Green.png"
+        },
+        {
+          "id": "omen-of-acceleration",
+          "text": "Omen of Acceleration",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNZZWxsb3ciLCJzY2FsZSI6MX1d/c43c202f7b/AncestorOmen3Yellow.png"
+        },
+        {
+          "id": "omen-of-fortune",
+          "text": "Omen of Fortune",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRCbHVlIiwic2NhbGUiOjF9XQ/b5fb7696cf/AncestorOmen4Blue.png"
+        },
+        {
+          "id": "omen-of-the-jeweller",
+          "text": "Omen of the Jeweller",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRSZWQiLCJzY2FsZSI6MX1d/503326987b/AncestorOmen4Red.png"
+        },
+        {
+          "id": "omen-of-connections",
+          "text": "Omen of Connections",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRZZWxsb3ciLCJzY2FsZSI6MX1d/cec10ab83c/AncestorOmen4Yellow.png"
+        },
+        {
+          "id": "omen-of-blanching",
+          "text": "Omen of Blanching",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjRHcmVlbiIsInNjYWxlIjoxfV0/eba4348849/AncestorOmen4Green.png"
+        },
+        {
+          "id": "omen-of-revenge",
+          "text": "Omen of Revenge",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFZZWxsb3ciLCJzY2FsZSI6MX1d/deccf1a68c/AncestorOmen1Yellow.png"
+        },
+        {
+          "id": "omen-of-bequeathal",
+          "text": "Omen of Bequeathal",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjFCbHVlIiwic2NhbGUiOjF9XQ/007be00cd4/AncestorOmen1Blue.png"
+        },
+        {
+          "id": "omen-of-resurgence",
+          "text": "Omen of Resurgence",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJHcmVlbiIsInNjYWxlIjoxfV0/d211de4b70/AncestorOmen2Green.png"
+        },
+        {
+          "id": "omen-of-adrenaline",
+          "text": "Omen of Adrenaline",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJQdXJwbGUiLCJzY2FsZSI6MX1d/e58efc902d/AncestorOmen2Purple.png"
+        },
+        {
+          "id": "omen-of-deaths-door",
+          "text": "Omen of Death's Door",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjJZZWxsb3ciLCJzY2FsZSI6MX1d/416c575da4/AncestorOmen2Yellow.png"
+        },
+        {
+          "id": "omen-of-brilliance",
+          "text": "Omen of Brilliance",
+          "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0FuY2VzdG9yT21lbjNCbHVlIiwic2NhbGUiOjF9XQ/ee02ec798e/AncestorOmen3Blue.png"
+        }
+      ]
+    },
+    {
+      "id": "Sanctum",
+      "label": "Sanctum & Unique Relics",
+      "entries": [
+        { "id": "forbidden-tome", "text": "Forbidden Tome" },
+        { "id": "the-hour-of-divinity", "text": "The Hour of Divinity" },
+        { "id": "the-gilded-chalice", "text": "The Gilded Chalice" },
+        { "id": "the-second-sacrament", "text": "The Second Sacrament" },
+        { "id": "the-night-lamp", "text": "The Night Lamp" },
+        { "id": "the-first-crest", "text": "The First Crest" },
+        { "id": "the-broken-censer", "text": "The Broken Censer" },
+        { "id": "the-original-scripture", "text": "The Original Scripture" },
+        { "id": "the-blood-of-innocence", "text": "The Blood of Innocence" },
+        {
+          "id": "the-chains-of-castigation",
+          "text": "The Chains of Castigation"
+        },
+        {
+          "id": "the-power-and-the-promise",
+          "text": "The Power and the Promise"
         }
       ]
     },
@@ -2699,6 +3252,7 @@
         { "id": "eternal-bonds", "text": "Eternal Bonds" },
         { "id": "ever-changing", "text": "Ever-Changing" },
         { "id": "fateful-meeting", "text": "Fateful Meeting" },
+        { "id": "fire-of-unknown-origin", "text": "Fire Of Unknown Origin" },
         { "id": "forbidden-power", "text": "Forbidden Power" },
         { "id": "friendship", "text": "Friendship" },
         { "id": "from-bone-to-ashes", "text": "From Bone to Ashes" },
@@ -2885,6 +3439,7 @@
         { "id": "the-forgotten-treasure", "text": "The Forgotten Treasure" },
         { "id": "the-formless-sea", "text": "The Formless Sea" },
         { "id": "the-forsaken", "text": "The Forsaken" },
+        { "id": "the-fortunate", "text": "The Fortunate" },
         { "id": "the-forward-gaze", "text": "The Forward Gaze" },
         { "id": "the-fox", "text": "The Fox" },
         { "id": "the-fox-in-the-brambles", "text": "The Fox in the Brambles" },
@@ -3071,49 +3626,52 @@
       "id": "MapsTier1",
       "label": "Maps (Tier 1)",
       "entries": [
-        { "id": "alleyways-map-tier-1", "text": "Alleyways Map (Tier 1)" },
+        { "id": "arena-map-tier-1", "text": "Arena Map (Tier 1)" },
+        { "id": "barrows-map-tier-1", "text": "Barrows Map (Tier 1)" },
         { "id": "bone-crypt-map-tier-1", "text": "Bone Crypt Map (Tier 1)" },
-        { "id": "colonnade-map-tier-1", "text": "Colonnade Map (Tier 1)" },
-        { "id": "scriptorium-map-tier-1", "text": "Scriptorium Map (Tier 1)" }
+        { "id": "plateau-map-tier-1", "text": "Plateau Map (Tier 1)" }
       ]
     },
     {
       "id": "MapsTier2",
       "label": "Maps (Tier 2)",
       "entries": [
-        { "id": "belfry-map-tier-2", "text": "Belfry Map (Tier 2)" },
-        { "id": "dry-sea-map-tier-2", "text": "Dry Sea Map (Tier 2)" },
+        { "id": "beach-map-tier-2", "text": "Beach Map (Tier 2)" },
         { "id": "dunes-map-tier-2", "text": "Dunes Map (Tier 2)" },
-        { "id": "excavation-map-tier-2", "text": "Excavation Map (Tier 2)" },
-        { "id": "grotto-map-tier-2", "text": "Grotto Map (Tier 2)" },
-        { "id": "precinct-map-tier-2", "text": "Precinct Map (Tier 2)" },
-        { "id": "silo-map-tier-2", "text": "Silo Map (Tier 2)" },
-        { "id": "stagnation-map-tier-2", "text": "Stagnation Map (Tier 2)" }
+        { "id": "estuary-map-tier-2", "text": "Estuary Map (Tier 2)" },
+        {
+          "id": "grave-trough-map-tier-2",
+          "text": "Grave Trough Map (Tier 2)"
+        },
+        {
+          "id": "mineral-pools-map-tier-2",
+          "text": "Mineral Pools Map (Tier 2)"
+        },
+        {
+          "id": "primordial-blocks-map-tier-2",
+          "text": "Primordial Blocks Map (Tier 2)"
+        },
+        { "id": "stagnation-map-tier-2", "text": "Stagnation Map (Tier 2)" },
+        { "id": "wasteland-map-tier-2", "text": "Wasteland Map (Tier 2)" }
       ]
     },
     {
       "id": "MapsTier3",
       "label": "Maps (Tier 3)",
       "entries": [
-        { "id": "fields-map-tier-3", "text": "Fields Map (Tier 3)" },
+        { "id": "bog-map-tier-3", "text": "Bog Map (Tier 3)" },
+        { "id": "cold-river-map-tier-3", "text": "Cold River Map (Tier 3)" },
         {
-          "id": "infested-valley-map-tier-3",
-          "text": "Infested Valley Map (Tier 3)"
+          "id": "forking-river-map-tier-3",
+          "text": "Forking River Map (Tier 3)"
         },
-        { "id": "lair-map-tier-3", "text": "Lair Map (Tier 3)" },
+        { "id": "lookout-map-tier-3", "text": "Lookout Map (Tier 3)" },
+        { "id": "mesa-map-tier-3", "text": "Mesa Map (Tier 3)" },
         {
           "id": "overgrown-shrine-map-tier-3",
           "text": "Overgrown Shrine Map (Tier 3)"
         },
-        {
-          "id": "primordial-blocks-map-tier-3",
-          "text": "Primordial Blocks Map (Tier 3)"
-        },
-        {
-          "id": "primordial-pool-map-tier-3",
-          "text": "Primordial Pool Map (Tier 3)"
-        },
-        { "id": "shrine-map-tier-3", "text": "Shrine Map (Tier 3)" },
+        { "id": "residence-map-tier-3", "text": "Residence Map (Tier 3)" },
         { "id": "strand-map-tier-3", "text": "Strand Map (Tier 3)" }
       ]
     },
@@ -3121,17 +3679,23 @@
       "id": "MapsTier4",
       "label": "Maps (Tier 4)",
       "entries": [
-        { "id": "alleyways-map-tier-4", "text": "Alleyways Map (Tier 4)" },
+        { "id": "arena-map-tier-4", "text": "Arena Map (Tier 4)" },
+        { "id": "barrows-map-tier-4", "text": "Barrows Map (Tier 4)" },
         { "id": "bone-crypt-map-tier-4", "text": "Bone Crypt Map (Tier 4)" },
+        { "id": "cage-map-tier-4", "text": "Cage Map (Tier 4)" },
         { "id": "cemetery-map-tier-4", "text": "Cemetery Map (Tier 4)" },
-        { "id": "colonnade-map-tier-4", "text": "Colonnade Map (Tier 4)" },
-        { "id": "laboratory-map-tier-4", "text": "Laboratory Map (Tier 4)" },
-        { "id": "lighthouse-map-tier-4", "text": "Lighthouse Map (Tier 4)" },
+        { "id": "graveyard-map-tier-4", "text": "Graveyard Map (Tier 4)" },
+        { "id": "iceberg-map-tier-4", "text": "Iceberg Map (Tier 4)" },
+        {
+          "id": "malformation-map-tier-4",
+          "text": "Malformation Map (Tier 4)"
+        },
         { "id": "moon-temple-map-tier-4", "text": "Moon Temple Map (Tier 4)" },
-        { "id": "orchard-map-tier-4", "text": "Orchard Map (Tier 4)" },
-        { "id": "port-map-tier-4", "text": "Port Map (Tier 4)" },
-        { "id": "scriptorium-map-tier-4", "text": "Scriptorium Map (Tier 4)" },
-        { "id": "tower-map-tier-4", "text": "Tower Map (Tier 4)" },
+        { "id": "plateau-map-tier-4", "text": "Plateau Map (Tier 4)" },
+        {
+          "id": "primordial-pool-map-tier-4",
+          "text": "Primordial Pool Map (Tier 4)"
+        },
         { "id": "vaal-pyramid-map-tier-4", "text": "Vaal Pyramid Map (Tier 4)" }
       ]
     },
@@ -3139,96 +3703,102 @@
       "id": "MapsTier5",
       "label": "Maps (Tier 5)",
       "entries": [
-        { "id": "arcade-map-tier-5", "text": "Arcade Map (Tier 5)" },
+        { "id": "alleyways-map-tier-5", "text": "Alleyways Map (Tier 5)" },
         { "id": "atoll-map-tier-5", "text": "Atoll Map (Tier 5)" },
-        { "id": "belfry-map-tier-5", "text": "Belfry Map (Tier 5)" },
-        { "id": "city-square-map-tier-5", "text": "City Square Map (Tier 5)" },
+        { "id": "bazaar-map-tier-5", "text": "Bazaar Map (Tier 5)" },
+        { "id": "beach-map-tier-5", "text": "Beach Map (Tier 5)" },
+        { "id": "cells-map-tier-5", "text": "Cells Map (Tier 5)" },
         { "id": "courtyard-map-tier-5", "text": "Courtyard Map (Tier 5)" },
-        { "id": "dry-sea-map-tier-5", "text": "Dry Sea Map (Tier 5)" },
         { "id": "dunes-map-tier-5", "text": "Dunes Map (Tier 5)" },
-        { "id": "excavation-map-tier-5", "text": "Excavation Map (Tier 5)" },
-        { "id": "grotto-map-tier-5", "text": "Grotto Map (Tier 5)" },
-        { "id": "marshes-map-tier-5", "text": "Marshes Map (Tier 5)" },
+        { "id": "estuary-map-tier-5", "text": "Estuary Map (Tier 5)" },
+        {
+          "id": "grave-trough-map-tier-5",
+          "text": "Grave Trough Map (Tier 5)"
+        },
+        { "id": "leyline-map-tier-5", "text": "Leyline Map (Tier 5)" },
         {
           "id": "mineral-pools-map-tier-5",
           "text": "Mineral Pools Map (Tier 5)"
         },
-        { "id": "plateau-map-tier-5", "text": "Plateau Map (Tier 5)" },
-        { "id": "precinct-map-tier-5", "text": "Precinct Map (Tier 5)" },
-        { "id": "residence-map-tier-5", "text": "Residence Map (Tier 5)" },
-        { "id": "silo-map-tier-5", "text": "Silo Map (Tier 5)" },
-        { "id": "stagnation-map-tier-5", "text": "Stagnation Map (Tier 5)" }
+        {
+          "id": "primordial-blocks-map-tier-5",
+          "text": "Primordial Blocks Map (Tier 5)"
+        },
+        { "id": "stagnation-map-tier-5", "text": "Stagnation Map (Tier 5)" },
+        {
+          "id": "tropical-island-map-tier-5",
+          "text": "Tropical Island Map (Tier 5)"
+        },
+        { "id": "volcano-map-tier-5", "text": "Volcano Map (Tier 5)" },
+        { "id": "wasteland-map-tier-5", "text": "Wasteland Map (Tier 5)" }
       ]
     },
     {
       "id": "MapsTier6",
       "label": "Maps (Tier 6)",
       "entries": [
+        { "id": "academy-map-tier-6", "text": "Academy Map (Tier 6)" },
         {
-          "id": "castle-ruins-map-tier-6",
-          "text": "Castle Ruins Map (Tier 6)"
+          "id": "acid-caverns-map-tier-6",
+          "text": "Acid Caverns Map (Tier 6)"
         },
-        { "id": "fields-map-tier-6", "text": "Fields Map (Tier 6)" },
         {
-          "id": "infested-valley-map-tier-6",
-          "text": "Infested Valley Map (Tier 6)"
+          "id": "arachnid-tomb-map-tier-6",
+          "text": "Arachnid Tomb Map (Tier 6)"
         },
-        { "id": "lair-map-tier-6", "text": "Lair Map (Tier 6)" },
+        { "id": "bog-map-tier-6", "text": "Bog Map (Tier 6)" },
+        { "id": "cold-river-map-tier-6", "text": "Cold River Map (Tier 6)" },
+        { "id": "dark-forest-map-tier-6", "text": "Dark Forest Map (Tier 6)" },
+        {
+          "id": "forking-river-map-tier-6",
+          "text": "Forking River Map (Tier 6)"
+        },
+        { "id": "lookout-map-tier-6", "text": "Lookout Map (Tier 6)" },
+        { "id": "mesa-map-tier-6", "text": "Mesa Map (Tier 6)" },
         {
           "id": "overgrown-shrine-map-tier-6",
           "text": "Overgrown Shrine Map (Tier 6)"
         },
-        {
-          "id": "phantasmagoria-map-tier-6",
-          "text": "Phantasmagoria Map (Tier 6)"
-        },
-        { "id": "pit-map-tier-6", "text": "Pit Map (Tier 6)" },
-        {
-          "id": "primordial-blocks-map-tier-6",
-          "text": "Primordial Blocks Map (Tier 6)"
-        },
-        {
-          "id": "primordial-pool-map-tier-6",
-          "text": "Primordial Pool Map (Tier 6)"
-        },
         { "id": "promenade-map-tier-6", "text": "Promenade Map (Tier 6)" },
+        { "id": "residence-map-tier-6", "text": "Residence Map (Tier 6)" },
         { "id": "shore-map-tier-6", "text": "Shore Map (Tier 6)" },
-        { "id": "shrine-map-tier-6", "text": "Shrine Map (Tier 6)" },
         { "id": "strand-map-tier-6", "text": "Strand Map (Tier 6)" },
-        { "id": "toxic-sewer-map-tier-6", "text": "Toxic Sewer Map (Tier 6)" },
-        { "id": "waste-pool-map-tier-6", "text": "Waste Pool Map (Tier 6)" }
+        { "id": "thicket-map-tier-6", "text": "Thicket Map (Tier 6)" }
       ]
     },
     {
       "id": "MapsTier7",
       "label": "Maps (Tier 7)",
       "entries": [
-        { "id": "canyon-map-tier-7", "text": "Canyon Map (Tier 7)" },
+        { "id": "cage-map-tier-7", "text": "Cage Map (Tier 7)" },
         { "id": "cemetery-map-tier-7", "text": "Cemetery Map (Tier 7)" },
-        { "id": "chateau-map-tier-7", "text": "Chateau Map (Tier 7)" },
-        { "id": "coral-ruins-map-tier-7", "text": "Coral Ruins Map (Tier 7)" },
         {
           "id": "cursed-crypt-map-tier-7",
           "text": "Cursed Crypt Map (Tier 7)"
         },
         {
-          "id": "forbidden-woods-map-tier-7",
-          "text": "Forbidden Woods Map (Tier 7)"
+          "id": "frozen-cabins-map-tier-7",
+          "text": "Frozen Cabins Map (Tier 7)"
         },
-        { "id": "laboratory-map-tier-7", "text": "Laboratory Map (Tier 7)" },
-        { "id": "lighthouse-map-tier-7", "text": "Lighthouse Map (Tier 7)" },
+        { "id": "graveyard-map-tier-7", "text": "Graveyard Map (Tier 7)" },
+        { "id": "iceberg-map-tier-7", "text": "Iceberg Map (Tier 7)" },
+        {
+          "id": "lava-chamber-map-tier-7",
+          "text": "Lava Chamber Map (Tier 7)"
+        },
+        {
+          "id": "malformation-map-tier-7",
+          "text": "Malformation Map (Tier 7)"
+        },
         { "id": "moon-temple-map-tier-7", "text": "Moon Temple Map (Tier 7)" },
-        { "id": "orchard-map-tier-7", "text": "Orchard Map (Tier 7)" },
-        { "id": "port-map-tier-7", "text": "Port Map (Tier 7)" },
+        { "id": "pen-map-tier-7", "text": "Pen Map (Tier 7)" },
+        { "id": "pier-map-tier-7", "text": "Pier Map (Tier 7)" },
+        { "id": "pit-map-tier-7", "text": "Pit Map (Tier 7)" },
+        { "id": "precinct-map-tier-7", "text": "Precinct Map (Tier 7)" },
         {
-          "id": "relic-chambers-map-tier-7",
-          "text": "Relic Chambers Map (Tier 7)"
+          "id": "primordial-pool-map-tier-7",
+          "text": "Primordial Pool Map (Tier 7)"
         },
-        {
-          "id": "sulphur-vents-map-tier-7",
-          "text": "Sulphur Vents Map (Tier 7)"
-        },
-        { "id": "tower-map-tier-7", "text": "Tower Map (Tier 7)" },
         { "id": "vaal-pyramid-map-tier-7", "text": "Vaal Pyramid Map (Tier 7)" }
       ]
     },
@@ -3237,71 +3807,80 @@
       "label": "Maps (Tier 8)",
       "entries": [
         { "id": "alleyways-map-tier-8", "text": "Alleyways Map (Tier 8)" },
-        {
-          "id": "arachnid-tomb-map-tier-8",
-          "text": "Arachnid Tomb Map (Tier 8)"
-        },
         { "id": "arcade-map-tier-8", "text": "Arcade Map (Tier 8)" },
-        { "id": "armoury-map-tier-8", "text": "Armoury Map (Tier 8)" },
+        { "id": "arena-map-tier-8", "text": "Arena Map (Tier 8)" },
         { "id": "atoll-map-tier-8", "text": "Atoll Map (Tier 8)" },
+        { "id": "barrows-map-tier-8", "text": "Barrows Map (Tier 8)" },
+        { "id": "bazaar-map-tier-8", "text": "Bazaar Map (Tier 8)" },
         { "id": "bone-crypt-map-tier-8", "text": "Bone Crypt Map (Tier 8)" },
-        { "id": "caldera-map-tier-8", "text": "Caldera Map (Tier 8)" },
-        { "id": "city-square-map-tier-8", "text": "City Square Map (Tier 8)" },
-        { "id": "colonnade-map-tier-8", "text": "Colonnade Map (Tier 8)" },
+        {
+          "id": "castle-ruins-map-tier-8",
+          "text": "Castle Ruins Map (Tier 8)"
+        },
+        { "id": "cells-map-tier-8", "text": "Cells Map (Tier 8)" },
+        { "id": "chateau-map-tier-8", "text": "Chateau Map (Tier 8)" },
         { "id": "courtyard-map-tier-8", "text": "Courtyard Map (Tier 8)" },
-        {
-          "id": "crimson-temple-map-tier-8",
-          "text": "Crimson Temple Map (Tier 8)"
-        },
-        { "id": "crystal-ore-map-tier-8", "text": "Crystal Ore Map (Tier 8)" },
-        {
-          "id": "flooded-mine-map-tier-8",
-          "text": "Flooded Mine Map (Tier 8)"
-        },
-        { "id": "marshes-map-tier-8", "text": "Marshes Map (Tier 8)" },
-        {
-          "id": "mineral-pools-map-tier-8",
-          "text": "Mineral Pools Map (Tier 8)"
-        },
+        { "id": "factory-map-tier-8", "text": "Factory Map (Tier 8)" },
+        { "id": "leyline-map-tier-8", "text": "Leyline Map (Tier 8)" },
         { "id": "plateau-map-tier-8", "text": "Plateau Map (Tier 8)" },
-        { "id": "residence-map-tier-8", "text": "Residence Map (Tier 8)" },
-        { "id": "scriptorium-map-tier-8", "text": "Scriptorium Map (Tier 8)" },
-        { "id": "shipyard-map-tier-8", "text": "Shipyard Map (Tier 8)" }
+        { "id": "port-map-tier-8", "text": "Port Map (Tier 8)" },
+        { "id": "terrace-map-tier-8", "text": "Terrace Map (Tier 8)" },
+        {
+          "id": "tropical-island-map-tier-8",
+          "text": "Tropical Island Map (Tier 8)"
+        },
+        { "id": "volcano-map-tier-8", "text": "Volcano Map (Tier 8)" },
+        { "id": "waterways-map-tier-8", "text": "Waterways Map (Tier 8)" }
       ]
     },
     {
       "id": "MapsTier9",
       "label": "Maps (Tier 9)",
       "entries": [
-        { "id": "belfry-map-tier-9", "text": "Belfry Map (Tier 9)" },
+        { "id": "academy-map-tier-9", "text": "Academy Map (Tier 9)" },
         {
-          "id": "castle-ruins-map-tier-9",
-          "text": "Castle Ruins Map (Tier 9)"
+          "id": "acid-caverns-map-tier-9",
+          "text": "Acid Caverns Map (Tier 9)"
         },
-        { "id": "cold-river-map-tier-9", "text": "Cold River Map (Tier 9)" },
-        { "id": "dry-sea-map-tier-9", "text": "Dry Sea Map (Tier 9)" },
+        {
+          "id": "arachnid-nest-map-tier-9",
+          "text": "Arachnid Nest Map (Tier 9)"
+        },
+        {
+          "id": "arachnid-tomb-map-tier-9",
+          "text": "Arachnid Tomb Map (Tier 9)"
+        },
+        { "id": "beach-map-tier-9", "text": "Beach Map (Tier 9)" },
+        { "id": "carcass-map-tier-9", "text": "Carcass Map (Tier 9)" },
+        { "id": "dark-forest-map-tier-9", "text": "Dark Forest Map (Tier 9)" },
         { "id": "dunes-map-tier-9", "text": "Dunes Map (Tier 9)" },
-        { "id": "excavation-map-tier-9", "text": "Excavation Map (Tier 9)" },
-        { "id": "grotto-map-tier-9", "text": "Grotto Map (Tier 9)" },
+        { "id": "estuary-map-tier-9", "text": "Estuary Map (Tier 9)" },
         {
-          "id": "overgrown-ruin-map-tier-9",
-          "text": "Overgrown Ruin Map (Tier 9)"
+          "id": "flooded-mine-map-tier-9",
+          "text": "Flooded Mine Map (Tier 9)"
         },
         {
-          "id": "phantasmagoria-map-tier-9",
-          "text": "Phantasmagoria Map (Tier 9)"
+          "id": "grave-trough-map-tier-9",
+          "text": "Grave Trough Map (Tier 9)"
         },
-        { "id": "pier-map-tier-9", "text": "Pier Map (Tier 9)" },
-        { "id": "pit-map-tier-9", "text": "Pit Map (Tier 9)" },
-        { "id": "precinct-map-tier-9", "text": "Precinct Map (Tier 9)" },
+        {
+          "id": "haunted-mansion-map-tier-9",
+          "text": "Haunted Mansion Map (Tier 9)"
+        },
+        {
+          "id": "mineral-pools-map-tier-9",
+          "text": "Mineral Pools Map (Tier 9)"
+        },
+        {
+          "id": "primordial-blocks-map-tier-9",
+          "text": "Primordial Blocks Map (Tier 9)"
+        },
         { "id": "promenade-map-tier-9", "text": "Promenade Map (Tier 9)" },
-        { "id": "ramparts-map-tier-9", "text": "Ramparts Map (Tier 9)" },
+        { "id": "racecourse-map-tier-9", "text": "Racecourse Map (Tier 9)" },
         { "id": "shore-map-tier-9", "text": "Shore Map (Tier 9)" },
-        { "id": "siege-map-tier-9", "text": "Siege Map (Tier 9)" },
-        { "id": "silo-map-tier-9", "text": "Silo Map (Tier 9)" },
         { "id": "stagnation-map-tier-9", "text": "Stagnation Map (Tier 9)" },
-        { "id": "toxic-sewer-map-tier-9", "text": "Toxic Sewer Map (Tier 9)" },
-        { "id": "waste-pool-map-tier-9", "text": "Waste Pool Map (Tier 9)" },
+        { "id": "summit-map-tier-9", "text": "Summit Map (Tier 9)" },
+        { "id": "thicket-map-tier-9", "text": "Thicket Map (Tier 9)" },
         { "id": "wasteland-map-tier-9", "text": "Wasteland Map (Tier 9)" }
       ]
     },
@@ -3309,101 +3888,74 @@
       "id": "MapsTier10",
       "label": "Maps (Tier 10)",
       "entries": [
+        { "id": "basilica-map-tier-10", "text": "Basilica Map (Tier 10)" },
+        { "id": "bog-map-tier-10", "text": "Bog Map (Tier 10)" },
+        { "id": "cold-river-map-tier-10", "text": "Cold River Map (Tier 10)" },
         {
-          "id": "arachnid-nest-map-tier-10",
-          "text": "Arachnid Nest Map (Tier 10)"
-        },
-        { "id": "canyon-map-tier-10", "text": "Canyon Map (Tier 10)" },
-        { "id": "cells-map-tier-10", "text": "Cells Map (Tier 10)" },
-        { "id": "chateau-map-tier-10", "text": "Chateau Map (Tier 10)" },
-        {
-          "id": "coral-ruins-map-tier-10",
-          "text": "Coral Ruins Map (Tier 10)"
+          "id": "crimson-temple-map-tier-10",
+          "text": "Crimson Temple Map (Tier 10)"
         },
         {
           "id": "cursed-crypt-map-tier-10",
           "text": "Cursed Crypt Map (Tier 10)"
         },
-        { "id": "factory-map-tier-10", "text": "Factory Map (Tier 10)" },
-        { "id": "fields-map-tier-10", "text": "Fields Map (Tier 10)" },
         {
-          "id": "forbidden-woods-map-tier-10",
-          "text": "Forbidden Woods Map (Tier 10)"
+          "id": "forking-river-map-tier-10",
+          "text": "Forking River Map (Tier 10)"
         },
-        { "id": "foundry-map-tier-10", "text": "Foundry Map (Tier 10)" },
         {
-          "id": "infested-valley-map-tier-10",
-          "text": "Infested Valley Map (Tier 10)"
+          "id": "frozen-cabins-map-tier-10",
+          "text": "Frozen Cabins Map (Tier 10)"
         },
-        { "id": "lair-map-tier-10", "text": "Lair Map (Tier 10)" },
+        {
+          "id": "lava-chamber-map-tier-10",
+          "text": "Lava Chamber Map (Tier 10)"
+        },
+        { "id": "lookout-map-tier-10", "text": "Lookout Map (Tier 10)" },
+        { "id": "mesa-map-tier-10", "text": "Mesa Map (Tier 10)" },
+        { "id": "orchard-map-tier-10", "text": "Orchard Map (Tier 10)" },
         {
           "id": "overgrown-shrine-map-tier-10",
           "text": "Overgrown Shrine Map (Tier 10)"
         },
-        { "id": "plaza-map-tier-10", "text": "Plaza Map (Tier 10)" },
-        {
-          "id": "primordial-blocks-map-tier-10",
-          "text": "Primordial Blocks Map (Tier 10)"
-        },
-        {
-          "id": "primordial-pool-map-tier-10",
-          "text": "Primordial Pool Map (Tier 10)"
-        },
-        {
-          "id": "relic-chambers-map-tier-10",
-          "text": "Relic Chambers Map (Tier 10)"
-        },
-        { "id": "shrine-map-tier-10", "text": "Shrine Map (Tier 10)" },
+        { "id": "pen-map-tier-10", "text": "Pen Map (Tier 10)" },
+        { "id": "pier-map-tier-10", "text": "Pier Map (Tier 10)" },
+        { "id": "pit-map-tier-10", "text": "Pit Map (Tier 10)" },
+        { "id": "precinct-map-tier-10", "text": "Precinct Map (Tier 10)" },
+        { "id": "residence-map-tier-10", "text": "Residence Map (Tier 10)" },
         { "id": "strand-map-tier-10", "text": "Strand Map (Tier 10)" },
-        {
-          "id": "sulphur-vents-map-tier-10",
-          "text": "Sulphur Vents Map (Tier 10)"
-        },
+        { "id": "tower-map-tier-10", "text": "Tower Map (Tier 10)" },
         {
           "id": "underground-sea-map-tier-10",
           "text": "Underground Sea Map (Tier 10)"
-        }
+        },
+        { "id": "vault-map-tier-10", "text": "Vault Map (Tier 10)" }
       ]
     },
     {
       "id": "MapsTier11",
       "label": "Maps (Tier 11)",
       "entries": [
+        { "id": "arcade-map-tier-11", "text": "Arcade Map (Tier 11)" },
+        { "id": "cage-map-tier-11", "text": "Cage Map (Tier 11)" },
         {
-          "id": "arachnid-tomb-map-tier-11",
-          "text": "Arachnid Tomb Map (Tier 11)"
+          "id": "castle-ruins-map-tier-11",
+          "text": "Castle Ruins Map (Tier 11)"
         },
-        { "id": "armoury-map-tier-11", "text": "Armoury Map (Tier 11)" },
-        { "id": "beach-map-tier-11", "text": "Beach Map (Tier 11)" },
-        { "id": "caldera-map-tier-11", "text": "Caldera Map (Tier 11)" },
         { "id": "cemetery-map-tier-11", "text": "Cemetery Map (Tier 11)" },
+        { "id": "chateau-map-tier-11", "text": "Chateau Map (Tier 11)" },
         {
-          "id": "crimson-temple-map-tier-11",
-          "text": "Crimson Temple Map (Tier 11)"
+          "id": "city-square-map-tier-11",
+          "text": "City Square Map (Tier 11)"
         },
-        {
-          "id": "crimson-township-map-tier-11",
-          "text": "Crimson Township Map (Tier 11)"
-        },
-        {
-          "id": "crystal-ore-map-tier-11",
-          "text": "Crystal Ore Map (Tier 11)"
-        },
-        {
-          "id": "flooded-mine-map-tier-11",
-          "text": "Flooded Mine Map (Tier 11)"
-        },
-        {
-          "id": "frozen-cabins-map-tier-11",
-          "text": "Frozen Cabins Map (Tier 11)"
-        },
-        {
-          "id": "fungal-hollow-map-tier-11",
-          "text": "Fungal Hollow Map (Tier 11)"
-        },
+        { "id": "colonnade-map-tier-11", "text": "Colonnade Map (Tier 11)" },
+        { "id": "coves-map-tier-11", "text": "Coves Map (Tier 11)" },
+        { "id": "dungeon-map-tier-11", "text": "Dungeon Map (Tier 11)" },
+        { "id": "excavation-map-tier-11", "text": "Excavation Map (Tier 11)" },
+        { "id": "factory-map-tier-11", "text": "Factory Map (Tier 11)" },
         { "id": "geode-map-tier-11", "text": "Geode Map (Tier 11)" },
-        { "id": "laboratory-map-tier-11", "text": "Laboratory Map (Tier 11)" },
-        { "id": "lighthouse-map-tier-11", "text": "Lighthouse Map (Tier 11)" },
+        { "id": "graveyard-map-tier-11", "text": "Graveyard Map (Tier 11)" },
+        { "id": "iceberg-map-tier-11", "text": "Iceberg Map (Tier 11)" },
         {
           "id": "malformation-map-tier-11",
           "text": "Malformation Map (Tier 11)"
@@ -3412,14 +3964,17 @@
           "id": "moon-temple-map-tier-11",
           "text": "Moon Temple Map (Tier 11)"
         },
-        { "id": "orchard-map-tier-11", "text": "Orchard Map (Tier 11)" },
         { "id": "port-map-tier-11", "text": "Port Map (Tier 11)" },
-        { "id": "shipyard-map-tier-11", "text": "Shipyard Map (Tier 11)" },
-        { "id": "tower-map-tier-11", "text": "Tower Map (Tier 11)" },
+        {
+          "id": "primordial-pool-map-tier-11",
+          "text": "Primordial Pool Map (Tier 11)"
+        },
+        { "id": "terrace-map-tier-11", "text": "Terrace Map (Tier 11)" },
         {
           "id": "vaal-pyramid-map-tier-11",
           "text": "Vaal Pyramid Map (Tier 11)"
-        }
+        },
+        { "id": "waterways-map-tier-11", "text": "Waterways Map (Tier 11)" }
       ]
     },
     {
@@ -3427,127 +3982,126 @@
       "label": "Maps (Tier 12)",
       "entries": [
         { "id": "alleyways-map-tier-12", "text": "Alleyways Map (Tier 12)" },
-        { "id": "arcade-map-tier-12", "text": "Arcade Map (Tier 12)" },
+        {
+          "id": "arachnid-nest-map-tier-12",
+          "text": "Arachnid Nest Map (Tier 12)"
+        },
+        { "id": "arena-map-tier-12", "text": "Arena Map (Tier 12)" },
         { "id": "atoll-map-tier-12", "text": "Atoll Map (Tier 12)" },
+        { "id": "barrows-map-tier-12", "text": "Barrows Map (Tier 12)" },
+        { "id": "bazaar-map-tier-12", "text": "Bazaar Map (Tier 12)" },
         { "id": "bone-crypt-map-tier-12", "text": "Bone Crypt Map (Tier 12)" },
-        {
-          "id": "city-square-map-tier-12",
-          "text": "City Square Map (Tier 12)"
-        },
-        { "id": "cold-river-map-tier-12", "text": "Cold River Map (Tier 12)" },
-        { "id": "colonnade-map-tier-12", "text": "Colonnade Map (Tier 12)" },
-        {
-          "id": "conservatory-map-tier-12",
-          "text": "Conservatory Map (Tier 12)"
-        },
+        { "id": "carcass-map-tier-12", "text": "Carcass Map (Tier 12)" },
+        { "id": "cells-map-tier-12", "text": "Cells Map (Tier 12)" },
+        { "id": "courthouse-map-tier-12", "text": "Courthouse Map (Tier 12)" },
         { "id": "courtyard-map-tier-12", "text": "Courtyard Map (Tier 12)" },
         {
-          "id": "desert-spring-map-tier-12",
-          "text": "Desert Spring Map (Tier 12)"
+          "id": "flooded-mine-map-tier-12",
+          "text": "Flooded Mine Map (Tier 12)"
         },
         {
-          "id": "jungle-valley-map-tier-12",
-          "text": "Jungle Valley Map (Tier 12)"
+          "id": "haunted-mansion-map-tier-12",
+          "text": "Haunted Mansion Map (Tier 12)"
         },
-        { "id": "marshes-map-tier-12", "text": "Marshes Map (Tier 12)" },
-        {
-          "id": "mineral-pools-map-tier-12",
-          "text": "Mineral Pools Map (Tier 12)"
-        },
+        { "id": "leyline-map-tier-12", "text": "Leyline Map (Tier 12)" },
+        { "id": "mausoleum-map-tier-12", "text": "Mausoleum Map (Tier 12)" },
         { "id": "museum-map-tier-12", "text": "Museum Map (Tier 12)" },
         { "id": "necropolis-map-tier-12", "text": "Necropolis Map (Tier 12)" },
-        {
-          "id": "overgrown-ruin-map-tier-12",
-          "text": "Overgrown Ruin Map (Tier 12)"
-        },
-        { "id": "pier-map-tier-12", "text": "Pier Map (Tier 12)" },
+        { "id": "palace-map-tier-12", "text": "Palace Map (Tier 12)" },
         { "id": "plateau-map-tier-12", "text": "Plateau Map (Tier 12)" },
-        { "id": "ramparts-map-tier-12", "text": "Ramparts Map (Tier 12)" },
-        { "id": "residence-map-tier-12", "text": "Residence Map (Tier 12)" },
+        { "id": "racecourse-map-tier-12", "text": "Racecourse Map (Tier 12)" },
         {
-          "id": "scriptorium-map-tier-12",
-          "text": "Scriptorium Map (Tier 12)"
+          "id": "sulphur-vents-map-tier-12",
+          "text": "Sulphur Vents Map (Tier 12)"
         },
-        { "id": "siege-map-tier-12", "text": "Siege Map (Tier 12)" },
-        { "id": "wasteland-map-tier-12", "text": "Wasteland Map (Tier 12)" },
-        { "id": "wharf-map-tier-12", "text": "Wharf Map (Tier 12)" }
+        { "id": "summit-map-tier-12", "text": "Summit Map (Tier 12)" },
+        {
+          "id": "tropical-island-map-tier-12",
+          "text": "Tropical Island Map (Tier 12)"
+        },
+        { "id": "volcano-map-tier-12", "text": "Volcano Map (Tier 12)" }
       ]
     },
     {
       "id": "MapsTier13",
       "label": "Maps (Tier 13)",
       "entries": [
+        { "id": "academy-map-tier-13", "text": "Academy Map (Tier 13)" },
         {
-          "id": "arachnid-nest-map-tier-13",
-          "text": "Arachnid Nest Map (Tier 13)"
+          "id": "acid-caverns-map-tier-13",
+          "text": "Acid Caverns Map (Tier 13)"
         },
-        { "id": "arid-lake-map-tier-13", "text": "Arid Lake Map (Tier 13)" },
-        { "id": "belfry-map-tier-13", "text": "Belfry Map (Tier 13)" },
         {
-          "id": "castle-ruins-map-tier-13",
-          "text": "Castle Ruins Map (Tier 13)"
+          "id": "arachnid-tomb-map-tier-13",
+          "text": "Arachnid Tomb Map (Tier 13)"
         },
-        { "id": "cells-map-tier-13", "text": "Cells Map (Tier 13)" },
-        { "id": "crater-map-tier-13", "text": "Crater Map (Tier 13)" },
+        { "id": "basilica-map-tier-13", "text": "Basilica Map (Tier 13)" },
+        { "id": "beach-map-tier-13", "text": "Beach Map (Tier 13)" },
+        { "id": "caldera-map-tier-13", "text": "Caldera Map (Tier 13)" },
+        { "id": "colosseum-map-tier-13", "text": "Colosseum Map (Tier 13)" },
         {
-          "id": "defiled-cathedral-map-tier-13",
-          "text": "Defiled Cathedral Map (Tier 13)"
+          "id": "crimson-temple-map-tier-13",
+          "text": "Crimson Temple Map (Tier 13)"
         },
-        { "id": "dry-sea-map-tier-13", "text": "Dry Sea Map (Tier 13)" },
+        {
+          "id": "dark-forest-map-tier-13",
+          "text": "Dark Forest Map (Tier 13)"
+        },
         { "id": "dunes-map-tier-13", "text": "Dunes Map (Tier 13)" },
-        { "id": "excavation-map-tier-13", "text": "Excavation Map (Tier 13)" },
-        { "id": "factory-map-tier-13", "text": "Factory Map (Tier 13)" },
-        { "id": "foundry-map-tier-13", "text": "Foundry Map (Tier 13)" },
-        { "id": "grotto-map-tier-13", "text": "Grotto Map (Tier 13)" },
-        { "id": "leyline-map-tier-13", "text": "Leyline Map (Tier 13)" },
+        { "id": "estuary-map-tier-13", "text": "Estuary Map (Tier 13)" },
+        { "id": "glacier-map-tier-13", "text": "Glacier Map (Tier 13)" },
         {
-          "id": "phantasmagoria-map-tier-13",
-          "text": "Phantasmagoria Map (Tier 13)"
+          "id": "grave-trough-map-tier-13",
+          "text": "Grave Trough Map (Tier 13)"
         },
-        { "id": "pit-map-tier-13", "text": "Pit Map (Tier 13)" },
-        { "id": "plaza-map-tier-13", "text": "Plaza Map (Tier 13)" },
-        { "id": "precinct-map-tier-13", "text": "Precinct Map (Tier 13)" },
+        { "id": "lava-lake-map-tier-13", "text": "Lava Lake Map (Tier 13)" },
+        {
+          "id": "mineral-pools-map-tier-13",
+          "text": "Mineral Pools Map (Tier 13)"
+        },
+        { "id": "orchard-map-tier-13", "text": "Orchard Map (Tier 13)" },
+        {
+          "id": "primordial-blocks-map-tier-13",
+          "text": "Primordial Blocks Map (Tier 13)"
+        },
         { "id": "promenade-map-tier-13", "text": "Promenade Map (Tier 13)" },
         { "id": "shore-map-tier-13", "text": "Shore Map (Tier 13)" },
-        { "id": "silo-map-tier-13", "text": "Silo Map (Tier 13)" },
         { "id": "stagnation-map-tier-13", "text": "Stagnation Map (Tier 13)" },
-        { "id": "thicket-map-tier-13", "text": "Thicket Map (Tier 13)" },
         {
-          "id": "toxic-sewer-map-tier-13",
-          "text": "Toxic Sewer Map (Tier 13)"
+          "id": "sunken-city-map-tier-13",
+          "text": "Sunken City Map (Tier 13)"
         },
+        { "id": "thicket-map-tier-13", "text": "Thicket Map (Tier 13)" },
+        { "id": "tower-map-tier-13", "text": "Tower Map (Tier 13)" },
         {
           "id": "underground-sea-map-tier-13",
           "text": "Underground Sea Map (Tier 13)"
         },
-        { "id": "waste-pool-map-tier-13", "text": "Waste Pool Map (Tier 13)" }
+        { "id": "vault-map-tier-13", "text": "Vault Map (Tier 13)" },
+        { "id": "wasteland-map-tier-13", "text": "Wasteland Map (Tier 13)" }
       ]
     },
     {
       "id": "MapsTier14",
       "label": "Maps (Tier 14)",
       "entries": [
-        { "id": "barrows-map-tier-14", "text": "Barrows Map (Tier 14)" },
-        { "id": "beach-map-tier-14", "text": "Beach Map (Tier 14)" },
-        { "id": "canyon-map-tier-14", "text": "Canyon Map (Tier 14)" },
-        { "id": "chateau-map-tier-14", "text": "Chateau Map (Tier 14)" },
+        { "id": "bog-map-tier-14", "text": "Bog Map (Tier 14)" },
         {
-          "id": "coral-ruins-map-tier-14",
-          "text": "Coral Ruins Map (Tier 14)"
+          "id": "city-square-map-tier-14",
+          "text": "City Square Map (Tier 14)"
         },
-        {
-          "id": "crimson-township-map-tier-14",
-          "text": "Crimson Township Map (Tier 14)"
-        },
+        { "id": "cold-river-map-tier-14", "text": "Cold River Map (Tier 14)" },
+        { "id": "colonnade-map-tier-14", "text": "Colonnade Map (Tier 14)" },
+        { "id": "coves-map-tier-14", "text": "Coves Map (Tier 14)" },
         {
           "id": "cursed-crypt-map-tier-14",
           "text": "Cursed Crypt Map (Tier 14)"
         },
         { "id": "dungeon-map-tier-14", "text": "Dungeon Map (Tier 14)" },
-        { "id": "fields-map-tier-14", "text": "Fields Map (Tier 14)" },
+        { "id": "excavation-map-tier-14", "text": "Excavation Map (Tier 14)" },
         {
-          "id": "forbidden-woods-map-tier-14",
-          "text": "Forbidden Woods Map (Tier 14)"
+          "id": "forking-river-map-tier-14",
+          "text": "Forking River Map (Tier 14)"
         },
         {
           "id": "frozen-cabins-map-tier-14",
@@ -3559,95 +4113,75 @@
         },
         { "id": "geode-map-tier-14", "text": "Geode Map (Tier 14)" },
         {
-          "id": "infested-valley-map-tier-14",
-          "text": "Infested Valley Map (Tier 14)"
+          "id": "lava-chamber-map-tier-14",
+          "text": "Lava Chamber Map (Tier 14)"
         },
-        { "id": "lair-map-tier-14", "text": "Lair Map (Tier 14)" },
-        {
-          "id": "malformation-map-tier-14",
-          "text": "Malformation Map (Tier 14)"
-        },
+        { "id": "lookout-map-tier-14", "text": "Lookout Map (Tier 14)" },
         { "id": "maze-map-tier-14", "text": "Maze Map (Tier 14)" },
+        { "id": "mesa-map-tier-14", "text": "Mesa Map (Tier 14)" },
         {
           "id": "overgrown-shrine-map-tier-14",
           "text": "Overgrown Shrine Map (Tier 14)"
         },
-        {
-          "id": "primordial-blocks-map-tier-14",
-          "text": "Primordial Blocks Map (Tier 14)"
-        },
-        {
-          "id": "primordial-pool-map-tier-14",
-          "text": "Primordial Pool Map (Tier 14)"
-        },
-        {
-          "id": "relic-chambers-map-tier-14",
-          "text": "Relic Chambers Map (Tier 14)"
-        },
-        { "id": "shrine-map-tier-14", "text": "Shrine Map (Tier 14)" },
+        { "id": "pen-map-tier-14", "text": "Pen Map (Tier 14)" },
+        { "id": "pier-map-tier-14", "text": "Pier Map (Tier 14)" },
+        { "id": "pit-map-tier-14", "text": "Pit Map (Tier 14)" },
+        { "id": "precinct-map-tier-14", "text": "Precinct Map (Tier 14)" },
+        { "id": "reef-map-tier-14", "text": "Reef Map (Tier 14)" },
+        { "id": "residence-map-tier-14", "text": "Residence Map (Tier 14)" },
         { "id": "strand-map-tier-14", "text": "Strand Map (Tier 14)" },
-        {
-          "id": "sulphur-vents-map-tier-14",
-          "text": "Sulphur Vents Map (Tier 14)"
-        },
         { "id": "temple-map-tier-14", "text": "Temple Map (Tier 14)" },
-        { "id": "terrace-map-tier-14", "text": "Terrace Map (Tier 14)" }
+        { "id": "wharf-map-tier-14", "text": "Wharf Map (Tier 14)" }
       ]
     },
     {
       "id": "MapsTier15",
       "label": "Maps (Tier 15)",
       "entries": [
+        { "id": "arcade-map-tier-15", "text": "Arcade Map (Tier 15)" },
+        { "id": "cage-map-tier-15", "text": "Cage Map (Tier 15)" },
         {
-          "id": "arachnid-tomb-map-tier-15",
-          "text": "Arachnid Tomb Map (Tier 15)"
+          "id": "castle-ruins-map-tier-15",
+          "text": "Castle Ruins Map (Tier 15)"
         },
-        { "id": "armoury-map-tier-15", "text": "Armoury Map (Tier 15)" },
-        { "id": "caldera-map-tier-15", "text": "Caldera Map (Tier 15)" },
         { "id": "cemetery-map-tier-15", "text": "Cemetery Map (Tier 15)" },
-        { "id": "colosseum-map-tier-15", "text": "Colosseum Map (Tier 15)" },
+        { "id": "chateau-map-tier-15", "text": "Chateau Map (Tier 15)" },
+        { "id": "courthouse-map-tier-15", "text": "Courthouse Map (Tier 15)" },
+        { "id": "factory-map-tier-15", "text": "Factory Map (Tier 15)" },
+        { "id": "graveyard-map-tier-15", "text": "Graveyard Map (Tier 15)" },
+        { "id": "iceberg-map-tier-15", "text": "Iceberg Map (Tier 15)" },
         {
-          "id": "conservatory-map-tier-15",
-          "text": "Conservatory Map (Tier 15)"
+          "id": "malformation-map-tier-15",
+          "text": "Malformation Map (Tier 15)"
         },
-        { "id": "core-map-tier-15", "text": "Core Map (Tier 15)" },
-        {
-          "id": "crimson-temple-map-tier-15",
-          "text": "Crimson Temple Map (Tier 15)"
-        },
-        {
-          "id": "crystal-ore-map-tier-15",
-          "text": "Crystal Ore Map (Tier 15)"
-        },
-        {
-          "id": "desert-spring-map-tier-15",
-          "text": "Desert Spring Map (Tier 15)"
-        },
-        {
-          "id": "flooded-mine-map-tier-15",
-          "text": "Flooded Mine Map (Tier 15)"
-        },
-        {
-          "id": "jungle-valley-map-tier-15",
-          "text": "Jungle Valley Map (Tier 15)"
-        },
-        { "id": "laboratory-map-tier-15", "text": "Laboratory Map (Tier 15)" },
-        { "id": "lighthouse-map-tier-15", "text": "Lighthouse Map (Tier 15)" },
+        { "id": "mausoleum-map-tier-15", "text": "Mausoleum Map (Tier 15)" },
         {
           "id": "moon-temple-map-tier-15",
           "text": "Moon Temple Map (Tier 15)"
         },
+        { "id": "mud-geyser-map-tier-15", "text": "Mud Geyser Map (Tier 15)" },
         { "id": "museum-map-tier-15", "text": "Museum Map (Tier 15)" },
         { "id": "necropolis-map-tier-15", "text": "Necropolis Map (Tier 15)" },
-        { "id": "orchard-map-tier-15", "text": "Orchard Map (Tier 15)" },
-        { "id": "port-map-tier-15", "text": "Port Map (Tier 15)" },
-        { "id": "racecourse-map-tier-15", "text": "Racecourse Map (Tier 15)" },
-        { "id": "shipyard-map-tier-15", "text": "Shipyard Map (Tier 15)" },
-        { "id": "tower-map-tier-15", "text": "Tower Map (Tier 15)" },
+        { "id": "palace-map-tier-15", "text": "Palace Map (Tier 15)" },
         {
-          "id": "tropical-island-map-tier-15",
-          "text": "Tropical Island Map (Tier 15)"
+          "id": "phantasmagoria-map-tier-15",
+          "text": "Phantasmagoria Map (Tier 15)"
         },
+        { "id": "port-map-tier-15", "text": "Port Map (Tier 15)" },
+        {
+          "id": "primordial-pool-map-tier-15",
+          "text": "Primordial Pool Map (Tier 15)"
+        },
+        { "id": "siege-map-tier-15", "text": "Siege Map (Tier 15)" },
+        {
+          "id": "spider-forest-map-tier-15",
+          "text": "Spider Forest Map (Tier 15)"
+        },
+        {
+          "id": "sulphur-vents-map-tier-15",
+          "text": "Sulphur Vents Map (Tier 15)"
+        },
+        { "id": "terrace-map-tier-15", "text": "Terrace Map (Tier 15)" },
         {
           "id": "underground-river-map-tier-15",
           "text": "Underground River Map (Tier 15)"
@@ -3656,13 +4190,18 @@
           "id": "vaal-pyramid-map-tier-15",
           "text": "Vaal Pyramid Map (Tier 15)"
         },
-        { "id": "wharf-map-tier-15", "text": "Wharf Map (Tier 15)" }
+        { "id": "waterways-map-tier-15", "text": "Waterways Map (Tier 15)" }
       ]
     },
     {
       "id": "MapsTier16",
       "label": "Maps (Tier 16)",
       "entries": [
+        { "id": "academy-map-tier-16", "text": "Academy Map (Tier 16)" },
+        {
+          "id": "acid-caverns-map-tier-16",
+          "text": "Acid Caverns Map (Tier 16)"
+        },
         { "id": "alleyways-map-tier-16", "text": "Alleyways Map (Tier 16)" },
         {
           "id": "arachnid-nest-map-tier-16",
@@ -3673,22 +4212,24 @@
           "text": "Arachnid Tomb Map (Tier 16)"
         },
         { "id": "arcade-map-tier-16", "text": "Arcade Map (Tier 16)" },
-        { "id": "arid-lake-map-tier-16", "text": "Arid Lake Map (Tier 16)" },
-        { "id": "armoury-map-tier-16", "text": "Armoury Map (Tier 16)" },
-        { "id": "arsenal-map-tier-16", "text": "Arsenal Map (Tier 16)" },
+        { "id": "arena-map-tier-16", "text": "Arena Map (Tier 16)" },
         { "id": "atoll-map-tier-16", "text": "Atoll Map (Tier 16)" },
         { "id": "barrows-map-tier-16", "text": "Barrows Map (Tier 16)" },
+        { "id": "basilica-map-tier-16", "text": "Basilica Map (Tier 16)" },
+        { "id": "bazaar-map-tier-16", "text": "Bazaar Map (Tier 16)" },
         { "id": "beach-map-tier-16", "text": "Beach Map (Tier 16)" },
-        { "id": "belfry-map-tier-16", "text": "Belfry Map (Tier 16)" },
+        { "id": "bog-map-tier-16", "text": "Bog Map (Tier 16)" },
         { "id": "bone-crypt-map-tier-16", "text": "Bone Crypt Map (Tier 16)" },
+        { "id": "cage-map-tier-16", "text": "Cage Map (Tier 16)" },
         { "id": "caldera-map-tier-16", "text": "Caldera Map (Tier 16)" },
-        { "id": "canyon-map-tier-16", "text": "Canyon Map (Tier 16)" },
+        { "id": "carcass-map-tier-16", "text": "Carcass Map (Tier 16)" },
         {
           "id": "castle-ruins-map-tier-16",
           "text": "Castle Ruins Map (Tier 16)"
         },
         { "id": "cells-map-tier-16", "text": "Cells Map (Tier 16)" },
         { "id": "cemetery-map-tier-16", "text": "Cemetery Map (Tier 16)" },
+        { "id": "channel-map-tier-16", "text": "Channel Map (Tier 16)" },
         { "id": "chateau-map-tier-16", "text": "Chateau Map (Tier 16)" },
         {
           "id": "city-square-map-tier-16",
@@ -3697,62 +4238,38 @@
         { "id": "cold-river-map-tier-16", "text": "Cold River Map (Tier 16)" },
         { "id": "colonnade-map-tier-16", "text": "Colonnade Map (Tier 16)" },
         { "id": "colosseum-map-tier-16", "text": "Colosseum Map (Tier 16)" },
-        {
-          "id": "conservatory-map-tier-16",
-          "text": "Conservatory Map (Tier 16)"
-        },
-        {
-          "id": "coral-ruins-map-tier-16",
-          "text": "Coral Ruins Map (Tier 16)"
-        },
-        { "id": "core-map-tier-16", "text": "Core Map (Tier 16)" },
+        { "id": "courthouse-map-tier-16", "text": "Courthouse Map (Tier 16)" },
         { "id": "courtyard-map-tier-16", "text": "Courtyard Map (Tier 16)" },
         { "id": "coves-map-tier-16", "text": "Coves Map (Tier 16)" },
-        { "id": "crater-map-tier-16", "text": "Crater Map (Tier 16)" },
         {
           "id": "crimson-temple-map-tier-16",
           "text": "Crimson Temple Map (Tier 16)"
-        },
-        {
-          "id": "crimson-township-map-tier-16",
-          "text": "Crimson Township Map (Tier 16)"
-        },
-        {
-          "id": "crystal-ore-map-tier-16",
-          "text": "Crystal Ore Map (Tier 16)"
         },
         {
           "id": "cursed-crypt-map-tier-16",
           "text": "Cursed Crypt Map (Tier 16)"
         },
         {
-          "id": "defiled-cathedral-map-tier-16",
-          "text": "Defiled Cathedral Map (Tier 16)"
+          "id": "dark-forest-map-tier-16",
+          "text": "Dark Forest Map (Tier 16)"
         },
-        {
-          "id": "desert-spring-map-tier-16",
-          "text": "Desert Spring Map (Tier 16)"
-        },
-        { "id": "dig-map-tier-16", "text": "Dig Map (Tier 16)" },
-        { "id": "dry-sea-map-tier-16", "text": "Dry Sea Map (Tier 16)" },
         { "id": "dunes-map-tier-16", "text": "Dunes Map (Tier 16)" },
         { "id": "dungeon-map-tier-16", "text": "Dungeon Map (Tier 16)" },
+        { "id": "estuary-map-tier-16", "text": "Estuary Map (Tier 16)" },
         { "id": "excavation-map-tier-16", "text": "Excavation Map (Tier 16)" },
         { "id": "factory-map-tier-16", "text": "Factory Map (Tier 16)" },
-        { "id": "fields-map-tier-16", "text": "Fields Map (Tier 16)" },
         {
           "id": "flooded-mine-map-tier-16",
           "text": "Flooded Mine Map (Tier 16)"
         },
         {
-          "id": "forbidden-woods-map-tier-16",
-          "text": "Forbidden Woods Map (Tier 16)"
-        },
-        {
           "id": "forge-of-the-phoenix-map-tier-16",
           "text": "Forge of the Phoenix Map (Tier 16)"
         },
-        { "id": "foundry-map-tier-16", "text": "Foundry Map (Tier 16)" },
+        {
+          "id": "forking-river-map-tier-16",
+          "text": "Forking River Map (Tier 16)"
+        },
         {
           "id": "frozen-cabins-map-tier-16",
           "text": "Frozen Cabins Map (Tier 16)"
@@ -3762,33 +4279,47 @@
           "text": "Fungal Hollow Map (Tier 16)"
         },
         { "id": "geode-map-tier-16", "text": "Geode Map (Tier 16)" },
-        { "id": "grotto-map-tier-16", "text": "Grotto Map (Tier 16)" },
+        { "id": "glacier-map-tier-16", "text": "Glacier Map (Tier 16)" },
+        {
+          "id": "grave-trough-map-tier-16",
+          "text": "Grave Trough Map (Tier 16)"
+        },
+        { "id": "graveyard-map-tier-16", "text": "Graveyard Map (Tier 16)" },
+        {
+          "id": "haunted-mansion-map-tier-16",
+          "text": "Haunted Mansion Map (Tier 16)"
+        },
+        { "id": "iceberg-map-tier-16", "text": "Iceberg Map (Tier 16)" },
         {
           "id": "infested-valley-map-tier-16",
           "text": "Infested Valley Map (Tier 16)"
         },
         {
-          "id": "jungle-valley-map-tier-16",
-          "text": "Jungle Valley Map (Tier 16)"
+          "id": "ivory-temple-map-tier-16",
+          "text": "Ivory Temple Map (Tier 16)"
         },
-        { "id": "laboratory-map-tier-16", "text": "Laboratory Map (Tier 16)" },
-        { "id": "lair-map-tier-16", "text": "Lair Map (Tier 16)" },
         {
           "id": "lair-of-the-hydra-map-tier-16",
           "text": "Lair of the Hydra Map (Tier 16)"
         },
+        {
+          "id": "lava-chamber-map-tier-16",
+          "text": "Lava Chamber Map (Tier 16)"
+        },
+        { "id": "lava-lake-map-tier-16", "text": "Lava Lake Map (Tier 16)" },
         { "id": "leyline-map-tier-16", "text": "Leyline Map (Tier 16)" },
-        { "id": "lighthouse-map-tier-16", "text": "Lighthouse Map (Tier 16)" },
+        { "id": "lookout-map-tier-16", "text": "Lookout Map (Tier 16)" },
         {
           "id": "malformation-map-tier-16",
           "text": "Malformation Map (Tier 16)"
         },
-        { "id": "marshes-map-tier-16", "text": "Marshes Map (Tier 16)" },
+        { "id": "mausoleum-map-tier-16", "text": "Mausoleum Map (Tier 16)" },
         { "id": "maze-map-tier-16", "text": "Maze Map (Tier 16)" },
         {
           "id": "maze-of-the-minotaur-map-tier-16",
           "text": "Maze of the Minotaur Map (Tier 16)"
         },
+        { "id": "mesa-map-tier-16", "text": "Mesa Map (Tier 16)" },
         {
           "id": "mineral-pools-map-tier-16",
           "text": "Mineral Pools Map (Tier 16)"
@@ -3797,17 +4328,16 @@
           "id": "moon-temple-map-tier-16",
           "text": "Moon Temple Map (Tier 16)"
         },
+        { "id": "mud-geyser-map-tier-16", "text": "Mud Geyser Map (Tier 16)" },
         { "id": "museum-map-tier-16", "text": "Museum Map (Tier 16)" },
         { "id": "necropolis-map-tier-16", "text": "Necropolis Map (Tier 16)" },
         { "id": "orchard-map-tier-16", "text": "Orchard Map (Tier 16)" },
         {
-          "id": "overgrown-ruin-map-tier-16",
-          "text": "Overgrown Ruin Map (Tier 16)"
-        },
-        {
           "id": "overgrown-shrine-map-tier-16",
           "text": "Overgrown Shrine Map (Tier 16)"
         },
+        { "id": "palace-map-tier-16", "text": "Palace Map (Tier 16)" },
+        { "id": "pen-map-tier-16", "text": "Pen Map (Tier 16)" },
         {
           "id": "phantasmagoria-map-tier-16",
           "text": "Phantasmagoria Map (Tier 16)"
@@ -3819,7 +4349,6 @@
           "text": "Pit of the Chimera Map (Tier 16)"
         },
         { "id": "plateau-map-tier-16", "text": "Plateau Map (Tier 16)" },
-        { "id": "plaza-map-tier-16", "text": "Plaza Map (Tier 16)" },
         { "id": "port-map-tier-16", "text": "Port Map (Tier 16)" },
         { "id": "precinct-map-tier-16", "text": "Precinct Map (Tier 16)" },
         {
@@ -3832,35 +4361,30 @@
         },
         { "id": "promenade-map-tier-16", "text": "Promenade Map (Tier 16)" },
         { "id": "racecourse-map-tier-16", "text": "Racecourse Map (Tier 16)" },
-        { "id": "ramparts-map-tier-16", "text": "Ramparts Map (Tier 16)" },
-        {
-          "id": "relic-chambers-map-tier-16",
-          "text": "Relic Chambers Map (Tier 16)"
-        },
+        { "id": "reef-map-tier-16", "text": "Reef Map (Tier 16)" },
         { "id": "residence-map-tier-16", "text": "Residence Map (Tier 16)" },
-        {
-          "id": "scriptorium-map-tier-16",
-          "text": "Scriptorium Map (Tier 16)"
-        },
-        { "id": "shipyard-map-tier-16", "text": "Shipyard Map (Tier 16)" },
         { "id": "shore-map-tier-16", "text": "Shore Map (Tier 16)" },
-        { "id": "shrine-map-tier-16", "text": "Shrine Map (Tier 16)" },
         { "id": "siege-map-tier-16", "text": "Siege Map (Tier 16)" },
         { "id": "silo-map-tier-16", "text": "Silo Map (Tier 16)" },
+        {
+          "id": "spider-forest-map-tier-16",
+          "text": "Spider Forest Map (Tier 16)"
+        },
         { "id": "stagnation-map-tier-16", "text": "Stagnation Map (Tier 16)" },
         { "id": "strand-map-tier-16", "text": "Strand Map (Tier 16)" },
         {
           "id": "sulphur-vents-map-tier-16",
           "text": "Sulphur Vents Map (Tier 16)"
         },
+        { "id": "summit-map-tier-16", "text": "Summit Map (Tier 16)" },
+        {
+          "id": "sunken-city-map-tier-16",
+          "text": "Sunken City Map (Tier 16)"
+        },
         { "id": "temple-map-tier-16", "text": "Temple Map (Tier 16)" },
         { "id": "terrace-map-tier-16", "text": "Terrace Map (Tier 16)" },
         { "id": "thicket-map-tier-16", "text": "Thicket Map (Tier 16)" },
         { "id": "tower-map-tier-16", "text": "Tower Map (Tier 16)" },
-        {
-          "id": "toxic-sewer-map-tier-16",
-          "text": "Toxic Sewer Map (Tier 16)"
-        },
         {
           "id": "tropical-island-map-tier-16",
           "text": "Tropical Island Map (Tier 16)"
@@ -3881,9 +4405,10 @@
           "id": "vaal-temple-map-tier-16",
           "text": "Vaal Temple Map (Tier 16)"
         },
+        { "id": "vault-map-tier-16", "text": "Vault Map (Tier 16)" },
         { "id": "volcano-map-tier-16", "text": "Volcano Map (Tier 16)" },
-        { "id": "waste-pool-map-tier-16", "text": "Waste Pool Map (Tier 16)" },
         { "id": "wasteland-map-tier-16", "text": "Wasteland Map (Tier 16)" },
+        { "id": "waterways-map-tier-16", "text": "Waterways Map (Tier 16)" },
         { "id": "wharf-map-tier-16", "text": "Wharf Map (Tier 16)" }
       ]
     },
@@ -3892,267 +4417,1217 @@
       "label": "Maps (Blighted)",
       "entries": [
         {
-          "id": "blighted-alleyways-map",
-          "text": "Blighted Alleyways Map (Tier 1)"
+          "id": "blighted-barrows-map-tier-1",
+          "text": "Blighted Barrows Map (Tier 1)"
         },
         {
-          "id": "blighted-arachnid-nest-map",
-          "text": "Blighted Arachnid Nest Map (Tier 10)"
-        },
-        { "id": "blighted-arcade-map", "text": "Blighted Arcade Map (Tier 5)" },
-        {
-          "id": "blighted-arid-lake-map",
-          "text": "Blighted Arid Lake Map (Tier 13)"
-        },
-        {
-          "id": "blighted-armoury-map",
-          "text": "Blighted Armoury Map (Tier 8)"
-        },
-        {
-          "id": "blighted-arsenal-map",
-          "text": "Blighted Arsenal Map (Tier 16)"
-        },
-        { "id": "blighted-atoll-map", "text": "Blighted Atoll Map (Tier 5)" },
-        {
-          "id": "blighted-barrows-map",
-          "text": "Blighted Barrows Map (Tier 14)"
-        },
-        { "id": "blighted-beach-map", "text": "Blighted Beach Map (Tier 11)" },
-        { "id": "blighted-belfry-map", "text": "Blighted Belfry Map (Tier 2)" },
-        {
-          "id": "blighted-bone-crypt-map",
+          "id": "blighted-bone-crypt-map-tier-1",
           "text": "Blighted Bone Crypt Map (Tier 1)"
         },
         {
-          "id": "blighted-caldera-map",
-          "text": "Blighted Caldera Map (Tier 8)"
+          "id": "blighted-plateau-map-tier-1",
+          "text": "Blighted Plateau Map (Tier 1)"
         },
-        { "id": "blighted-canyon-map", "text": "Blighted Canyon Map (Tier 7)" },
         {
-          "id": "blighted-castle-ruins-map",
-          "text": "Blighted Castle Ruins Map (Tier 6)"
+          "id": "blighted-beach-map-tier-2",
+          "text": "Blighted Beach Map (Tier 2)"
         },
-        { "id": "blighted-cells-map", "text": "Blighted Cells Map (Tier 10)" },
         {
-          "id": "blighted-cemetery-map",
+          "id": "blighted-dunes-map-tier-2",
+          "text": "Blighted Dunes Map (Tier 2)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-2",
+          "text": "Blighted Estuary Map (Tier 2)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-2",
+          "text": "Blighted Grave Trough Map (Tier 2)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-2",
+          "text": "Blighted Mineral Pools Map (Tier 2)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-2",
+          "text": "Blighted Primordial Blocks Map (Tier 2)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-2",
+          "text": "Blighted Stagnation Map (Tier 2)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-2",
+          "text": "Blighted Wasteland Map (Tier 2)"
+        },
+        {
+          "id": "blighted-bog-map-tier-3",
+          "text": "Blighted Bog Map (Tier 3)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-3",
+          "text": "Blighted Cold River Map (Tier 3)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-3",
+          "text": "Blighted Forking River Map (Tier 3)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-3",
+          "text": "Blighted Lookout Map (Tier 3)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-3",
+          "text": "Blighted Mesa Map (Tier 3)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-3",
+          "text": "Blighted Overgrown Shrine Map (Tier 3)"
+        },
+        {
+          "id": "blighted-strand-map-tier-3",
+          "text": "Blighted Strand Map (Tier 3)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-4",
+          "text": "Blighted Barrows Map (Tier 4)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-4",
+          "text": "Blighted Bone Crypt Map (Tier 4)"
+        },
+        {
+          "id": "blighted-cage-map-tier-4",
+          "text": "Blighted Cage Map (Tier 4)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-4",
           "text": "Blighted Cemetery Map (Tier 4)"
         },
         {
-          "id": "blighted-chateau-map",
-          "text": "Blighted Chateau Map (Tier 7)"
+          "id": "blighted-graveyard-map-tier-4",
+          "text": "Blighted Graveyard Map (Tier 4)"
         },
         {
-          "id": "blighted-city-square-map",
-          "text": "Blighted City Square Map (Tier 5)"
+          "id": "blighted-iceberg-map-tier-4",
+          "text": "Blighted Iceberg Map (Tier 4)"
         },
         {
-          "id": "blighted-cold-river-map",
-          "text": "Blighted Cold River Map (Tier 9)"
+          "id": "blighted-malformation-map-tier-4",
+          "text": "Blighted Malformation Map (Tier 4)"
         },
         {
-          "id": "blighted-colonnade-map",
-          "text": "Blighted Colonnade Map (Tier 1)"
-        },
-        {
-          "id": "blighted-conservatory-map",
-          "text": "Blighted Conservatory Map (Tier 12)"
-        },
-        {
-          "id": "blighted-coral-ruins-map",
-          "text": "Blighted Coral Ruins Map (Tier 7)"
-        },
-        {
-          "id": "blighted-courtyard-map",
-          "text": "Blighted Courtyard Map (Tier 5)"
-        },
-        { "id": "blighted-coves-map", "text": "Blighted Coves Map (Tier 16)" },
-        {
-          "id": "blighted-crimson-temple-map",
-          "text": "Blighted Crimson Temple Map (Tier 8)"
-        },
-        {
-          "id": "blighted-crimson-township-map",
-          "text": "Blighted Crimson Township Map (Tier 11)"
-        },
-        {
-          "id": "blighted-cursed-crypt-map",
-          "text": "Blighted Cursed Crypt Map (Tier 7)"
-        },
-        {
-          "id": "blighted-defiled-cathedral-map",
-          "text": "Blighted Defiled Cathedral Map (Tier 13)"
-        },
-        {
-          "id": "blighted-desert-spring-map",
-          "text": "Blighted Desert Spring Map (Tier 12)"
-        },
-        { "id": "blighted-dig-map", "text": "Blighted Dig Map (Tier 16)" },
-        {
-          "id": "blighted-dry-sea-map",
-          "text": "Blighted Dry Sea Map (Tier 2)"
-        },
-        { "id": "blighted-dunes-map", "text": "Blighted Dunes Map (Tier 2)" },
-        {
-          "id": "blighted-dungeon-map",
-          "text": "Blighted Dungeon Map (Tier 14)"
-        },
-        { "id": "blighted-fields-map", "text": "Blighted Fields Map (Tier 3)" },
-        {
-          "id": "blighted-flooded-mine-map",
-          "text": "Blighted Flooded Mine Map (Tier 8)"
-        },
-        {
-          "id": "blighted-forbidden-woods-map",
-          "text": "Blighted Forbidden Woods Map (Tier 7)"
-        },
-        {
-          "id": "blighted-foundry-map",
-          "text": "Blighted Foundry Map (Tier 10)"
-        },
-        { "id": "blighted-geode-map", "text": "Blighted Geode Map (Tier 11)" },
-        {
-          "id": "blighted-infested-valley-map",
-          "text": "Blighted Infested Valley Map (Tier 3)"
-        },
-        {
-          "id": "blighted-jungle-valley-map",
-          "text": "Blighted Jungle Valley Map (Tier 12)"
-        },
-        {
-          "id": "blighted-laboratory-map",
-          "text": "Blighted Laboratory Map (Tier 4)"
-        },
-        { "id": "blighted-lair-map", "text": "Blighted Lair Map (Tier 3)" },
-        {
-          "id": "blighted-leyline-map",
-          "text": "Blighted Leyline Map (Tier 13)"
-        },
-        {
-          "id": "blighted-lighthouse-map",
-          "text": "Blighted Lighthouse Map (Tier 4)"
-        },
-        {
-          "id": "blighted-malformation-map",
-          "text": "Blighted Malformation Map (Tier 11)"
-        },
-        {
-          "id": "blighted-marshes-map",
-          "text": "Blighted Marshes Map (Tier 5)"
-        },
-        {
-          "id": "blighted-mineral-pools-map",
-          "text": "Blighted Mineral Pools Map (Tier 5)"
-        },
-        {
-          "id": "blighted-moon-temple-map",
+          "id": "blighted-moon-temple-map-tier-4",
           "text": "Blighted Moon Temple Map (Tier 4)"
         },
         {
-          "id": "blighted-museum-map",
-          "text": "Blighted Museum Map (Tier 12)"
+          "id": "blighted-plateau-map-tier-4",
+          "text": "Blighted Plateau Map (Tier 4)"
         },
         {
-          "id": "blighted-necropolis-map",
-          "text": "Blighted Necropolis Map (Tier 12)"
+          "id": "blighted-primordial-pool-map-tier-4",
+          "text": "Blighted Primordial Pool Map (Tier 4)"
         },
         {
-          "id": "blighted-orchard-map",
-          "text": "Blighted Orchard Map (Tier 4)"
+          "id": "blighted-alleyways-map-tier-5",
+          "text": "Blighted Alleyways Map (Tier 5)"
         },
         {
-          "id": "blighted-overgrown-shrine-map",
-          "text": "Blighted Overgrown Shrine Map (Tier 3)"
-        },
-        { "id": "blighted-pit-map", "text": "Blighted Pit Map (Tier 6)" },
-        {
-          "id": "blighted-plateau-map",
-          "text": "Blighted Plateau Map (Tier 5)"
-        },
-        { "id": "blighted-plaza-map", "text": "Blighted Plaza Map (Tier 10)" },
-        { "id": "blighted-port-map", "text": "Blighted Port Map (Tier 4)" },
-        {
-          "id": "blighted-precinct-map",
-          "text": "Blighted Precinct Map (Tier 2)"
+          "id": "blighted-atoll-map-tier-5",
+          "text": "Blighted Atoll Map (Tier 5)"
         },
         {
-          "id": "blighted-primordial-blocks-map",
-          "text": "Blighted Primordial Blocks Map (Tier 3)"
+          "id": "blighted-bazaar-map-tier-5",
+          "text": "Blighted Bazaar Map (Tier 5)"
         },
         {
-          "id": "blighted-primordial-pool-map",
-          "text": "Blighted Primordial Pool Map (Tier 3)"
+          "id": "blighted-beach-map-tier-5",
+          "text": "Blighted Beach Map (Tier 5)"
         },
         {
-          "id": "blighted-promenade-map",
+          "id": "blighted-cells-map-tier-5",
+          "text": "Blighted Cells Map (Tier 5)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-5",
+          "text": "Blighted Courtyard Map (Tier 5)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-5",
+          "text": "Blighted Dunes Map (Tier 5)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-5",
+          "text": "Blighted Estuary Map (Tier 5)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-5",
+          "text": "Blighted Grave Trough Map (Tier 5)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-5",
+          "text": "Blighted Leyline Map (Tier 5)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-5",
+          "text": "Blighted Mineral Pools Map (Tier 5)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-5",
+          "text": "Blighted Primordial Blocks Map (Tier 5)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-5",
+          "text": "Blighted Stagnation Map (Tier 5)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-5",
+          "text": "Blighted Tropical Island Map (Tier 5)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-5",
+          "text": "Blighted Volcano Map (Tier 5)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-5",
+          "text": "Blighted Wasteland Map (Tier 5)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-6",
+          "text": "Blighted Acid Caverns Map (Tier 6)"
+        },
+        {
+          "id": "blighted-bog-map-tier-6",
+          "text": "Blighted Bog Map (Tier 6)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-6",
+          "text": "Blighted Cold River Map (Tier 6)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-6",
+          "text": "Blighted Dark Forest Map (Tier 6)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-6",
+          "text": "Blighted Forking River Map (Tier 6)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-6",
+          "text": "Blighted Lookout Map (Tier 6)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-6",
+          "text": "Blighted Mesa Map (Tier 6)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-6",
+          "text": "Blighted Overgrown Shrine Map (Tier 6)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-6",
           "text": "Blighted Promenade Map (Tier 6)"
         },
         {
-          "id": "blighted-racecourse-map",
-          "text": "Blighted Racecourse Map (Tier 15)"
+          "id": "blighted-shore-map-tier-6",
+          "text": "Blighted Shore Map (Tier 6)"
         },
         {
-          "id": "blighted-ramparts-map",
-          "text": "Blighted Ramparts Map (Tier 9)"
+          "id": "blighted-strand-map-tier-6",
+          "text": "Blighted Strand Map (Tier 6)"
         },
         {
-          "id": "blighted-relic-chambers-map",
-          "text": "Blighted Relic Chambers Map (Tier 7)"
+          "id": "blighted-thicket-map-tier-6",
+          "text": "Blighted Thicket Map (Tier 6)"
         },
         {
-          "id": "blighted-shipyard-map",
-          "text": "Blighted Shipyard Map (Tier 8)"
-        },
-        { "id": "blighted-shore-map", "text": "Blighted Shore Map (Tier 6)" },
-        { "id": "blighted-shrine-map", "text": "Blighted Shrine Map (Tier 3)" },
-        { "id": "blighted-siege-map", "text": "Blighted Siege Map (Tier 9)" },
-        { "id": "blighted-silo-map", "text": "Blighted Silo Map (Tier 2)" },
-        {
-          "id": "blighted-stagnation-map",
-          "text": "Blighted Stagnation Map (Tier 2)"
-        },
-        { "id": "blighted-strand-map", "text": "Blighted Strand Map (Tier 3)" },
-        {
-          "id": "blighted-sulphur-vents-map",
-          "text": "Blighted Sulphur Vents Map (Tier 7)"
+          "id": "blighted-cage-map-tier-7",
+          "text": "Blighted Cage Map (Tier 7)"
         },
         {
-          "id": "blighted-temple-map",
-          "text": "Blighted Temple Map (Tier 14)"
+          "id": "blighted-cemetery-map-tier-7",
+          "text": "Blighted Cemetery Map (Tier 7)"
         },
         {
-          "id": "blighted-thicket-map",
-          "text": "Blighted Thicket Map (Tier 13)"
-        },
-        { "id": "blighted-tower-map", "text": "Blighted Tower Map (Tier 4)" },
-        {
-          "id": "blighted-toxic-sewer-map",
-          "text": "Blighted Toxic Sewer Map (Tier 6)"
+          "id": "blighted-cursed-crypt-map-tier-7",
+          "text": "Blighted Cursed Crypt Map (Tier 7)"
         },
         {
-          "id": "blighted-tropical-island-map",
-          "text": "Blighted Tropical Island Map (Tier 15)"
+          "id": "blighted-graveyard-map-tier-7",
+          "text": "Blighted Graveyard Map (Tier 7)"
         },
         {
-          "id": "blighted-underground-river-map",
-          "text": "Blighted Underground River Map (Tier 15)"
+          "id": "blighted-iceberg-map-tier-7",
+          "text": "Blighted Iceberg Map (Tier 7)"
         },
         {
-          "id": "blighted-underground-sea-map",
+          "id": "blighted-lava-chamber-map-tier-7",
+          "text": "Blighted Lava Chamber Map (Tier 7)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-7",
+          "text": "Blighted Malformation Map (Tier 7)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-7",
+          "text": "Blighted Moon Temple Map (Tier 7)"
+        },
+        {
+          "id": "blighted-pen-map-tier-7",
+          "text": "Blighted Pen Map (Tier 7)"
+        },
+        {
+          "id": "blighted-pit-map-tier-7",
+          "text": "Blighted Pit Map (Tier 7)"
+        },
+        {
+          "id": "blighted-precinct-map-tier-7",
+          "text": "Blighted Precinct Map (Tier 7)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-7",
+          "text": "Blighted Primordial Pool Map (Tier 7)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-8",
+          "text": "Blighted Alleyways Map (Tier 8)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-8",
+          "text": "Blighted Arcade Map (Tier 8)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-8",
+          "text": "Blighted Atoll Map (Tier 8)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-8",
+          "text": "Blighted Barrows Map (Tier 8)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-8",
+          "text": "Blighted Bazaar Map (Tier 8)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-8",
+          "text": "Blighted Bone Crypt Map (Tier 8)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-8",
+          "text": "Blighted Castle Ruins Map (Tier 8)"
+        },
+        {
+          "id": "blighted-cells-map-tier-8",
+          "text": "Blighted Cells Map (Tier 8)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-8",
+          "text": "Blighted Chateau Map (Tier 8)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-8",
+          "text": "Blighted Courtyard Map (Tier 8)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-8",
+          "text": "Blighted Leyline Map (Tier 8)"
+        },
+        {
+          "id": "blighted-plateau-map-tier-8",
+          "text": "Blighted Plateau Map (Tier 8)"
+        },
+        {
+          "id": "blighted-port-map-tier-8",
+          "text": "Blighted Port Map (Tier 8)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-8",
+          "text": "Blighted Tropical Island Map (Tier 8)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-8",
+          "text": "Blighted Volcano Map (Tier 8)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-9",
+          "text": "Blighted Acid Caverns Map (Tier 9)"
+        },
+        {
+          "id": "blighted-arachnid-nest-map-tier-9",
+          "text": "Blighted Arachnid Nest Map (Tier 9)"
+        },
+        {
+          "id": "blighted-beach-map-tier-9",
+          "text": "Blighted Beach Map (Tier 9)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-9",
+          "text": "Blighted Dark Forest Map (Tier 9)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-9",
+          "text": "Blighted Dunes Map (Tier 9)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-9",
+          "text": "Blighted Estuary Map (Tier 9)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-9",
+          "text": "Blighted Flooded Mine Map (Tier 9)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-9",
+          "text": "Blighted Grave Trough Map (Tier 9)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-9",
+          "text": "Blighted Haunted Mansion Map (Tier 9)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-9",
+          "text": "Blighted Mineral Pools Map (Tier 9)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-9",
+          "text": "Blighted Primordial Blocks Map (Tier 9)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-9",
+          "text": "Blighted Promenade Map (Tier 9)"
+        },
+        {
+          "id": "blighted-racecourse-map-tier-9",
+          "text": "Blighted Racecourse Map (Tier 9)"
+        },
+        {
+          "id": "blighted-shore-map-tier-9",
+          "text": "Blighted Shore Map (Tier 9)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-9",
+          "text": "Blighted Stagnation Map (Tier 9)"
+        },
+        {
+          "id": "blighted-summit-map-tier-9",
+          "text": "Blighted Summit Map (Tier 9)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-9",
+          "text": "Blighted Thicket Map (Tier 9)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-9",
+          "text": "Blighted Wasteland Map (Tier 9)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-10",
+          "text": "Blighted Basilica Map (Tier 10)"
+        },
+        {
+          "id": "blighted-bog-map-tier-10",
+          "text": "Blighted Bog Map (Tier 10)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-10",
+          "text": "Blighted Cold River Map (Tier 10)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-10",
+          "text": "Blighted Crimson Temple Map (Tier 10)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-10",
+          "text": "Blighted Cursed Crypt Map (Tier 10)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-10",
+          "text": "Blighted Forking River Map (Tier 10)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-10",
+          "text": "Blighted Lava Chamber Map (Tier 10)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-10",
+          "text": "Blighted Lookout Map (Tier 10)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-10",
+          "text": "Blighted Mesa Map (Tier 10)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-10",
+          "text": "Blighted Orchard Map (Tier 10)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-10",
+          "text": "Blighted Overgrown Shrine Map (Tier 10)"
+        },
+        {
+          "id": "blighted-pen-map-tier-10",
+          "text": "Blighted Pen Map (Tier 10)"
+        },
+        {
+          "id": "blighted-pit-map-tier-10",
+          "text": "Blighted Pit Map (Tier 10)"
+        },
+        {
+          "id": "blighted-precinct-map-tier-10",
+          "text": "Blighted Precinct Map (Tier 10)"
+        },
+        {
+          "id": "blighted-strand-map-tier-10",
+          "text": "Blighted Strand Map (Tier 10)"
+        },
+        {
+          "id": "blighted-tower-map-tier-10",
+          "text": "Blighted Tower Map (Tier 10)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-10",
           "text": "Blighted Underground Sea Map (Tier 10)"
         },
         {
-          "id": "blighted-volcano-map",
+          "id": "blighted-vault-map-tier-10",
+          "text": "Blighted Vault Map (Tier 10)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-11",
+          "text": "Blighted Arcade Map (Tier 11)"
+        },
+        {
+          "id": "blighted-cage-map-tier-11",
+          "text": "Blighted Cage Map (Tier 11)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-11",
+          "text": "Blighted Castle Ruins Map (Tier 11)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-11",
+          "text": "Blighted Cemetery Map (Tier 11)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-11",
+          "text": "Blighted Chateau Map (Tier 11)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-11",
+          "text": "Blighted City Square Map (Tier 11)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-11",
+          "text": "Blighted Colonnade Map (Tier 11)"
+        },
+        {
+          "id": "blighted-coves-map-tier-11",
+          "text": "Blighted Coves Map (Tier 11)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-11",
+          "text": "Blighted Dungeon Map (Tier 11)"
+        },
+        {
+          "id": "blighted-geode-map-tier-11",
+          "text": "Blighted Geode Map (Tier 11)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-11",
+          "text": "Blighted Graveyard Map (Tier 11)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-11",
+          "text": "Blighted Iceberg Map (Tier 11)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-11",
+          "text": "Blighted Malformation Map (Tier 11)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-11",
+          "text": "Blighted Moon Temple Map (Tier 11)"
+        },
+        {
+          "id": "blighted-port-map-tier-11",
+          "text": "Blighted Port Map (Tier 11)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-11",
+          "text": "Blighted Primordial Pool Map (Tier 11)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-12",
+          "text": "Blighted Alleyways Map (Tier 12)"
+        },
+        {
+          "id": "blighted-arachnid-nest-map-tier-12",
+          "text": "Blighted Arachnid Nest Map (Tier 12)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-12",
+          "text": "Blighted Atoll Map (Tier 12)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-12",
+          "text": "Blighted Barrows Map (Tier 12)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-12",
+          "text": "Blighted Bazaar Map (Tier 12)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-12",
+          "text": "Blighted Bone Crypt Map (Tier 12)"
+        },
+        {
+          "id": "blighted-cells-map-tier-12",
+          "text": "Blighted Cells Map (Tier 12)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-12",
+          "text": "Blighted Courthouse Map (Tier 12)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-12",
+          "text": "Blighted Courtyard Map (Tier 12)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-12",
+          "text": "Blighted Flooded Mine Map (Tier 12)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-12",
+          "text": "Blighted Haunted Mansion Map (Tier 12)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-12",
+          "text": "Blighted Leyline Map (Tier 12)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-12",
+          "text": "Blighted Mausoleum Map (Tier 12)"
+        },
+        {
+          "id": "blighted-museum-map-tier-12",
+          "text": "Blighted Museum Map (Tier 12)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-12",
+          "text": "Blighted Necropolis Map (Tier 12)"
+        },
+        {
+          "id": "blighted-palace-map-tier-12",
+          "text": "Blighted Palace Map (Tier 12)"
+        },
+        {
+          "id": "blighted-plateau-map-tier-12",
+          "text": "Blighted Plateau Map (Tier 12)"
+        },
+        {
+          "id": "blighted-racecourse-map-tier-12",
+          "text": "Blighted Racecourse Map (Tier 12)"
+        },
+        {
+          "id": "blighted-sulphur-vents-map-tier-12",
+          "text": "Blighted Sulphur Vents Map (Tier 12)"
+        },
+        {
+          "id": "blighted-summit-map-tier-12",
+          "text": "Blighted Summit Map (Tier 12)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-12",
+          "text": "Blighted Tropical Island Map (Tier 12)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-12",
+          "text": "Blighted Volcano Map (Tier 12)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-13",
+          "text": "Blighted Acid Caverns Map (Tier 13)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-13",
+          "text": "Blighted Basilica Map (Tier 13)"
+        },
+        {
+          "id": "blighted-beach-map-tier-13",
+          "text": "Blighted Beach Map (Tier 13)"
+        },
+        {
+          "id": "blighted-caldera-map-tier-13",
+          "text": "Blighted Caldera Map (Tier 13)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-13",
+          "text": "Blighted Crimson Temple Map (Tier 13)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-13",
+          "text": "Blighted Dark Forest Map (Tier 13)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-13",
+          "text": "Blighted Dunes Map (Tier 13)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-13",
+          "text": "Blighted Estuary Map (Tier 13)"
+        },
+        {
+          "id": "blighted-glacier-map-tier-13",
+          "text": "Blighted Glacier Map (Tier 13)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-13",
+          "text": "Blighted Grave Trough Map (Tier 13)"
+        },
+        {
+          "id": "blighted-lava-lake-map-tier-13",
+          "text": "Blighted Lava Lake Map (Tier 13)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-13",
+          "text": "Blighted Mineral Pools Map (Tier 13)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-13",
+          "text": "Blighted Orchard Map (Tier 13)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-13",
+          "text": "Blighted Primordial Blocks Map (Tier 13)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-13",
+          "text": "Blighted Promenade Map (Tier 13)"
+        },
+        {
+          "id": "blighted-shore-map-tier-13",
+          "text": "Blighted Shore Map (Tier 13)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-13",
+          "text": "Blighted Stagnation Map (Tier 13)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-13",
+          "text": "Blighted Thicket Map (Tier 13)"
+        },
+        {
+          "id": "blighted-tower-map-tier-13",
+          "text": "Blighted Tower Map (Tier 13)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-13",
+          "text": "Blighted Underground Sea Map (Tier 13)"
+        },
+        {
+          "id": "blighted-vault-map-tier-13",
+          "text": "Blighted Vault Map (Tier 13)"
+        },
+        {
+          "id": "blighted-wasteland-map-tier-13",
+          "text": "Blighted Wasteland Map (Tier 13)"
+        },
+        {
+          "id": "blighted-bog-map-tier-14",
+          "text": "Blighted Bog Map (Tier 14)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-14",
+          "text": "Blighted City Square Map (Tier 14)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-14",
+          "text": "Blighted Cold River Map (Tier 14)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-14",
+          "text": "Blighted Colonnade Map (Tier 14)"
+        },
+        {
+          "id": "blighted-coves-map-tier-14",
+          "text": "Blighted Coves Map (Tier 14)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-14",
+          "text": "Blighted Cursed Crypt Map (Tier 14)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-14",
+          "text": "Blighted Dungeon Map (Tier 14)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-14",
+          "text": "Blighted Forking River Map (Tier 14)"
+        },
+        {
+          "id": "blighted-geode-map-tier-14",
+          "text": "Blighted Geode Map (Tier 14)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-14",
+          "text": "Blighted Lava Chamber Map (Tier 14)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-14",
+          "text": "Blighted Lookout Map (Tier 14)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-14",
+          "text": "Blighted Mesa Map (Tier 14)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-14",
+          "text": "Blighted Overgrown Shrine Map (Tier 14)"
+        },
+        {
+          "id": "blighted-pen-map-tier-14",
+          "text": "Blighted Pen Map (Tier 14)"
+        },
+        {
+          "id": "blighted-pit-map-tier-14",
+          "text": "Blighted Pit Map (Tier 14)"
+        },
+        {
+          "id": "blighted-precinct-map-tier-14",
+          "text": "Blighted Precinct Map (Tier 14)"
+        },
+        {
+          "id": "blighted-reef-map-tier-14",
+          "text": "Blighted Reef Map (Tier 14)"
+        },
+        {
+          "id": "blighted-strand-map-tier-14",
+          "text": "Blighted Strand Map (Tier 14)"
+        },
+        {
+          "id": "blighted-temple-map-tier-14",
+          "text": "Blighted Temple Map (Tier 14)"
+        },
+        {
+          "id": "blighted-wharf-map-tier-14",
+          "text": "Blighted Wharf Map (Tier 14)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-15",
+          "text": "Blighted Arcade Map (Tier 15)"
+        },
+        {
+          "id": "blighted-cage-map-tier-15",
+          "text": "Blighted Cage Map (Tier 15)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-15",
+          "text": "Blighted Castle Ruins Map (Tier 15)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-15",
+          "text": "Blighted Cemetery Map (Tier 15)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-15",
+          "text": "Blighted Chateau Map (Tier 15)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-15",
+          "text": "Blighted Courthouse Map (Tier 15)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-15",
+          "text": "Blighted Graveyard Map (Tier 15)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-15",
+          "text": "Blighted Iceberg Map (Tier 15)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-15",
+          "text": "Blighted Malformation Map (Tier 15)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-15",
+          "text": "Blighted Mausoleum Map (Tier 15)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-15",
+          "text": "Blighted Moon Temple Map (Tier 15)"
+        },
+        {
+          "id": "blighted-mud-geyser-map-tier-15",
+          "text": "Blighted Mud Geyser Map (Tier 15)"
+        },
+        {
+          "id": "blighted-museum-map-tier-15",
+          "text": "Blighted Museum Map (Tier 15)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-15",
+          "text": "Blighted Necropolis Map (Tier 15)"
+        },
+        {
+          "id": "blighted-palace-map-tier-15",
+          "text": "Blighted Palace Map (Tier 15)"
+        },
+        {
+          "id": "blighted-port-map-tier-15",
+          "text": "Blighted Port Map (Tier 15)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-15",
+          "text": "Blighted Primordial Pool Map (Tier 15)"
+        },
+        {
+          "id": "blighted-siege-map-tier-15",
+          "text": "Blighted Siege Map (Tier 15)"
+        },
+        {
+          "id": "blighted-spider-forest-map-tier-15",
+          "text": "Blighted Spider Forest Map (Tier 15)"
+        },
+        {
+          "id": "blighted-sulphur-vents-map-tier-15",
+          "text": "Blighted Sulphur Vents Map (Tier 15)"
+        },
+        {
+          "id": "blighted-underground-river-map-tier-15",
+          "text": "Blighted Underground River Map (Tier 15)"
+        },
+        {
+          "id": "blighted-acid-caverns-map-tier-16",
+          "text": "Blighted Acid Caverns Map (Tier 16)"
+        },
+        {
+          "id": "blighted-alleyways-map-tier-16",
+          "text": "Blighted Alleyways Map (Tier 16)"
+        },
+        {
+          "id": "blighted-arachnid-nest-map-tier-16",
+          "text": "Blighted Arachnid Nest Map (Tier 16)"
+        },
+        {
+          "id": "blighted-arcade-map-tier-16",
+          "text": "Blighted Arcade Map (Tier 16)"
+        },
+        {
+          "id": "blighted-atoll-map-tier-16",
+          "text": "Blighted Atoll Map (Tier 16)"
+        },
+        {
+          "id": "blighted-barrows-map-tier-16",
+          "text": "Blighted Barrows Map (Tier 16)"
+        },
+        {
+          "id": "blighted-basilica-map-tier-16",
+          "text": "Blighted Basilica Map (Tier 16)"
+        },
+        {
+          "id": "blighted-bazaar-map-tier-16",
+          "text": "Blighted Bazaar Map (Tier 16)"
+        },
+        {
+          "id": "blighted-beach-map-tier-16",
+          "text": "Blighted Beach Map (Tier 16)"
+        },
+        {
+          "id": "blighted-bog-map-tier-16",
+          "text": "Blighted Bog Map (Tier 16)"
+        },
+        {
+          "id": "blighted-bone-crypt-map-tier-16",
+          "text": "Blighted Bone Crypt Map (Tier 16)"
+        },
+        {
+          "id": "blighted-cage-map-tier-16",
+          "text": "Blighted Cage Map (Tier 16)"
+        },
+        {
+          "id": "blighted-caldera-map-tier-16",
+          "text": "Blighted Caldera Map (Tier 16)"
+        },
+        {
+          "id": "blighted-castle-ruins-map-tier-16",
+          "text": "Blighted Castle Ruins Map (Tier 16)"
+        },
+        {
+          "id": "blighted-cells-map-tier-16",
+          "text": "Blighted Cells Map (Tier 16)"
+        },
+        {
+          "id": "blighted-cemetery-map-tier-16",
+          "text": "Blighted Cemetery Map (Tier 16)"
+        },
+        {
+          "id": "blighted-channel-map-tier-16",
+          "text": "Blighted Channel Map (Tier 16)"
+        },
+        {
+          "id": "blighted-chateau-map-tier-16",
+          "text": "Blighted Chateau Map (Tier 16)"
+        },
+        {
+          "id": "blighted-city-square-map-tier-16",
+          "text": "Blighted City Square Map (Tier 16)"
+        },
+        {
+          "id": "blighted-cold-river-map-tier-16",
+          "text": "Blighted Cold River Map (Tier 16)"
+        },
+        {
+          "id": "blighted-colonnade-map-tier-16",
+          "text": "Blighted Colonnade Map (Tier 16)"
+        },
+        {
+          "id": "blighted-courthouse-map-tier-16",
+          "text": "Blighted Courthouse Map (Tier 16)"
+        },
+        {
+          "id": "blighted-courtyard-map-tier-16",
+          "text": "Blighted Courtyard Map (Tier 16)"
+        },
+        {
+          "id": "blighted-coves-map-tier-16",
+          "text": "Blighted Coves Map (Tier 16)"
+        },
+        {
+          "id": "blighted-crimson-temple-map-tier-16",
+          "text": "Blighted Crimson Temple Map (Tier 16)"
+        },
+        {
+          "id": "blighted-cursed-crypt-map-tier-16",
+          "text": "Blighted Cursed Crypt Map (Tier 16)"
+        },
+        {
+          "id": "blighted-dark-forest-map-tier-16",
+          "text": "Blighted Dark Forest Map (Tier 16)"
+        },
+        {
+          "id": "blighted-dunes-map-tier-16",
+          "text": "Blighted Dunes Map (Tier 16)"
+        },
+        {
+          "id": "blighted-dungeon-map-tier-16",
+          "text": "Blighted Dungeon Map (Tier 16)"
+        },
+        {
+          "id": "blighted-estuary-map-tier-16",
+          "text": "Blighted Estuary Map (Tier 16)"
+        },
+        {
+          "id": "blighted-flooded-mine-map-tier-16",
+          "text": "Blighted Flooded Mine Map (Tier 16)"
+        },
+        {
+          "id": "blighted-forking-river-map-tier-16",
+          "text": "Blighted Forking River Map (Tier 16)"
+        },
+        {
+          "id": "blighted-geode-map-tier-16",
+          "text": "Blighted Geode Map (Tier 16)"
+        },
+        {
+          "id": "blighted-glacier-map-tier-16",
+          "text": "Blighted Glacier Map (Tier 16)"
+        },
+        {
+          "id": "blighted-grave-trough-map-tier-16",
+          "text": "Blighted Grave Trough Map (Tier 16)"
+        },
+        {
+          "id": "blighted-graveyard-map-tier-16",
+          "text": "Blighted Graveyard Map (Tier 16)"
+        },
+        {
+          "id": "blighted-haunted-mansion-map-tier-16",
+          "text": "Blighted Haunted Mansion Map (Tier 16)"
+        },
+        {
+          "id": "blighted-iceberg-map-tier-16",
+          "text": "Blighted Iceberg Map (Tier 16)"
+        },
+        {
+          "id": "blighted-infested-valley-map-tier-16",
+          "text": "Blighted Infested Valley Map (Tier 16)"
+        },
+        {
+          "id": "blighted-ivory-temple-map-tier-16",
+          "text": "Blighted Ivory Temple Map (Tier 16)"
+        },
+        {
+          "id": "blighted-lava-chamber-map-tier-16",
+          "text": "Blighted Lava Chamber Map (Tier 16)"
+        },
+        {
+          "id": "blighted-lava-lake-map-tier-16",
+          "text": "Blighted Lava Lake Map (Tier 16)"
+        },
+        {
+          "id": "blighted-leyline-map-tier-16",
+          "text": "Blighted Leyline Map (Tier 16)"
+        },
+        {
+          "id": "blighted-lookout-map-tier-16",
+          "text": "Blighted Lookout Map (Tier 16)"
+        },
+        {
+          "id": "blighted-malformation-map-tier-16",
+          "text": "Blighted Malformation Map (Tier 16)"
+        },
+        {
+          "id": "blighted-mausoleum-map-tier-16",
+          "text": "Blighted Mausoleum Map (Tier 16)"
+        },
+        {
+          "id": "blighted-mesa-map-tier-16",
+          "text": "Blighted Mesa Map (Tier 16)"
+        },
+        {
+          "id": "blighted-mineral-pools-map-tier-16",
+          "text": "Blighted Mineral Pools Map (Tier 16)"
+        },
+        {
+          "id": "blighted-moon-temple-map-tier-16",
+          "text": "Blighted Moon Temple Map (Tier 16)"
+        },
+        {
+          "id": "blighted-mud-geyser-map-tier-16",
+          "text": "Blighted Mud Geyser Map (Tier 16)"
+        },
+        {
+          "id": "blighted-museum-map-tier-16",
+          "text": "Blighted Museum Map (Tier 16)"
+        },
+        {
+          "id": "blighted-necropolis-map-tier-16",
+          "text": "Blighted Necropolis Map (Tier 16)"
+        },
+        {
+          "id": "blighted-orchard-map-tier-16",
+          "text": "Blighted Orchard Map (Tier 16)"
+        },
+        {
+          "id": "blighted-overgrown-shrine-map-tier-16",
+          "text": "Blighted Overgrown Shrine Map (Tier 16)"
+        },
+        {
+          "id": "blighted-palace-map-tier-16",
+          "text": "Blighted Palace Map (Tier 16)"
+        },
+        {
+          "id": "blighted-pen-map-tier-16",
+          "text": "Blighted Pen Map (Tier 16)"
+        },
+        {
+          "id": "blighted-pit-map-tier-16",
+          "text": "Blighted Pit Map (Tier 16)"
+        },
+        {
+          "id": "blighted-plateau-map-tier-16",
+          "text": "Blighted Plateau Map (Tier 16)"
+        },
+        {
+          "id": "blighted-port-map-tier-16",
+          "text": "Blighted Port Map (Tier 16)"
+        },
+        {
+          "id": "blighted-precinct-map-tier-16",
+          "text": "Blighted Precinct Map (Tier 16)"
+        },
+        {
+          "id": "blighted-primordial-blocks-map-tier-16",
+          "text": "Blighted Primordial Blocks Map (Tier 16)"
+        },
+        {
+          "id": "blighted-primordial-pool-map-tier-16",
+          "text": "Blighted Primordial Pool Map (Tier 16)"
+        },
+        {
+          "id": "blighted-promenade-map-tier-16",
+          "text": "Blighted Promenade Map (Tier 16)"
+        },
+        {
+          "id": "blighted-racecourse-map-tier-16",
+          "text": "Blighted Racecourse Map (Tier 16)"
+        },
+        {
+          "id": "blighted-reef-map-tier-16",
+          "text": "Blighted Reef Map (Tier 16)"
+        },
+        {
+          "id": "blighted-shore-map-tier-16",
+          "text": "Blighted Shore Map (Tier 16)"
+        },
+        {
+          "id": "blighted-siege-map-tier-16",
+          "text": "Blighted Siege Map (Tier 16)"
+        },
+        {
+          "id": "blighted-silo-map-tier-16",
+          "text": "Blighted Silo Map (Tier 16)"
+        },
+        {
+          "id": "blighted-spider-forest-map-tier-16",
+          "text": "Blighted Spider Forest Map (Tier 16)"
+        },
+        {
+          "id": "blighted-stagnation-map-tier-16",
+          "text": "Blighted Stagnation Map (Tier 16)"
+        },
+        {
+          "id": "blighted-strand-map-tier-16",
+          "text": "Blighted Strand Map (Tier 16)"
+        },
+        {
+          "id": "blighted-sulphur-vents-map-tier-16",
+          "text": "Blighted Sulphur Vents Map (Tier 16)"
+        },
+        {
+          "id": "blighted-summit-map-tier-16",
+          "text": "Blighted Summit Map (Tier 16)"
+        },
+        {
+          "id": "blighted-temple-map-tier-16",
+          "text": "Blighted Temple Map (Tier 16)"
+        },
+        {
+          "id": "blighted-thicket-map-tier-16",
+          "text": "Blighted Thicket Map (Tier 16)"
+        },
+        {
+          "id": "blighted-tower-map-tier-16",
+          "text": "Blighted Tower Map (Tier 16)"
+        },
+        {
+          "id": "blighted-tropical-island-map-tier-16",
+          "text": "Blighted Tropical Island Map (Tier 16)"
+        },
+        {
+          "id": "blighted-underground-river-map-tier-16",
+          "text": "Blighted Underground River Map (Tier 16)"
+        },
+        {
+          "id": "blighted-underground-sea-map-tier-16",
+          "text": "Blighted Underground Sea Map (Tier 16)"
+        },
+        {
+          "id": "blighted-vault-map-tier-16",
+          "text": "Blighted Vault Map (Tier 16)"
+        },
+        {
+          "id": "blighted-volcano-map-tier-16",
           "text": "Blighted Volcano Map (Tier 16)"
         },
         {
-          "id": "blighted-waste-pool-map",
-          "text": "Blighted Waste Pool Map (Tier 6)"
+          "id": "blighted-wasteland-map-tier-16",
+          "text": "Blighted Wasteland Map (Tier 16)"
         },
         {
-          "id": "blighted-wasteland-map",
-          "text": "Blighted Wasteland Map (Tier 9)"
-        },
-        { "id": "blighted-wharf-map", "text": "Blighted Wharf Map (Tier 12)" }
+          "id": "blighted-wharf-map-tier-16",
+          "text": "Blighted Wharf Map (Tier 16)"
+        }
       ]
     },
     {
@@ -4160,44 +5635,500 @@
       "label": "Maps (Blight-ravaged)",
       "entries": [
         {
-          "id": "blight-ravaged-arsenal-map",
-          "text": "Blight-ravaged Arsenal Map (Tier 16)"
+          "id": "blight-ravaged-bog-map-tier-14",
+          "text": "Blight-ravaged Bog Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-barrows-map",
-          "text": "Blight-ravaged Barrows Map (Tier 14)"
+          "id": "blight-ravaged-city-square-map-tier-14",
+          "text": "Blight-ravaged City Square Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-coves-map",
-          "text": "Blight-ravaged Coves Map (Tier 16)"
+          "id": "blight-ravaged-cold-river-map-tier-14",
+          "text": "Blight-ravaged Cold River Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-dig-map",
-          "text": "Blight-ravaged Dig Map (Tier 16)"
+          "id": "blight-ravaged-colonnade-map-tier-14",
+          "text": "Blight-ravaged Colonnade Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-dungeon-map",
+          "id": "blight-ravaged-coves-map-tier-14",
+          "text": "Blight-ravaged Coves Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-cursed-crypt-map-tier-14",
+          "text": "Blight-ravaged Cursed Crypt Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-dungeon-map-tier-14",
           "text": "Blight-ravaged Dungeon Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-racecourse-map",
-          "text": "Blight-ravaged Racecourse Map (Tier 15)"
+          "id": "blight-ravaged-forking-river-map-tier-14",
+          "text": "Blight-ravaged Forking River Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-temple-map",
+          "id": "blight-ravaged-geode-map-tier-14",
+          "text": "Blight-ravaged Geode Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-lava-chamber-map-tier-14",
+          "text": "Blight-ravaged Lava Chamber Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-lookout-map-tier-14",
+          "text": "Blight-ravaged Lookout Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-mesa-map-tier-14",
+          "text": "Blight-ravaged Mesa Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-overgrown-shrine-map-tier-14",
+          "text": "Blight-ravaged Overgrown Shrine Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-pen-map-tier-14",
+          "text": "Blight-ravaged Pen Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-pit-map-tier-14",
+          "text": "Blight-ravaged Pit Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-precinct-map-tier-14",
+          "text": "Blight-ravaged Precinct Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-reef-map-tier-14",
+          "text": "Blight-ravaged Reef Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-strand-map-tier-14",
+          "text": "Blight-ravaged Strand Map (Tier 14)"
+        },
+        {
+          "id": "blight-ravaged-temple-map-tier-14",
           "text": "Blight-ravaged Temple Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-tropical-island-map",
-          "text": "Blight-ravaged Tropical Island Map (Tier 15)"
+          "id": "blight-ravaged-wharf-map-tier-14",
+          "text": "Blight-ravaged Wharf Map (Tier 14)"
         },
         {
-          "id": "blight-ravaged-underground-river-map",
+          "id": "blight-ravaged-arcade-map-tier-15",
+          "text": "Blight-ravaged Arcade Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-cage-map-tier-15",
+          "text": "Blight-ravaged Cage Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-castle-ruins-map-tier-15",
+          "text": "Blight-ravaged Castle Ruins Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-cemetery-map-tier-15",
+          "text": "Blight-ravaged Cemetery Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-chateau-map-tier-15",
+          "text": "Blight-ravaged Chateau Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-courthouse-map-tier-15",
+          "text": "Blight-ravaged Courthouse Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-graveyard-map-tier-15",
+          "text": "Blight-ravaged Graveyard Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-iceberg-map-tier-15",
+          "text": "Blight-ravaged Iceberg Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-malformation-map-tier-15",
+          "text": "Blight-ravaged Malformation Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-mausoleum-map-tier-15",
+          "text": "Blight-ravaged Mausoleum Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-moon-temple-map-tier-15",
+          "text": "Blight-ravaged Moon Temple Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-mud-geyser-map-tier-15",
+          "text": "Blight-ravaged Mud Geyser Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-museum-map-tier-15",
+          "text": "Blight-ravaged Museum Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-necropolis-map-tier-15",
+          "text": "Blight-ravaged Necropolis Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-palace-map-tier-15",
+          "text": "Blight-ravaged Palace Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-port-map-tier-15",
+          "text": "Blight-ravaged Port Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-primordial-pool-map-tier-15",
+          "text": "Blight-ravaged Primordial Pool Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-siege-map-tier-15",
+          "text": "Blight-ravaged Siege Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-spider-forest-map-tier-15",
+          "text": "Blight-ravaged Spider Forest Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-sulphur-vents-map-tier-15",
+          "text": "Blight-ravaged Sulphur Vents Map (Tier 15)"
+        },
+        {
+          "id": "blight-ravaged-underground-river-map-tier-15",
           "text": "Blight-ravaged Underground River Map (Tier 15)"
         },
         {
-          "id": "blight-ravaged-volcano-map",
+          "id": "blight-ravaged-acid-caverns-map-tier-16",
+          "text": "Blight-ravaged Acid Caverns Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-alleyways-map-tier-16",
+          "text": "Blight-ravaged Alleyways Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-arachnid-nest-map-tier-16",
+          "text": "Blight-ravaged Arachnid Nest Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-arcade-map-tier-16",
+          "text": "Blight-ravaged Arcade Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-atoll-map-tier-16",
+          "text": "Blight-ravaged Atoll Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-barrows-map-tier-16",
+          "text": "Blight-ravaged Barrows Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-basilica-map-tier-16",
+          "text": "Blight-ravaged Basilica Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-bazaar-map-tier-16",
+          "text": "Blight-ravaged Bazaar Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-beach-map-tier-16",
+          "text": "Blight-ravaged Beach Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-bog-map-tier-16",
+          "text": "Blight-ravaged Bog Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-bone-crypt-map-tier-16",
+          "text": "Blight-ravaged Bone Crypt Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-cage-map-tier-16",
+          "text": "Blight-ravaged Cage Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-caldera-map-tier-16",
+          "text": "Blight-ravaged Caldera Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-castle-ruins-map-tier-16",
+          "text": "Blight-ravaged Castle Ruins Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-cells-map-tier-16",
+          "text": "Blight-ravaged Cells Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-cemetery-map-tier-16",
+          "text": "Blight-ravaged Cemetery Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-channel-map-tier-16",
+          "text": "Blight-ravaged Channel Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-chateau-map-tier-16",
+          "text": "Blight-ravaged Chateau Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-city-square-map-tier-16",
+          "text": "Blight-ravaged City Square Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-cold-river-map-tier-16",
+          "text": "Blight-ravaged Cold River Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-colonnade-map-tier-16",
+          "text": "Blight-ravaged Colonnade Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-courthouse-map-tier-16",
+          "text": "Blight-ravaged Courthouse Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-courtyard-map-tier-16",
+          "text": "Blight-ravaged Courtyard Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-coves-map-tier-16",
+          "text": "Blight-ravaged Coves Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-crimson-temple-map-tier-16",
+          "text": "Blight-ravaged Crimson Temple Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-cursed-crypt-map-tier-16",
+          "text": "Blight-ravaged Cursed Crypt Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-dark-forest-map-tier-16",
+          "text": "Blight-ravaged Dark Forest Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-dunes-map-tier-16",
+          "text": "Blight-ravaged Dunes Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-dungeon-map-tier-16",
+          "text": "Blight-ravaged Dungeon Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-estuary-map-tier-16",
+          "text": "Blight-ravaged Estuary Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-flooded-mine-map-tier-16",
+          "text": "Blight-ravaged Flooded Mine Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-forking-river-map-tier-16",
+          "text": "Blight-ravaged Forking River Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-geode-map-tier-16",
+          "text": "Blight-ravaged Geode Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-glacier-map-tier-16",
+          "text": "Blight-ravaged Glacier Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-grave-trough-map-tier-16",
+          "text": "Blight-ravaged Grave Trough Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-graveyard-map-tier-16",
+          "text": "Blight-ravaged Graveyard Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-haunted-mansion-map-tier-16",
+          "text": "Blight-ravaged Haunted Mansion Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-iceberg-map-tier-16",
+          "text": "Blight-ravaged Iceberg Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-infested-valley-map-tier-16",
+          "text": "Blight-ravaged Infested Valley Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-ivory-temple-map-tier-16",
+          "text": "Blight-ravaged Ivory Temple Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-lava-chamber-map-tier-16",
+          "text": "Blight-ravaged Lava Chamber Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-lava-lake-map-tier-16",
+          "text": "Blight-ravaged Lava Lake Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-leyline-map-tier-16",
+          "text": "Blight-ravaged Leyline Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-lookout-map-tier-16",
+          "text": "Blight-ravaged Lookout Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-malformation-map-tier-16",
+          "text": "Blight-ravaged Malformation Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-mausoleum-map-tier-16",
+          "text": "Blight-ravaged Mausoleum Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-mesa-map-tier-16",
+          "text": "Blight-ravaged Mesa Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-mineral-pools-map-tier-16",
+          "text": "Blight-ravaged Mineral Pools Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-moon-temple-map-tier-16",
+          "text": "Blight-ravaged Moon Temple Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-mud-geyser-map-tier-16",
+          "text": "Blight-ravaged Mud Geyser Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-museum-map-tier-16",
+          "text": "Blight-ravaged Museum Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-necropolis-map-tier-16",
+          "text": "Blight-ravaged Necropolis Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-orchard-map-tier-16",
+          "text": "Blight-ravaged Orchard Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-overgrown-shrine-map-tier-16",
+          "text": "Blight-ravaged Overgrown Shrine Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-palace-map-tier-16",
+          "text": "Blight-ravaged Palace Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-pen-map-tier-16",
+          "text": "Blight-ravaged Pen Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-pit-map-tier-16",
+          "text": "Blight-ravaged Pit Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-plateau-map-tier-16",
+          "text": "Blight-ravaged Plateau Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-port-map-tier-16",
+          "text": "Blight-ravaged Port Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-precinct-map-tier-16",
+          "text": "Blight-ravaged Precinct Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-primordial-blocks-map-tier-16",
+          "text": "Blight-ravaged Primordial Blocks Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-primordial-pool-map-tier-16",
+          "text": "Blight-ravaged Primordial Pool Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-promenade-map-tier-16",
+          "text": "Blight-ravaged Promenade Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-racecourse-map-tier-16",
+          "text": "Blight-ravaged Racecourse Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-reef-map-tier-16",
+          "text": "Blight-ravaged Reef Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-shore-map-tier-16",
+          "text": "Blight-ravaged Shore Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-siege-map-tier-16",
+          "text": "Blight-ravaged Siege Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-silo-map-tier-16",
+          "text": "Blight-ravaged Silo Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-spider-forest-map-tier-16",
+          "text": "Blight-ravaged Spider Forest Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-stagnation-map-tier-16",
+          "text": "Blight-ravaged Stagnation Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-strand-map-tier-16",
+          "text": "Blight-ravaged Strand Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-sulphur-vents-map-tier-16",
+          "text": "Blight-ravaged Sulphur Vents Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-summit-map-tier-16",
+          "text": "Blight-ravaged Summit Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-temple-map-tier-16",
+          "text": "Blight-ravaged Temple Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-thicket-map-tier-16",
+          "text": "Blight-ravaged Thicket Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-tower-map-tier-16",
+          "text": "Blight-ravaged Tower Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-tropical-island-map-tier-16",
+          "text": "Blight-ravaged Tropical Island Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-underground-river-map-tier-16",
+          "text": "Blight-ravaged Underground River Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-underground-sea-map-tier-16",
+          "text": "Blight-ravaged Underground Sea Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-vault-map-tier-16",
+          "text": "Blight-ravaged Vault Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-volcano-map-tier-16",
           "text": "Blight-ravaged Volcano Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-wasteland-map-tier-16",
+          "text": "Blight-ravaged Wasteland Map (Tier 16)"
+        },
+        {
+          "id": "blight-ravaged-wharf-map-tier-16",
+          "text": "Blight-ravaged Wharf Map (Tier 16)"
         }
       ]
     },

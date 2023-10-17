@@ -8,6 +8,8 @@ $ui = [
     // 'General' => '一般',
     'Currency' => '通貨',
     'Fragments' => '碎片',
+    'Tattoos' => '紋身',
+    'Omens' => '預照',
     'Divination Cards' => '命運卡',
     'Artifacts' => '探險通貨',
     'Oils' => '油瓶',
@@ -18,6 +20,7 @@ $ui = [
     'Unique Accessories' => '傳奇飾品',
     'Unique Flasks' => '傳奇藥劑',
     'Unique Jewels' => '傳奇珠寶',
+    'Unique Relics' => '傳奇聖物',
     'Skill Gems' => '技能寶石',
     'Cluster Jewels' => '星團珠寶',
     // 'Atlas' => '輿圖',
@@ -29,6 +32,7 @@ $ui = [
     'Delirium Orbs' => '譫妄玉',
     'Invitations' => '釋界邀請',
     'Scarabs' => '聖甲蟲',
+    'Memories' => '記憶',
     // 'Crafting' => '工藝',
     'Base Types' => '基底物品',
     'Fossils' => '化石',
@@ -48,14 +52,20 @@ foreach ($ui as $en => $zh) {
 // Step.2
 // Helmet, Cluster
 // Notable, KeyStone, Mastery
-$enHelmetEnchants = json_decode(file_get_contents('en\helmetEnchants.json'), true);
-$zhtwHelmetEnchants = json_decode(file_get_contents('zh-TW\helmetEnchants.json'), true);
+$enHelmetEnchants = json_decode(file_get_contents(__DIR__ . '/en/helmetEnchants.json'), true);
+$zhtwHelmetEnchants = json_decode(file_get_contents(__DIR__ . '/zh-TW/helmetEnchants.json'), true);
 foreach ($enHelmetEnchants as $key => $enchants) {
     if (isset($enchants['name']) && isset($enchants['desc'])) {
         $output[md5($enchants['name'])] = [
             'name' => $enchants['name'],
             'name_zh_tw' => $zhtwHelmetEnchants[$key]['name'],
         ];
+        if (isset($enchants['isNotable'])) {
+            $output[md5('Allocates ' . $enchants['name'])] = [
+                'name' => 'Allocates ' . $enchants['name'],
+                'name_zh_tw' => '配置' . $zhtwHelmetEnchants[$key]['name'],
+            ];
+        }
         foreach ($enchants['desc'] as $index => $desc) {
             if (!isset($zhtwHelmetEnchants[$key]['desc'][$index])) {
                 dd($enchants, $zhtwHelmetEnchants[$key], $key);
@@ -67,11 +77,10 @@ foreach ($enHelmetEnchants as $key => $enchants) {
         }
         continue;
     }
-    $pattern = '/\(([0-9]+)–[0-9]+\) to \([0-9]+–([0-9]+)\)/';
-    $enName = preg_replace($pattern, '$1 to $2', $enchants);
-    $pattern = '/\(([0-9]+)–[0-9]+\) 至 \([0-9]+–([0-9]+)\)/';
-    $zhtwName = preg_replace($pattern, '$1 to $2', $zhtwHelmetEnchants[$key]);
-    
+    $pattern = '/\(([0-9]+)–[0-9]+\) (to|至) \([0-9]+–([0-9]+)\)/';
+    $enName = preg_replace($pattern, '$1 $2 $2', $enchants);
+    $zhtwName = preg_replace($pattern, '$1 $2 $3', $zhtwHelmetEnchants[$key]);
+
     $output[md5($enName)] = [
         'name' => $enName,
         'name_zh_tw' => $zhtwName,
@@ -79,12 +88,13 @@ foreach ($enHelmetEnchants as $key => $enchants) {
 }
 
 // Step.3
-$poeTradejson = json_decode(file_get_contents('poe.trade.zh\translate.json'), true);
+$poeTradejson = json_decode(file_get_contents(__DIR__ . '/poe.trade.zh/translate.json'), true);
 
+$keys = array_map('strlen', array_keys($poeTradejson));
+array_multisort($keys, SORT_ASC, $poeTradejson);
 $enItemKeys = array_keys($poeTradejson);
 
-$enJson = json_decode(file_get_contents('en\items.json'), true)['result'];
-// $zhtwJson = json_decode(file_get_contents('zh-TW\items.json'), true)['result'];
+$enJson = json_decode(file_get_contents(__DIR__ . '/en/items.json'), true)['result'];
 
 foreach ($enJson as $category) {
     foreach ($category['entries'] as $entry) {
@@ -99,6 +109,9 @@ foreach ($enJson as $category) {
         }
 
         $res = preg_grep('/^' . $pattern . '/', $enItemKeys);
+        // if ($pattern == 'Arc') {
+        //     dd($res);
+        // }
         if ($res) {
             $keyName = array_values($res)[0];
 
@@ -156,8 +169,47 @@ foreach ($jobs as $en => $zh) {
     ];
 }
 
-file_put_contents('../json/language_zh_tw.json', json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
-file_put_contents('../json/ob.json', json_encode($observer, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+// 其他有的沒的
+$customs = [
+    'Vaal' => '瓦爾',
+    'Awakened' => '覺醒',
+    'Phantasmal' => '幻影的',
+    'Divergent' => '相異的',
+    'Anomalous' => '異常的',
+    'The Gilded Chalice' => '鍍金聖杯',
+    'The Second Sacrament' => '第二聖事',
+    'The Hour of Divinity' => '神聖時刻',
+    'The Night Lamp' => '夜燈',
+    'The Broken Censer' => '破香爐',
+    'The First Crest' => '第一頂峰',
+    'The Original Scripture' => '初始經文',
+    'The Blood of Innocence' => '善之血',
+    'The Chains of Castigation' => '懲戒鎖鏈',
+    'The Power and the Promise' => '權力和誓約',
+    'Ancestral Tattoo of Bloodlines' => '血族的祖靈紋身',
+    "2% increased Recovery Rate of Life, Mana and Energy Shield\nper Tribe for which you have an allocated Tattoo" => '每個你配置紋身的部落，增加 2% 生命、魔力和能量護盾恢復率',
+    "Einhar's Memory of Harvest Beasts" => "豐收野獸之埃哈的記憶",
+    "Einhar's Memory of the Sacred Grove" => "聖殿密園之埃哈的記憶",
+    "Einhar's Memory of Crystal Prisons" => "水晶監獄之埃哈的記憶",
+    "Kirac's Memory of Survivor's Guilt" => "倖存罪惡之基拉克的記憶",
+    "Niko's Memory of Demonic Onslaught" => "惡魔猛攻之尼科的記憶",
+    "Niko's Memory of Chasms" => "裂谷之尼科的記憶",
+    "Niko's Memory of Grasping Hands" => "亡者之手之尼科的記憶",
+    "Kirac's Memory of Phaaryl" => "法瑞爾之基拉克的記憶",
+    "Alva's Memory of Cascading Fortunes" => "鉅額財富之艾瓦的記憶",
+    "Alva's Memory of Reverse Incursion" => "逆襲之艾瓦的記憶",
+    "Kirac's Memory of the Pantheon" => "眾神殿之基拉克的記憶",
+    "Niko's Memory of Tormented Souls" => "罪魂之尼科的記憶",
+];
+foreach ($customs as $en => $zh) {
+    $output[md5($en)] = [
+        'name' => $en,
+        'name_zh_tw' => $zh,
+    ];
+}
+
+file_put_contents(__DIR__ . '/../json/language_zh_tw.json', json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
+file_put_contents(__DIR__ . '/../json/ob.json', json_encode($observer, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE));
 
 function dd(...$var)
 {
