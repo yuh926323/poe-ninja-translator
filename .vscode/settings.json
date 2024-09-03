@@ -1,0 +1,19 @@
+{
+    "css.validate": false,
+    "tailwindCSS.includeLanguages": {
+        "vue": "html",
+        "vue-html": "html"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[vue]": {
+        "editor.formatOnSave": true
+    }
+}

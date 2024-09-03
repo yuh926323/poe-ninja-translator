@@ -1,12 +1,11 @@
 {
   "manifest_version": 3,
   "name": "POE Ninja 中文化",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "content_scripts": [
     {
       "matches": ["https://poe.ninja/*"],
       "js": [
-        "js/jquery.min.js",
         "js/core.min.js",
         "js/md5.min.js",
         "js/content.js"

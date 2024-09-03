@@ -1,0 +1,3396 @@
+{
+  "Small_Cluster_Jewel_affliction_maximum_life": {
+    "tw": {
+      "name": "增加 4% 最大生命",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_maximum_life"
+    },
+    "us": {
+      "name": "4% increased maximum Life",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_maximum_life"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_maximum_energy_shield": {
+    "tw": {
+      "name": "增加 6% 最大能量護盾",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_maximum_energy_shield"
+    },
+    "us": {
+      "name": "6% increased maximum Energy Shield",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_maximum_energy_shield"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_maximum_mana": {
+    "tw": {
+      "name": "增加 6% 最大魔力",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_maximum_mana"
+    },
+    "us": {
+      "name": "6% increased maximum Mana",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_maximum_mana"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_armour": {
+    "tw": {
+      "name": "增加 15% 護甲",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_armour"
+    },
+    "us": {
+      "name": "15% increased Armour",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_armour"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_evasion": {
+    "tw": {
+      "name": "增加 15% 閃避值",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_evasion"
+    },
+    "us": {
+      "name": "15% increased Evasion Rating",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_evasion"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_fire_resistance": {
+    "tw": {
+      "name": "+15% 火焰抗性",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_fire_resistance"
+    },
+    "us": {
+      "name": "+15% to Fire Resistance",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_fire_resistance"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_cold_resistance": {
+    "tw": {
+      "name": "+15% 冰冷抗性",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_cold_resistance"
+    },
+    "us": {
+      "name": "+15% to Cold Resistance",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_cold_resistance"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_lightning_resistance": {
+    "tw": {
+      "name": "+15% 閃電抗性",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_lightning_resistance"
+    },
+    "us": {
+      "name": "+15% to Lightning Resistance",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_lightning_resistance"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_chaos_resistance": {
+    "tw": {
+      "name": "+12% 混沌抗性",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_chaos_resistance"
+    },
+    "us": {
+      "name": "+12% to Chaos Resistance",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_chaos_resistance"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_chance_to_dodge_attacks": {
+    "tw": {
+      "name": "+4% 壓抑法術傷害率",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_chance_to_dodge_attacks"
+    },
+    "us": {
+      "name": "+4% chance to Suppress Spell Damage",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_chance_to_dodge_attacks"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_reservation_efficiency_small": {
+    "tw": {
+      "name": "增加 6% 技能的魔力保留效用",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_reservation_efficiency_small"
+    },
+    "us": {
+      "name": "6% increased Mana Reservation Efficiency of Skills",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_reservation_efficiency_small"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_curse_effect_small": {
+    "tw": {
+      "name": "增加 2% 你所施放詛咒的效果",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_curse_effect_small"
+    },
+    "us": {
+      "name": "2% increased Effect of your Curses",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_curse_effect_small"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_fire_damage_over_time_multiplier": {
+    "tw": {
+      "name": "增加 12% 燃燒傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_fire_damage_over_time_multiplier"
+    },
+    "us": {
+      "name": "12% increased Burning Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_fire_damage_over_time_multiplier"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_chaos_damage_over_time_multiplier": {
+    "tw": {
+      "name": "增加 12% 混沌持續傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_chaos_damage_over_time_multiplier"
+    },
+    "us": {
+      "name": "12% increased Chaos Damage over Time",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_chaos_damage_over_time_multiplier"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_physical_damage_over_time_multiplier": {
+    "tw": {
+      "name": "增加 12% 物理持續傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_physical_damage_over_time_multiplier"
+    },
+    "us": {
+      "name": "12% increased Physical Damage over Time",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_physical_damage_over_time_multiplier"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_cold_damage_over_time_multiplier": {
+    "tw": {
+      "name": "增加 12% 持續性冰冷傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_cold_damage_over_time_multiplier"
+    },
+    "us": {
+      "name": "12% increased Cold Damage over Time",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_cold_damage_over_time_multiplier"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_damage_over_time_multiplier": {
+    "tw": {
+      "name": "增加 10% 持續傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_damage_over_time_multiplier"
+    },
+    "us": {
+      "name": "10% increased Damage over Time",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_damage_over_time_multiplier"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_effect_of_non-damaging_ailments": {
+    "tw": {
+      "name": "增加 10% 非傷害型異常狀態的效果",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_effect_of_non-damaging_ailments"
+    },
+    "us": {
+      "name": "10% increased Effect of Non-Damaging Ailments",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_effect_of_non-damaging_ailments"
+    }
+  },
+  "Medium_Cluster_Jewel_old_do_not_use_affliction_aura_effect": {
+    "tw": {
+      "name": "增加 3% 你技能的非詛咒光環效果",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_old_do_not_use_affliction_aura_effect"
+    },
+    "us": {
+      "name": "3% increased effect of Non-Curse Auras from your Skills",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_old_do_not_use_affliction_aura_effect"
+    }
+  },
+  "Medium_Cluster_Jewel_old_do_not_use_affliction_curse_effect": {
+    "tw": {
+      "name": "增加 2% 你所施放詛咒的效果",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_old_do_not_use_affliction_curse_effect"
+    },
+    "us": {
+      "name": "2% increased Effect of your Curses",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_old_do_not_use_affliction_curse_effect"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_damage_while_you_have_a_herald": {
+    "tw": {
+      "name": "被捷光環影響時，增加 10% 傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_damage_while_you_have_a_herald"
+    },
+    "us": {
+      "name": "10% increased Damage while affected by a Herald",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_damage_while_you_have_a_herald"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_minion_damage_while_you_have_a_herald": {
+    "tw": {
+      "name": "你被捷光環影響時，召喚物增加 10% 傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_minion_damage_while_you_have_a_herald"
+    },
+    "us": {
+      "name": "Minions deal 10% increased Damage while you are affected by a Herald",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_minion_damage_while_you_have_a_herald"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_warcry_buff_effect": {
+    "tw": {
+      "name": "竭盡攻擊增加 20% 傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_warcry_buff_effect"
+    },
+    "us": {
+      "name": "Exerted Attacks deal 20% increased Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_warcry_buff_effect"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_critical_chance": {
+    "tw": {
+      "name": "增加 15% 暴擊率",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_critical_chance"
+    },
+    "us": {
+      "name": "15% increased Critical Strike Chance",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_critical_chance"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_minion_life": {
+    "tw": {
+      "name": "召喚物增加 12% 最大生命",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_minion_life"
+    },
+    "us": {
+      "name": "Minions have 12% increased maximum Life",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_minion_life"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_area_damage": {
+    "tw": {
+      "name": "增加 10% 範圍傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_area_damage"
+    },
+    "us": {
+      "name": "10% increased Area Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_area_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_projectile_damage": {
+    "tw": {
+      "name": "增加 10% 投射物傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_projectile_damage"
+    },
+    "us": {
+      "name": "10% increased Projectile Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_projectile_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_trap_and_mine_damage": {
+    "tw": {
+      "name": "增加 12% 陷阱傷害, 增加 12% 地雷傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_trap_and_mine_damage"
+    },
+    "us": {
+      "name": "12% increased Trap Damage, 12% increased Mine Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_trap_and_mine_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_totem_damage": {
+    "tw": {
+      "name": "增加 12% 圖騰傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_totem_damage"
+    },
+    "us": {
+      "name": "12% increased Totem Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_totem_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_brand_damage": {
+    "tw": {
+      "name": "增加 12% 烙印傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_brand_damage"
+    },
+    "us": {
+      "name": "12% increased Brand Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_brand_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_channelling_skill_damage": {
+    "tw": {
+      "name": "引導施放技能增加 12% 傷害",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_channelling_skill_damage"
+    },
+    "us": {
+      "name": "Channelling Skills deal 12% increased Damage",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_channelling_skill_damage"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_flask_duration": {
+    "tw": {
+      "name": "增加 6% 藥劑效果持續時間",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_flask_duration"
+    },
+    "us": {
+      "name": "6% increased Flask Effect Duration",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_flask_duration"
+    }
+  },
+  "Medium_Cluster_Jewel_affliction_life_and_mana_recovery_from_flasks": {
+    "tw": {
+      "name": "增加 10% 來自藥劑的生命恢復, 增加 10% 來自藥劑的魔力恢復",
+      "url": "https://poedb.tw/tw/Medium_Cluster_Jewel_affliction_life_and_mana_recovery_from_flasks"
+    },
+    "us": {
+      "name": "10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks",
+      "url": "https://poedb.tw/us/Medium_Cluster_Jewel_affliction_life_and_mana_recovery_from_flasks"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_axe_and_sword_damage": {
+    "tw": {
+      "name": "斧攻擊增加 12% 擊中和異常狀態傷害, 劍攻擊增加 12% 擊中和異常狀態傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_axe_and_sword_damage"
+    },
+    "us": {
+      "name": "Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_axe_and_sword_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_mace_and_staff_damage": {
+    "tw": {
+      "name": "長杖攻擊增加 12% 擊中和異常狀態傷害, 錘或權杖攻擊增加 12% 擊中和異常狀態傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_mace_and_staff_damage"
+    },
+    "us": {
+      "name": "Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_mace_and_staff_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_dagger_and_claw_damage": {
+    "tw": {
+      "name": "爪攻擊增加 12% 擊中和異常狀態傷害, 匕首攻擊增加 12% 擊中和異常狀態傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_dagger_and_claw_damage"
+    },
+    "us": {
+      "name": "Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_dagger_and_claw_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_bow_damage": {
+    "tw": {
+      "name": "持弓類武器時增加 12% 傷害, 增加 12% 弓技能持續傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_bow_damage"
+    },
+    "us": {
+      "name": "12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_bow_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_wand_damage": {
+    "tw": {
+      "name": "法杖攻擊增加 12% 擊中和異常狀態傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_wand_damage"
+    },
+    "us": {
+      "name": "Wand Attacks deal 12% increased Damage with Hits and Ailments",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_wand_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_damage_with_two_handed_melee_weapons": {
+    "tw": {
+      "name": "持雙手武器時增加 12% 傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_damage_with_two_handed_melee_weapons"
+    },
+    "us": {
+      "name": "12% increased Damage with Two Handed Weapons",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_damage_with_two_handed_melee_weapons"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_attack_damage_while_dual_wielding_": {
+    "tw": {
+      "name": "雙持時增加 12% 攻擊傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_attack_damage_while_dual_wielding_"
+    },
+    "us": {
+      "name": "12% increased Attack Damage while Dual Wielding",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_attack_damage_while_dual_wielding_"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_attack_damage_while_holding_a_shield": {
+    "tw": {
+      "name": "持盾時增加 12% 攻擊傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_attack_damage_while_holding_a_shield"
+    },
+    "us": {
+      "name": "12% increased Attack Damage while holding a Shield",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_attack_damage_while_holding_a_shield"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_attack_damage_": {
+    "tw": {
+      "name": "增加 10% 攻擊傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_attack_damage_"
+    },
+    "us": {
+      "name": "10% increased Attack Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_attack_damage_"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_spell_damage": {
+    "tw": {
+      "name": "增加 10% 法術傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_spell_damage"
+    },
+    "us": {
+      "name": "10% increased Spell Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_spell_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_elemental_damage": {
+    "tw": {
+      "name": "增加 10% 元素傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_elemental_damage"
+    },
+    "us": {
+      "name": "10% increased Elemental Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_elemental_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_physical_damage": {
+    "tw": {
+      "name": "增加 12% 物理傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_physical_damage"
+    },
+    "us": {
+      "name": "12% increased Physical Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_physical_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_fire_damage": {
+    "tw": {
+      "name": "增加 12% 火焰傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_fire_damage"
+    },
+    "us": {
+      "name": "12% increased Fire Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_fire_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_lightning_damage": {
+    "tw": {
+      "name": "增加 12% 閃電傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_lightning_damage"
+    },
+    "us": {
+      "name": "12% increased Lightning Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_lightning_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_cold_damage": {
+    "tw": {
+      "name": "增加 12% 冰冷傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_cold_damage"
+    },
+    "us": {
+      "name": "12% increased Cold Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_cold_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_chaos_damage": {
+    "tw": {
+      "name": "增加 12% 混沌傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_chaos_damage"
+    },
+    "us": {
+      "name": "12% increased Chaos Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_chaos_damage"
+    }
+  },
+  "Large_Cluster_Jewel_affliction_minion_damage": {
+    "tw": {
+      "name": "召喚物增加 10% 傷害",
+      "url": "https://poedb.tw/tw/Large_Cluster_Jewel_affliction_minion_damage"
+    },
+    "us": {
+      "name": "Minions deal 10% increased Damage",
+      "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_minion_damage"
+    }
+  },
+  "Cave_Beast": {
+    "tw": { "name": "洞穴獸", "url": "https://poedb.tw/tw/Cave_Beast" },
+    "us": { "name": "Cave Beast", "url": "https://poedb.tw/us/Cave_Beast" }
+  },
+  "Enraptured_Beast": {
+    "tw": {
+      "name": "猛獸野瘋狂",
+      "url": "https://poedb.tw/tw/Enraptured_Beast"
+    },
+    "us": {
+      "name": "Enraptured Beast",
+      "url": "https://poedb.tw/us/Enraptured_Beast"
+    }
+  },
+  "Bone_Cruncher": {
+    "tw": { "name": "碎骨獸", "url": "https://poedb.tw/tw/Bone_Cruncher" },
+    "us": {
+      "name": "Bone Cruncher",
+      "url": "https://poedb.tw/us/Bone_Cruncher"
+    }
+  },
+  "Hairy_Bonecruncher": {
+    "tw": {
+      "name": "長毛碎骨獸",
+      "url": "https://poedb.tw/tw/Hairy_Bonecruncher"
+    },
+    "us": {
+      "name": "Hairy Bonecruncher",
+      "url": "https://poedb.tw/us/Hairy_Bonecruncher"
+    }
+  },
+  "Shaggy_Monstrosity": {
+    "tw": {
+      "name": "毒息巨獸",
+      "url": "https://poedb.tw/tw/Shaggy_Monstrosity"
+    },
+    "us": {
+      "name": "Shaggy Monstrosity",
+      "url": "https://poedb.tw/us/Shaggy_Monstrosity"
+    }
+  },
+  "Thicket_Hulk": {
+    "tw": { "name": "叢林巨獸", "url": "https://poedb.tw/tw/Thicket_Hulk" },
+    "us": { "name": "Thicket Hulk", "url": "https://poedb.tw/us/Thicket_Hulk" }
+  },
+  "Skeletal_Beast": {
+    "tw": { "name": "枯骨野獸", "url": "https://poedb.tw/tw/Skeletal_Beast" },
+    "us": {
+      "name": "Skeletal Beast",
+      "url": "https://poedb.tw/us/Skeletal_Beast"
+    }
+  },
+  "Corrupted_Beast": {
+    "tw": { "name": "腐化獸", "url": "https://poedb.tw/tw/Corrupted_Beast" },
+    "us": {
+      "name": "Corrupted Beast",
+      "url": "https://poedb.tw/us/Corrupted_Beast"
+    }
+  },
+  "Armour_Cruncher": {
+    "tw": { "name": "毀甲巨獸", "url": "https://poedb.tw/tw/Armour_Cruncher" },
+    "us": {
+      "name": "Armour Cruncher",
+      "url": "https://poedb.tw/us/Armour_Cruncher"
+    }
+  },
+  "Forest_Beast": {
+    "tw": { "name": "叢林猛獸", "url": "https://poedb.tw/tw/Forest_Beast" },
+    "us": { "name": "Forest Beast", "url": "https://poedb.tw/us/Forest_Beast" }
+  },
+  "Goatman": {
+    "tw": { "name": "堅蹄羊人", "url": "https://poedb.tw/tw/Goatman" },
+    "us": { "name": "Goatman", "url": "https://poedb.tw/us/Goatman" }
+  },
+  "Elder-Blessed_Goatman": {
+    "tw": {
+      "name": "尊師寵召的堅蹄羊人",
+      "url": "https://poedb.tw/tw/Elder-Blessed_Goatman"
+    },
+    "us": {
+      "name": "Elder-Blessed Goatman",
+      "url": "https://poedb.tw/us/Elder-Blessed_Goatman"
+    }
+  },
+  "Goatman_Stomper": {
+    "tw": { "name": "重踏羊人", "url": "https://poedb.tw/tw/Goatman_Stomper" },
+    "us": {
+      "name": "Goatman Stomper",
+      "url": "https://poedb.tw/us/Goatman_Stomper"
+    }
+  },
+  "Bearded_Devil": {
+    "tw": { "name": "長鬚羊人", "url": "https://poedb.tw/tw/Bearded_Devil" },
+    "us": {
+      "name": "Bearded Devil",
+      "url": "https://poedb.tw/us/Bearded_Devil"
+    }
+  },
+  "Alpine_Devil": {
+    "tw": { "name": "高峰羊人", "url": "https://poedb.tw/tw/Alpine_Devil" },
+    "us": { "name": "Alpine Devil", "url": "https://poedb.tw/us/Alpine_Devil" }
+  },
+  "Goatman_Shaman": {
+    "tw": {
+      "name": "堅蹄羊人術師",
+      "url": "https://poedb.tw/tw/Goatman_Shaman"
+    },
+    "us": {
+      "name": "Goatman Shaman",
+      "url": "https://poedb.tw/us/Goatman_Shaman"
+    }
+  },
+  "Goatman_Fire-raiser": {
+    "tw": {
+      "name": "堅蹄羊人咒炎者",
+      "url": "https://poedb.tw/tw/Goatman_Fire-raiser"
+    },
+    "us": {
+      "name": "Goatman Fire-raiser",
+      "url": "https://poedb.tw/us/Goatman_Fire-raiser"
+    }
+  },
+  "Bearded_Shaman": {
+    "tw": { "name": "長鬚咒靈", "url": "https://poedb.tw/tw/Bearded_Shaman" },
+    "us": {
+      "name": "Bearded Shaman",
+      "url": "https://poedb.tw/us/Bearded_Shaman"
+    }
+  },
+  "Bearded_Skycaller": {
+    "tw": {
+      "name": "堅蹄羊人喚空者",
+      "url": "https://poedb.tw/tw/Bearded_Skycaller"
+    },
+    "us": {
+      "name": "Bearded Skycaller",
+      "url": "https://poedb.tw/us/Bearded_Skycaller"
+    }
+  },
+  "Alpine_Shaman": {
+    "tw": { "name": "高峰術士", "url": "https://poedb.tw/tw/Alpine_Shaman" },
+    "us": {
+      "name": "Alpine Shaman",
+      "url": "https://poedb.tw/us/Alpine_Shaman"
+    }
+  },
+  "Hill_Devil": {
+    "tw": { "name": "山丘魔人", "url": "https://poedb.tw/tw/Hill_Devil" },
+    "us": { "name": "Hill Devil", "url": "https://poedb.tw/us/Hill_Devil" }
+  },
+  "Colossus_Crusher": {
+    "tw": {
+      "name": "巨像破壞者",
+      "url": "https://poedb.tw/tw/Colossus_Crusher"
+    },
+    "us": {
+      "name": "Colossus Crusher",
+      "url": "https://poedb.tw/us/Colossus_Crusher"
+    }
+  },
+  "Arctic_Wolf": {
+    "tw": { "name": "極地狼", "url": "https://poedb.tw/tw/Arctic_Wolf" },
+    "us": { "name": "Arctic Wolf", "url": "https://poedb.tw/us/Arctic_Wolf" }
+  },
+  "Snow_Wolf": {
+    "tw": { "name": "白雪狼", "url": "https://poedb.tw/tw/Snow_Wolf" },
+    "us": { "name": "Snow Wolf", "url": "https://poedb.tw/us/Snow_Wolf" }
+  },
+  "Freezing_Wolf": {
+    "tw": { "name": "凍冰狼", "url": "https://poedb.tw/tw/Freezing_Wolf" },
+    "us": {
+      "name": "Freezing Wolf",
+      "url": "https://poedb.tw/us/Freezing_Wolf"
+    }
+  },
+  "Dire_Wolf": {
+    "tw": { "name": "恐懼之狼", "url": "https://poedb.tw/tw/Dire_Wolf" },
+    "us": { "name": "Dire Wolf", "url": "https://poedb.tw/us/Dire_Wolf" }
+  },
+  "Elder-Blessed_Hellion": {
+    "tw": {
+      "name": "尊師寵召的地獄犬",
+      "url": "https://poedb.tw/tw/Elder-Blessed_Hellion"
+    },
+    "us": {
+      "name": "Elder-Blessed Hellion",
+      "url": "https://poedb.tw/us/Elder-Blessed_Hellion"
+    }
+  },
+  "Flame_Hellion": {
+    "tw": { "name": "烈炎地獄犬", "url": "https://poedb.tw/tw/Flame_Hellion" },
+    "us": {
+      "name": "Flame Hellion",
+      "url": "https://poedb.tw/us/Flame_Hellion"
+    }
+  },
+  "Dune_Hellion": {
+    "tw": { "name": "沙丘地獄犬", "url": "https://poedb.tw/tw/Dune_Hellion" },
+    "us": { "name": "Dune Hellion", "url": "https://poedb.tw/us/Dune_Hellion" }
+  },
+  "Ruins_Hellion": {
+    "tw": { "name": "毀滅地獄犬", "url": "https://poedb.tw/tw/Ruins_Hellion" },
+    "us": {
+      "name": "Ruins Hellion",
+      "url": "https://poedb.tw/us/Ruins_Hellion"
+    }
+  },
+  "Mountain_Hellion": {
+    "tw": {
+      "name": "深山地獄犬",
+      "url": "https://poedb.tw/tw/Mountain_Hellion"
+    },
+    "us": {
+      "name": "Mountain Hellion",
+      "url": "https://poedb.tw/us/Mountain_Hellion"
+    }
+  },
+  "Mountain_Hellion_Alpha": {
+    "tw": {
+      "name": "深山地獄犬幻獸",
+      "url": "https://poedb.tw/tw/Mountain_Hellion_Alpha"
+    },
+    "us": {
+      "name": "Mountain Hellion Alpha",
+      "url": "https://poedb.tw/us/Mountain_Hellion_Alpha"
+    }
+  },
+  "Enslaved_Hellion": {
+    "tw": {
+      "name": "奴役地獄犬",
+      "url": "https://poedb.tw/tw/Enslaved_Hellion"
+    },
+    "us": {
+      "name": "Enslaved Hellion",
+      "url": "https://poedb.tw/us/Enslaved_Hellion"
+    }
+  },
+  "Shackled_Hellion": {
+    "tw": {
+      "name": "鉤鏈地獄犬",
+      "url": "https://poedb.tw/tw/Shackled_Hellion"
+    },
+    "us": {
+      "name": "Shackled Hellion",
+      "url": "https://poedb.tw/us/Shackled_Hellion"
+    }
+  },
+  "Blood_Ape": {
+    "tw": { "name": "血面狂猿", "url": "https://poedb.tw/tw/Blood_Ape" },
+    "us": { "name": "Blood Ape", "url": "https://poedb.tw/us/Blood_Ape" }
+  },
+  "Dread_Primate": {
+    "tw": { "name": "恐懼狂猿", "url": "https://poedb.tw/tw/Dread_Primate" },
+    "us": {
+      "name": "Dread Primate",
+      "url": "https://poedb.tw/us/Dread_Primate"
+    }
+  },
+  "Stygian_Ape": {
+    "tw": { "name": "冥渡狂猿", "url": "https://poedb.tw/tw/Stygian_Ape" },
+    "us": { "name": "Stygian Ape", "url": "https://poedb.tw/us/Stygian_Ape" }
+  },
+  "Infested_Ape": {
+    "tw": { "name": "侵略魔猿", "url": "https://poedb.tw/tw/Infested_Ape" },
+    "us": { "name": "Infested Ape", "url": "https://poedb.tw/us/Infested_Ape" }
+  },
+  "Blood_Chieftain": {
+    "tw": { "name": "血面酋長", "url": "https://poedb.tw/tw/Blood_Chieftain" },
+    "us": {
+      "name": "Blood Chieftain",
+      "url": "https://poedb.tw/us/Blood_Chieftain"
+    }
+  },
+  "Carnage_Chieftain": {
+    "tw": {
+      "name": "殺戮酋長",
+      "url": "https://poedb.tw/tw/Carnage_Chieftain"
+    },
+    "us": {
+      "name": "Carnage Chieftain",
+      "url": "https://poedb.tw/us/Carnage_Chieftain"
+    }
+  },
+  "Stygian_Silverback": {
+    "tw": {
+      "name": "冥界銀背獸",
+      "url": "https://poedb.tw/tw/Stygian_Silverback"
+    },
+    "us": {
+      "name": "Stygian Silverback",
+      "url": "https://poedb.tw/us/Stygian_Silverback"
+    }
+  },
+  "Host_Chieftain": {
+    "tw": { "name": "寄生獸", "url": "https://poedb.tw/tw/Host_Chieftain" },
+    "us": {
+      "name": "Host Chieftain",
+      "url": "https://poedb.tw/us/Host_Chieftain"
+    }
+  },
+  "Carnage_Ape": {
+    "tw": { "name": "殺戮狂猿", "url": "https://poedb.tw/tw/Carnage_Ape" },
+    "us": { "name": "Carnage Ape", "url": "https://poedb.tw/us/Carnage_Ape" }
+  },
+  "Barrow_Ape": {
+    "tw": { "name": "遺塚狂猿", "url": "https://poedb.tw/tw/Barrow_Ape" },
+    "us": { "name": "Barrow Ape", "url": "https://poedb.tw/us/Barrow_Ape" }
+  },
+  "Rhoa_Mare": {
+    "tw": { "name": "雌性恐喙鳥", "url": "https://poedb.tw/tw/Rhoa_Mare" },
+    "us": { "name": "Rhoa Mare", "url": "https://poedb.tw/us/Rhoa_Mare" }
+  },
+  "Elder-Blessed_Rhoa": {
+    "tw": {
+      "name": "尊師寵召的恐喙鳥",
+      "url": "https://poedb.tw/tw/Elder-Blessed_Rhoa"
+    },
+    "us": {
+      "name": "Elder-Blessed Rhoa",
+      "url": "https://poedb.tw/us/Elder-Blessed_Rhoa"
+    }
+  },
+  "Albino_Rhoa": {
+    "tw": { "name": "白毛恐喙", "url": "https://poedb.tw/tw/Albino_Rhoa" },
+    "us": { "name": "Albino Rhoa", "url": "https://poedb.tw/us/Albino_Rhoa" }
+  },
+  "Tercel_Rhoa": {
+    "tw": { "name": "雄性恐喙鳥", "url": "https://poedb.tw/tw/Tercel_Rhoa" },
+    "us": { "name": "Tercel Rhoa", "url": "https://poedb.tw/us/Tercel_Rhoa" }
+  },
+  "Murk_Runner": {
+    "tw": { "name": "陰暗恐喙鳥", "url": "https://poedb.tw/tw/Murk_Runner" },
+    "us": { "name": "Murk Runner", "url": "https://poedb.tw/us/Murk_Runner" }
+  },
+  "Bone_Rhoa": {
+    "tw": { "name": "枯骨恐喙鳥", "url": "https://poedb.tw/tw/Bone_Rhoa" },
+    "us": { "name": "Bone Rhoa", "url": "https://poedb.tw/us/Bone_Rhoa" }
+  },
+  "Corrupted_Rhoa": {
+    "tw": {
+      "name": "腐化的恐喙鳥",
+      "url": "https://poedb.tw/tw/Corrupted_Rhoa"
+    },
+    "us": {
+      "name": "Corrupted Rhoa",
+      "url": "https://poedb.tw/us/Corrupted_Rhoa"
+    }
+  },
+  "Bone_Scavenger": {
+    "tw": { "name": "食腐骨喙", "url": "https://poedb.tw/tw/Bone_Scavenger" },
+    "us": {
+      "name": "Bone Scavenger",
+      "url": "https://poedb.tw/us/Bone_Scavenger"
+    }
+  },
+  "Zombie_Rhoa": {
+    "tw": { "name": "腐敗恐喙", "url": "https://poedb.tw/tw/Zombie_Rhoa" },
+    "us": { "name": "Zombie Rhoa", "url": "https://poedb.tw/us/Zombie_Rhoa" }
+  },
+  "Infested_Rhoa": {
+    "tw": { "name": "病態恐喙鳥", "url": "https://poedb.tw/tw/Infested_Rhoa" },
+    "us": {
+      "name": "Infested Rhoa",
+      "url": "https://poedb.tw/us/Infested_Rhoa"
+    }
+  },
+  "Gravel_Eater": {
+    "tw": { "name": "食礫爪蟹", "url": "https://poedb.tw/tw/Gravel_Eater" },
+    "us": { "name": "Gravel Eater", "url": "https://poedb.tw/us/Gravel_Eater" }
+  },
+  "Scrabbling_Spitter": {
+    "tw": {
+      "name": "疾行吐沙蟹",
+      "url": "https://poedb.tw/tw/Scrabbling_Spitter"
+    },
+    "us": {
+      "name": "Scrabbling Spitter",
+      "url": "https://poedb.tw/us/Scrabbling_Spitter"
+    }
+  },
+  "Granite_Eater": {
+    "tw": { "name": "食岩爪蟹", "url": "https://poedb.tw/tw/Granite_Eater" },
+    "us": {
+      "name": "Granite Eater",
+      "url": "https://poedb.tw/us/Granite_Eater"
+    }
+  },
+  "Rock_Spitter": {
+    "tw": { "name": "噴石爪蟹", "url": "https://poedb.tw/tw/Rock_Spitter" },
+    "us": { "name": "Rock Spitter", "url": "https://poedb.tw/us/Rock_Spitter" }
+  },
+  "Crustacean_Sniper": {
+    "tw": {
+      "name": "狙影沙蟹",
+      "url": "https://poedb.tw/tw/Crustacean_Sniper"
+    },
+    "us": {
+      "name": "Crustacean Sniper",
+      "url": "https://poedb.tw/us/Crustacean_Sniper"
+    }
+  },
+  "Crustacean_Pelter": {
+    "tw": {
+      "name": "迅擲沙蟹",
+      "url": "https://poedb.tw/tw/Crustacean_Pelter"
+    },
+    "us": {
+      "name": "Crustacean Pelter",
+      "url": "https://poedb.tw/us/Crustacean_Pelter"
+    }
+  },
+  "Infested_Sniper": {
+    "tw": { "name": "病態沙蟹", "url": "https://poedb.tw/tw/Infested_Sniper" },
+    "us": {
+      "name": "Infested Sniper",
+      "url": "https://poedb.tw/us/Infested_Sniper"
+    }
+  },
+  "Obsidian_Eater": {
+    "tw": { "name": "黑曜沙蟹", "url": "https://poedb.tw/tw/Obsidian_Eater" },
+    "us": {
+      "name": "Obsidian Eater",
+      "url": "https://poedb.tw/us/Obsidian_Eater"
+    }
+  },
+  "Merveils_Favoured": {
+    "tw": {
+      "name": "莫薇兒的幼女",
+      "url": "https://poedb.tw/tw/Merveils_Favoured"
+    },
+    "us": {
+      "name": "Merveil's Favoured",
+      "url": "https://poedb.tw/us/Merveils_Favoured"
+    }
+  },
+  "Merveils_Daughter": {
+    "tw": {
+      "name": "海妖之女",
+      "url": "https://poedb.tw/tw/Merveils_Daughter"
+    },
+    "us": {
+      "name": "Merveil's Daughter",
+      "url": "https://poedb.tw/us/Merveils_Daughter"
+    }
+  },
+  "Merveils_Attendant": {
+    "tw": {
+      "name": "莫薇兒的侍女",
+      "url": "https://poedb.tw/tw/Merveils_Attendant"
+    },
+    "us": {
+      "name": "Merveil's Attendant",
+      "url": "https://poedb.tw/us/Merveils_Attendant"
+    }
+  },
+  "Merveils_Chosen": {
+    "tw": { "name": "海妖愛女", "url": "https://poedb.tw/tw/Merveils_Chosen" },
+    "us": {
+      "name": "Merveil's Chosen",
+      "url": "https://poedb.tw/us/Merveils_Chosen"
+    }
+  },
+  "Merveils_Retainer": {
+    "tw": {
+      "name": "海妖之僕",
+      "url": "https://poedb.tw/tw/Merveils_Retainer"
+    },
+    "us": {
+      "name": "Merveil's Retainer",
+      "url": "https://poedb.tw/us/Merveils_Retainer"
+    }
+  },
+  "Singing_Siren": {
+    "tw": { "name": "冥曲海妖", "url": "https://poedb.tw/tw/Singing_Siren" },
+    "us": {
+      "name": "Singing Siren",
+      "url": "https://poedb.tw/us/Singing_Siren"
+    }
+  },
+  "Merveils_Blessed": {
+    "tw": {
+      "name": "莫薇兒的寵愛",
+      "url": "https://poedb.tw/tw/Merveils_Blessed"
+    },
+    "us": {
+      "name": "Merveil's Blessed",
+      "url": "https://poedb.tw/us/Merveils_Blessed"
+    }
+  },
+  "Scrabbling_Menace": {
+    "tw": {
+      "name": "利爪沙蟹",
+      "url": "https://poedb.tw/tw/Scrabbling_Menace"
+    },
+    "us": {
+      "name": "Scrabbling Menace",
+      "url": "https://poedb.tw/us/Scrabbling_Menace"
+    }
+  },
+  "Cave_Crustacean": {
+    "tw": { "name": "洞穴甲蟹", "url": "https://poedb.tw/tw/Cave_Crustacean" },
+    "us": {
+      "name": "Cave Crustacean",
+      "url": "https://poedb.tw/us/Cave_Crustacean"
+    }
+  },
+  "Invading_Crustacean": {
+    "tw": {
+      "name": "侵略甲蟹",
+      "url": "https://poedb.tw/tw/Invading_Crustacean"
+    },
+    "us": {
+      "name": "Invading Crustacean",
+      "url": "https://poedb.tw/us/Invading_Crustacean"
+    }
+  },
+  "Infested_Crustacean": {
+    "tw": {
+      "name": "病態甲蟹",
+      "url": "https://poedb.tw/tw/Infested_Crustacean"
+    },
+    "us": {
+      "name": "Infested Crustacean",
+      "url": "https://poedb.tw/us/Infested_Crustacean"
+    }
+  },
+  "Deep_Crustacean": {
+    "tw": { "name": "深潭甲蟹", "url": "https://poedb.tw/tw/Deep_Crustacean" },
+    "us": {
+      "name": "Deep Crustacean",
+      "url": "https://poedb.tw/us/Deep_Crustacean"
+    }
+  },
+  "Shield_Crab": {
+    "tw": { "name": "重盾巨蟹", "url": "https://poedb.tw/tw/Shield_Crab" },
+    "us": { "name": "Shield Crab", "url": "https://poedb.tw/us/Shield_Crab" }
+  },
+  "Bleached_Crustacean": {
+    "tw": {
+      "name": "白漆甲蟹",
+      "url": "https://poedb.tw/tw/Bleached_Crustacean"
+    },
+    "us": {
+      "name": "Bleached Crustacean",
+      "url": "https://poedb.tw/us/Bleached_Crustacean"
+    }
+  },
+  "Night_Adder": {
+    "tw": { "name": "夜色毒蛇", "url": "https://poedb.tw/tw/Night_Adder" },
+    "us": { "name": "Night Adder", "url": "https://poedb.tw/us/Night_Adder" }
+  },
+  "Host_Adder": {
+    "tw": { "name": "寄生蟒蛇", "url": "https://poedb.tw/tw/Host_Adder" },
+    "us": { "name": "Host Adder", "url": "https://poedb.tw/us/Host_Adder" }
+  },
+  "Bramble_Cobra": {
+    "tw": { "name": "叢林眼鏡蛇", "url": "https://poedb.tw/tw/Bramble_Cobra" },
+    "us": {
+      "name": "Bramble Cobra",
+      "url": "https://poedb.tw/us/Bramble_Cobra"
+    }
+  },
+  "Elder-Blessed_Cobra": {
+    "tw": {
+      "name": "尊師寵召的眼鏡蛇",
+      "url": "https://poedb.tw/tw/Elder-Blessed_Cobra"
+    },
+    "us": {
+      "name": "Elder-Blessed Cobra",
+      "url": "https://poedb.tw/us/Elder-Blessed_Cobra"
+    }
+  },
+  "Host_Cobra": {
+    "tw": { "name": "寄生眼鏡蛇", "url": "https://poedb.tw/tw/Host_Cobra" },
+    "us": { "name": "Host Cobra", "url": "https://poedb.tw/us/Host_Cobra" }
+  },
+  "Acid_Slitherer": {
+    "tw": { "name": "毒素滑行者", "url": "https://poedb.tw/tw/Acid_Slitherer" },
+    "us": {
+      "name": "Acid Slitherer",
+      "url": "https://poedb.tw/us/Acid_Slitherer"
+    }
+  },
+  "Glade_Mamba": {
+    "tw": { "name": "原野毒吻", "url": "https://poedb.tw/tw/Glade_Mamba" },
+    "us": { "name": "Glade Mamba", "url": "https://poedb.tw/us/Glade_Mamba" }
+  },
+  "Cursed_Spawn": {
+    "tw": { "name": "詛咒海蟲", "url": "https://poedb.tw/tw/Cursed_Spawn" },
+    "us": { "name": "Cursed Spawn", "url": "https://poedb.tw/us/Cursed_Spawn" }
+  },
+  "Fathom_Screamer": {
+    "tw": {
+      "name": "絕域尖嘯者",
+      "url": "https://poedb.tw/tw/Fathom_Screamer"
+    },
+    "us": {
+      "name": "Fathom Screamer",
+      "url": "https://poedb.tw/us/Fathom_Screamer"
+    }
+  },
+  "Sirens_Spawn": {
+    "tw": { "name": "海妖幼體", "url": "https://poedb.tw/tw/Sirens_Spawn" },
+    "us": { "name": "Siren's Spawn", "url": "https://poedb.tw/us/Sirens_Spawn" }
+  },
+  "Slimy_Bloodsucker": {
+    "tw": {
+      "name": "洞窟吸血怪",
+      "url": "https://poedb.tw/tw/Slimy_Bloodsucker"
+    },
+    "us": {
+      "name": "Slimy Bloodsucker",
+      "url": "https://poedb.tw/us/Slimy_Bloodsucker"
+    }
+  },
+  "Unstable_Larva": {
+    "tw": { "name": "邪口之炎", "url": "https://poedb.tw/tw/Unstable_Larva" },
+    "us": {
+      "name": "Unstable Larva",
+      "url": "https://poedb.tw/us/Unstable_Larva"
+    }
+  },
+  "Slimy_Nemesis": {
+    "tw": { "name": "洞窟海蟲", "url": "https://poedb.tw/tw/Slimy_Nemesis" },
+    "us": {
+      "name": "Slimy Nemesis",
+      "url": "https://poedb.tw/us/Slimy_Nemesis"
+    }
+  },
+  "Venomous_Spawn": {
+    "tw": { "name": "劇毒海蟲", "url": "https://poedb.tw/tw/Venomous_Spawn" },
+    "us": {
+      "name": "Venomous Spawn",
+      "url": "https://poedb.tw/us/Venomous_Spawn"
+    }
+  },
+  "Lurking_Venom": {
+    "tw": { "name": "伏擊毒蛛", "url": "https://poedb.tw/tw/Lurking_Venom" },
+    "us": {
+      "name": "Lurking Venom",
+      "url": "https://poedb.tw/us/Lurking_Venom"
+    }
+  },
+  "Vaal_Recluse": {
+    "tw": { "name": "瓦爾遺靈", "url": "https://poedb.tw/tw/Vaal_Recluse" },
+    "us": { "name": "Vaal Recluse", "url": "https://poedb.tw/us/Vaal_Recluse" }
+  },
+  "Noxious_Tarantula": {
+    "tw": {
+      "name": "劇毒毛蛛",
+      "url": "https://poedb.tw/tw/Noxious_Tarantula"
+    },
+    "us": {
+      "name": "Noxious Tarantula",
+      "url": "https://poedb.tw/us/Noxious_Tarantula"
+    }
+  },
+  "Deadly_Tarantula": {
+    "tw": { "name": "致命毛蛛", "url": "https://poedb.tw/tw/Deadly_Tarantula" },
+    "us": {
+      "name": "Deadly Tarantula",
+      "url": "https://poedb.tw/us/Deadly_Tarantula"
+    }
+  },
+  "Leaping_Spider": {
+    "tw": { "name": "躍影巨蛛", "url": "https://poedb.tw/tw/Leaping_Spider" },
+    "us": {
+      "name": "Leaping Spider",
+      "url": "https://poedb.tw/us/Leaping_Spider"
+    }
+  },
+  "Arakaalis_Daughter": {
+    "tw": {
+      "name": "艾爾卡莉之女",
+      "url": "https://poedb.tw/tw/Arakaalis_Daughter"
+    },
+    "us": {
+      "name": "Arakaali's Daughter",
+      "url": "https://poedb.tw/us/Arakaalis_Daughter"
+    }
+  },
+  "Webbed_Spider": {
+    "tw": { "name": "網床之母", "url": "https://poedb.tw/tw/Webbed_Spider" },
+    "us": {
+      "name": "Webbed Spider",
+      "url": "https://poedb.tw/us/Webbed_Spider"
+    }
+  },
+  "Virulent_Spider": {
+    "tw": { "name": "毒牙巨蛛", "url": "https://poedb.tw/tw/Virulent_Spider" },
+    "us": {
+      "name": "Virulent Spider",
+      "url": "https://poedb.tw/us/Virulent_Spider"
+    }
+  },
+  "Ink_Spinner": {
+    "tw": { "name": "噴墨巨蛛", "url": "https://poedb.tw/tw/Ink_Spinner" },
+    "us": { "name": "Ink Spinner", "url": "https://poedb.tw/us/Ink_Spinner" }
+  },
+  "Corrupted_Arach": {
+    "tw": { "name": "墮魂巨蛛", "url": "https://poedb.tw/tw/Corrupted_Arach" },
+    "us": {
+      "name": "Corrupted Arach",
+      "url": "https://poedb.tw/us/Corrupted_Arach"
+    }
+  },
+  "Crypt_Weaver": {
+    "tw": { "name": "深穴巨蛛", "url": "https://poedb.tw/tw/Crypt_Weaver" },
+    "us": { "name": "Crypt Weaver", "url": "https://poedb.tw/us/Crypt_Weaver" }
+  },
+  "Mutant_Arach": {
+    "tw": { "name": "異變魔蛛", "url": "https://poedb.tw/tw/Mutant_Arach" },
+    "us": { "name": "Mutant Arach", "url": "https://poedb.tw/us/Mutant_Arach" }
+  },
+  "Crypt_Ambusher": {
+    "tw": { "name": "地穴潛伏者", "url": "https://poedb.tw/tw/Crypt_Ambusher" },
+    "us": {
+      "name": "Crypt Ambusher",
+      "url": "https://poedb.tw/us/Crypt_Ambusher"
+    }
+  },
+  "Corrupted_Spitter": {
+    "tw": {
+      "name": "腐化魔蛛",
+      "url": "https://poedb.tw/tw/Corrupted_Spitter"
+    },
+    "us": {
+      "name": "Corrupted Spitter",
+      "url": "https://poedb.tw/us/Corrupted_Spitter"
+    }
+  },
+  "Cave_Skitterer": {
+    "tw": { "name": "洞穴沙蛛", "url": "https://poedb.tw/tw/Cave_Skitterer" },
+    "us": {
+      "name": "Cave Skitterer",
+      "url": "https://poedb.tw/us/Cave_Skitterer"
+    }
+  },
+  "Spindle_Spider": {
+    "tw": { "name": "長足巨蛛", "url": "https://poedb.tw/tw/Spindle_Spider" },
+    "us": {
+      "name": "Spindle Spider",
+      "url": "https://poedb.tw/us/Spindle_Spider"
+    }
+  },
+  "Hatchling": {
+    "tw": { "name": "幼蛛", "url": "https://poedb.tw/tw/Hatchling" },
+    "us": { "name": "Hatchling", "url": "https://poedb.tw/us/Hatchling" }
+  },
+  "Brooding_Tarantula": {
+    "tw": {
+      "name": "毛蛛之母",
+      "url": "https://poedb.tw/tw/Brooding_Tarantula"
+    },
+    "us": {
+      "name": "Brooding Tarantula",
+      "url": "https://poedb.tw/us/Brooding_Tarantula"
+    }
+  },
+  "Buried_Tarantula": {
+    "tw": { "name": "毛蛛之葬", "url": "https://poedb.tw/tw/Buried_Tarantula" },
+    "us": {
+      "name": "Buried Tarantula",
+      "url": "https://poedb.tw/us/Buried_Tarantula"
+    }
+  },
+  "Maligaros_Inspiration": {
+    "tw": {
+      "name": "馬雷葛蘿的啟發",
+      "url": "https://poedb.tw/tw/Maligaros_Inspiration"
+    },
+    "us": {
+      "name": "Maligaro's Inspiration",
+      "url": "https://poedb.tw/us/Maligaros_Inspiration"
+    }
+  },
+  "Enraptured_Arachnid": {
+    "tw": {
+      "name": "狂怒猛蛛",
+      "url": "https://poedb.tw/tw/Enraptured_Arachnid"
+    },
+    "us": {
+      "name": "Enraptured Arachnid",
+      "url": "https://poedb.tw/us/Enraptured_Arachnid"
+    }
+  },
+  "Fetid_Maw": {
+    "tw": { "name": "惡臭裂齒獸", "url": "https://poedb.tw/tw/Fetid_Maw" },
+    "us": { "name": "Fetid Maw", "url": "https://poedb.tw/us/Fetid_Maw" }
+  },
+  "Filth_Maw": {
+    "tw": { "name": "污穢裂齒獸", "url": "https://poedb.tw/tw/Filth_Maw" },
+    "us": { "name": "Filth Maw", "url": "https://poedb.tw/us/Filth_Maw" }
+  },
+  "Infested_Maw": {
+    "tw": { "name": "病態裂齒獸", "url": "https://poedb.tw/tw/Infested_Maw" },
+    "us": { "name": "Infested Maw", "url": "https://poedb.tw/us/Infested_Maw" }
+  },
+  "Plumed_Chimeral": {
+    "tw": { "name": "彩羽龍蜥", "url": "https://poedb.tw/tw/Plumed_Chimeral" },
+    "us": {
+      "name": "Plumed Chimeral",
+      "url": "https://poedb.tw/us/Plumed_Chimeral"
+    }
+  },
+  "Feral_Chimeral": {
+    "tw": { "name": "狂野龍蜥", "url": "https://poedb.tw/tw/Feral_Chimeral" },
+    "us": {
+      "name": "Feral Chimeral",
+      "url": "https://poedb.tw/us/Feral_Chimeral"
+    }
+  },
+  "Chrome-touched_Chimeral": {
+    "tw": {
+      "name": "觸鉻龍蜥",
+      "url": "https://poedb.tw/tw/Chrome-touched_Chimeral"
+    },
+    "us": {
+      "name": "Chrome-touched Chimeral",
+      "url": "https://poedb.tw/us/Chrome-touched_Chimeral"
+    }
+  },
+  "Chrome-infused_Chimeral": {
+    "tw": {
+      "name": "注鉻龍蜥",
+      "url": "https://poedb.tw/tw/Chrome-infused_Chimeral"
+    },
+    "us": {
+      "name": "Chrome-infused Chimeral",
+      "url": "https://poedb.tw/us/Chrome-infused_Chimeral"
+    }
+  },
+  "Chimeric_Croaker": {
+    "tw": { "name": "幻想冥蛙", "url": "https://poedb.tw/tw/Chimeric_Croaker" },
+    "us": {
+      "name": "Chimeric Croaker",
+      "url": "https://poedb.tw/us/Chimeric_Croaker"
+    }
+  },
+  "Vaulting_Croaker": {
+    "tw": { "name": "寶庫財蛙", "url": "https://poedb.tw/tw/Vaulting_Croaker" },
+    "us": {
+      "name": "Vaulting Croaker",
+      "url": "https://poedb.tw/us/Vaulting_Croaker"
+    }
+  },
+  "Chrome-touched_Croaker": {
+    "tw": {
+      "name": "觸鉻蛙",
+      "url": "https://poedb.tw/tw/Chrome-touched_Croaker"
+    },
+    "us": {
+      "name": "Chrome-touched Croaker",
+      "url": "https://poedb.tw/us/Chrome-touched_Croaker"
+    }
+  },
+  "Chrome-infused_Croaker": {
+    "tw": {
+      "name": "注鉻蛙",
+      "url": "https://poedb.tw/tw/Chrome-infused_Croaker"
+    },
+    "us": {
+      "name": "Chrome-infused Croaker",
+      "url": "https://poedb.tw/us/Chrome-infused_Croaker"
+    }
+  },
+  "Carrion_Queen": {
+    "tw": { "name": "食腐蟲后", "url": "https://poedb.tw/tw/Carrion_Queen" },
+    "us": {
+      "name": "Carrion Queen",
+      "url": "https://poedb.tw/us/Carrion_Queen"
+    }
+  },
+  "Carrion_Minion": {
+    "tw": { "name": "食腐仔蟲", "url": "https://poedb.tw/tw/Carrion_Minion" },
+    "us": {
+      "name": "Carrion Minion",
+      "url": "https://poedb.tw/us/Carrion_Minion"
+    }
+  },
+  "Carrion_Swarmer": {
+    "tw": { "name": "食腐蟲", "url": "https://poedb.tw/tw/Carrion_Swarmer" },
+    "us": {
+      "name": "Carrion Swarmer",
+      "url": "https://poedb.tw/us/Carrion_Swarmer"
+    }
+  },
+  "Carrion_Burrower": {
+    "tw": {
+      "name": "食腐掘地蟲",
+      "url": "https://poedb.tw/tw/Carrion_Burrower"
+    },
+    "us": {
+      "name": "Carrion Burrower",
+      "url": "https://poedb.tw/us/Carrion_Burrower"
+    }
+  },
+  "Scum_Crawler": {
+    "tw": { "name": "汙泥食腐蟲", "url": "https://poedb.tw/tw/Scum_Crawler" },
+    "us": { "name": "Scum Crawler", "url": "https://poedb.tw/us/Scum_Crawler" }
+  },
+  "Avian_Retch": {
+    "tw": { "name": "叢林反芻鳥", "url": "https://poedb.tw/tw/Avian_Retch" },
+    "us": { "name": "Avian Retch", "url": "https://poedb.tw/us/Avian_Retch" }
+  },
+  "Elder-Blessed_Retch": {
+    "tw": {
+      "name": "尊師寵召的反芻鳥",
+      "url": "https://poedb.tw/tw/Elder-Blessed_Retch"
+    },
+    "us": {
+      "name": "Elder-Blessed Retch",
+      "url": "https://poedb.tw/us/Elder-Blessed_Retch"
+    }
+  },
+  "Gluttonous_Gull": {
+    "tw": {
+      "name": "狂食反芻鳥",
+      "url": "https://poedb.tw/tw/Gluttonous_Gull"
+    },
+    "us": {
+      "name": "Gluttonous Gull",
+      "url": "https://poedb.tw/us/Gluttonous_Gull"
+    }
+  },
+  "Sewage_Crawler": {
+    "tw": { "name": "汙穢食腐蟲", "url": "https://poedb.tw/tw/Sewage_Crawler" },
+    "us": {
+      "name": "Sewage Crawler",
+      "url": "https://poedb.tw/us/Sewage_Crawler"
+    }
+  },
+  "Toxic_Crawler": {
+    "tw": { "name": "劇毒食腐蟲", "url": "https://poedb.tw/tw/Toxic_Crawler" },
+    "us": {
+      "name": "Toxic Crawler",
+      "url": "https://poedb.tw/us/Toxic_Crawler"
+    }
+  },
+  "Spine_Serpent": {
+    "tw": { "name": "脊刺巨蛇", "url": "https://poedb.tw/tw/Spine_Serpent" },
+    "us": {
+      "name": "Spine Serpent",
+      "url": "https://poedb.tw/us/Spine_Serpent"
+    }
+  },
+  "Infested_Serpent": {
+    "tw": { "name": "感染巨蛇", "url": "https://poedb.tw/tw/Infested_Serpent" },
+    "us": {
+      "name": "Infested Serpent",
+      "url": "https://poedb.tw/us/Infested_Serpent"
+    }
+  },
+  "Barb_Serpent": {
+    "tw": { "name": "棘刺巨蛇", "url": "https://poedb.tw/tw/Barb_Serpent" },
+    "us": { "name": "Barb Serpent", "url": "https://poedb.tw/us/Barb_Serpent" }
+  },
+  "Sand_Serpent": {
+    "tw": { "name": "流沙巨蛇", "url": "https://poedb.tw/tw/Sand_Serpent" },
+    "us": { "name": "Sand Serpent", "url": "https://poedb.tw/us/Sand_Serpent" }
+  },
+  "Porcupine_Goliath": {
+    "tw": {
+      "name": "針背巨獸",
+      "url": "https://poedb.tw/tw/Porcupine_Goliath"
+    },
+    "us": {
+      "name": "Porcupine Goliath",
+      "url": "https://poedb.tw/us/Porcupine_Goliath"
+    }
+  },
+  "Chrome-touched_Goliath": {
+    "tw": {
+      "name": "觸鉻巨獸",
+      "url": "https://poedb.tw/tw/Chrome-touched_Goliath"
+    },
+    "us": {
+      "name": "Chrome-touched Goliath",
+      "url": "https://poedb.tw/us/Chrome-touched_Goliath"
+    }
+  },
+  "Chrome-infused_Goliath": {
+    "tw": {
+      "name": "注鉻巨獸",
+      "url": "https://poedb.tw/tw/Chrome-infused_Goliath"
+    },
+    "us": {
+      "name": "Chrome-infused Goliath",
+      "url": "https://poedb.tw/us/Chrome-infused_Goliath"
+    }
+  },
+  "Devourer": {
+    "tw": { "name": "吞噬獸", "url": "https://poedb.tw/tw/Devourer" },
+    "us": { "name": "Devourer", "url": "https://poedb.tw/us/Devourer" }
+  },
+  "Soulless_Watcher": {
+    "tw": { "name": "無靈之眼", "url": "https://poedb.tw/tw/Soulless_Watcher" },
+    "us": {
+      "name": "Soulless Watcher",
+      "url": "https://poedb.tw/us/Soulless_Watcher"
+    }
+  },
+  "Drifting_Eye": {
+    "tw": { "name": "不祥之眼", "url": "https://poedb.tw/tw/Drifting_Eye" },
+    "us": { "name": "Drifting Eye", "url": "https://poedb.tw/us/Drifting_Eye" }
+  },
+  "Cavern_Drifter": {
+    "tw": { "name": "穴洞漂泊者", "url": "https://poedb.tw/tw/Cavern_Drifter" },
+    "us": {
+      "name": "Cavern Drifter",
+      "url": "https://poedb.tw/us/Cavern_Drifter"
+    }
+  },
+  "Sewer_Drifter": {
+    "tw": {
+      "name": "下水道漂泊者",
+      "url": "https://poedb.tw/tw/Sewer_Drifter"
+    },
+    "us": {
+      "name": "Sewer Drifter",
+      "url": "https://poedb.tw/us/Sewer_Drifter"
+    }
+  },
+  "Plummeting_Ursa": {
+    "tw": { "name": "墮落之爪", "url": "https://poedb.tw/tw/Plummeting_Ursa" },
+    "us": {
+      "name": "Plummeting Ursa",
+      "url": "https://poedb.tw/us/Plummeting_Ursa"
+    }
+  },
+  "Tunnelfiend": {
+    "tw": { "name": "地穴惡靈", "url": "https://poedb.tw/tw/Tunnelfiend" },
+    "us": { "name": "Tunnelfiend", "url": "https://poedb.tw/us/Tunnelfiend" }
+  },
+  "Infested_Tunnelfiend": {
+    "tw": {
+      "name": "病態地穴惡靈",
+      "url": "https://poedb.tw/tw/Infested_Tunnelfiend"
+    },
+    "us": {
+      "name": "Infested Tunnelfiend",
+      "url": "https://poedb.tw/us/Infested_Tunnelfiend"
+    }
+  },
+  "Woods_Ursa": {
+    "tw": { "name": "綠蔭之爪", "url": "https://poedb.tw/tw/Woods_Ursa" },
+    "us": { "name": "Woods Ursa", "url": "https://poedb.tw/us/Woods_Ursa" }
+  },
+  "Infested_Ursa": {
+    "tw": { "name": "病態之爪", "url": "https://poedb.tw/tw/Infested_Ursa" },
+    "us": {
+      "name": "Infested Ursa",
+      "url": "https://poedb.tw/us/Infested_Ursa"
+    }
+  },
+  "Mindless_Scavenger": {
+    "tw": {
+      "name": "傀儡骨喙",
+      "url": "https://poedb.tw/tw/Mindless_Scavenger"
+    },
+    "us": {
+      "name": "Mindless Scavenger",
+      "url": "https://poedb.tw/us/Mindless_Scavenger"
+    }
+  },
+  "Scavenging_Vulture": {
+    "tw": {
+      "name": "殲滅禿鷹",
+      "url": "https://poedb.tw/tw/Scavenging_Vulture"
+    },
+    "us": {
+      "name": "Scavenging Vulture",
+      "url": "https://poedb.tw/us/Scavenging_Vulture"
+    }
+  },
+  "Rotting_Vulture": {
+    "tw": { "name": "腐敗禿鷹", "url": "https://poedb.tw/tw/Rotting_Vulture" },
+    "us": {
+      "name": "Rotting Vulture",
+      "url": "https://poedb.tw/us/Rotting_Vulture"
+    }
+  },
+  "Infested_Vulture": {
+    "tw": {
+      "name": "受汙染的禿鷹",
+      "url": "https://poedb.tw/tw/Infested_Vulture"
+    },
+    "us": {
+      "name": "Infested Vulture",
+      "url": "https://poedb.tw/us/Infested_Vulture"
+    }
+  },
+  "Dust_Scrabbler": {
+    "tw": { "name": "撥塵者", "url": "https://poedb.tw/tw/Dust_Scrabbler" },
+    "us": {
+      "name": "Dust Scrabbler",
+      "url": "https://poedb.tw/us/Dust_Scrabbler"
+    }
+  },
+  "Dirt_Scrabbler": {
+    "tw": { "name": "撥土者", "url": "https://poedb.tw/tw/Dirt_Scrabbler" },
+    "us": {
+      "name": "Dirt Scrabbler",
+      "url": "https://poedb.tw/us/Dirt_Scrabbler"
+    }
+  },
+  "Infested_Skitterer": {
+    "tw": {
+      "name": "感染掠蛛",
+      "url": "https://poedb.tw/tw/Infested_Skitterer"
+    },
+    "us": {
+      "name": "Infested Skitterer",
+      "url": "https://poedb.tw/us/Infested_Skitterer"
+    }
+  },
+  "Lowlands_Hopper": {
+    "tw": { "name": "窪地蚱蜢", "url": "https://poedb.tw/tw/Lowlands_Hopper" },
+    "us": {
+      "name": "Lowlands Hopper",
+      "url": "https://poedb.tw/us/Lowlands_Hopper"
+    }
+  },
+  "Sand_Skitterer": {
+    "tw": { "name": "沙地掠蛛", "url": "https://poedb.tw/tw/Sand_Skitterer" },
+    "us": {
+      "name": "Sand Skitterer",
+      "url": "https://poedb.tw/us/Sand_Skitterer"
+    }
+  },
+  "Sand_Leaper": {
+    "tw": { "name": "沙地突躍獸", "url": "https://poedb.tw/tw/Sand_Leaper" },
+    "us": { "name": "Sand Leaper", "url": "https://poedb.tw/us/Sand_Leaper" }
+  },
+  "Fury_Hound": {
+    "tw": { "name": "殘暴獵犬", "url": "https://poedb.tw/tw/Fury_Hound" },
+    "us": { "name": "Fury Hound", "url": "https://poedb.tw/us/Fury_Hound" }
+  },
+  "War_Hound": {
+    "tw": { "name": "爭戰獵犬", "url": "https://poedb.tw/tw/War_Hound" },
+    "us": { "name": "War Hound", "url": "https://poedb.tw/us/War_Hound" }
+  },
+  "Pitbull_Demon": {
+    "tw": { "name": "鬥牛犬魔", "url": "https://poedb.tw/tw/Pitbull_Demon" },
+    "us": {
+      "name": "Pitbull Demon",
+      "url": "https://poedb.tw/us/Pitbull_Demon"
+    }
+  },
+  "Vicious_Hound": {
+    "tw": { "name": "狠毒獵犬", "url": "https://poedb.tw/tw/Vicious_Hound" },
+    "us": {
+      "name": "Vicious Hound",
+      "url": "https://poedb.tw/us/Vicious_Hound"
+    }
+  },
+  "Rooster_Fiend": {
+    "tw": { "name": "邪靈公雞", "url": "https://poedb.tw/tw/Rooster_Fiend" },
+    "us": {
+      "name": "Rooster Fiend",
+      "url": "https://poedb.tw/us/Rooster_Fiend"
+    }
+  },
+  "Rooster_Demon": {
+    "tw": { "name": "惡魔公雞", "url": "https://poedb.tw/tw/Rooster_Demon" },
+    "us": {
+      "name": "Rooster Demon",
+      "url": "https://poedb.tw/us/Rooster_Demon"
+    }
+  },
+  "Talon_Archer": {
+    "tw": { "name": "射手之爪", "url": "https://poedb.tw/tw/Talon_Archer" },
+    "us": { "name": "Talon Archer", "url": "https://poedb.tw/us/Talon_Archer" }
+  },
+  "Feral_Fowl": {
+    "tw": { "name": "野雞", "url": "https://poedb.tw/tw/Feral_Fowl" },
+    "us": { "name": "Feral Fowl", "url": "https://poedb.tw/us/Feral_Fowl" }
+  },
+  "Fighting_Bull": {
+    "tw": { "name": "戰鬥公牛", "url": "https://poedb.tw/tw/Fighting_Bull" },
+    "us": {
+      "name": "Fighting Bull",
+      "url": "https://poedb.tw/us/Fighting_Bull"
+    }
+  },
+  "Avalanche_Rider": {
+    "tw": { "name": "崩雪騎士", "url": "https://poedb.tw/tw/Avalanche_Rider" },
+    "us": {
+      "name": "Avalanche Rider",
+      "url": "https://poedb.tw/us/Avalanche_Rider"
+    }
+  },
+  "Grazing_Taurus": {
+    "tw": { "name": "牧金牛人", "url": "https://poedb.tw/tw/Grazing_Taurus" },
+    "us": {
+      "name": "Grazing Taurus",
+      "url": "https://poedb.tw/us/Grazing_Taurus"
+    }
+  },
+  "Savage_Crab": {
+    "tw": { "name": "殘暴的蟹", "url": "https://poedb.tw/tw/Savage_Crab" },
+    "us": { "name": "Savage Crab", "url": "https://poedb.tw/us/Savage_Crab" }
+  },
+  "Infested_Crawler": {
+    "tw": {
+      "name": "病態食腐蟲",
+      "url": "https://poedb.tw/tw/Infested_Crawler"
+    },
+    "us": {
+      "name": "Infested Crawler",
+      "url": "https://poedb.tw/us/Infested_Crawler"
+    }
+  },
+  "Infested_Crab": {
+    "tw": { "name": "受感染的蟹", "url": "https://poedb.tw/tw/Infested_Crab" },
+    "us": {
+      "name": "Infested Crab",
+      "url": "https://poedb.tw/us/Infested_Crab"
+    }
+  },
+  "Enraptured_Crab": {
+    "tw": { "name": "迷幻的蟹", "url": "https://poedb.tw/tw/Enraptured_Crab" },
+    "us": {
+      "name": "Enraptured Crab",
+      "url": "https://poedb.tw/us/Enraptured_Crab"
+    }
+  },
+  "Bleached_Crawler": {
+    "tw": {
+      "name": "白漆蝕腐蟲",
+      "url": "https://poedb.tw/tw/Bleached_Crawler"
+    },
+    "us": {
+      "name": "Bleached Crawler",
+      "url": "https://poedb.tw/us/Bleached_Crawler"
+    }
+  },
+  "Spider_Crab": {
+    "tw": { "name": "蛛蛛蟹", "url": "https://poedb.tw/tw/Spider_Crab" },
+    "us": { "name": "Spider Crab", "url": "https://poedb.tw/us/Spider_Crab" }
+  },
+  "Parasite": {
+    "tw": { "name": "寄生蟲", "url": "https://poedb.tw/tw/Parasite" },
+    "us": { "name": "Parasite", "url": "https://poedb.tw/us/Parasite" }
+  },
+  "Ravenous_Parasite": {
+    "tw": {
+      "name": "饞癆寄生蟲",
+      "url": "https://poedb.tw/tw/Ravenous_Parasite"
+    },
+    "us": {
+      "name": "Ravenous Parasite",
+      "url": "https://poedb.tw/us/Ravenous_Parasite"
+    }
+  },
+  "Poisonous_Parasite": {
+    "tw": {
+      "name": "劇毒寄生蟲",
+      "url": "https://poedb.tw/tw/Poisonous_Parasite"
+    },
+    "us": {
+      "name": "Poisonous Parasite",
+      "url": "https://poedb.tw/us/Poisonous_Parasite"
+    }
+  },
+  "Plated_Parasite": {
+    "tw": {
+      "name": "武裝寄生蟲",
+      "url": "https://poedb.tw/tw/Plated_Parasite"
+    },
+    "us": {
+      "name": "Plated Parasite",
+      "url": "https://poedb.tw/us/Plated_Parasite"
+    }
+  },
+  "Spitting_Parasite": {
+    "tw": {
+      "name": "酸液寄生蟲",
+      "url": "https://poedb.tw/tw/Spitting_Parasite"
+    },
+    "us": {
+      "name": "Spitting Parasite",
+      "url": "https://poedb.tw/us/Spitting_Parasite"
+    }
+  },
+  "Vicious_Parasite": {
+    "tw": {
+      "name": "狠毒寄生蟲",
+      "url": "https://poedb.tw/tw/Vicious_Parasite"
+    },
+    "us": {
+      "name": "Vicious Parasite",
+      "url": "https://poedb.tw/us/Vicious_Parasite"
+    }
+  },
+  "Purge_Hound": {
+    "tw": { "name": "淨化獵犬", "url": "https://poedb.tw/tw/Purge_Hound" },
+    "us": { "name": "Purge Hound", "url": "https://poedb.tw/us/Purge_Hound" }
+  },
+  "Plagued_Arachnid": {
+    "tw": { "name": "疫病蜘蛛", "url": "https://poedb.tw/tw/Plagued_Arachnid" },
+    "us": {
+      "name": "Plagued Arachnid",
+      "url": "https://poedb.tw/us/Plagued_Arachnid"
+    }
+  },
+  "Diseased_Arachnid": {
+    "tw": {
+      "name": "染病蜘蛛",
+      "url": "https://poedb.tw/tw/Diseased_Arachnid"
+    },
+    "us": {
+      "name": "Diseased Arachnid",
+      "url": "https://poedb.tw/us/Diseased_Arachnid"
+    }
+  },
+  "Maligaros_Muse": {
+    "tw": {
+      "name": "馬雷葛蘿的冥想",
+      "url": "https://poedb.tw/tw/Maligaros_Muse"
+    },
+    "us": {
+      "name": "Maligaro's Muse",
+      "url": "https://poedb.tw/us/Maligaros_Muse"
+    }
+  },
+  "Hybrid_Arachnid": {
+    "tw": { "name": "混血蜘蛛", "url": "https://poedb.tw/tw/Hybrid_Arachnid" },
+    "us": {
+      "name": "Hybrid Arachnid",
+      "url": "https://poedb.tw/us/Hybrid_Arachnid"
+    }
+  },
+  "Scalding_Arachnid": {
+    "tw": {
+      "name": "熾熱蜘蛛",
+      "url": "https://poedb.tw/tw/Scalding_Arachnid"
+    },
+    "us": {
+      "name": "Scalding Arachnid",
+      "url": "https://poedb.tw/us/Scalding_Arachnid"
+    }
+  },
+  "Waste_Lurcher": {
+    "tw": { "name": "虐靈蝦獸", "url": "https://poedb.tw/tw/Waste_Lurcher" },
+    "us": {
+      "name": "Waste Lurcher",
+      "url": "https://poedb.tw/us/Waste_Lurcher"
+    }
+  },
+  "Sulphurspawn": {
+    "tw": { "name": "磺石爪牙", "url": "https://poedb.tw/tw/Sulphurspawn" },
+    "us": { "name": "Sulphurspawn", "url": "https://poedb.tw/us/Sulphurspawn" }
+  },
+  "Wild_Rhex": {
+    "tw": { "name": "野雛", "url": "https://poedb.tw/tw/Wild_Rhex" },
+    "us": { "name": "Wild Rhex", "url": "https://poedb.tw/us/Wild_Rhex" }
+  },
+  "Maternal_Rhex": {
+    "tw": { "name": "大腹雛鳥", "url": "https://poedb.tw/tw/Maternal_Rhex" },
+    "us": {
+      "name": "Maternal Rhex",
+      "url": "https://poedb.tw/us/Maternal_Rhex"
+    }
+  },
+  "Adolescent_Rhex": {
+    "tw": { "name": "成年雛鳥", "url": "https://poedb.tw/tw/Adolescent_Rhex" },
+    "us": {
+      "name": "Adolescent Rhex",
+      "url": "https://poedb.tw/us/Adolescent_Rhex"
+    }
+  },
+  "Escaped_Rhex": {
+    "tw": { "name": "竄逃雛鳥", "url": "https://poedb.tw/tw/Escaped_Rhex" },
+    "us": { "name": "Escaped Rhex", "url": "https://poedb.tw/us/Escaped_Rhex" }
+  },
+  "Black_Scorpion": {
+    "tw": { "name": "漆黑毒蠍", "url": "https://poedb.tw/tw/Black_Scorpion" },
+    "us": {
+      "name": "Black Scorpion",
+      "url": "https://poedb.tw/us/Black_Scorpion"
+    }
+  },
+  "Sulphuric_Scorpion": {
+    "tw": {
+      "name": "強酸毒蠍",
+      "url": "https://poedb.tw/tw/Sulphuric_Scorpion"
+    },
+    "us": {
+      "name": "Sulphuric Scorpion",
+      "url": "https://poedb.tw/us/Sulphuric_Scorpion"
+    }
+  },
+  "Sand_Scorpion": {
+    "tw": { "name": "沙地毒蠍", "url": "https://poedb.tw/tw/Sand_Scorpion" },
+    "us": {
+      "name": "Sand Scorpion",
+      "url": "https://poedb.tw/us/Sand_Scorpion"
+    }
+  },
+  "Predatory_Scorpion": {
+    "tw": {
+      "name": "肉食毒蠍",
+      "url": "https://poedb.tw/tw/Predatory_Scorpion"
+    },
+    "us": {
+      "name": "Predatory Scorpion",
+      "url": "https://poedb.tw/us/Predatory_Scorpion"
+    }
+  },
+  "Brine_Vassal": {
+    "tw": { "name": "海洋之奴", "url": "https://poedb.tw/tw/Brine_Vassal" },
+    "us": { "name": "Brine Vassal", "url": "https://poedb.tw/us/Brine_Vassal" }
+  },
+  "Swarthy_Mollusc": {
+    "tw": { "name": "黑黝軟獸", "url": "https://poedb.tw/tw/Swarthy_Mollusc" },
+    "us": {
+      "name": "Swarthy Mollusc",
+      "url": "https://poedb.tw/us/Swarthy_Mollusc"
+    }
+  },
+  "Mountain_Lynx": {
+    "tw": { "name": "山脊猞猁", "url": "https://poedb.tw/tw/Mountain_Lynx" },
+    "us": {
+      "name": "Mountain Lynx",
+      "url": "https://poedb.tw/us/Mountain_Lynx"
+    }
+  },
+  "Saqawine_Rhoa": {
+    "tw": {
+      "name": "斯卡沃恐喙鳥",
+      "url": "https://poedb.tw/tw/Saqawine_Rhoa"
+    },
+    "us": {
+      "name": "Saqawine Rhoa",
+      "url": "https://poedb.tw/us/Saqawine_Rhoa"
+    }
+  },
+  "Farric_Tiger_Alpha": {
+    "tw": {
+      "name": "費爾羅猛虎幻獸",
+      "url": "https://poedb.tw/tw/Farric_Tiger_Alpha"
+    },
+    "us": {
+      "name": "Farric Tiger Alpha",
+      "url": "https://poedb.tw/us/Farric_Tiger_Alpha"
+    }
+  },
+  "Farric_Flame_Hellion_Alpha": {
+    "tw": {
+      "name": "費爾羅烈焰犬幻獸",
+      "url": "https://poedb.tw/tw/Farric_Flame_Hellion_Alpha"
+    },
+    "us": {
+      "name": "Farric Flame Hellion Alpha",
+      "url": "https://poedb.tw/us/Farric_Flame_Hellion_Alpha"
+    }
+  },
+  "Farric_Frost_Hellion_Alpha": {
+    "tw": {
+      "name": "費爾羅冰霜犬幻獸",
+      "url": "https://poedb.tw/tw/Farric_Frost_Hellion_Alpha"
+    },
+    "us": {
+      "name": "Farric Frost Hellion Alpha",
+      "url": "https://poedb.tw/us/Farric_Frost_Hellion_Alpha"
+    }
+  },
+  "Farric_Lynx_Alpha": {
+    "tw": {
+      "name": "費爾羅山貓幻獸",
+      "url": "https://poedb.tw/tw/Farric_Lynx_Alpha"
+    },
+    "us": {
+      "name": "Farric Lynx Alpha",
+      "url": "https://poedb.tw/us/Farric_Lynx_Alpha"
+    }
+  },
+  "Farric_Chieftain": {
+    "tw": {
+      "name": "費爾羅酋長",
+      "url": "https://poedb.tw/tw/Farric_Chieftain"
+    },
+    "us": {
+      "name": "Farric Chieftain",
+      "url": "https://poedb.tw/us/Farric_Chieftain"
+    }
+  },
+  "Farric_Ape": {
+    "tw": { "name": "費爾羅狂猿", "url": "https://poedb.tw/tw/Farric_Ape" },
+    "us": { "name": "Farric Ape", "url": "https://poedb.tw/us/Farric_Ape" }
+  },
+  "Farric_Goatman": {
+    "tw": { "name": "費爾羅羊人", "url": "https://poedb.tw/tw/Farric_Goatman" },
+    "us": {
+      "name": "Farric Goatman",
+      "url": "https://poedb.tw/us/Farric_Goatman"
+    }
+  },
+  "Farric_Wolf_Alpha": {
+    "tw": {
+      "name": "費爾羅惡狼幻獸",
+      "url": "https://poedb.tw/tw/Farric_Wolf_Alpha"
+    },
+    "us": {
+      "name": "Farric Wolf Alpha",
+      "url": "https://poedb.tw/us/Farric_Wolf_Alpha"
+    }
+  },
+  "Farric_Magma_Hound": {
+    "tw": {
+      "name": "費爾羅岩漿獵犬",
+      "url": "https://poedb.tw/tw/Farric_Magma_Hound"
+    },
+    "us": {
+      "name": "Farric Magma Hound",
+      "url": "https://poedb.tw/us/Farric_Magma_Hound"
+    }
+  },
+  "Farric_Pit_Hound": {
+    "tw": {
+      "name": "費爾羅坑穴獵犬",
+      "url": "https://poedb.tw/tw/Farric_Pit_Hound"
+    },
+    "us": {
+      "name": "Farric Pit Hound",
+      "url": "https://poedb.tw/us/Farric_Pit_Hound"
+    }
+  },
+  "Farric_Gargantuan": {
+    "tw": {
+      "name": "費爾羅巨人",
+      "url": "https://poedb.tw/tw/Farric_Gargantuan"
+    },
+    "us": {
+      "name": "Farric Gargantuan",
+      "url": "https://poedb.tw/us/Farric_Gargantuan"
+    }
+  },
+  "Farric_Ursa": {
+    "tw": { "name": "費爾羅暴熊", "url": "https://poedb.tw/tw/Farric_Ursa" },
+    "us": { "name": "Farric Ursa", "url": "https://poedb.tw/us/Farric_Ursa" }
+  },
+  "Farric_Taurus": {
+    "tw": {
+      "name": "費爾羅金牛人",
+      "url": "https://poedb.tw/tw/Farric_Taurus"
+    },
+    "us": {
+      "name": "Farric Taurus",
+      "url": "https://poedb.tw/us/Farric_Taurus"
+    }
+  },
+  "Farric_Goliath": {
+    "tw": { "name": "費爾羅巨獸", "url": "https://poedb.tw/tw/Farric_Goliath" },
+    "us": {
+      "name": "Farric Goliath",
+      "url": "https://poedb.tw/us/Farric_Goliath"
+    }
+  },
+  "Saqawine_Retch": {
+    "tw": {
+      "name": "斯卡沃反芻鳥",
+      "url": "https://poedb.tw/tw/Saqawine_Retch"
+    },
+    "us": {
+      "name": "Saqawine Retch",
+      "url": "https://poedb.tw/us/Saqawine_Retch"
+    }
+  },
+  "Saqawine_Vulture": {
+    "tw": {
+      "name": "斯卡沃禿鷹",
+      "url": "https://poedb.tw/tw/Saqawine_Vulture"
+    },
+    "us": {
+      "name": "Saqawine Vulture",
+      "url": "https://poedb.tw/us/Saqawine_Vulture"
+    }
+  },
+  "Saqawine_Rhex": {
+    "tw": { "name": "斯卡沃雛鳥", "url": "https://poedb.tw/tw/Saqawine_Rhex" },
+    "us": {
+      "name": "Saqawine Rhex",
+      "url": "https://poedb.tw/us/Saqawine_Rhex"
+    }
+  },
+  "Saqawine_Cobra": {
+    "tw": {
+      "name": "斯卡沃眼鏡蛇",
+      "url": "https://poedb.tw/tw/Saqawine_Cobra"
+    },
+    "us": {
+      "name": "Saqawine Cobra",
+      "url": "https://poedb.tw/us/Saqawine_Cobra"
+    }
+  },
+  "Saqawine_Blood_Viper": {
+    "tw": {
+      "name": "斯卡沃噬血毒蛇",
+      "url": "https://poedb.tw/tw/Saqawine_Blood_Viper"
+    },
+    "us": {
+      "name": "Saqawine Blood Viper",
+      "url": "https://poedb.tw/us/Saqawine_Blood_Viper"
+    }
+  },
+  "Saqawine_Chimeral": {
+    "tw": {
+      "name": "斯卡沃龍蜥",
+      "url": "https://poedb.tw/tw/Saqawine_Chimeral"
+    },
+    "us": {
+      "name": "Saqawine Chimeral",
+      "url": "https://poedb.tw/us/Saqawine_Chimeral"
+    }
+  },
+  "Fenumal_Queen": {
+    "tw": { "name": "菲恩絲女皇", "url": "https://poedb.tw/tw/Fenumal_Queen" },
+    "us": {
+      "name": "Fenumal Queen",
+      "url": "https://poedb.tw/us/Fenumal_Queen"
+    }
+  },
+  "Fenumal_Scrabbler": {
+    "tw": {
+      "name": "菲恩絲搗亂者",
+      "url": "https://poedb.tw/tw/Fenumal_Scrabbler"
+    },
+    "us": {
+      "name": "Fenumal Scrabbler",
+      "url": "https://poedb.tw/us/Fenumal_Scrabbler"
+    }
+  },
+  "Fenumal_Devourer": {
+    "tw": {
+      "name": "菲恩絲吞噬獸",
+      "url": "https://poedb.tw/tw/Fenumal_Devourer"
+    },
+    "us": {
+      "name": "Fenumal Devourer",
+      "url": "https://poedb.tw/us/Fenumal_Devourer"
+    }
+  },
+  "Fenumal_Plagued_Arachnid": {
+    "tw": {
+      "name": "菲恩絲疫病蜘蛛",
+      "url": "https://poedb.tw/tw/Fenumal_Plagued_Arachnid"
+    },
+    "us": {
+      "name": "Fenumal Plagued Arachnid",
+      "url": "https://poedb.tw/us/Fenumal_Plagued_Arachnid"
+    }
+  },
+  "Fenumal_Hybrid_Arachnid": {
+    "tw": {
+      "name": "菲恩絲混血蜘蛛",
+      "url": "https://poedb.tw/tw/Fenumal_Hybrid_Arachnid"
+    },
+    "us": {
+      "name": "Fenumal Hybrid Arachnid",
+      "url": "https://poedb.tw/us/Fenumal_Hybrid_Arachnid"
+    }
+  },
+  "Fenumal_Widow": {
+    "tw": {
+      "name": "菲恩絲黑寡婦",
+      "url": "https://poedb.tw/tw/Fenumal_Widow"
+    },
+    "us": {
+      "name": "Fenumal Widow",
+      "url": "https://poedb.tw/us/Fenumal_Widow"
+    }
+  },
+  "Fenumal_Scorpion": {
+    "tw": {
+      "name": "菲恩絲毒蠍",
+      "url": "https://poedb.tw/tw/Fenumal_Scorpion"
+    },
+    "us": {
+      "name": "Fenumal Scorpion",
+      "url": "https://poedb.tw/us/Fenumal_Scorpion"
+    }
+  },
+  "Craicic_Vassal": {
+    "tw": { "name": "奎爾珊之奴", "url": "https://poedb.tw/tw/Craicic_Vassal" },
+    "us": {
+      "name": "Craicic Vassal",
+      "url": "https://poedb.tw/us/Craicic_Vassal"
+    }
+  },
+  "Craicic_Squid": {
+    "tw": { "name": "奎爾珊烏賊", "url": "https://poedb.tw/tw/Craicic_Squid" },
+    "us": {
+      "name": "Craicic Squid",
+      "url": "https://poedb.tw/us/Craicic_Squid"
+    }
+  },
+  "Craicic_Watcher": {
+    "tw": {
+      "name": "奎爾珊看守者",
+      "url": "https://poedb.tw/tw/Craicic_Watcher"
+    },
+    "us": {
+      "name": "Craicic Watcher",
+      "url": "https://poedb.tw/us/Craicic_Watcher"
+    }
+  },
+  "Craicic_Sand_Spitter": {
+    "tw": {
+      "name": "奎爾珊噴砂爪蟹",
+      "url": "https://poedb.tw/tw/Craicic_Sand_Spitter"
+    },
+    "us": {
+      "name": "Craicic Sand Spitter",
+      "url": "https://poedb.tw/us/Craicic_Sand_Spitter"
+    }
+  },
+  "Craicic_Shield_Crab": {
+    "tw": {
+      "name": "奎爾珊重盾巨蟹",
+      "url": "https://poedb.tw/tw/Craicic_Shield_Crab"
+    },
+    "us": {
+      "name": "Craicic Shield Crab",
+      "url": "https://poedb.tw/us/Craicic_Shield_Crab"
+    }
+  },
+  "Craicic_Savage_Crab": {
+    "tw": {
+      "name": "奎爾珊殘暴的蟹",
+      "url": "https://poedb.tw/tw/Craicic_Savage_Crab"
+    },
+    "us": {
+      "name": "Craicic Savage Crab",
+      "url": "https://poedb.tw/us/Craicic_Savage_Crab"
+    }
+  },
+  "Craicic_Spider_Crab": {
+    "tw": {
+      "name": "奎爾珊蛛蛛蟹",
+      "url": "https://poedb.tw/tw/Craicic_Spider_Crab"
+    },
+    "us": {
+      "name": "Craicic Spider Crab",
+      "url": "https://poedb.tw/us/Craicic_Spider_Crab"
+    }
+  },
+  "Craicic_Maw": {
+    "tw": { "name": "奎爾珊裂齒獸", "url": "https://poedb.tw/tw/Craicic_Maw" },
+    "us": { "name": "Craicic Maw", "url": "https://poedb.tw/us/Craicic_Maw" }
+  },
+  "Craicic_Chimeral": {
+    "tw": {
+      "name": "奎爾珊龍蜥",
+      "url": "https://poedb.tw/tw/Craicic_Chimeral"
+    },
+    "us": {
+      "name": "Craicic Chimeral",
+      "url": "https://poedb.tw/us/Craicic_Chimeral"
+    }
+  },
+  "Farrul%2C_First_of_the_Plains": {
+    "tw": {
+      "name": "初始之地費爾羅",
+      "url": "https://poedb.tw/tw/Farrul%2C_First_of_the_Plains"
+    },
+    "us": {
+      "name": "Farrul, First of the Plains",
+      "url": "https://poedb.tw/us/Farrul%2C_First_of_the_Plains"
+    }
+  },
+  "Saqawal%2C_First_of_the_Sky": {
+    "tw": {
+      "name": "初始之天斯卡沃",
+      "url": "https://poedb.tw/tw/Saqawal%2C_First_of_the_Sky"
+    },
+    "us": {
+      "name": "Saqawal, First of the Sky",
+      "url": "https://poedb.tw/us/Saqawal%2C_First_of_the_Sky"
+    }
+  },
+  "Fenumus%2C_First_of_the_Night": {
+    "tw": {
+      "name": "初始之夜菲恩絲",
+      "url": "https://poedb.tw/tw/Fenumus%2C_First_of_the_Night"
+    },
+    "us": {
+      "name": "Fenumus, First of the Night",
+      "url": "https://poedb.tw/us/Fenumus%2C_First_of_the_Night"
+    }
+  },
+  "Craiceann%2C_First_of_the_Deep": {
+    "tw": {
+      "name": "初始之潭奎爾珊",
+      "url": "https://poedb.tw/tw/Craiceann%2C_First_of_the_Deep"
+    },
+    "us": {
+      "name": "Craiceann, First of the Deep",
+      "url": "https://poedb.tw/us/Craiceann%2C_First_of_the_Deep"
+    }
+  },
+  "Oozeback_Bloom": {
+    "tw": { "name": "腐生恐喙", "url": "https://poedb.tw/tw/Oozeback_Bloom" },
+    "us": {
+      "name": "Oozeback Bloom",
+      "url": "https://poedb.tw/us/Oozeback_Bloom"
+    }
+  },
+  "Brood_Princess": {
+    "tw": { "name": "海蟲之母", "url": "https://poedb.tw/tw/Brood_Princess" },
+    "us": {
+      "name": "Brood Princess",
+      "url": "https://poedb.tw/us/Brood_Princess"
+    }
+  },
+  "The_Dweller_of_the_Deep": {
+    "tw": {
+      "name": "深淵巨蟹",
+      "url": "https://poedb.tw/tw/The_Dweller_of_the_Deep"
+    },
+    "us": {
+      "name": "The Dweller of the Deep",
+      "url": "https://poedb.tw/us/The_Dweller_of_the_Deep"
+    }
+  },
+  "The_Faun": {
+    "tw": { "name": "范恩", "url": "https://poedb.tw/tw/The_Faun" },
+    "us": { "name": "The Faun", "url": "https://poedb.tw/us/The_Faun" }
+  },
+  "Ungulath": {
+    "tw": { "name": "瓦古拉斯", "url": "https://poedb.tw/tw/Ungulath" },
+    "us": { "name": "Ungulath", "url": "https://poedb.tw/us/Ungulath" }
+  },
+  "The_Burning_Menace": {
+    "tw": { "name": "暴炎獸", "url": "https://poedb.tw/tw/The_Burning_Menace" },
+    "us": {
+      "name": "The Burning Menace",
+      "url": "https://poedb.tw/us/The_Burning_Menace"
+    }
+  },
+  "Ambrosia%2C_Daughter_of_Merveil": {
+    "tw": {
+      "name": "莫薇兒之女艾布蘿西雅",
+      "url": "https://poedb.tw/tw/Ambrosia%2C_Daughter_of_Merveil"
+    },
+    "us": {
+      "name": "Ambrosia, Daughter of Merveil",
+      "url": "https://poedb.tw/us/Ambrosia%2C_Daughter_of_Merveil"
+    }
+  },
+  "Amarissa%2C_Daughter_of_Merveil": {
+    "tw": {
+      "name": "莫薇兒之女艾瑪莉莎",
+      "url": "https://poedb.tw/tw/Amarissa%2C_Daughter_of_Merveil"
+    },
+    "us": {
+      "name": "Amarissa, Daughter of Merveil",
+      "url": "https://poedb.tw/us/Amarissa%2C_Daughter_of_Merveil"
+    }
+  },
+  "The_Great_White_Beast": {
+    "tw": {
+      "name": "白色巨獸",
+      "url": "https://poedb.tw/tw/The_Great_White_Beast"
+    },
+    "us": {
+      "name": "The Great White Beast",
+      "url": "https://poedb.tw/us/The_Great_White_Beast"
+    }
+  },
+  "Black_Death": {
+    "tw": { "name": "災疫之兆", "url": "https://poedb.tw/tw/Black_Death" },
+    "us": { "name": "Black Death", "url": "https://poedb.tw/us/Black_Death" }
+  },
+  "The_Weaver": {
+    "tw": { "name": "巨蛛之母", "url": "https://poedb.tw/tw/The_Weaver" },
+    "us": { "name": "The Weaver", "url": "https://poedb.tw/us/The_Weaver" }
+  },
+  "Nadia_the_Soothing": {
+    "tw": {
+      "name": "寂靜之夢娜迪雅",
+      "url": "https://poedb.tw/tw/Nadia_the_Soothing"
+    },
+    "us": {
+      "name": "Nadia the Soothing",
+      "url": "https://poedb.tw/us/Nadia_the_Soothing"
+    }
+  },
+  "Aidan_the_Frenzied": {
+    "tw": {
+      "name": "迅捷之影艾丹",
+      "url": "https://poedb.tw/tw/Aidan_the_Frenzied"
+    },
+    "us": {
+      "name": "Aidan the Frenzied",
+      "url": "https://poedb.tw/us/Aidan_the_Frenzied"
+    }
+  },
+  "Quru": {
+    "tw": { "name": "庫魯", "url": "https://poedb.tw/tw/Quru" },
+    "us": { "name": "Q'uru", "url": "https://poedb.tw/us/Quru" }
+  },
+  "Thistlesage": {
+    "tw": { "name": "蒺藜獸", "url": "https://poedb.tw/tw/Thistlesage" },
+    "us": { "name": "Thistlesage", "url": "https://poedb.tw/us/Thistlesage" }
+  },
+  "The_Conqueror_Wurm": {
+    "tw": {
+      "name": "烈戰之靈",
+      "url": "https://poedb.tw/tw/The_Conqueror_Wurm"
+    },
+    "us": {
+      "name": "The Conqueror Wurm",
+      "url": "https://poedb.tw/us/The_Conqueror_Wurm"
+    }
+  },
+  "Paradisae_Venenum": {
+    "tw": {
+      "name": "樂園珍蜥",
+      "url": "https://poedb.tw/tw/Paradisae_Venenum"
+    },
+    "us": {
+      "name": "Paradisae Venenum",
+      "url": "https://poedb.tw/us/Paradisae_Venenum"
+    }
+  },
+  "The_Hundred_Foot_Shadow": {
+    "tw": {
+      "name": "影百足",
+      "url": "https://poedb.tw/tw/The_Hundred_Foot_Shadow"
+    },
+    "us": {
+      "name": "The Hundred Foot Shadow",
+      "url": "https://poedb.tw/us/The_Hundred_Foot_Shadow"
+    }
+  },
+  "Eyepecker": {
+    "tw": { "name": "扎眼者", "url": "https://poedb.tw/tw/Eyepecker" },
+    "us": { "name": "Eyepecker", "url": "https://poedb.tw/us/Eyepecker" }
+  },
+  "Steelchaw": {
+    "tw": { "name": "鋼嚼", "url": "https://poedb.tw/tw/Steelchaw" },
+    "us": { "name": "Steelchaw", "url": "https://poedb.tw/us/Steelchaw" }
+  },
+  "Raihara%2C_Tukohamas_Loyal": {
+    "tw": {
+      "name": "圖克哈瑪的忠誠萊哈拉",
+      "url": "https://poedb.tw/tw/Raihara%2C_Tukohamas_Loyal"
+    },
+    "us": {
+      "name": "Raihara, Tukohama's Loyal",
+      "url": "https://poedb.tw/us/Raihara%2C_Tukohamas_Loyal"
+    }
+  },
+  "Hollowskull%2C_the_Willing_Host": {
+    "tw": {
+      "name": "虛空亡顱狂熱寄生獸",
+      "url": "https://poedb.tw/tw/Hollowskull%2C_the_Willing_Host"
+    },
+    "us": {
+      "name": "Hollowskull, the Willing Host",
+      "url": "https://poedb.tw/us/Hollowskull%2C_the_Willing_Host"
+    }
+  },
+  "The_Encephalophage": {
+    "tw": {
+      "name": "茵賽羅吉",
+      "url": "https://poedb.tw/tw/The_Encephalophage"
+    },
+    "us": {
+      "name": "The Encephalophage",
+      "url": "https://poedb.tw/us/The_Encephalophage"
+    }
+  },
+  "Brinecrack": {
+    "tw": { "name": "海洋裂隙", "url": "https://poedb.tw/tw/Brinecrack" },
+    "us": { "name": "Brinecrack", "url": "https://poedb.tw/us/Brinecrack" }
+  },
+  "The_Great_White_Bones": {
+    "tw": {
+      "name": "白色巨骸",
+      "url": "https://poedb.tw/tw/The_Great_White_Bones"
+    },
+    "us": {
+      "name": "The Great White Bones",
+      "url": "https://poedb.tw/us/The_Great_White_Bones"
+    }
+  },
+  "Tunnelworm": {
+    "tw": { "name": "地穴寄生獸", "url": "https://poedb.tw/tw/Tunnelworm" },
+    "us": { "name": "Tunnelworm", "url": "https://poedb.tw/us/Tunnelworm" }
+  },
+  "Boulderback": {
+    "tw": { "name": "礫石巨獸", "url": "https://poedb.tw/tw/Boulderback" },
+    "us": { "name": "Boulderback", "url": "https://poedb.tw/us/Boulderback" }
+  },
+  "The_Basilisk": {
+    "tw": { "name": "草莽巨蜥", "url": "https://poedb.tw/tw/The_Basilisk" },
+    "us": { "name": "The Basilisk", "url": "https://poedb.tw/us/The_Basilisk" }
+  },
+  "Marrowcrush": {
+    "tw": { "name": "噬髓巨獸", "url": "https://poedb.tw/tw/Marrowcrush" },
+    "us": { "name": "Marrowcrush", "url": "https://poedb.tw/us/Marrowcrush" }
+  },
+  "The_Cadaver_Bull": {
+    "tw": { "name": "狩心之喙", "url": "https://poedb.tw/tw/The_Cadaver_Bull" },
+    "us": {
+      "name": "The Cadaver Bull",
+      "url": "https://poedb.tw/us/The_Cadaver_Bull"
+    }
+  },
+  "Junglemare": {
+    "tw": { "name": "叢林夢魘", "url": "https://poedb.tw/tw/Junglemare" },
+    "us": { "name": "Junglemare", "url": "https://poedb.tw/us/Junglemare" }
+  },
+  "Blood_Stasis_": {
+    "tw": { "name": "冷血之靈 ", "url": "https://poedb.tw/tw/Blood_Stasis_" },
+    "us": {
+      "name": "Blood Stasis ",
+      "url": "https://poedb.tw/us/Blood_Stasis_"
+    }
+  },
+  "Blood_Morpher": {
+    "tw": { "name": "化血之靈 ", "url": "https://poedb.tw/tw/Blood_Morpher" },
+    "us": {
+      "name": "Blood Morpher",
+      "url": "https://poedb.tw/us/Blood_Morpher"
+    }
+  },
+  "Spinesnap": {
+    "tw": { "name": "獵脊者", "url": "https://poedb.tw/tw/Spinesnap" },
+    "us": { "name": "Spinesnap", "url": "https://poedb.tw/us/Spinesnap" }
+  },
+  "Genesis_Paradisae": {
+    "tw": {
+      "name": "創世聖靈",
+      "url": "https://poedb.tw/tw/Genesis_Paradisae"
+    },
+    "us": {
+      "name": "Genesis Paradisae",
+      "url": "https://poedb.tw/us/Genesis_Paradisae"
+    }
+  },
+  "Death_from_Above": {
+    "tw": { "name": "致命之蹄", "url": "https://poedb.tw/tw/Death_from_Above" },
+    "us": {
+      "name": "Death from Above",
+      "url": "https://poedb.tw/us/Death_from_Above"
+    }
+  },
+  "Guardian_of_the_Mound": {
+    "tw": {
+      "name": "聖丘之靈",
+      "url": "https://poedb.tw/tw/Guardian_of_the_Mound"
+    },
+    "us": {
+      "name": "Guardian of the Mound",
+      "url": "https://poedb.tw/us/Guardian_of_the_Mound"
+    }
+  },
+  "Alpha_Paradisae": {
+    "tw": { "name": "聖域元靈", "url": "https://poedb.tw/tw/Alpha_Paradisae" },
+    "us": {
+      "name": "Alpha Paradisae",
+      "url": "https://poedb.tw/us/Alpha_Paradisae"
+    }
+  },
+  "Mother_of_the_Swarm": {
+    "tw": {
+      "name": "腐敗之源",
+      "url": "https://poedb.tw/tw/Mother_of_the_Swarm"
+    },
+    "us": {
+      "name": "Mother of the Swarm",
+      "url": "https://poedb.tw/us/Mother_of_the_Swarm"
+    }
+  },
+  "Deathflutter": {
+    "tw": { "name": "覆滅之記", "url": "https://poedb.tw/tw/Deathflutter" },
+    "us": { "name": "Deathflutter", "url": "https://poedb.tw/us/Deathflutter" }
+  },
+  "Wrigglechaw": {
+    "tw": { "name": "殘酷尖牙", "url": "https://poedb.tw/tw/Wrigglechaw" },
+    "us": { "name": "Wrigglechaw", "url": "https://poedb.tw/us/Wrigglechaw" }
+  },
+  "Blinkflame": {
+    "tw": { "name": "海濱之炎", "url": "https://poedb.tw/tw/Blinkflame" },
+    "us": { "name": "Blinkflame", "url": "https://poedb.tw/us/Blinkflame" }
+  },
+  "The_Duchess": {
+    "tw": { "name": "海潮之音", "url": "https://poedb.tw/tw/The_Duchess" },
+    "us": { "name": "The Duchess", "url": "https://poedb.tw/us/The_Duchess" }
+  },
+  "Shivershell": {
+    "tw": { "name": "顫殼獸", "url": "https://poedb.tw/tw/Shivershell" },
+    "us": { "name": "Shivershell", "url": "https://poedb.tw/us/Shivershell" }
+  },
+  "Razorleaf": {
+    "tw": { "name": "刃牙之鱗", "url": "https://poedb.tw/tw/Razorleaf" },
+    "us": { "name": "Razorleaf", "url": "https://poedb.tw/us/Razorleaf" }
+  },
+  "Stranglecreep": {
+    "tw": { "name": "邪語", "url": "https://poedb.tw/tw/Stranglecreep" },
+    "us": {
+      "name": "Stranglecreep",
+      "url": "https://poedb.tw/us/Stranglecreep"
+    }
+  },
+  "Pewterfang": {
+    "tw": { "name": "迷霧刃牙", "url": "https://poedb.tw/tw/Pewterfang" },
+    "us": { "name": "Pewterfang", "url": "https://poedb.tw/us/Pewterfang" }
+  },
+  "Bladeback_Guardian": {
+    "tw": { "name": "鋒背", "url": "https://poedb.tw/tw/Bladeback_Guardian" },
+    "us": {
+      "name": "Bladeback Guardian",
+      "url": "https://poedb.tw/us/Bladeback_Guardian"
+    }
+  },
+  "Strangledrift": {
+    "tw": { "name": "扼靈之眼", "url": "https://poedb.tw/tw/Strangledrift" },
+    "us": {
+      "name": "Strangledrift",
+      "url": "https://poedb.tw/us/Strangledrift"
+    }
+  },
+  "Ghostram": {
+    "tw": { "name": "冥府雷霆", "url": "https://poedb.tw/tw/Ghostram" },
+    "us": { "name": "Ghostram", "url": "https://poedb.tw/us/Ghostram" }
+  },
+  "Tyrannursus_Maximus": {
+    "tw": {
+      "name": "巨獸霸主",
+      "url": "https://poedb.tw/tw/Tyrannursus_Maximus"
+    },
+    "us": {
+      "name": "Tyrannursus Maximus",
+      "url": "https://poedb.tw/us/Tyrannursus_Maximus"
+    }
+  },
+  "Primal_Beast": {
+    "tw": { "name": "遠古野獸", "url": "https://poedb.tw/tw/Primal_Beast" },
+    "us": { "name": "Primal Beast", "url": "https://poedb.tw/us/Primal_Beast" }
+  },
+  "The_Alpha_Beast": {
+    "tw": { "name": "巨靈野獸", "url": "https://poedb.tw/tw/The_Alpha_Beast" },
+    "us": {
+      "name": "The Alpha Beast",
+      "url": "https://poedb.tw/us/The_Alpha_Beast"
+    }
+  },
+  "Aboriginal_Chieftain": {
+    "tw": {
+      "name": "元靈酋長",
+      "url": "https://poedb.tw/tw/Aboriginal_Chieftain"
+    },
+    "us": {
+      "name": "Aboriginal Chieftain",
+      "url": "https://poedb.tw/us/Aboriginal_Chieftain"
+    }
+  },
+  "Bestial_Maw": {
+    "tw": { "name": "狂野裂齒獸", "url": "https://poedb.tw/tw/Bestial_Maw" },
+    "us": { "name": "Bestial Maw", "url": "https://poedb.tw/us/Bestial_Maw" }
+  },
+  "Blue_Frog": {
+    "tw": { "name": "藍蛙", "url": "https://poedb.tw/tw/Blue_Frog" },
+    "us": { "name": "Blue Frog", "url": "https://poedb.tw/us/Blue_Frog" }
+  },
+  "Common_Frog": {
+    "tw": { "name": "一般的蛙", "url": "https://poedb.tw/tw/Common_Frog" },
+    "us": { "name": "Common Frog", "url": "https://poedb.tw/us/Common_Frog" }
+  },
+  "Strange_Frog": {
+    "tw": { "name": "畸異之蛙", "url": "https://poedb.tw/tw/Strange_Frog" },
+    "us": { "name": "Strange Frog", "url": "https://poedb.tw/us/Strange_Frog" }
+  },
+  "Wild_Chimeral": {
+    "tw": { "name": "野生龍蜥", "url": "https://poedb.tw/tw/Wild_Chimeral" },
+    "us": {
+      "name": "Wild Chimeral",
+      "url": "https://poedb.tw/us/Wild_Chimeral"
+    }
+  },
+  "Nightmarish_Crawler": {
+    "tw": {
+      "name": "夢魘食腐蟲",
+      "url": "https://poedb.tw/tw/Nightmarish_Crawler"
+    },
+    "us": {
+      "name": "Nightmarish Crawler",
+      "url": "https://poedb.tw/us/Nightmarish_Crawler"
+    }
+  },
+  "Nightmarish_Carrion": {
+    "tw": {
+      "name": "夢魘食腐蟲后",
+      "url": "https://poedb.tw/tw/Nightmarish_Carrion"
+    },
+    "us": {
+      "name": "Nightmarish Carrion",
+      "url": "https://poedb.tw/us/Nightmarish_Carrion"
+    }
+  },
+  "Primitive_Ape": {
+    "tw": { "name": "靈猿之首", "url": "https://poedb.tw/tw/Primitive_Ape" },
+    "us": {
+      "name": "Primitive Ape",
+      "url": "https://poedb.tw/us/Primitive_Ape"
+    }
+  },
+  "Echo_of_the_Verdant": {
+    "tw": {
+      "name": "自然之回音",
+      "url": "https://poedb.tw/tw/Echo_of_the_Verdant"
+    },
+    "us": {
+      "name": "Echo of the Verdant",
+      "url": "https://poedb.tw/us/Echo_of_the_Verdant"
+    }
+  },
+  "Lola%2C_the_Fierce": {
+    "tw": {
+      "name": "暴徒羅拉",
+      "url": "https://poedb.tw/tw/Lola%2C_the_Fierce"
+    },
+    "us": {
+      "name": "Lola, the Fierce",
+      "url": "https://poedb.tw/us/Lola%2C_the_Fierce"
+    }
+  },
+  "Rocco%2C_the_Bloodthirsty": {
+    "tw": {
+      "name": "嗜殺者洛柯",
+      "url": "https://poedb.tw/tw/Rocco%2C_the_Bloodthirsty"
+    },
+    "us": {
+      "name": "Rocco, the Bloodthirsty",
+      "url": "https://poedb.tw/us/Rocco%2C_the_Bloodthirsty"
+    }
+  },
+  "Ventarus": {
+    "tw": { "name": "汎塔魯斯", "url": "https://poedb.tw/tw/Ventarus" },
+    "us": { "name": "Ventarus", "url": "https://poedb.tw/us/Ventarus" }
+  },
+  "Primordial_Rhoa": {
+    "tw": {
+      "name": "始祖恐喙鳥",
+      "url": "https://poedb.tw/tw/Primordial_Rhoa"
+    },
+    "us": {
+      "name": "Primordial Rhoa",
+      "url": "https://poedb.tw/us/Primordial_Rhoa"
+    }
+  },
+  "Mystic_Devourer": {
+    "tw": {
+      "name": "秘術吞噬獸",
+      "url": "https://poedb.tw/tw/Mystic_Devourer"
+    },
+    "us": {
+      "name": "Mystic Devourer",
+      "url": "https://poedb.tw/us/Mystic_Devourer"
+    }
+  },
+  "Ancient_Devourer": {
+    "tw": {
+      "name": "遠古吞噬獸",
+      "url": "https://poedb.tw/tw/Ancient_Devourer"
+    },
+    "us": {
+      "name": "Ancient Devourer",
+      "url": "https://poedb.tw/us/Ancient_Devourer"
+    }
+  },
+  "Fossil_Eater": {
+    "tw": { "name": "食骸蟹", "url": "https://poedb.tw/tw/Fossil_Eater" },
+    "us": { "name": "Fossil Eater", "url": "https://poedb.tw/us/Fossil_Eater" }
+  },
+  "Tamipin": {
+    "tw": { "name": "坦秘賓", "url": "https://poedb.tw/tw/Tamipin" },
+    "us": { "name": "Tamipin", "url": "https://poedb.tw/us/Tamipin" }
+  },
+  "Tamulus": {
+    "tw": { "name": "坦莫勒斯", "url": "https://poedb.tw/tw/Tamulus" },
+    "us": { "name": "Tamulus", "url": "https://poedb.tw/us/Tamulus" }
+  },
+  "Fated_Siren": {
+    "tw": { "name": "宿命海妖", "url": "https://poedb.tw/tw/Fated_Siren" },
+    "us": { "name": "Fated Siren", "url": "https://poedb.tw/us/Fated_Siren" }
+  },
+  "Maze_Slitherer": {
+    "tw": { "name": "迷宮滑行者", "url": "https://poedb.tw/tw/Maze_Slitherer" },
+    "us": {
+      "name": "Maze Slitherer",
+      "url": "https://poedb.tw/us/Maze_Slitherer"
+    }
+  },
+  "Foreseen_Spawn": {
+    "tw": { "name": "先知蟲卵", "url": "https://poedb.tw/tw/Foreseen_Spawn" },
+    "us": {
+      "name": "Foreseen Spawn",
+      "url": "https://poedb.tw/us/Foreseen_Spawn"
+    }
+  },
+  "Maze_Webspinner": {
+    "tw": {
+      "name": "迷宮織網者",
+      "url": "https://poedb.tw/tw/Maze_Webspinner"
+    },
+    "us": {
+      "name": "Maze Webspinner",
+      "url": "https://poedb.tw/us/Maze_Webspinner"
+    }
+  },
+  "Maze_Hatchling": {
+    "tw": { "name": "迷宮孵卵者", "url": "https://poedb.tw/tw/Maze_Hatchling" },
+    "us": {
+      "name": "Maze Hatchling",
+      "url": "https://poedb.tw/us/Maze_Hatchling"
+    }
+  },
+  "Maze_Needleback": {
+    "tw": { "name": "迷宮刺蝟", "url": "https://poedb.tw/tw/Maze_Needleback" },
+    "us": {
+      "name": "Maze Needleback",
+      "url": "https://poedb.tw/us/Maze_Needleback"
+    }
+  },
+  "Spirit_of_Aidan": {
+    "tw": { "name": "艾丹之靈", "url": "https://poedb.tw/tw/Spirit_of_Aidan" },
+    "us": {
+      "name": "Spirit of Aidan",
+      "url": "https://poedb.tw/us/Spirit_of_Aidan"
+    }
+  },
+  "Spirit_of_Nadia": {
+    "tw": {
+      "name": "娜迪雅之靈",
+      "url": "https://poedb.tw/tw/Spirit_of_Nadia"
+    },
+    "us": {
+      "name": "Spirit of Nadia",
+      "url": "https://poedb.tw/us/Spirit_of_Nadia"
+    }
+  },
+  "Balah%2C_Duke": {
+    "tw": { "name": "瓦拉公爵", "url": "https://poedb.tw/tw/Balah%2C_Duke" },
+    "us": { "name": "Balah, Duke", "url": "https://poedb.tw/us/Balah%2C_Duke" }
+  },
+  "Mutewind_Lynx": {
+    "tw": { "name": "啞風山貓", "url": "https://poedb.tw/tw/Mutewind_Lynx" },
+    "us": {
+      "name": "Mutewind Lynx",
+      "url": "https://poedb.tw/us/Mutewind_Lynx"
+    }
+  },
+  "Mother_of_the_Hive": {
+    "tw": {
+      "name": "蟹巢之母",
+      "url": "https://poedb.tw/tw/Mother_of_the_Hive"
+    },
+    "us": {
+      "name": "Mother of the Hive",
+      "url": "https://poedb.tw/us/Mother_of_the_Hive"
+    }
+  },
+  "The_All-seeing_Eye": {
+    "tw": {
+      "name": "全知之眼",
+      "url": "https://poedb.tw/tw/The_All-seeing_Eye"
+    },
+    "us": {
+      "name": "The All-seeing Eye",
+      "url": "https://poedb.tw/us/The_All-seeing_Eye"
+    }
+  },
+  "Konu%2C_Maker_of_Wind": {
+    "tw": {
+      "name": "勁風之主寇努",
+      "url": "https://poedb.tw/tw/Konu%2C_Maker_of_Wind"
+    },
+    "us": {
+      "name": "Konu, Maker of Wind",
+      "url": "https://poedb.tw/us/Konu%2C_Maker_of_Wind"
+    }
+  },
+  "Sheaq%2C_Maker_of_Floods": {
+    "tw": {
+      "name": "巨潮之主謝克",
+      "url": "https://poedb.tw/tw/Sheaq%2C_Maker_of_Floods"
+    },
+    "us": {
+      "name": "Sheaq, Maker of Floods",
+      "url": "https://poedb.tw/us/Sheaq%2C_Maker_of_Floods"
+    }
+  },
+  "Kamaq%2C_Soilmaker": {
+    "tw": {
+      "name": "造地者卡馬克",
+      "url": "https://poedb.tw/tw/Kamaq%2C_Soilmaker"
+    },
+    "us": {
+      "name": "Kamaq, Soilmaker",
+      "url": "https://poedb.tw/us/Kamaq%2C_Soilmaker"
+    }
+  },
+  "Simi%2C_the_Nature_Touched": {
+    "tw": {
+      "name": "自然之聲希密",
+      "url": "https://poedb.tw/tw/Simi%2C_the_Nature_Touched"
+    },
+    "us": {
+      "name": "Simi, the Nature Touched",
+      "url": "https://poedb.tw/us/Simi%2C_the_Nature_Touched"
+    }
+  },
+  "Cintiq%2C_the_Inescapable": {
+    "tw": {
+      "name": "索命者辛提庫",
+      "url": "https://poedb.tw/tw/Cintiq%2C_the_Inescapable"
+    },
+    "us": {
+      "name": "Cintiq, the Inescapable",
+      "url": "https://poedb.tw/us/Cintiq%2C_the_Inescapable"
+    }
+  },
+  "Thornrunner": {
+    "tw": { "name": "針鱗", "url": "https://poedb.tw/tw/Thornrunner" },
+    "us": { "name": "Thornrunner", "url": "https://poedb.tw/us/Thornrunner" }
+  },
+  "The_Sunburst_Queen": {
+    "tw": {
+      "name": "日炎蟲后",
+      "url": "https://poedb.tw/tw/The_Sunburst_Queen"
+    },
+    "us": {
+      "name": "The Sunburst Queen",
+      "url": "https://poedb.tw/us/The_Sunburst_Queen"
+    }
+  },
+  "Rima%2C_Deep_Temptress": {
+    "tw": {
+      "name": "深淵魅影莉瑪",
+      "url": "https://poedb.tw/tw/Rima%2C_Deep_Temptress"
+    },
+    "us": {
+      "name": "Rima, Deep Temptress",
+      "url": "https://poedb.tw/us/Rima%2C_Deep_Temptress"
+    }
+  },
+  "Inti_of_the_Blood_Moon": {
+    "tw": {
+      "name": "血月之靈印提",
+      "url": "https://poedb.tw/tw/Inti_of_the_Blood_Moon"
+    },
+    "us": {
+      "name": "Inti of the Blood Moon",
+      "url": "https://poedb.tw/us/Inti_of_the_Blood_Moon"
+    }
+  },
+  "Quetzerxi": {
+    "tw": { "name": "侉澤西", "url": "https://poedb.tw/tw/Quetzerxi" },
+    "us": { "name": "Quetzerxi", "url": "https://poedb.tw/us/Quetzerxi" }
+  },
+  "Mutated_Chieftain": {
+    "tw": {
+      "name": "突變的酋長",
+      "url": "https://poedb.tw/tw/Mutated_Chieftain"
+    },
+    "us": {
+      "name": "Mutated Chieftain",
+      "url": "https://poedb.tw/us/Mutated_Chieftain"
+    }
+  },
+  "Crazed_Chieftain": {
+    "tw": {
+      "name": "瘋狂的酋長",
+      "url": "https://poedb.tw/tw/Crazed_Chieftain"
+    },
+    "us": {
+      "name": "Crazed Chieftain",
+      "url": "https://poedb.tw/us/Crazed_Chieftain"
+    }
+  },
+  "Infected_Ambusher": {
+    "tw": {
+      "name": "受感染的伏擊者",
+      "url": "https://poedb.tw/tw/Infected_Ambusher"
+    },
+    "us": {
+      "name": "Infected Ambusher",
+      "url": "https://poedb.tw/us/Infected_Ambusher"
+    }
+  },
+  "Mutated_Ursa": {
+    "tw": { "name": "墮落幼爪", "url": "https://poedb.tw/tw/Mutated_Ursa" },
+    "us": { "name": "Mutated Ursa", "url": "https://poedb.tw/us/Mutated_Ursa" }
+  },
+  "Rabid_Maw": {
+    "tw": { "name": "瘋狂的裂齒獸", "url": "https://poedb.tw/tw/Rabid_Maw" },
+    "us": { "name": "Rabid Maw", "url": "https://poedb.tw/us/Rabid_Maw" }
+  },
+  "Mutated_Maw": {
+    "tw": { "name": "突變的裂齒獸", "url": "https://poedb.tw/tw/Mutated_Maw" },
+    "us": { "name": "Mutated Maw", "url": "https://poedb.tw/us/Mutated_Maw" }
+  },
+  "Mutated_Croaker": {
+    "tw": {
+      "name": "突變的異蛙",
+      "url": "https://poedb.tw/tw/Mutated_Croaker"
+    },
+    "us": {
+      "name": "Mutated Croaker",
+      "url": "https://poedb.tw/us/Mutated_Croaker"
+    }
+  },
+  "Putrid_Chimeral": {
+    "tw": {
+      "name": "腐爛的龍蜥",
+      "url": "https://poedb.tw/tw/Putrid_Chimeral"
+    },
+    "us": {
+      "name": "Putrid Chimeral",
+      "url": "https://poedb.tw/us/Putrid_Chimeral"
+    }
+  },
+  "Twisted_Chimeral": {
+    "tw": {
+      "name": "扭曲的龍蜥",
+      "url": "https://poedb.tw/tw/Twisted_Chimeral"
+    },
+    "us": {
+      "name": "Twisted Chimeral",
+      "url": "https://poedb.tw/us/Twisted_Chimeral"
+    }
+  },
+  "Rabid_Broodqueen": {
+    "tw": {
+      "name": "瘋狂的育雛女王",
+      "url": "https://poedb.tw/tw/Rabid_Broodqueen"
+    },
+    "us": {
+      "name": "Rabid Broodqueen",
+      "url": "https://poedb.tw/us/Rabid_Broodqueen"
+    }
+  },
+  "Mutated_Broodqueen": {
+    "tw": {
+      "name": "突變的育雛女王",
+      "url": "https://poedb.tw/tw/Mutated_Broodqueen"
+    },
+    "us": {
+      "name": "Mutated Broodqueen",
+      "url": "https://poedb.tw/us/Mutated_Broodqueen"
+    }
+  },
+  "Rabid_Minion": {
+    "tw": { "name": "瘋狂的僕從", "url": "https://poedb.tw/tw/Rabid_Minion" },
+    "us": { "name": "Rabid Minion", "url": "https://poedb.tw/us/Rabid_Minion" }
+  },
+  "Infected_Rhoa": {
+    "tw": {
+      "name": "受感染的恐喙鳥",
+      "url": "https://poedb.tw/tw/Infected_Rhoa"
+    },
+    "us": {
+      "name": "Infected Rhoa",
+      "url": "https://poedb.tw/us/Infected_Rhoa"
+    }
+  },
+  "Rabid_Rhoa": {
+    "tw": { "name": "瘋狂的恐喙鳥", "url": "https://poedb.tw/tw/Rabid_Rhoa" },
+    "us": { "name": "Rabid Rhoa", "url": "https://poedb.tw/us/Rabid_Rhoa" }
+  },
+  "Mutated_Rhoa": {
+    "tw": { "name": "突變的恐喙鳥", "url": "https://poedb.tw/tw/Mutated_Rhoa" },
+    "us": { "name": "Mutated Rhoa", "url": "https://poedb.tw/us/Mutated_Rhoa" }
+  },
+  "Fused_Crawler": {
+    "tw": { "name": "融合食腐蟲", "url": "https://poedb.tw/tw/Fused_Crawler" },
+    "us": {
+      "name": "Fused Crawler",
+      "url": "https://poedb.tw/us/Fused_Crawler"
+    }
+  },
+  "Mutated_Winterclaw": {
+    "tw": {
+      "name": "突變的霜爪",
+      "url": "https://poedb.tw/tw/Mutated_Winterclaw"
+    },
+    "us": {
+      "name": "Mutated Winterclaw",
+      "url": "https://poedb.tw/us/Mutated_Winterclaw"
+    }
+  },
+  "Mutated_Adder": {
+    "tw": { "name": "突變的毒蛇", "url": "https://poedb.tw/tw/Mutated_Adder" },
+    "us": {
+      "name": "Mutated Adder",
+      "url": "https://poedb.tw/us/Mutated_Adder"
+    }
+  },
+  "Infected_Adder": {
+    "tw": {
+      "name": "受感染的毒蛇",
+      "url": "https://poedb.tw/tw/Infected_Adder"
+    },
+    "us": {
+      "name": "Infected Adder",
+      "url": "https://poedb.tw/us/Infected_Adder"
+    }
+  },
+  "Putrid_Serpent": {
+    "tw": { "name": "腐爛的巨蛇", "url": "https://poedb.tw/tw/Putrid_Serpent" },
+    "us": {
+      "name": "Putrid Serpent",
+      "url": "https://poedb.tw/us/Putrid_Serpent"
+    }
+  },
+  "Mutated_Arachnid": {
+    "tw": {
+      "name": "突變的異蛛",
+      "url": "https://poedb.tw/tw/Mutated_Arachnid"
+    },
+    "us": {
+      "name": "Mutated Arachnid",
+      "url": "https://poedb.tw/us/Mutated_Arachnid"
+    }
+  },
+  "Putrid_Weaver": {
+    "tw": { "name": "腐爛的巨蛛", "url": "https://poedb.tw/tw/Putrid_Weaver" },
+    "us": {
+      "name": "Putrid Weaver",
+      "url": "https://poedb.tw/us/Putrid_Weaver"
+    }
+  },
+  "Sickly_Spinner": {
+    "tw": { "name": "疫病腐蛛", "url": "https://poedb.tw/tw/Sickly_Spinner" },
+    "us": {
+      "name": "Sickly Spinner",
+      "url": "https://poedb.tw/us/Sickly_Spinner"
+    }
+  },
+  "Infected_Spiker": {
+    "tw": {
+      "name": "受感染刺針獸",
+      "url": "https://poedb.tw/tw/Infected_Spiker"
+    },
+    "us": {
+      "name": "Infected Spiker",
+      "url": "https://poedb.tw/us/Infected_Spiker"
+    }
+  },
+  "Infected_Watcher": {
+    "tw": { "name": "染疫之眼", "url": "https://poedb.tw/tw/Infected_Watcher" },
+    "us": {
+      "name": "Infected Watcher",
+      "url": "https://poedb.tw/us/Infected_Watcher"
+    }
+  },
+  "Mutated_Watcher": {
+    "tw": {
+      "name": "突變的凝視者",
+      "url": "https://poedb.tw/tw/Mutated_Watcher"
+    },
+    "us": {
+      "name": "Mutated Watcher",
+      "url": "https://poedb.tw/us/Mutated_Watcher"
+    }
+  },
+  "Infected_Beast": {
+    "tw": {
+      "name": "受感染的野獸",
+      "url": "https://poedb.tw/tw/Infected_Beast"
+    },
+    "us": {
+      "name": "Infected Beast",
+      "url": "https://poedb.tw/us/Infected_Beast"
+    }
+  },
+  "Risen_Infested_Beast": {
+    "tw": {
+      "name": "復甦的受感染野獸",
+      "url": "https://poedb.tw/tw/Risen_Infested_Beast"
+    },
+    "us": {
+      "name": "Risen Infested Beast",
+      "url": "https://poedb.tw/us/Risen_Infested_Beast"
+    }
+  },
+  "Mutated_Flamebeast": {
+    "tw": {
+      "name": "突變的炎獸",
+      "url": "https://poedb.tw/tw/Mutated_Flamebeast"
+    },
+    "us": {
+      "name": "Mutated Flamebeast",
+      "url": "https://poedb.tw/us/Mutated_Flamebeast"
+    }
+  },
+  "Crazed_Flamebeast": {
+    "tw": {
+      "name": "瘋狂的炎獸",
+      "url": "https://poedb.tw/tw/Crazed_Flamebeast"
+    },
+    "us": {
+      "name": "Crazed Flamebeast",
+      "url": "https://poedb.tw/us/Crazed_Flamebeast"
+    }
+  },
+  "Bladetooth": {
+    "tw": { "name": "刃牙", "url": "https://poedb.tw/tw/Bladetooth" },
+    "us": { "name": "Bladetooth", "url": "https://poedb.tw/us/Bladetooth" }
+  },
+  "Cavestalker": {
+    "tw": { "name": "穴居者", "url": "https://poedb.tw/tw/Cavestalker" },
+    "us": { "name": "Cavestalker", "url": "https://poedb.tw/us/Cavestalker" }
+  },
+  "Azure_Shrieker": {
+    "tw": { "name": "碧藍尖嘯者", "url": "https://poedb.tw/tw/Azure_Shrieker" },
+    "us": {
+      "name": "Azure Shrieker",
+      "url": "https://poedb.tw/us/Azure_Shrieker"
+    }
+  },
+  "Charged_Shrieker": {
+    "tw": {
+      "name": "衝鋒尖嘯者",
+      "url": "https://poedb.tw/tw/Charged_Shrieker"
+    },
+    "us": {
+      "name": "Charged Shrieker",
+      "url": "https://poedb.tw/us/Charged_Shrieker"
+    }
+  },
+  "Azure_Ape": {
+    "tw": { "name": "藍猿", "url": "https://poedb.tw/tw/Azure_Ape" },
+    "us": { "name": "Azure Ape", "url": "https://poedb.tw/us/Azure_Ape" }
+  },
+  "Gorgol_Alpha": {
+    "tw": { "name": "原始戈爾枸", "url": "https://poedb.tw/tw/Gorgol_Alpha" },
+    "us": { "name": "Gorgol Alpha", "url": "https://poedb.tw/us/Gorgol_Alpha" }
+  },
+  "Cave_Weta": {
+    "tw": { "name": "穴蟀", "url": "https://poedb.tw/tw/Cave_Weta" },
+    "us": { "name": "Cave Weta", "url": "https://poedb.tw/us/Cave_Weta" }
+  },
+  "Unstable_Weta": {
+    "tw": { "name": "躁蟀", "url": "https://poedb.tw/tw/Unstable_Weta" },
+    "us": {
+      "name": "Unstable Weta",
+      "url": "https://poedb.tw/us/Unstable_Weta"
+    }
+  },
+  "Skitterling": {
+    "tw": { "name": "裂齒毒蛛", "url": "https://poedb.tw/tw/Skitterling" },
+    "us": { "name": "Skitterling", "url": "https://poedb.tw/us/Skitterling" }
+  },
+  "Azurite_Widow": {
+    "tw": { "name": "碧藍毒蛛", "url": "https://poedb.tw/tw/Azurite_Widow" },
+    "us": {
+      "name": "Azurite Widow",
+      "url": "https://poedb.tw/us/Azurite_Widow"
+    }
+  },
+  "Wild_Bristle_Matron": {
+    "tw": {
+      "name": "野性之毛刺看守獸",
+      "url": "https://poedb.tw/tw/Wild_Bristle_Matron"
+    },
+    "us": {
+      "name": "Wild Bristle Matron",
+      "url": "https://poedb.tw/us/Wild_Bristle_Matron"
+    }
+  },
+  "Wild_Hellion_Alpha": {
+    "tw": {
+      "name": "野性之地獄犬幻獸",
+      "url": "https://poedb.tw/tw/Wild_Hellion_Alpha"
+    },
+    "us": {
+      "name": "Wild Hellion Alpha",
+      "url": "https://poedb.tw/us/Wild_Hellion_Alpha"
+    }
+  },
+  "Wild_Brambleback": {
+    "tw": {
+      "name": "野性之叢林巨獸",
+      "url": "https://poedb.tw/tw/Wild_Brambleback"
+    },
+    "us": {
+      "name": "Wild Brambleback",
+      "url": "https://poedb.tw/us/Wild_Brambleback"
+    }
+  },
+  "Vivid_Watcher": {
+    "tw": {
+      "name": "靈現之看守者",
+      "url": "https://poedb.tw/tw/Vivid_Watcher"
+    },
+    "us": {
+      "name": "Vivid Watcher",
+      "url": "https://poedb.tw/us/Vivid_Watcher"
+    }
+  },
+  "Vivid_Vulture": {
+    "tw": { "name": "靈現之禿鷹", "url": "https://poedb.tw/tw/Vivid_Vulture" },
+    "us": {
+      "name": "Vivid Vulture",
+      "url": "https://poedb.tw/us/Vivid_Vulture"
+    }
+  },
+  "Vivid_Abberarach": {
+    "tw": {
+      "name": "靈現之艾伯拉赫",
+      "url": "https://poedb.tw/tw/Vivid_Abberarach"
+    },
+    "us": {
+      "name": "Vivid Abberarach",
+      "url": "https://poedb.tw/us/Vivid_Abberarach"
+    }
+  },
+  "Primal_Rhex_Matriarch": {
+    "tw": {
+      "name": "原始之野雛女酋",
+      "url": "https://poedb.tw/tw/Primal_Rhex_Matriarch"
+    },
+    "us": {
+      "name": "Primal Rhex Matriarch",
+      "url": "https://poedb.tw/us/Primal_Rhex_Matriarch"
+    }
+  },
+  "Primal_Crushclaw": {
+    "tw": {
+      "name": "原始之粉碎之爪",
+      "url": "https://poedb.tw/tw/Primal_Crushclaw"
+    },
+    "us": {
+      "name": "Primal Crushclaw",
+      "url": "https://poedb.tw/us/Primal_Crushclaw"
+    }
+  },
+  "Primal_Cystcaller": {
+    "tw": {
+      "name": "原始之羊人",
+      "url": "https://poedb.tw/tw/Primal_Cystcaller"
+    },
+    "us": {
+      "name": "Primal Cystcaller",
+      "url": "https://poedb.tw/us/Primal_Cystcaller"
+    }
+  },
+  "Black_M%C3%B3rrigan": {
+    "tw": {
+      "name": "黑色莫里根",
+      "url": "https://poedb.tw/tw/Black_M%C3%B3rrigan"
+    },
+    "us": {
+      "name": "Black Mórrigan",
+      "url": "https://poedb.tw/us/Black_M%C3%B3rrigan"
+    }
+  },
+  "Farric_Hound_Alpha": {
+    "tw": {
+      "name": "費爾羅獵犬幻獸",
+      "url": "https://poedb.tw/tw/Farric_Hound_Alpha"
+    },
+    "us": {
+      "name": "Farric Hound Alpha",
+      "url": "https://poedb.tw/us/Farric_Hound_Alpha"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_chance_to_block_attack": {
+    "tw": {
+      "name": "2% 法術傷害格擋率",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_chance_to_block"
+    },
+    "us": {
+      "name": "2% Chance to Block Spell Damage",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_chance_to_block"
+    }
+  },
+  "Small_Cluster_Jewel_affliction_chance_to_block_spell": {
+    "tw": {
+      "name": "2% 法術傷害格擋率",
+      "url": "https://poedb.tw/tw/Small_Cluster_Jewel_affliction_chance_to_block"
+    },
+    "us": {
+      "name": "2% Chance to Block Spell Damage",
+      "url": "https://poedb.tw/us/Small_Cluster_Jewel_affliction_chance_to_block"
+    }
+  }
+}
