@@ -230,38 +230,7 @@ function createMainObservers(observerNode) {
           if (misc) {
             const originText = textNode.nodeValue;
             textNode.nodeValue = misc.name_zh_tw;
-            const copyButtonBaseDiv = textNode.parentNode.closest(
-              "main table tr td:first-child div"
-            );
-            if (copyButtonBaseDiv) {
-              const div = document.createElement("div");
-              div.classList = "flex items-center";
-              const button = document.createElement("div");
-              button.classList = "button";
-              button.setAttribute("data-variant", "round");
-              button.setAttribute("data-size", "small");
-              button.setAttribute("data-copyText", textNode.nodeValue);
-              button.innerText = "複製";
-
-              button.onclick = function () {
-                const copyText = this.getAttribute("data-copyText");
-
-                // 使用 Clipboard API 進行複製
-                navigator.clipboard
-                  .writeText(copyText)
-                  .then(function () {
-                    // console.log("複製成功:", copyText);
-                    // 你可以在這裡顯示提示，例如 "複製成功"
-                  })
-                  .catch(function (err) {
-                    // console.error("複製失敗:", err);
-                    // 處理複製失敗的情況
-                  });
-              };
-              div.appendChild(button);
-              copyButtonBaseDiv.append(div);
-            }
-
+            createCopyButton(textNode, textNode.nodeValue);
             return;
           }
 
@@ -283,6 +252,7 @@ function createMainObservers(observerNode) {
               const misc = languageData["misc"][hash];
               if (misc) {
                 textNode.nodeValue = `${prefix.tw} ${misc.name_zh_tw}`;
+                createCopyButton(textNode, textNode.nodeValue);
               }
               break;
             }
@@ -369,4 +339,45 @@ function createTippyObservers(observerNode) {
     childList: true,
     subtree: true,
   });
+}
+
+function createCopyButton(textNode, copyValue) {
+  const copyButtonBaseDiv = textNode.parentNode.closest(
+    "main table tr td:first-child div"
+  );
+  if (!copyButtonBaseDiv) {
+    return;
+  }
+
+  const copyButton = copyButtonBaseDiv.querySelector(".copy-button");
+  if (copyButton) {
+    return;
+  }
+
+  const div = document.createElement("div");
+  div.classList = "flex items-center copy-button";
+  const button = document.createElement("div");
+  button.classList = "button";
+  button.setAttribute("data-variant", "round");
+  button.setAttribute("data-size", "small");
+  button.setAttribute("data-copyText", copyValue);
+  button.innerText = "複製";
+
+  button.onclick = function () {
+    const copyText = this.getAttribute("data-copyText");
+
+    // 使用 Clipboard API 進行複製
+    navigator.clipboard
+      .writeText(copyText)
+      .then(function () {
+        // console.log("複製成功:", copyText);
+        // 你可以在這裡顯示提示，例如 "複製成功"
+      })
+      .catch(function (err) {
+        // console.error("複製失敗:", err);
+        // 處理複製失敗的情況
+      });
+  };
+  div.appendChild(button);
+  copyButtonBaseDiv.append(div);
 }
